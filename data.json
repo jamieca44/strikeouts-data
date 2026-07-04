@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "lastUpdatedNews": "2026-07-03T06:36:42.461Z",
-  "lastUpdatedRosterStats": "2026-07-03T06:36:42.461Z",
+  "lastUpdatedRosterStats": "2026-07-04T01:30:49Z",
   "players": [
     {
       "name": "Dillon Dingler",
@@ -12,40 +12,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
         "hab": "2/5",
-        "r": "1",
+        "r": "0",
         "hr": "0",
         "rbi": "0",
         "sb": "0",
-        "k": "0",
+        "k": "2",
         "tb": "3",
         "obp": ".400"
       },
       "lastWeekStats": {
-        "rank": "300",
+        "rank": "491",
         "type": "batting",
-        "hab": "7/27",
-        "r": "5",
-        "hr": "1",
-        "rbi": "3",
+        "hab": "8/29",
+        "r": "4",
+        "hr": "0",
+        "rbi": "2",
         "sb": "0",
         "k": "7",
-        "tb": "13",
-        "obp": ".276"
+        "tb": "12",
+        "obp": ".267"
       },
       "lastMonthStats": {
-        "rank": "31",
+        "rank": "27",
         "type": "batting",
-        "hab": "33/105",
+        "hab": "35/106",
         "r": "19",
         "hr": "6",
-        "rbi": "21",
+        "rbi": "20",
         "sb": "0",
-        "k": "24",
-        "tb": "61",
-        "obp": ".336"
+        "k": "26",
+        "tb": "64",
+        "obp": ".354"
       },
       "yahooNews": [
         {
@@ -121,40 +121,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "1/4",
-        "r": "1",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "2",
-        "tb": "2",
-        "obp": ".400"
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "708",
+        "rank": "621",
         "type": "batting",
-        "hab": "4/25",
+        "hab": "4/21",
         "r": "2",
         "hr": "0",
         "rbi": "2",
         "sb": "0",
-        "k": "6",
+        "k": "4",
         "tb": "5",
-        "obp": ".192"
+        "obp": ".227"
       },
       "lastMonthStats": {
-        "rank": "641",
+        "rank": "655",
         "type": "batting",
-        "hab": "19/95",
+        "hab": "18/91",
         "r": "11",
         "hr": "1",
         "rbi": "10",
         "sb": "1",
         "k": "14",
-        "tb": "26",
-        "obp": ".243"
+        "tb": "24",
+        "obp": ".242"
       },
       "yahooNews": [
         {
@@ -211,19 +211,19 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "1/4",
-        "r": "1",
-        "hr": "0",
-        "rbi": "2",
-        "sb": "0",
-        "k": "0",
-        "tb": "1",
-        "obp": ".250"
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "6",
+        "rank": "7",
         "type": "batting",
         "hab": "10/21",
         "r": "5",
@@ -235,16 +235,16 @@
         "obp": ".500"
       },
       "lastMonthStats": {
-        "rank": "2",
+        "rank": "3",
         "type": "batting",
-        "hab": "27/86",
+        "hab": "26/82",
         "r": "18",
         "hr": "11",
-        "rbi": "29",
+        "rbi": "28",
         "sb": "0",
-        "k": "13",
-        "tb": "67",
-        "obp": ".352"
+        "k": "12",
+        "tb": "64",
+        "obp": ".356"
       },
       "yahooNews": [
         {
@@ -296,19 +296,19 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "0/4",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "1",
-        "k": "2",
-        "tb": "0",
-        "obp": ".200"
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "301",
+        "rank": "327",
         "type": "batting",
         "hab": "6/24",
         "r": "4",
@@ -320,7 +320,7 @@
         "obp": ".308"
       },
       "lastMonthStats": {
-        "rank": "248",
+        "rank": "241",
         "type": "batting",
         "hab": "24/90",
         "r": "12",
@@ -376,40 +376,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "0/4",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
+        "hab": "1/5",
+        "r": "2",
+        "hr": "1",
+        "rbi": "1",
         "sb": "0",
         "k": "1",
-        "tb": "0",
-        "obp": ".000"
+        "tb": "4",
+        "obp": ".200"
       },
       "lastWeekStats": {
-        "rank": "760",
+        "rank": "632",
         "type": "batting",
-        "hab": "0/14",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
+        "hab": "1/19",
+        "r": "2",
+        "hr": "1",
+        "rbi": "1",
         "sb": "0",
-        "k": "3",
-        "tb": "0",
-        "obp": ".125"
+        "k": "4",
+        "tb": "4",
+        "obp": ".143"
       },
       "lastMonthStats": {
-        "rank": "51",
+        "rank": "25",
         "type": "batting",
-        "hab": "25/95",
-        "r": "16",
-        "hr": "6",
+        "hab": "24/95",
+        "r": "18",
+        "hr": "7",
         "rbi": "19",
         "sb": "0",
-        "k": "13",
-        "tb": "52",
-        "obp": ".330"
+        "k": "12",
+        "tb": "53",
+        "obp": ".321"
       },
       "yahooNews": [
         {
@@ -451,40 +451,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "2/4",
-        "r": "1",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "1",
-        "tb": "2",
-        "obp": ".500"
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "605",
+        "rank": "544",
         "type": "batting",
-        "hab": "6/25",
+        "hab": "6/21",
         "r": "4",
         "hr": "0",
-        "rbi": "3",
+        "rbi": "2",
         "sb": "0",
-        "k": "11",
+        "k": "8",
         "tb": "6",
-        "obp": ".321"
+        "obp": ".348"
       },
       "lastMonthStats": {
-        "rank": "19",
+        "rank": "26",
         "type": "batting",
-        "hab": "27/104",
-        "r": "21",
-        "hr": "9",
-        "rbi": "23",
+        "hab": "26/101",
+        "r": "20",
+        "hr": "8",
+        "rbi": "22",
         "sb": "1",
-        "k": "42",
-        "tb": "57",
-        "obp": ".384"
+        "k": "41",
+        "tb": "53",
+        "obp": ".380"
       },
       "yahooNews": [
         {
@@ -531,40 +531,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "0/4",
-        "r": "0",
+        "hab": "1/4",
+        "r": "2",
         "hr": "0",
         "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": ".000"
+        "sb": "1",
+        "k": "1",
+        "tb": "2",
+        "obp": ".400"
       },
       "lastWeekStats": {
-        "rank": "299",
+        "rank": "121",
         "type": "batting",
-        "hab": "7/28",
-        "r": "2",
+        "hab": "8/32",
+        "r": "4",
         "hr": "2",
         "rbi": "5",
-        "sb": "0",
-        "k": "5",
-        "tb": "14",
-        "obp": ".276"
+        "sb": "1",
+        "k": "6",
+        "tb": "16",
+        "obp": ".294"
       },
       "lastMonthStats": {
-        "rank": "53",
+        "rank": "49",
         "type": "batting",
-        "hab": "35/114",
-        "r": "16",
+        "hab": "33/114",
+        "r": "17",
         "hr": "4",
         "rbi": "15",
-        "sb": "5",
-        "k": "20",
-        "tb": "56",
-        "obp": ".344"
+        "sb": "6",
+        "k": "21",
+        "tb": "54",
+        "obp": ".333"
       },
       "yahooNews": [
         {
@@ -611,7 +611,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -623,7 +623,7 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "1519",
+        "rank": "1523",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -635,7 +635,7 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "1629",
+        "rank": "1631",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -696,7 +696,7 @@
       "ilStatus": "IL10",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -720,7 +720,7 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "1029",
+        "rank": "1030",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -771,39 +771,39 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "2/5",
+        "r": "2",
+        "hr": "0",
+        "rbi": "1",
+        "sb": "0",
+        "k": "0",
+        "tb": "3",
+        "obp": ".400"
       },
       "lastWeekStats": {
-        "rank": "45",
+        "rank": "18",
         "type": "batting",
-        "hab": "8/22",
-        "r": "3",
+        "hab": "10/27",
+        "r": "5",
         "hr": "2",
-        "rbi": "7",
+        "rbi": "8",
         "sb": "0",
         "k": "1",
-        "tb": "15",
-        "obp": ".391"
+        "tb": "18",
+        "obp": ".393"
       },
       "lastMonthStats": {
-        "rank": "101",
+        "rank": "70",
         "type": "batting",
-        "hab": "30/103",
-        "r": "17",
+        "hab": "31/104",
+        "r": "19",
         "hr": "5",
         "rbi": "12",
         "sb": "1",
-        "k": "14",
-        "tb": "50",
+        "k": "13",
+        "tb": "52",
         "obp": ".342"
       },
       "yahooNews": [
@@ -866,40 +866,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "2/4",
+        "hab": "1/5",
         "r": "0",
         "hr": "0",
         "rbi": "0",
         "sb": "0",
-        "k": "2",
-        "tb": "2",
-        "obp": ".500"
+        "k": "1",
+        "tb": "1",
+        "obp": ".200"
       },
       "lastWeekStats": {
-        "rank": "417",
+        "rank": "462",
         "type": "batting",
-        "hab": "6/24",
+        "hab": "7/29",
         "r": "3",
         "hr": "1",
         "rbi": "3",
         "sb": "0",
-        "k": "7",
-        "tb": "10",
-        "obp": ".296"
+        "k": "8",
+        "tb": "11",
+        "obp": ".281"
       },
       "lastMonthStats": {
-        "rank": "816",
+        "rank": "835",
         "type": "batting",
-        "hab": "7/31",
+        "hab": "8/36",
         "r": "4",
         "hr": "1",
         "rbi": "3",
         "sb": "0",
-        "k": "9",
-        "tb": "11",
-        "obp": ".306"
+        "k": "10",
+        "tb": "12",
+        "obp": ".293"
       },
       "yahooNews": [
         {
@@ -956,7 +956,7 @@
       "ilStatus": "IL10",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -968,7 +968,7 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "1096",
+        "rank": "1097",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -980,16 +980,16 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "506",
+        "rank": "608",
         "type": "batting",
-        "hab": "13/44",
-        "r": "10",
+        "hab": "10/39",
+        "r": "9",
         "hr": "2",
-        "rbi": "4",
+        "rbi": "2",
         "sb": "4",
         "k": "9",
-        "tb": "23",
-        "obp": ".326"
+        "tb": "17",
+        "obp": ".293"
       },
       "yahooNews": [
         {
@@ -1025,39 +1025,39 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
-        "hab": "1/5",
+        "hab": "1/4",
         "r": "0",
         "hr": "0",
-        "rbi": "1",
+        "rbi": "0",
         "sb": "0",
-        "k": "3",
+        "k": "2",
         "tb": "1",
-        "obp": ".200"
+        "obp": ".400"
       },
       "lastWeekStats": {
-        "rank": "644",
+        "rank": "724",
         "type": "batting",
-        "hab": "5/28",
-        "r": "5",
+        "hab": "5/29",
+        "r": "4",
         "hr": "0",
         "rbi": "1",
         "sb": "0",
         "k": "12",
         "tb": "6",
-        "obp": ".303"
+        "obp": ".294"
       },
       "lastMonthStats": {
-        "rank": "76",
+        "rank": "79",
         "type": "batting",
-        "hab": "30/104",
+        "hab": "31/105",
         "r": "19",
         "hr": "5",
         "rbi": "15",
-        "sb": "1",
-        "k": "29",
-        "tb": "53",
+        "sb": "0",
+        "k": "30",
+        "tb": "54",
         "obp": ".378"
       },
       "yahooNews": [
@@ -1105,7 +1105,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -1117,28 +1117,28 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "510",
+        "rank": "480",
         "type": "batting",
-        "hab": "2/14",
+        "hab": "2/11",
         "r": "3",
         "hr": "0",
         "rbi": "1",
         "sb": "0",
-        "k": "4",
+        "k": "3",
         "tb": "3",
-        "obp": ".333"
+        "obp": ".357"
       },
       "lastMonthStats": {
-        "rank": "583",
+        "rank": "567",
         "type": "batting",
-        "hab": "25/92",
+        "hab": "25/88",
         "r": "9",
         "hr": "1",
-        "rbi": "8",
+        "rbi": "7",
         "sb": "1",
-        "k": "21",
+        "k": "17",
         "tb": "40",
-        "obp": ".320"
+        "obp": ".337"
       },
       "yahooNews": [
         {
@@ -1195,7 +1195,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1207,19 +1207,19 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "29",
+        "rank": "26",
         "type": "pitching",
-        "ip": "5.0",
+        "ip": "4.0",
         "w": "0",
         "l": "0",
-        "sv": "4",
-        "era": "3.60",
-        "whip": "0.60",
-        "k9": "9.00",
+        "sv": "3",
+        "era": "0.00",
+        "whip": "0.25",
+        "k9": "6.75",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "17",
+        "rank": "19",
         "type": "pitching",
         "ip": "15.0",
         "w": "0",
@@ -1285,7 +1285,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1297,7 +1297,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "19",
+        "rank": "14",
         "type": "pitching",
         "ip": "6.0",
         "w": "1",
@@ -1365,7 +1365,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1377,7 +1377,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "817",
+        "rank": "816",
         "type": "pitching",
         "ip": "4.0",
         "w": "0",
@@ -1389,7 +1389,7 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "584",
+        "rank": "580",
         "type": "pitching",
         "ip": "27.0",
         "w": "1",
@@ -1450,7 +1450,19 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "786",
         "type": "pitching",
         "ip": "5.0",
         "w": "0",
@@ -1461,20 +1473,8 @@
         "k9": "12.60",
         "qs": "0"
       },
-      "lastWeekStats": {
-        "rank": "733",
-        "type": "pitching",
-        "ip": "12.0",
-        "w": "1",
-        "l": "1",
-        "sv": "0",
-        "era": "6.00",
-        "whip": "1.08",
-        "k9": "9.00",
-        "qs": "1"
-      },
       "lastMonthStats": {
-        "rank": "833",
+        "rank": "812",
         "type": "pitching",
         "ip": "34.2",
         "w": "1",
@@ -1530,40 +1530,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yesterdayStats": {
-        "date": "2026-07-01",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "548",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "6.0",
-        "w": "0",
+        "w": "1",
         "l": "0",
         "sv": "0",
-        "era": "7.50",
-        "whip": "1.50",
-        "k9": "15.00",
-        "qs": "0"
+        "era": "3.00",
+        "whip": "1.00",
+        "k9": "6.00",
+        "qs": "1"
+      },
+      "lastWeekStats": {
+        "rank": "383",
+        "type": "pitching",
+        "ip": "12.0",
+        "w": "1",
+        "l": "0",
+        "sv": "0",
+        "era": "5.25",
+        "whip": "1.25",
+        "k9": "10.50",
+        "qs": "1"
       },
       "lastMonthStats": {
-        "rank": "138",
+        "rank": "92",
         "type": "pitching",
-        "ip": "27.1",
-        "w": "2",
+        "ip": "33.1",
+        "w": "3",
         "l": "0",
         "sv": "0",
-        "era": "3.29",
-        "whip": "1.35",
-        "k9": "13.17",
-        "qs": "1"
+        "era": "3.24",
+        "whip": "1.29",
+        "k9": "11.88",
+        "qs": "2"
       },
       "yahooNews": [
         {
@@ -1615,19 +1615,19 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/jimmy-herget/48970",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
-        "ip": "1.0",
-        "w": "0",
-        "l": "0",
-        "sv": "0",
-        "era": "0.00",
-        "whip": "0.00",
-        "k9": "0.00",
-        "qs": "0"
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "514",
+        "rank": "483",
         "type": "pitching",
         "ip": "1.2",
         "w": "0",
@@ -1639,7 +1639,7 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "217",
+        "rank": "213",
         "type": "pitching",
         "ip": "5.0",
         "w": "0",
@@ -1695,7 +1695,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1707,7 +1707,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "392",
+        "rank": "354",
         "type": "pitching",
         "ip": "6.0",
         "w": "1",
@@ -1719,7 +1719,7 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "310",
+        "rank": "304",
         "type": "pitching",
         "ip": "28.0",
         "w": "3",
@@ -1775,7 +1775,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1787,7 +1787,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "140",
+        "rank": "134",
         "type": "pitching",
         "ip": "5.0",
         "w": "1",
@@ -1799,7 +1799,7 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "841",
+        "rank": "831",
         "type": "pitching",
         "ip": "14.2",
         "w": "1",
@@ -1842,91 +1842,6 @@
       ]
     },
     {
-      "name": "Cole Ragans",
-      "team": "Kansas City Royals",
-      "pos": "SP",
-      "id": 10610,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10610.png",
-      "ilStatus": "IL60",
-      "nbcUrl": "https://www.nbcsports.com/mlb/cole-ragans/48529",
-      "yesterdayStats": {
-        "date": "2026-07-01",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "2067",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastMonthStats": {
-        "rank": "2120",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "yahooNews": [
-        {
-          "t": "Royals' Ace Is Officially Done for the Year",
-          "s": "Kansas City's ace pitcher underwent successful surgery and is done for the season.",
-          "by": "Michael Sak",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/royals-ace-officially-done-231624655.html"
-        },
-        {
-          "t": "Matt Quatraro Has Encouraging Update on Cole Ragans After Rehab Start",
-          "s": "The Royals need Ragans back as soon as possible.",
-          "by": "Grant Mona",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/matt-quatraro-encouraging-cole-ragans-204355687.html"
-        },
-        {
-          "t": "Athletics Linked to Interesting Trade With Royals for 3.76 ERA All-Star Pitcher",
-          "s": "This could be a very fun pickup for the A's for 2026 and beyond.",
-          "by": "Matt Su...",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/athletics-linked-interesting-trade-royals-184023683.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Cole Ragans undergoes UCL repair surgery",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/cole-ragans-undergoes-ucl-repair-surgery"
-        },
-        {
-          "t": "Cole Ragans to undergo elbow surgery next week",
-          "date": "2026-06-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/cole-ragans-to-undergo-elbow-surgery-next-week"
-        },
-        {
-          "t": "Quatraro: Cole Ragans likely needs elbow surgery",
-          "date": "2026-06-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-23/quatraro-cole-ragans-likely-needs-elbow-surgery"
-        }
-      ]
-    },
-    {
       "name": "Caleb Kilian",
       "team": "San Francisco Giants",
       "pos": "RP",
@@ -1935,39 +1850,39 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
-        "ip": "1.0",
-        "w": "0",
-        "l": "0",
-        "sv": "1",
-        "era": "0.00",
-        "whip": "0.00",
-        "k9": "18.00",
-        "qs": "0"
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "759",
+        "rank": "96",
         "type": "pitching",
-        "ip": "2.2",
+        "ip": "2.0",
         "w": "0",
-        "l": "1",
+        "l": "0",
         "sv": "2",
-        "era": "16.88",
-        "whip": "2.63",
+        "era": "4.50",
+        "whip": "1.00",
         "k9": "13.50",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "333",
+        "rank": "307",
         "type": "pitching",
-        "ip": "10.0",
+        "ip": "9.1",
         "w": "0",
         "l": "1",
         "sv": "4",
-        "era": "4.50",
-        "whip": "1.50",
-        "k9": "12.60",
+        "era": "4.82",
+        "whip": "1.39",
+        "k9": "13.50",
         "qs": "0"
       },
       "yahooNews": [
@@ -2025,19 +1940,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yesterdayStats": {
-        "date": "2026-07-01",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "145",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "1.0",
         "w": "0",
@@ -2045,19 +1948,31 @@
         "sv": "1",
         "era": "0.00",
         "whip": "0.00",
-        "k9": "0.00",
+        "k9": "9.00",
+        "qs": "0"
+      },
+      "lastWeekStats": {
+        "rank": "58",
+        "type": "pitching",
+        "ip": "2.0",
+        "w": "0",
+        "l": "0",
+        "sv": "2",
+        "era": "0.00",
+        "whip": "0.00",
+        "k9": "4.50",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "64",
+        "rank": "55",
         "type": "pitching",
         "ip": "8.0",
         "w": "0",
         "l": "0",
-        "sv": "5",
+        "sv": "6",
         "era": "1.13",
         "whip": "0.25",
-        "k9": "6.75",
+        "k9": "7.88",
         "qs": "0"
       },
       "yahooNews": [
@@ -2115,7 +2030,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/landen-roupp/243056",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2127,19 +2042,19 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "823",
+        "rank": "827",
         "type": "pitching",
-        "ip": "8.2",
+        "ip": "2.2",
         "w": "0",
         "l": "1",
         "sv": "0",
-        "era": "8.31",
-        "whip": "2.08",
-        "k9": "10.38",
-        "qs": "1"
+        "era": "20.25",
+        "whip": "4.13",
+        "k9": "13.50",
+        "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "776",
+        "rank": "756",
         "type": "pitching",
         "ip": "25.0",
         "w": "0",
@@ -2195,7 +2110,7 @@
       "ilStatus": "IL60",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yesterdayStats": {
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2207,7 +2122,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "2002",
+        "rank": "2004",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2219,7 +2134,7 @@
         "qs": "-"
       },
       "lastMonthStats": {
-        "rank": "2064",
+        "rank": "2067",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2265,6 +2180,52 @@
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/edwin-diaz-elbow-close-to-facing-hitters-again"
         }
       ]
+    },
+    {
+      "name": "Jack Flaherty",
+      "team": "Detroit Tigers",
+      "pos": "SP",
+      "id": 10592,
+      "img": null,
+      "ilStatus": null,
+      "nbcUrl": null,
+      "yahooNews": [],
+      "yesterdayStats": {
+        "date": "2026-07-02",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "117",
+        "type": "pitching",
+        "ip": "5.0",
+        "w": "0",
+        "l": "0",
+        "sv": "0",
+        "era": "0.00",
+        "whip": "1.00",
+        "k9": "16.20",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "427",
+        "type": "pitching",
+        "ip": "13.0",
+        "w": "0",
+        "l": "1",
+        "sv": "0",
+        "era": "3.46",
+        "whip": "1.23",
+        "k9": "11.77",
+        "qs": "0"
+      }
     }
   ]
 }
