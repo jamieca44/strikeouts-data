@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-05T02:05:29.000Z",
+  "lastUpdatedNews": "2026-07-05T02:36:28.000Z",
   "lastUpdatedRosterStats": "2026-07-04T01:30:49Z",
   "players": [
     {
@@ -181,6 +181,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Vladimir Guerrero Jr. to sit out ASG due to back",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/vladimir-guerrero-jr-to-sit-out-asg-due-to-back",
+          "fetchedAt": 1783218988235
+        },
+        {
           "t": "Vladimir Guerrero Jr. (back) in Wednesday's lineup",
           "date": "2026-07-01",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/vlad-jr-back-is-back-in-the-lineup-on-wednesday"
@@ -271,6 +277,18 @@
       ],
       "nbcNews": [
         {
+          "t": "Luis García Jr. homers twice in win over Pirates",
+          "date": "2026-07-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/luis-garcia-jr-homers-twice-in-win-over-pirates",
+          "fetchedAt": 1783218988235
+        },
+        {
+          "t": "Abrams is not in the starting lineup on Wednesday",
+          "date": "2026-07-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/abrams-is-not-in-the-starting-lineup-on-wednesday",
+          "fetchedAt": 1783218988235
+        },
+        {
           "t": "Luis García Jr. homers twice, plates five in win",
           "date": "2026-06-28",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/luis-garcia-jr-homers-twice-plates-five-in-win"
@@ -356,6 +374,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Royce Lewis fans four times against Rangers",
+          "date": "2026-06-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-18/royce-lewis-fans-four-times-against-rangers",
+          "fetchedAt": 1783218988235
+        },
+        {
           "t": "Royce Lewis delivers walk-off win for Twins in 10",
           "date": "2026-06-26",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-26/royce-lewis-delivers-walk-off-win-for-twins-in-10"
@@ -436,6 +460,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Alec Burleson gets day off Tuesday vs. D-backs",
+          "date": "2026-06-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-23/alec-burleson-gets-day-off-tuesday-vs-d-backs",
+          "fetchedAt": 1783218988235
+        },
+        {
           "t": "Alec Burleson homers as Cardinals crush Braves",
           "date": "2026-07-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/alec-burleson-homers-as-cardinals-crush-braves"
@@ -510,6 +540,24 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Nick Kurtz takes over as AL starter at first base",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-takes-over-as-al-starter-at-first-base",
+          "fetchedAt": 1783218988235
+        },
+        {
+          "t": "Nick Kurtz blasts 20th home run in loss Friday",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-blasts-20th-home-run-in-loss-friday",
+          "fetchedAt": 1783218988235
+        },
+        {
+          "t": "Kurtz homers, drives in three in loss",
+          "date": "2026-06-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/kurtz-homers-drives-in-three-in-loss",
+          "fetchedAt": 1783218988235
+        },
         {
           "t": "Nick Kurtz gets a breather against Angels Sunday",
           "date": "2026-06-28",
@@ -590,6 +638,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. blasts third homer in victory",
+          "date": "2026-06-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/fernando-tatis-jr-blasts-third-homer-in-victory",
+          "fetchedAt": 1783218988235
+        },
         {
           "t": "Fernando Tatis Jr. goes deep twice against Cubs",
           "date": "2026-06-30",
@@ -755,6 +809,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Brendan Donovan (groin) to start rehab assignment",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/brendan-donovan-groin-to-start-rehab-assignment",
+          "fetchedAt": 1783218988235
+        },
         {
           "t": "Brendan Donovan (groin) progressing towards return",
           "date": "2026-06-29",
