@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-03T06:36:42.461Z",
+  "lastUpdatedNews": "2026-07-05T09:08:04.790Z",
   "lastUpdatedRosterStats": "2026-07-04T18:01:14Z",
   "players": [
     {
@@ -49,39 +49,28 @@
       },
       "yahooNews": [
         {
-          "t": "A.J. Hinch Makes Passionate All-Star Case for Dillon Dingler",
-          "s": "Tigers manager A.J. Hinch says Dillon Dingler has earned an All-Star selection after an outstanding first half of 2026.",
-          "by": "Richard Knight",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/j-hinch-makes-passionate-star-174827365.html"
-        },
-        {
-          "t": "June Showed the Tigers the Seeds Are There, Even if the Bigger Picture Remains Complicated",
-          "s": "Propelled by a record-setting power surge from bats like Dillon Dingler and Riley Greene, Detroit's June has reignited postseason talk.",
+          "t": "Three Homegrown Tigers Head to The All-Star Game",
+          "s": "Dillon Dingler, Riley Greene, and Kevin McGonigle prove Detroit’s scouting pays off, heading to Philadelphia as homegrown pillars of a rising, sustainable core built through the draft.",
           "by": "Rogelio Castillo",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/june-showed-tigers-seeds-even-161411312.html"
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/three-homegrown-tigers-head-star-021126145.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Fantasy Baseball: Players who made an impact in June (for better or worse)",
-          "s": "Which players made a fantasy baseball impact in June?",
-          "by": "Fred Zinkie",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-players-who-made-an-impact-in-june-for-better-or-worse-142639584.html"
+          "t": "Dillon Dingler joins Stark County legends with MLB All-Star selection",
+          "s": "Dillon Dingler's 2026 MLB season has put his name alongside Hank Greenberg and Rocky Colavito. Now he's in company with two Stark County legends.",
+          "by": "Chris Beaven, Canton Repository",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/dillon-dingler-joins-stark-county-013826380.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "MLB catcher power rankings entering week 15",
-          "s": "Catcher rankings ahead of the All-Star Game, with several backstops in the All-Star conversation.",
-          "by": "Kyle Amore",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/top-10-catcher-power-171916.html"
-        },
-        {
-          "t": "Dissed: Tigers catcher Dillon Dingler left out AL All-Star Game Phase 2 voting",
-          "s": "Despite ranking first in several MLB metrics, Detroit's rising catcher placed third in AL voting.",
-          "by": "Jeff Hawkins",
-          "when": "6d ago",
-          "href": "https://sports.yahoo.com/articles/dingler-snubbed-fans-upset.html"
+          "t": "Dillon Dingler, Kevin McGonigle to Represent Tigers at All-Star Game",
+          "s": "The Detroit Tigers learned which of their players will head to the All-Star Game in Philadelphia on Saturday.",
+          "by": "Matt Postins",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/dillon-dingler-kevin-mcgonigle-represent-002135082.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -158,25 +147,28 @@
       },
       "yahooNews": [
         {
-          "t": "Vladimir Guerrero Jr. Shares Positive Injury Update Ahead of Mariners Series",
-          "s": "Guerrero returned to Toronto's starting lineup amid a back issue.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/vladimir-guerrero-jr-shares-positive-123700842.html"
+          "t": "MLB All-Star Games: Vladimir Guerrero Jr. Makes Tough Decision Amid Blue Jays Struggles",
+          "s": "Vladimir Guerrero Jr. made it to the list.",
+          "by": "Ritabrata Chakrabarti",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-star-games-vladimir-guerrero-025100970.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "What Is Wrong With Vladimir Guerrero Jr.? Digging Into the Blue Jays Star's Stunning Slump",
-          "s": "Guerrero is in the worst stretch of his career at the plate.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/wrong-vladimir-guerrero-jr-digging-191613670.html"
+          "t": "Why Blue Jays’ Vladimir Guerrero Jr. has backed out of MLB All-Star game",
+          "s": "The Blue Jays learned Vladmir Guerrero Jr. won't be playing in July's MLB All-Star game for this sole reason.",
+          "by": "Lorenzo J Reyna, ClutchPoints",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/why-blue-jays-vladimir-guerrero-021949893.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Blue Jays Get Huge Vladimir Guerrero Jr. Boost for Mets Game",
-          "s": "Toronto gets good news on Guerrero's availability.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-huge-vladimir-guerrero-180838199.html"
+          "t": "Vladimir Guerrero Jr. to sit out MLB All-Star Game after being named starter despite career-worst season",
+          "s": "Vladimir Guerrero Jr.'s perplexing All-Star selection quickly became a non-issue.",
+          "by": "Jack Baer",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/mlb/article/vladimir-guerrero-jr-to-sit-out-mlb-all-star-game-after-being-named-starter-despite-career-worst-season-004556416.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -248,25 +240,28 @@
       },
       "yahooNews": [
         {
-          "t": "Washington Nationals 1B Luis García Jr Honored After Monster Week",
-          "s": "García earned his first career Player of the Week honor.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/washington-nationals-1b-luis-garc-100056177.html"
+          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Saturday, July 4",
+          "s": "With Luis García Jr., Junior Caminero, and Rafael Devers absolutely scorching the ball right now, we are locking into their power surges for Saturday’s July 4 MLB home run picks and predictions.",
+          "by": "Quinn Allen",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132200805.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Good & Bad: García Catapults Nationals to Series Win in Baltimore",
-          "s": "García's dominant series helps Washington win against the Orioles.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/good-bad-garc-catapults-nationals-130539019.html"
+          "t": "Pirates fall to Nationals in series opener; another rough start for Mitch Keller",
+          "s": "The Pittsburgh Pirates dropped the first of their three-game road series with the Washington Nationals 9-5 on Friday after another shaky night from Mitch Keller, who allowed three home runs in the loss.",
+          "by": "Griffin Floyd",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-fall-nationals-series-opener-020446286.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Esmerlyn Valdez Plus 4 Other Fantasy Baseball Waiver Wire Pickups (June 29)",
-          "s": "Pick up these MLB players whose stock is surging in fantasy baseball.",
-          "by": "Thomas...",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/esmerlyn-valdez-plus-4-other-181401677.html"
+          "t": "García and Lile each homer twice as the Nationals rout the Pirates 9-5",
+          "s": "Luis García Jr. and Daylen Lile each homered twice, and José Tena also went deep for Washington as the Nationals beat the Pittsburgh Pirates 9-5 on Friday night. Foster Griffin (9-2) allowed a run and four hits in five innings, lowering his ERA to 2.87 for the Nationals. Washington has won five of six.",
+          "by": "NOAH TRISTER",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/garc-lile-homer-twice-nationals-014931442.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -333,25 +328,28 @@
       },
       "yahooNews": [
         {
-          "t": "Derek Shelton Sounds Off After Royce Lewis Delivers First Twins Walk-Off",
-          "s": "Minnesota needed a walk-off, and it came at the perfect time.",
+          "t": "Royce Lewis Sends Message to Twins Fans After Another Loss in the Bronx",
+          "s": "Lewis acknowledged the history between Minnesota and New York but said he sees the Yankees as just another team he is excited to play against.",
           "by": "Grant Mona",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/derek-shelton-sounds-off-royce-212255704.html"
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/royce-lewis-sends-message-twins-203314579.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "With Recent Position Changes, Twins Get Hyper Versatile",
-          "s": "Minnesota began the season with Luke Keaschall at second and Royce Lewis elsewhere — the picture has shifted.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/recent-position-changes-twins-hyper-205700251.html"
+          "t": "Derek Shelton Addresses Minnesota Twins' Ugly Night Against the Yankees",
+          "s": "Minnesota went 1-for-12 with runners in scoring position on Friday, but the bigger picture still looks promising.",
+          "by": "Grant Mona",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/derek-shelton-addresses-minnesota-twins-194922021.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Royce Lewis Walks It Off After Twins Lose Lead Late",
-          "s": "Minnesota takes control late after a wild finish against Colorado.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/royce-lewis-walks-off-twins-031800796.html"
+          "t": "Rockies Get Another Lesson They Must Learn From in Twins Defeat",
+          "s": "You wouldn't want to call the Colorado Rockies' loss to the Minnesota Twins on Friday night, 'a pyrrhic victory', as a loss is still a loss. Still, the way the",
+          "by": "Ryan Boman",
+          "when": "7d ago",
+          "href": "https://sports.yahoo.com/articles/rockies-another-lesson-must-learn-140007467.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -413,25 +411,28 @@
       },
       "yahooNews": [
         {
-          "t": "Dodgers Lineup vs Padres: Mookie Betts Status Revealed After Injury",
-          "s": "The Dodgers' lineup, pitching matchups and how to watch Thursday's game.",
-          "by": "",
+          "t": "Dodgers Lineup vs Padres: Shohei Ohtani Out With Injury",
+          "s": "The Los Angeles Dodgers' lineup, pitching matchups and how to watch Saturday's game against the San Diego Padres.",
+          "by": "Noah Camras",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-lineup-vs-padres-shohei-220140795.html",
+          "fetchedAt": 1783242484790
+        },
+        {
+          "t": "Dodgers Post podcast: Roki Sasaki is running out of excuses",
+          "s": "What to make of Roki Sasaki’s latest implosion? That’s what California Post baseball writers Dylan Hernandez and Jack Harris discuss on the latest episode of the Dodgers Post podcast. While...",
+          "by": "Jack Harris",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-lineup-vs-padres-mookie-220201735.html"
+          "href": "https://sports.yahoo.com/articles/dodgers-post-podcast-roki-sasaki-211731360.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Mookie Betts Back in Lineup for Series Opener vs. Padres",
-          "s": "Betts returns to the lineup as the Dodgers open a series against San Diego.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-back-lineup-series-211019375.html"
-        },
-        {
-          "t": "Dodgers Expect Mookie Betts to Play Against Padres After Injury Scare",
-          "s": "Manager Dave Roberts provided a far more encouraging update on Betts' status.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-expect-mookie-betts-play-172709329.html"
+          "t": "Roki Sasaki Set to Make Next Dodgers Start Despite Rough Slew of Games",
+          "s": "Roki Sasaki is full steam ahead to make his next start for the Los Angeles Dodgers before the All-Star break.",
+          "by": "Adrian Medina",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/roki-sasaki-set-next-dodgers-164422770.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -508,25 +509,28 @@
       },
       "yahooNews": [
         {
-          "t": "Top MLB Analyst Predicts Two Reds Will Make the All-Star Team",
-          "s": "Cincinnati could see multiple players honored this July.",
+          "t": "Two Reds Named National League All-Star Team, Including One Surprise",
+          "s": "Two Reds Named National League All-Star Team, Including One Surprise",
           "by": "Greg Kuffner",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/top-mlb-analyst-predicts-two-150146339.html"
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/two-reds-named-national-league-002935032.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "MLB Shortstop Power Rankings Entering July",
-          "s": "A look at where every regular shortstop stands ahead of the All-Star break.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-shortstop-power-rankings-entering-111900047.html"
+          "t": "Pair of youngsters to represent Reds at 2026 MLB All-Star Game",
+          "s": "The Cincinnati Reds will be represented at the 2026 MLB All-Star Game in Philadelphia by two of their youngest and most promising stars.",
+          "by": "Pat Brennan, Cincinnati Enquirer",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/pair-youngsters-represent-reds-2026-235218580.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Cincinnati Reds Get Promising News on Infielders Eugenio Suárez and Elly De La Cruz",
-          "s": "Manager Terry Francona shared encouraging updates on two key infielders.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-promising-news-infielders-202253447.html"
+          "t": "Reds' Answer to Leadoff Question has Always Been Right in Front of Them",
+          "s": "The Cincinnati Reds' decision to wait so long to answer their leadoff issues just makes the 2026 season that much more painful.",
+          "by": "Tyler Reed",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/reds-answer-leadoff-always-front-200700516.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -598,25 +602,28 @@
       },
       "yahooNews": [
         {
-          "t": "What Is the Cardinals' Long-Term Plan for the Corner Infield?",
-          "s": "The second half of June hasn't been kind to St. Louis' postseason hopes.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-long-term-plan-corner-130000204.html"
+          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Saturday, July 4",
+          "s": "With Luis García Jr., Junior Caminero, and Rafael Devers absolutely scorching the ball right now, we are locking into their power surges for Saturday’s July 4 MLB home run picks and predictions.",
+          "by": "Quinn Allen",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132200805.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Fantasy Baseball: Should You Buy-Low on These Veterans, Plus More Skill vs. Luck Factors",
-          "s": "Might we see a second-half surge from a few undervalued names?",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-should-you-buy-low-on-these-veterans-plus-more-skill-vs-luck-factors-143832221.html"
+          "t": "St. Louis Takes Chicago to Church as Cardinals Clobber the Cubs",
+          "s": "You could sense that the St. Louis Cardinals entered Wrigley Field Friday afternoon feeling the momentum of their inspiring series-winning comeback victory in Atlanta on Thursday. The Cardinals took the Cubs to Church in a Nathan kind of way to win Friday’s contest easily in Chicago. St. Louis did not wait long before they jumped […]",
+          "by": "Doc Holliday",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/st-louis-takes-chicago-church-231309206.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "MLB First Basemen Power Rankings Entering Week 13",
-          "s": "A look at the top performers at first base through 12 weeks.",
-          "by": "",
-          "when": "6d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-first-basemen-power-rankings-160844087.html"
+          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Friday, July 3",
+          "s": "Friday's favorite looks to leave the yard, as Colby Marchio's home run picks focus on some of baseball’s most dangerous power bats, including James Wood, on July 3.",
+          "by": "Colby Marchio",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132000234.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -673,25 +680,28 @@
       },
       "yahooNews": [
         {
-          "t": "MLB Home Run Predictions Today: HR Prop Bets for Sunday, June 28",
-          "s": "Target Bryan Reynolds, Colton Cowser and Mookie Betts among Sunday's top home run props.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-113000777.html"
+          "t": "Top 3 MLB Players Poised for Home Runs on July 3: Bet on Henderson, Abrams, Ohtani",
+          "s": "Target Gunnar Henderson, CJ Abrams and Shohei Ohtani as Friday's top MLB home run prop bets in premium matchups.",
+          "by": "Andrew Phelps",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/top-3-mlb-players-poised-113000153.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Pirates' Bryan Reynolds Continues to Dominate Every June",
-          "s": "It's been a rough June for Pittsburgh, but Reynolds keeps producing.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-bryan-reynolds-continues-dominate-185252498.html"
+          "t": "The Best and Worst for Pirates at Halfway Point of ’26 Season",
+          "s": "The Pirates hit the halfway point of the season with a 5-1 win over the Mariners at PNC Park on […] The post The Best and Worst for Pirates at Halfway Point of ’26 Season appeared first on Pittsburgh Baseball Now.",
+          "by": "Danny Demilio",
+          "when": "8d ago",
+          "href": "https://sports.yahoo.com/articles/best-worst-pirates-halfway-point-114025768.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Pirates' Bryan Reynolds Continues Hot Hitting With Key Homer",
-          "s": "A towering 433-foot blast helped secure a vital win.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-bryan-reynolds-continues-hot-143037563.html"
+          "t": "Gonzalez and Reynolds homer as the Pirates hold off the Rockies 8-6",
+          "s": "Nick Gonzalez and Bryan Reynolds homered to help the Pittsburgh Pirates beat the Colorado Rockies 8-6 on Sunday. Gonzalez and Reynolds finished with two hits each to help Pittsburgh salvage the finale of the three-game series in what could have been a sweep. The Pirates lost the first two games despite having the tying and winning runs on second and third with one out in the ninth in both games.",
+          "by": "MICHAEL KELLY",
+          "when": "13d ago",
+          "href": "https://sports.yahoo.com/articles/gonzalez-reynolds-homer-pirates-hold-221620753.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -753,25 +763,28 @@
       },
       "yahooNews": [
         {
-          "t": "Fernando Tatis Jr.'s Resurgence Critical to Padres' Hopes Against Dodgers on Sunday Night Baseball",
-          "s": "San Diego and Los Angeles conclude a crucial series with Tatis heating up.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/fernando-tatis-jr-resurgence-critical-201215601.html"
+          "t": "Ranking Fernando Tatis Jr. trade suitors as Padres collapse continues",
+          "s": "Even AJ Preller can't put off San Diego's reckoning for much longer -and the only path forward might involve trading the face of the franchise.",
+          "by": "Chris Landers",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/ranking-fernando-tatis-jr-trade-181321091.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Fernando Tatis Jr. Surprisingly High on Padres' All-Time Home Run List",
-          "s": "Tatis finds himself on a surprising list in San Diego franchise history.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/fernando-tatis-jr-surprisingly-high-171138416.html"
-        },
-        {
-          "t": "Padres Cannot Overcome JP Sears, Lose to Cubs",
-          "s": "San Diego drops another game as its slump continues.",
-          "by": "",
+          "t": "Padres victimized by the long ball against Cubs, dragging out four game slump",
+          "s": "CHICAGO - For the ones expecting an abundance of run production were left feeling underwhelmed on Monday following a 3-2 final.",
+          "by": "James Newell",
           "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/padres-cannot-overcome-jp-sears-133000997.html"
+          "href": "https://sports.yahoo.com/articles/padres-victimized-long-ball-against-031438637.html",
+          "fetchedAt": 1783242484790
+        },
+        {
+          "t": "Padres’ Fernando Tatis Jr. can’t believe he missed Miguel Rojas pitch in blowout loss",
+          "s": "Padres star Fernando Tatis Jr. had no answer for infielder-turned-temporary-pitcher Miguel Rojas during Saturday's 15-3 loss vs. Dodgers",
+          "by": "Alex House, ClutchPoints",
+          "when": "6d ago",
+          "href": "https://sports.yahoo.com/articles/padres-fernando-tatis-jr-t-093051397.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -833,25 +846,28 @@
       },
       "yahooNews": [
         {
-          "t": "Shea Langeliers, Nick Kurtz Not Interested in Home Run Derby",
-          "s": "The A's All-Star candidate is closing in on a Philadelphia spot but would rather watch.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/shea-langeliers-nick-kurtz-not-220551475.html"
+          "t": "Who replaced Vladimir Guerrero Jr. as American League’s All-Star Game starter?",
+          "s": "Nick Kurtz has been named the AL's starting first baseman for the 2026 MLB All-Star Game following Vladimir Guerrero Jr. withdrawal.",
+          "by": "Abdullah Imran, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/replaced-vladimir-guerrero-jr-american-043708463.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Joey Votto Calls Athletics' Nick Kurtz a Future MLB Superstar",
-          "s": "Votto, who spent his 17-year career with Cincinnati, praised Kurtz's ceiling.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/joey-votto-calls-athletics-nick-192504548.html"
+          "t": "Vladimir Guerrero Jr. to sit out MLB All-Star Game after being named starter despite career-worst season",
+          "s": "Vladimir Guerrero Jr.'s perplexing All-Star selection quickly became a non-issue.",
+          "by": "Jack Baer",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/mlb/article/vladimir-guerrero-jr-to-sit-out-mlb-all-star-game-after-being-named-starter-despite-career-worst-season-004556416.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "MLB First Base Power Rankings Entering the Break",
-          "s": "A look at how the top first basemen stack up heading into July.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-first-power-rankings-entering-123900285.html"
+          "t": "Athletics stars Nick Kurtz, Shea Langeliers earn first All-Star Game selections",
+          "s": "The Athletics' two most productive players this season are headed to Philadelphia for the 2026 MLB All-Star Game.",
+          "by": "Ali Thanawalla",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/athletics-stars-nick-kurtz-shea-164800389.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -913,25 +929,28 @@
       },
       "yahooNews": [
         {
-          "t": "Three Questions Rangers Must Answer Against Tigers This Weekend",
-          "s": "Texas returns home to host Detroit starting Thursday with several open questions.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/three-questions-rangers-must-answer-130008599.html"
-        },
-        {
-          "t": "Rangers Face Next Critical Roster Move After Brandon Nimmo Injury",
-          "s": "Texas got news about Nimmo that may cost the outfielder significant time.",
-          "by": "",
+          "t": "Why Rangers Slugger Brandon Nimmo May Not Need Injured List Stint",
+          "s": "The Texas Rangers moved outfielder Brandon Nimmo to the 10-day injured list for the first time since joining the team.",
+          "by": "Matt Postins",
           "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/rangers-face-next-critical-roster-130007467.html"
+          "href": "https://sports.yahoo.com/articles/why-rangers-slugger-brandon-nimmo-000001154.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Pair of Rangers Stars Held Out of Guardians Lineup for Different Reasons",
-          "s": "Texas started an unusual lineup on Monday.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/pair-rangers-stars-held-guardians-000002906.html"
+          "t": "38-41 – Rangers waste early chances, fall to Marlins 6-4",
+          "s": "Texas goes 1-for-11 with RISP in the loss",
+          "by": "ghostofErikThompson",
+          "when": "11d ago",
+          "href": "https://sports.yahoo.com/articles/38-41-rangers-waste-early-013123448.html",
+          "fetchedAt": 1783242484790
+        },
+        {
+          "t": "Nimmo's 3 hits, Osuna's go-ahead double lift Rangers to 4-3 win over Marlins",
+          "s": "Brandon Nimmo had three hits and walked once, Alejandro Osuna hit a go-ahead RBI double and the Texas Rangers beat the Miami Marlins 4-3 on Monday night. Ezequiel Duran homered and Joc Pederson singled twice for the Rangers in the opener of a 10-game road trip. The loss snapped the Marlins’ eight-game home win streak.",
+          "by": null,
+          "when": "12d ago",
+          "href": "https://sports.yahoo.com/articles/nimmos-3-hits-osunas-ahead-015220532.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -1003,25 +1022,28 @@
       },
       "yahooNews": [
         {
-          "t": "Guardians' Stephen Vogt Shares Important Jose Ramirez Injury Update",
-          "s": "Cleveland manager Stephen Vogt recently shared a crucial injury update on star third baseman José Ramírez.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-stephen-vogt-shares-important-165803032.html"
+          "t": "The lessons Stephen Vogt has learned to help navigate youthful Guardians",
+          "s": "Despite a series of injuries and an influx of rookies, manager Stephen Vogt has the Guardians in first place again. Here's how he's done it.",
+          "by": "Ryan Lewis, Akron Beacon Journal",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/lessons-stephen-vogt-learned-help-101604149.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Guardians' Latest Injury Updates on Chase DeLauter, Jose Ramirez, Angel Martinez",
-          "s": "Chase DeLauter is nearing a return for Cleveland, but Ramírez and Angel Martínez are still a ways off.",
-          "by": "Tommy Wild",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-latest-injury-updates-chase-125012551.html"
+          "t": "This Jose Ramirez video will excite Guardians fans",
+          "s": "Star third baseman Jose Ramirez was back on the field for the Guardians taking ground balls following his hamate surgery",
+          "by": "Steve Silverman, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/jose-ramirez-video-excite-guardians-223101360.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Guardians' Chase DeLauter Showing No Signs of Rust Since Injury",
-          "s": "DeLauter has given Cleveland an immediate boost since coming off the injured list.",
-          "by": "Tommy Wild",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-chase-delauter-showing-no-174029186.html"
+          "t": "Guardians know every win against White Sox is precious in a tight AL Central race",
+          "s": "With a dramatic walk-off homer from Brayan Rocchio on Friday night, Cleveland turned the tide on the Cinderella story out of Chicago.",
+          "by": "John Perrotto",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-know-every-win-against-140503269.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": []
@@ -1072,25 +1094,28 @@
       },
       "yahooNews": [
         {
-          "t": "Milwaukee Brewers Lead Baseball With Whopping 9 Prospects on Top-100 List",
-          "s": "Milwaukee landed nine prospects on the fresh top-100 list from Baseball America.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/milwaukee-brewers-lead-baseball-whopping-170554608.html"
+          "t": "2026 MLB All-Star Game: Full rosters for American and National Leagues",
+          "s": "The full rosters for the 2026 MLB All-Star Game were revealed on July 4. The Midsummer Classic will be held in Philadelphia on July 14.",
+          "by": "Jim Reineking, USA TODAY",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/2026-mlb-star-game-full-003946035.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Brewers' Top Prospects Selected to All-Star Futures Game",
-          "s": "Two of Milwaukee's top prospects earned Futures Game selections.",
-          "by": "",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-selected-star-000004366.html"
+          "t": "Loaded 2026 MLB Futures Game Showcases Baseball’s Next Wave of Superstars",
+          "s": "MLB’s brightest young stars are heading to Philadelphia. The 2026 MLB All-Star Futures Game arrives at Citizens Bank Park on […]",
+          "by": "Isaac Ciravolo",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/loaded-2026-mlb-futures-game-205657272.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Brewers' Top Prospects Jesús Made, Luis Peña Named to 2026 All-Star Futures Game",
-          "s": "Made joins fellow top prospect Luis Peña on the Futures Game roster.",
-          "by": "",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-jes-made-130000422.html"
+          "t": "Brewers Budding Star Jess Made Is Breaking Double-A Pitching",
+          "s": "The Milwaukee Brewers have the most exciting prospect in baseball right now.",
+          "by": "Patrick McAvoy",
+          "when": "6d ago",
+          "href": "https://sports.yahoo.com/articles/brewers-budding-star-jess-made-210002012.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -1157,25 +1182,28 @@
       },
       "yahooNews": [
         {
-          "t": "Brendan Donovan's Injury Return Puts Mariners in a Dangerous Trade Deadline Trap",
-          "s": "Donovan's return could help Seattle's lineup, but complicates deadline math.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/brendan-donovans-injury-return-puts-030700536.html"
+          "t": "How Should Seattle Mariners Handle Roster When Brendan Donovan Returns?",
+          "s": "The versatile chess piece looks like he'll be back right after the All-Star break.",
+          "by": "Brady Farkas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/seattle-mariners-handle-roster-brendan-230014446.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Mariners Get Huge Brendan Donovan Boost for White Sox Series",
-          "s": "Seattle gets Donovan back from injury just in time for a key series.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-huge-brendan-donovan-boost-201923037.html"
+          "t": "Latest Brendan Donovan Update Gives Mariners Another Reason to Rethink Their Lineup",
+          "s": "Brendan Donovan could begin a rehab assignment soon, giving the Mariners another reason to rethink their lineup down the stretch.",
+          "by": "Tremayne Person",
+          "when": "14d ago",
+          "href": "https://sports.yahoo.com/articles/latest-brendan-donovan-gives-mariners-031600212.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Mariners Get 2 Crucial Injury Updates Before Royals Clash",
-          "s": "Seattle received two important injury updates before facing Kansas City.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-2-crucial-injury-updates-232934103.html"
+          "t": "Mariners' Brendan Donovan Trade Looks Like an Unsettling Deadline Cautionary Tale",
+          "s": "Brendan Donovan has been productive when healthy, but his limited availability should complicate the Mariners' trade deadline approach.",
+          "by": "Tremayne Person",
+          "when": "21d ago",
+          "href": "https://sports.yahoo.com/articles/mariners-brendan-donovan-trade-looks-030700614.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
@@ -1232,25 +1260,28 @@
       },
       "yahooNews": [
         {
-          "t": "Texas Rangers Honor Jacob Latz as Player of the Month Before Tigers Game",
-          "s": "Latz is more than just a closer for Texas — he's the team's steadying force.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-honor-jacob-latz-221047180.html"
+          "t": "Rangers' Jacob Latz named to MLB All-Star Team",
+          "s": "Texas Rangers reliever Jacob Latz has been named to this year's MLB All-Star Team, the league announced Sunday evening.",
+          "by": "Carter Freemon",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-named-mlb-014041863.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Fantasy Baseball Closer Report: Jacob Latz Tops Saves Leaderboard in June",
-          "s": "Reds welcome back Emilio Pagán as the last week of saves shakes out.",
-          "by": "Jorge Montanez",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-jacob-050546178.html"
+          "t": "Jacob Latz is an All Star",
+          "s": "Jacob Latz has been named to the American League All Star team",
+          "by": "Adam J. Morris",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/jacob-latz-star-010837689.html",
+          "fetchedAt": 1783242484790
         },
         {
-          "t": "Rangers' Jacob Latz Making Strong Case for All-Star Recognition",
-          "s": "From failed starter to ninth-inning anchor, Latz is transforming his career.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-making-strong-144953804.html"
+          "t": "Rangers Closer Jacob Latz's Latest Award is All-Star Game Berth",
+          "s": "The Texas Rangers close, recently named the AL reliever of the month, will represent the Texas Rangers at the All-Star Game later this month.",
+          "by": "Matt Postins",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-closer-jacob-latzs-latest-001522058.html",
+          "fetchedAt": 1783242484790
         }
       ],
       "nbcNews": [
