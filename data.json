@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-05T02:38:26.795Z",
-  "lastUpdatedRosterStats": "2026-07-04T01:30:49Z",
+  "lastUpdatedNews": "2026-07-03T06:36:42.461Z",
+  "lastUpdatedRosterStats": "2026-07-04T18:01:14Z",
   "players": [
     {
       "name": "Dillon Dingler",
@@ -12,114 +12,42 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "2/5",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "2",
-        "tb": "3",
-        "obp": ".400"
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "491",
+        "rank": "464",
         "type": "batting",
-        "hab": "8/29",
+        "hab": "7/25",
         "r": "4",
         "hr": "0",
-        "rbi": "2",
+        "rbi": "1",
         "sb": "0",
-        "k": "7",
-        "tb": "12",
-        "obp": ".267"
+        "k": "5",
+        "tb": "11",
+        "obp": ".269"
       },
       "lastMonthStats": {
-        "rank": "27",
+        "rank": "82",
         "type": "batting",
-        "hab": "35/106",
-        "r": "19",
-        "hr": "6",
-        "rbi": "20",
+        "hab": "33/102",
+        "r": "18",
+        "hr": "5",
+        "rbi": "16",
         "sb": "0",
         "k": "26",
-        "tb": "64",
-        "obp": ".354"
+        "tb": "59",
+        "obp": ".343"
       },
       "yahooNews": [
-        {
-          "t": "Dillon Dingler joins Stark County legends with MLB All-Star selection",
-          "s": "Dillon Dingler's 2026 MLB season has put his name alongside Hank Greenberg and Rocky Colavito. Now he's in company with two Stark County legends.",
-          "by": "Chris Beaven, Canton Repository",
-          "when": "59m ago",
-          "href": "https://sports.yahoo.com/articles/dillon-dingler-joins-stark-county-013826380.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dillon Dingler, Riley Greene, and Kevin McGonigle named to AL All-Star squad",
-          "s": "All three will serve as reserves in Philadelphia on July 14.",
-          "by": "Brandon Day",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/dillon-dingler-riley-greene-kevin-001140404.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Detroit Tigers catcher Dillon Dingler named to first MLB All-Star Game",
-          "s": "Detroit Tigers catcher Dillon Dingler was named to his first MLB All-Star team on Saturday, July 4.",
-          "by": "Jeff Seidel, Detroit Free Press",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-catcher-dillon-dingler-234302944.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Tigers have two top-5 MVP candidates per ESPN, and neither is Tarik Skubal",
-          "s": "The Tigers have two players putting together MVP-caliber seasons.",
-          "by": "Matt Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-two-top-5-mvp-175724289.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "MLB catcher power rankings entering week 15",
-          "s": "The 2026 MLB All-Star Game is Tuesday, July 14th. Certain players have been elected as starters for the upcoming Mid-Summer Classic, and a handful of players are finalists to represent their respective leagues. However, there will be players who fall…",
-          "by": "Kyle Amore",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-catcher-power-rankings-entering-114200561.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dissed: Tigers catcher Dillon Dingler left out AL All-Star Game Phase 2 voting",
-          "s": "Despite ranking first in several MLB metrics, Detroit's rising catcher placed third in AL All-Star Game voting with 924,766 votes.",
-          "by": "Jeff Hawkins",
-          "when": "8d ago",
-          "href": "https://sports.yahoo.com/articles/dissed-tigers-catcher-dillon-dingler-213428234.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Tigers rookie sensation Kevin McGonigle makes 2026 MLB All-Star Game",
-          "s": "Detroit Tigers rookie shortstop Kevin McGonigle was named to his first MLB All-Star Game on Saturday, July 4.",
-          "by": "Jeff Seidel, Detroit Free Press",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/tigers-rookie-sensation-kevin-mcgonigle-234412380.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Detroit Tigers catcher Dillon Dingler named to first MLB All-Star Game",
-          "s": "Detroit Tigers catcher Dillon Dingler was named to his first MLB All-Star team on Saturday, July 4.",
-          "by": "Jeff Seidel, Detroit Free Press",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-catcher-dillon-dingler-234302966.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Who Are Tigers' Top Trade Deadline Chips Besides Tarik Skubal?",
-          "s": "The Detroit Tigers may have to trade away their best pitcher at the deadline. But how much more do they have to deal?",
-          "by": "Matt Postins",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/tigers-top-trade-deadline-chips-120007692.html",
-          "fetchedAt": 1783219090755
-        },
         {
           "t": "A.J. Hinch Makes Passionate All-Star Case for Dillon Dingler",
           "s": "Tigers manager A.J. Hinch says Dillon Dingler has earned an All-Star selection after an outstanding first half of 2026.",
@@ -193,130 +121,42 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "1",
+        "sb": "0",
+        "k": "1",
+        "tb": "1",
+        "obp": ".500"
       },
       "lastWeekStats": {
-        "rank": "621",
+        "rank": "692",
         "type": "batting",
-        "hab": "4/21",
-        "r": "2",
+        "hab": "3/20",
+        "r": "1",
         "hr": "0",
-        "rbi": "2",
+        "rbi": "1",
         "sb": "0",
-        "k": "4",
-        "tb": "5",
+        "k": "5",
+        "tb": "4",
         "obp": ".227"
       },
       "lastMonthStats": {
-        "rank": "655",
+        "rank": "637",
         "type": "batting",
-        "hab": "18/91",
+        "hab": "19/91",
         "r": "11",
         "hr": "1",
-        "rbi": "10",
+        "rbi": "11",
         "sb": "1",
-        "k": "14",
-        "tb": "24",
-        "obp": ".242"
+        "k": "15",
+        "tb": "25",
+        "obp": ".253"
       },
       "yahooNews": [
-        {
-          "t": "Three More Toronto Blue Jays Earn All-Star Game Selections",
-          "s": "The first baseman was voted in as a starter for the American League All-Star Game.",
-          "by": "Brady Farkas",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/three-more-toronto-blue-jays-001107572.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Blue Jays vs Mariners Prediction, Odds \\u0026 Home Run Pick for Today's MLB Game",
-          "s": "Shane Bieber has always had electric stuff, and our expert Blue Jays and MLB predictions expect the righty to rack up the strikeouts against the strikeout-prone Mariners.",
-          "by": "Phil Naessens",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-vs-mariners-prediction-184700249.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Blue Jays predicted to lead AL with five All-Star representatives",
-          "s": "This would be a strong contingent for the Blue Jays to send to Philadelphia.",
-          "by": "Matt Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-predicted-lead-al-193602849.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Blue Jays success rides on the one player who isn’t helping right now",
-          "s": "MLB The Toronto Blue Jays got another reminder of how fragile their offense looks when Vladimir Guerrero Jr. is not right. Guerrero was scratched from Tuesday’s lineup against the Mets because of back tightness, and Toronto was shut out 3-0.…",
-          "by": "Derek Antoine",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-success-rides-one-171109757.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dylan Cease strikes out 9 in 7 innings as Blue Jays blank Mariners 2-0 in ALCS rematch",
-          "s": "Dylan Cease struck out nine in seven sharp innings to pitch the Toronto Blue Jays past the Seattle Mariners 2-0 on Friday night in a rematch of last year's American League Championship Series. Andrés Giménez hit an RBI double and scored when Vladimir Guerrero Jr. singled off Mariners starter Luis Castillo in the third. Sean Keys was 2 for 4 with a double and a run.",
-          "by": "",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/dylan-cease-strikes-9-7-051014385.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Cease won’t desist, Jays beat M’s 2-0",
-          "s": "Tonight’s game began with a raucous ceremonial first pitch from head coach Mauricio Pochettino and the U.S. Men’s National Team. Canada would own the rest of the night. The first inning was the canary in the coal mine, as J.P. Crawford biffed yet another throw from the hot corner in the top half, and in […]",
-          "by": "",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/cease-won-t-desist-jays-052230272.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Seattle Mariners Offense Stifled Again in 2-0 Loss to Toronto Blue Jays",
-          "s": "The Mariners had no answers for Blue Jays starting pitcher Dylan Cease and fell out of first place in the American League West.",
-          "by": "Teren Kowatsch",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-offense-stifled-again-054035526.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Blue Jays play the Mariners leading series 1-0",
-          "s": "Toronto Blue Jays (42-46, third in the AL East) vs. Seattle Mariners (45-44, second in the AL West) Seattle; Saturday, 4:10 p.m. EDT PITCHING PROBABLES: Blue Jays: Shane Bieber (0-0, 6.00 ERA, 2.00 WHIP, six strikeouts); Mariners: Logan Gilbert (6-5, 3.42 ERA, 1.01 WHIP, 107 strikeouts) LINE: Blue Jays -136, Mariners +112; over/under is 7 runs BOTTOM LINE: The Toronto Blue Jays bring a 1-0 advantage into the next game of the series against the Seattle Mariners. Seattle is 45-44 overall and 25-20 at home.",
-          "by": "The Associated Press",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-play-mariners-leading-075636224.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Blue Jays vs Mariners Prediction, Odds \\u0026 Home Run Pick for Tonight's MLB Game",
-          "s": "Dylan Cease leads the show in strikeouts, and our expert MLB predictions expect the Blue Jays righty to rack up the strikeouts tonight in Seattle.",
-          "by": "Ethan Diamandas",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/blue-jays-vs-mariners-prediction-155800877.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mariners look to keep home win streak going, host the Blue Jays",
-          "s": "Toronto Blue Jays (41-46, third in the AL East) vs. Seattle Mariners (45-43, second in the AL West) Seattle; Friday, 10:10 p.m. EDT PITCHING PROBABLES: Blue Jays: Dylan Cease (4-4, 3.02 ERA, 1.24 WHIP, 128 strikeouts); Mariners: Luis Castillo (3-6, 4.93 ERA, 1.36 WHIP, 73 strikeouts) LINE: Blue Jays -132, Mariners +108; over/under is 7 runs BOTTOM LINE: The Seattle Mariners will try to keep their four-game home win streak intact when they play the Toronto Blue Jays. Seattle has a 25-19 record at home and a 45-43 record overall.",
-          "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-look-keep-home-win-075605640.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Vladimir Guerrero Jr. Celebrates Bo Bichette's Return to Rogers Centre After Mets Signing",
-          "s": "Toronto Blue Jays first baseman Vladimir Guerrero Jr. had words for Bo Bichette on Tuesday.",
-          "by": "Gavin Groe",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/vladimir-guerrero-jr-celebrates-bo-202324762.html",
-          "fetchedAt": 1783219090755
-        },
         {
           "t": "Vladimir Guerrero Jr. Shares Positive Injury Update Ahead of Mariners Series",
           "s": "Guerrero returned to Toronto's starting lineup amid a back issue.",
@@ -340,12 +180,6 @@
         }
       ],
       "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. to sit out ASG due to back",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/vladimir-guerrero-jr-to-sit-out-asg-due-to-back",
-          "fetchedAt": 1783218988235
-        },
         {
           "t": "Vladimir Guerrero Jr. (back) in Wednesday's lineup",
           "date": "2026-07-01",
@@ -377,130 +211,42 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "2/4",
+        "r": "2",
+        "hr": "2",
+        "rbi": "3",
+        "sb": "0",
+        "k": "0",
+        "tb": "8",
+        "obp": ".600"
       },
       "lastWeekStats": {
-        "rank": "7",
+        "rank": "1",
         "type": "batting",
-        "hab": "10/21",
-        "r": "5",
-        "hr": "3",
-        "rbi": "10",
+        "hab": "12/24",
+        "r": "7",
+        "hr": "5",
+        "rbi": "13",
         "sb": "0",
         "k": "1",
-        "tb": "22",
-        "obp": ".500"
+        "tb": "30",
+        "obp": ".538"
       },
       "lastMonthStats": {
-        "rank": "3",
+        "rank": "2",
         "type": "batting",
-        "hab": "26/82",
-        "r": "18",
-        "hr": "11",
-        "rbi": "28",
+        "hab": "28/84",
+        "r": "20",
+        "hr": "13",
+        "rbi": "31",
         "sb": "0",
         "k": "12",
-        "tb": "64",
-        "obp": ".356"
+        "tb": "72",
+        "obp": ".371"
       },
       "yahooNews": [
-        {
-          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay \\u0026 Odds for Saturday, July 4",
-          "s": "With Luis García Jr., Junior Caminero, and Rafael Devers absolutely scorching the ball right now, we are locking into their power surges for Saturday’s July 4 MLB home run picks and predictions.",
-          "by": "Quinn Allen",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132200805.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "García and Lile each homer twice as the Nationals rout the Pirates 9-5",
-          "s": "Luis García Jr. and Daylen Lile each homered twice, and José Tena also went deep for Washington as the Nationals beat the Pittsburgh Pirates 9-5 on Friday night. Foster Griffin (9-2) allowed a run and four hits in five innings, lowering his ERA to 2.87 for the Nationals. Washington has won five of six.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/garc-lile-homer-twice-nationals-014931442.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Pirates Fall to Nationals in Series Opener; Another Rough Start for Mitch Keller",
-          "s": "WASHINGTON — The Pittsburgh Pirates dropped the first of their three-game road series with the Washington Nationals 9-5 on Friday after […] The post Pirates Fall to Nationals in Series Opener; Another Rough Start for Mitch Keller appeared first on Pittsburgh Baseball Now.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-fall-nationals-series-opener-014811077.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Five Home Runs Fuel Washington Nationals Past Pittsburgh Pirates",
-          "s": "Daylen Lile and Luis Garcia each accounted for two home runs as the Washington Nationals opened the series with a 9-2 win vs. Pittsburgh Pirates",
-          "by": "Ahmed Ghafir",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/five-home-runs-fuel-washington-014607357.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Nationals' Emerging Infielder Wins MLB Weekly Honors",
-          "s": "Luis Garcia Jr.'s incredible production over the past week won him an award from Major League Baseball.",
-          "by": "Joe Najarian",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/nationals-emerging-infielder-wins-mlb-231932770.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Luis Garcia Jr Is Embracing His Strengths For the Washington Nationals",
-          "s": "The Nats first baseman has doubled down on his skillset in 2026, and it’s working",
-          "by": "Paul Cubbage",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/luis-garcia-jr-embracing-strengths-163000029.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay \\u0026 Odds for Friday, July 3",
-          "s": "Friday's favorite looks to leave the yard, as Colby Marchio's home run picks focus on some of baseball’s most dangerous power bats, including James Wood, on July 3.",
-          "by": "Colby Marchio",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132000234.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Pirates fall to Nationals in series opener; another rough start for Mitch Keller",
-          "s": "The Pittsburgh Pirates dropped the first of their three-game road series with the Washington Nationals 9-5 on Friday after another shaky night from Mitch Keller, who allowed three home runs in the loss.",
-          "by": "Griffin Floyd",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/pirates-fall-nationals-series-opener-020446286.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Nationals play the Pirates in first of 3-game series",
-          "s": "Pittsburgh Pirates (44-44, fourth in the NL Central) vs. Washington Nationals (45-43, fourth in the NL East) Washington; Friday, 6:45 p.m. EDT PITCHING PROBABLES: Pirates: Mitch Keller (6-5, 4.87 ERA, 1.30 WHIP, 73 strikeouts); Nationals: Foster Griffin (8-2, 2.93 ERA, 1.04 WHIP, 98 strikeouts) LINE: Nationals -142, Pirates +117; over/under is 9 1/2 runs BOTTOM LINE: The Washington Nationals begin a three-game series at home against the Pittsburgh Pirates on Friday. Washington has a 17-25 record in home games and a 45-43 record overall.",
-          "by": "The Associated Press",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/nationals-play-pirates-first-3-075545322.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Orioles drop series with 6-4 loss to Nats",
-          "s": "Kyle Bradish walked five batters, and Washington’s Luis García Jr made the Birds pay in a 6-4 result at Camden Yards.",
-          "by": "Alex Church",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/orioles-drop-series-6-4-205028124.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "García's 2 home runs lift Nationals to a 6-4 victory over Orioles",
-          "s": "Luis García Jr. homered twice and drove in five runs to lead the Washington Nationals to a 6-4 victory over the Baltimore Orioles on Sunday. Pete Alonso and Jackson Holliday each hit a two-run homer for the Orioles, but after Zack Littell (7-6) allowed two runs and three hits in five innings, a maligned Washington bullpen held on. Alonso hit a 437-foot home run in the first and Kyle Bradish (5-8) retired the first eight Washington hitters.",
-          "by": "",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/garc-2-home-runs-lift-204050026.html",
-          "fetchedAt": 1783219090755
-        },
         {
           "t": "Washington Nationals 1B Luis García Jr Honored After Monster Week",
           "s": "García earned his first career Player of the Week honor.",
@@ -524,18 +270,6 @@
         }
       ],
       "nbcNews": [
-        {
-          "t": "Luis García Jr. homers twice in win over Pirates",
-          "date": "2026-07-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/luis-garcia-jr-homers-twice-in-win-over-pirates",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Abrams is not in the starting lineup on Wednesday",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/abrams-is-not-in-the-starting-lineup-on-wednesday",
-          "fetchedAt": 1783218988235
-        },
         {
           "t": "Luis García Jr. homers twice, plates five in win",
           "date": "2026-06-28",
@@ -562,114 +296,42 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/4",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "2",
+        "tb": "2",
+        "obp": ".250"
       },
       "lastWeekStats": {
-        "rank": "327",
+        "rank": "506",
         "type": "batting",
-        "hab": "6/24",
-        "r": "4",
+        "hab": "4/23",
+        "r": "3",
         "hr": "1",
-        "rbi": "2",
+        "rbi": "1",
         "sb": "1",
-        "k": "7",
-        "tb": "11",
-        "obp": ".308"
+        "k": "8",
+        "tb": "9",
+        "obp": ".240"
       },
       "lastMonthStats": {
-        "rank": "241",
+        "rank": "291",
         "type": "batting",
-        "hab": "24/90",
+        "hab": "25/94",
         "r": "12",
         "hr": "5",
         "rbi": "10",
         "sb": "3",
-        "k": "23",
-        "tb": "44",
-        "obp": ".323"
+        "k": "25",
+        "tb": "46",
+        "obp": ".320"
       },
       "yahooNews": [
-        {
-          "t": "Royce Lewis Sends Message to Twins Fans After Another Loss in the Bronx",
-          "s": "Lewis acknowledged the history between Minnesota and New York but said he sees the Yankees as just another team he is excited to play against.",
-          "by": "Grant Mona",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/royce-lewis-sends-message-twins-203314579.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Rockies Get Another Lesson They Must Learn From in Twins Defeat",
-          "s": "You wouldn't want to call the Colorado Rockies' loss to the Minnesota Twins on Friday night, 'a pyrrhic victory', as a loss is still a loss. Still, the way the",
-          "by": "Ryan Boman",
-          "when": "7d ago",
-          "href": "https://sports.yahoo.com/articles/rockies-another-lesson-must-learn-140007467.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Twins beat the Rockies 9-8 in 10 innings after blowing a 7-run lead",
-          "s": "Royce Lewis slipped an RBI single up the middle in the 10th inning and the Minnesota Twins beat the Colorado Rockies 9-8 on Friday night after blowing a seven-run lead. Lewis had his first career walk-off hit and Minnesota's first of the season. Pinch-running for Josh Bell at second, Kyler Fedko advanced to third base on a wild pitch by Jimmy Herget (0-2) before Lewis hit a grounder past a diving Ezequiel Tovar at shortstop.",
-          "by": "",
-          "when": "7d ago",
-          "href": "https://sports.yahoo.com/articles/bbo--rockies-twins-034113596.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Twins’ Royce Lewis walks off Rockies with epic 10th inning hit",
-          "s": "The Twins rallied after blowing a seven-run lead as Royce Lewis came through with his first career walk-off hit to beat the Rockies 9-8.",
-          "by": "Abdullah Imran, ClutchPoints",
-          "when": "7d ago",
-          "href": "https://sports.yahoo.com/articles/twins-royce-lewis-walks-off-041212697.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Twins 9, Rockies 8: Royce walks off game with crazy (idiotic) finish",
-          "s": "The Twins led 7-0 to start the eighth, so that gives you an indication what happened!",
-          "by": "James Fillmore",
-          "when": "7d ago",
-          "href": "https://sports.yahoo.com/articles/twins-9-rockies-8-royce-033722065.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Royce Lewis' return to Twins hasn't been enough to keep him out of trade rumors",
-          "s": "The Minnesota Twins and Royce Lewis could know a lot about their future in the next six weeks.",
-          "by": "Chris Schad",
-          "when": "12d ago",
-          "href": "https://sports.yahoo.com/articles/royce-lewis-return-twins-hasnt-000002843.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Yankees’ perfect trade offer for Twins’ Royce Lewis",
-          "s": "The New York Yankees are ruling the American League, and here is their perfect trade offer for Twins infielder Royce Lewis.",
-          "by": "Douglas Fritz, ClutchPoints",
-          "when": "12d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-perfect-trade-offer-twins-232945014.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Derek Shelton Addresses Minnesota Twins' Ugly Night Against the Yankees",
-          "s": "Minnesota went 1-for-12 with runners in scoring position on Friday, but the bigger picture still looks promising.",
-          "by": "Grant Mona",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/derek-shelton-addresses-minnesota-twins-194922021.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Phillies’ perfect trade offer for Twins’ Royce Lewis",
-          "s": "Can the Phillies land Royce Lewis? Explore the perfect trade offer featuring Devin Saltiban and Mavis Graves from Philadelphia",
-          "by": "Garrett Kerman, ClutchPoints",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/phillies-perfect-trade-offer-twins-183202318.html",
-          "fetchedAt": 1783219090755
-        },
         {
           "t": "Derek Shelton Sounds Off After Royce Lewis Delivers First Twins Walk-Off",
           "s": "Minnesota needed a walk-off, and it came at the perfect time.",
@@ -694,12 +356,6 @@
       ],
       "nbcNews": [
         {
-          "t": "Royce Lewis fans four times against Rangers",
-          "date": "2026-06-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-18/royce-lewis-fans-four-times-against-rangers",
-          "fetchedAt": 1783218988235
-        },
-        {
           "t": "Royce Lewis delivers walk-off win for Twins in 10",
           "date": "2026-06-26",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-26/royce-lewis-delivers-walk-off-win-for-twins-in-10"
@@ -712,741 +368,6 @@
       ]
     },
     {
-      "name": "Alec Burleson",
-      "team": "St. Louis Cardinals",
-      "pos": "1B,OF",
-      "id": 12550,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "batting",
-        "hab": "1/5",
-        "r": "2",
-        "hr": "1",
-        "rbi": "1",
-        "sb": "0",
-        "k": "1",
-        "tb": "4",
-        "obp": ".200"
-      },
-      "lastWeekStats": {
-        "rank": "632",
-        "type": "batting",
-        "hab": "1/19",
-        "r": "2",
-        "hr": "1",
-        "rbi": "1",
-        "sb": "0",
-        "k": "4",
-        "tb": "4",
-        "obp": ".143"
-      },
-      "lastMonthStats": {
-        "rank": "25",
-        "type": "batting",
-        "hab": "24/95",
-        "r": "18",
-        "hr": "7",
-        "rbi": "19",
-        "sb": "0",
-        "k": "12",
-        "tb": "53",
-        "obp": ".321"
-      },
-      "yahooNews": [
-        {
-          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay \\u0026 Odds for Saturday, June 13",
-          "s": "Quinn Allen breaks down his favorite MLB home run predictions for today's slate, featuring Shohei Ohtani, Alec Burleson, and Matt McLain.",
-          "by": "Quinn Allen",
-          "when": "21d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-124900243.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Burleson homers and drives in 3 to back May as Cardinals blank Mets 7-0 for 5th straight win",
-          "s": "Alec Burleson homered and drove in three runs Tuesday night to power the surging St. Louis Cardinals to a 7-0 victory over the New York Mets. Dustin May tossed six solid innings to snap a seven-start winless streak for the Cardinals, who have won five straight games — one shy of their season high. JJ Westerholt’s two-run double against Freddy Peralta (4-5) sparked a four-run third.",
-          "by": "",
-          "when": "25d ago",
-          "href": "https://sports.yahoo.com/articles/burleson-homers-drives-3-back-021455263.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Cardinals' Slugger Alec Burleson to JJ Wetherholt: Don't Chase the High Pitches",
-          "s": "Cardinals first baseman Alec Burleson likes to hit high pitches, but it isn't something that he would advise doing for players such as standout rookie JJ Wetherholt.",
-          "by": "John Denton",
-          "when": "27d ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-slugger-alec-burleson-jj-142203916.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Cardinals Fans Need to Start Talking More About Alec Burleson",
-          "s": "The St. Louis Cardinals slugger has been quietly awesome so far this season for the club.",
-          "by": "Patrick McAvoy",
-          "when": "28d ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-fans-start-talking-more-195048576.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "St. Louis Takes Chicago to Church as Cardinals Clobber the Cubs",
-          "s": "You could sense that the St. Louis Cardinals entered Wrigley Field Friday afternoon feeling the momentum of their inspiring series-winning comeback victory in Atlanta on Thursday. The Cardinals took the Cubs to Church in a Nathan kind of way to win Friday’s contest easily in Chicago. St. Louis did not wait long before they jumped […]",
-          "by": "",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/st-louis-takes-chicago-church-231309206.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay \\u0026 Odds for Saturday, July 4",
-          "s": "With Luis García Jr., Junior Caminero, and Rafael Devers absolutely scorching the ball right now, we are locking into their power surges for Saturday’s July 4 MLB home run picks and predictions.",
-          "by": "Quinn Allen",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132200805.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay \\u0026 Odds for Friday, July 3",
-          "s": "Friday's favorite looks to leave the yard, as Colby Marchio's home run picks focus on some of baseball’s most dangerous power bats, including James Wood, on July 3.",
-          "by": "Colby Marchio",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-132000234.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "What Is the Cardinals' Long-Term Plan for the Corner Infield?",
-          "s": "The second half of June hasn't been kind to St. Louis' postseason hopes.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-long-term-plan-corner-130000204.html"
-        },
-        {
-          "t": "Fantasy Baseball: Should You Buy-Low on These Veterans, Plus More Skill vs. Luck Factors",
-          "s": "Might we see a second-half surge from a few undervalued names?",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-should-you-buy-low-on-these-veterans-plus-more-skill-vs-luck-factors-143832221.html"
-        },
-        {
-          "t": "MLB First Basemen Power Rankings Entering Week 13",
-          "s": "A look at the top performers at first base through 12 weeks.",
-          "by": "",
-          "when": "6d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-first-basemen-power-rankings-160844087.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson gets day off Tuesday vs. D-backs",
-          "date": "2026-06-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-23/alec-burleson-gets-day-off-tuesday-vs-d-backs",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Alec Burleson homers as Cardinals crush Braves",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/alec-burleson-homers-as-cardinals-crush-braves"
-        }
-      ]
-    },
-    {
-      "name": "Nick Kurtz",
-      "team": "Athletics",
-      "pos": "1B",
-      "id": 64313,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "544",
-        "type": "batting",
-        "hab": "6/21",
-        "r": "4",
-        "hr": "0",
-        "rbi": "2",
-        "sb": "0",
-        "k": "8",
-        "tb": "6",
-        "obp": ".348"
-      },
-      "lastMonthStats": {
-        "rank": "26",
-        "type": "batting",
-        "hab": "26/101",
-        "r": "20",
-        "hr": "8",
-        "rbi": "22",
-        "sb": "1",
-        "k": "41",
-        "tb": "53",
-        "obp": ".380"
-      },
-      "yahooNews": [
-        {
-          "t": "Athletics stars Nick Kurtz, Shea Langeliers earn first All-Star Game selections",
-          "s": "The Athletics' two most productive players this season are headed to Philadelphia for the 2026 MLB All-Star Game.",
-          "by": "Ali Thanawalla",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/athletics-stars-nick-kurtz-shea-164800389.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Battle of two premier left-handed sluggers in Sacramento",
-          "s": "The priority is to contain Nick Kurtz as the Dodgers meet the A’s in West Sacramento for the first time",
-          "by": "Estevão Maximo",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/battle-two-premier-left-handed-184000213.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Athletics Who Will Have the Most Impact in July",
-          "s": "With July coming up soon, here are a few Athletics primed to have a great month.",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "7d ago",
-          "href": "https://sports.yahoo.com/articles/athletics-most-impact-july-210002314.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Athletics Trample Angels: Takeaways From Blowout Win",
-          "s": "Following a rocky stretch of games the Athletics are back where they started",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "7d ago",
-          "href": "https://sports.yahoo.com/articles/athletics-trample-angels-takeaways-blowout-200003763.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Shea Langeliers, Nick Kurtz Not Interested in Home Run Derby",
-          "s": "The A's All-Star candidate is closing in on a Philadelphia spot but would rather watch.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/shea-langeliers-nick-kurtz-not-220551475.html"
-        },
-        {
-          "t": "Joey Votto Calls Athletics' Nick Kurtz a Future MLB Superstar",
-          "s": "Votto, who spent his 17-year career with Cincinnati, praised Kurtz's ceiling.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/joey-votto-calls-athletics-nick-192504548.html"
-        },
-        {
-          "t": "MLB First Base Power Rankings Entering the Break",
-          "s": "A look at how the top first basemen stack up heading into July.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-first-power-rankings-entering-123900285.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Nick Kurtz takes over as AL starter at first base",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-takes-over-as-al-starter-at-first-base",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Nick Kurtz blasts 20th home run in loss Friday",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-blasts-20th-home-run-in-loss-friday",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Kurtz homers, drives in three in loss",
-          "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/kurtz-homers-drives-in-three-in-loss",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Nick Kurtz gets a breather against Angels Sunday",
-          "date": "2026-06-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/nick-kurtz-gets-a-breather-against-angels-sunday"
-        },
-        {
-          "t": "Nick Kurtz collects two hits, two RBI in victory",
-          "date": "2026-06-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/nick-kurtz-collects-two-hits-two-rbi-in-victory"
-        }
-      ]
-    },
-    {
-      "name": "Fernando Tatis Jr.",
-      "team": "San Diego Padres",
-      "pos": "2B,OF",
-      "id": 10639,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "batting",
-        "hab": "1/4",
-        "r": "2",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "1",
-        "k": "1",
-        "tb": "2",
-        "obp": ".400"
-      },
-      "lastWeekStats": {
-        "rank": "121",
-        "type": "batting",
-        "hab": "8/32",
-        "r": "4",
-        "hr": "2",
-        "rbi": "5",
-        "sb": "1",
-        "k": "6",
-        "tb": "16",
-        "obp": ".294"
-      },
-      "lastMonthStats": {
-        "rank": "49",
-        "type": "batting",
-        "hab": "33/114",
-        "r": "17",
-        "hr": "4",
-        "rbi": "15",
-        "sb": "6",
-        "k": "21",
-        "tb": "54",
-        "obp": ".333"
-      },
-      "yahooNews": [
-        {
-          "t": "Ranking Fernando Tatis Jr. trade suitors as Padres collapse continues",
-          "s": "Even AJ Preller can't put off San Diego's reckoning for much longer -and the only path forward might involve trading the face of the franchise.",
-          "by": "Chris Landers",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/ranking-fernando-tatis-jr-trade-181321091.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Padres victimized by the long ball against Cubs, dragging out four game slump",
-          "s": "CHICAGO - For the ones expecting an abundance of run production were left feeling underwhelmed on Monday following a 3-2 final.",
-          "by": "James Newell",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/padres-victimized-long-ball-against-031438637.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Padres’ Fernando Tatis Jr. can’t believe he missed Miguel Rojas pitch in blowout loss",
-          "s": "Padres star Fernando Tatis Jr. had no answer for infielder-turned-temporary-pitcher Miguel Rojas during Saturday's 15-3 loss vs. Dodgers",
-          "by": "Alex House, ClutchPoints",
-          "when": "6d ago",
-          "href": "https://sports.yahoo.com/articles/padres-fernando-tatis-jr-t-093051397.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Padres' Fernando Tatis Says He Could Be the 'Best Player in the World'",
-          "s": "San Diego Padres superstar Fernando Tatis Jr. knows what it takes for him to be the best.",
-          "by": "Matt Levine",
-          "when": "8d ago",
-          "href": "https://sports.yahoo.com/articles/padres-fernando-tatis-says-could-233001005.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "2 MLB superstars whose struggles are becoming concerning",
-          "s": "In MLB, when you acquire and develop a player from the beginning of their career, and they then become a superstar, the ultimate goal has been realized. The intention of player development is to find and nurture that franchise-defining player,…",
-          "by": "Ray Kuhn",
-          "when": "9d ago",
-          "href": "https://sports.yahoo.com/articles/2-mlb-superstars-whose-struggles-151952430.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Padres Show Some Offense From Tatis Jr., Machado in 7-6 Win Over Braves In Ten",
-          "s": "The San Diego Padres won their second straight game against the Atlanta Braves, 7-6 in ten innings on a walkoff single by Manny Machado in a game that also included a rare home from from Fernando Tatis Jr.",
-          "by": "Bob McCullough",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/padres-show-offense-tatis-jr-131755986.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "The good, the bad as the Padres split six games",
-          "s": "Padres notes - June 18",
-          "by": "Cheri Bell",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/good-bad-padres-split-six-044500256.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Fernando Tatis Jr.'s Resurgence Critical to Padres' Hopes Against Dodgers on Sunday Night Baseball",
-          "s": "San Diego and Los Angeles conclude a crucial series with Tatis heating up.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/fernando-tatis-jr-resurgence-critical-201215601.html"
-        },
-        {
-          "t": "Fernando Tatis Jr. Surprisingly High on Padres' All-Time Home Run List",
-          "s": "Tatis finds himself on a surprising list in San Diego franchise history.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/fernando-tatis-jr-surprisingly-high-171138416.html"
-        },
-        {
-          "t": "Padres Cannot Overcome JP Sears, Lose to Cubs",
-          "s": "San Diego drops another game as its slump continues.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/padres-cannot-overcome-jp-sears-133000997.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. blasts third homer in victory",
-          "date": "2026-06-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/fernando-tatis-jr-blasts-third-homer-in-victory",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Fernando Tatis Jr. goes deep twice against Cubs",
-          "date": "2026-06-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/fernando-tatis-jr-goes-deep-twice-against-cus"
-        },
-        {
-          "t": "Fernando Tatis Jr. draws first off day since May 3",
-          "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/fernando-tatis-jr-draws-first-off-day-since-may-3"
-        }
-      ]
-    },
-    {
-      "name": "Jesús Made",
-      "team": "Milwaukee Brewers",
-      "pos": "2B,3B,SS",
-      "id": 64897,
-      "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "1523",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastMonthStats": {
-        "rank": "1631",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "yahooNews": [
-        {
-          "t": "Loaded 2026 MLB Futures Game Showcases Baseball’s Next Wave of Superstars",
-          "s": "MLB’s brightest young stars are heading to Philadelphia. The 2026 MLB All-Star Futures Game arrives at Citizens Bank Park on […]",
-          "by": "Isaac Ciravolo",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/loaded-2026-mlb-futures-game-205657272.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brewers Budding Star Jess Made Is Breaking Double-A Pitching",
-          "s": "The Milwaukee Brewers have the most exciting prospect in baseball right now.",
-          "by": "Patrick McAvoy",
-          "when": "6d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-budding-star-jess-made-210002012.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brewers Top 50 Prospects – June 2026 Update",
-          "s": "Jesus Made remains atop the Brewers top 50 prospects list in the June update",
-          "by": "Dave Gasper",
-          "when": "10d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-top-50-prospects-june-110000768.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brewers' Top Prospect Jesus Made Exits Double-A Game Due to Injury",
-          "s": "The No. 1 prospect in baseball, Milwaukee Brewers shortstop Jesus Made, is dealing with an injury. Here's what we know right now.",
-          "by": "Justin Binkowski",
-          "when": "16d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-top-prospect-jesus-made-061941593.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "MLB prospect rankings reveal young stars trade deadline buyers are hiding",
-          "s": "While prospects are sure to be available at this year's MLB trade deadline, most contenders won't be willing to trade the best of the best that they have to offer.",
-          "by": "Zachary Rotman",
-          "when": "17d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-prospect-rankings-reveal-young-220717694.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brewers Prospect Andrew Fischer Set to Join Forces With Jesus Made",
-          "s": "The Milwaukee Brewers are reportedly making a massive move involving one of the team's top prospects, third baseman Andrew Fischer.",
-          "by": "Justin Binkowski",
-          "when": "19d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-prospect-andrew-fischer-set-032603666.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "2026 MLB All-Star Game: Full rosters for American and National Leagues",
-          "s": "The full rosters for the 2026 MLB All-Star Game were revealed on July 4. The Midsummer Classic will be held in Philadelphia on July 14.",
-          "by": "Jim Reineking, USA TODAY",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/2026-mlb-star-game-full-003946035.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brewers unlikely to bench .529 OPS infielder despite pair of fun prospect options",
-          "s": "This struggling infielder isn't going anywhere just yet.",
-          "by": "Matt Sullivan",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/brewers-unlikely-bench-529-ops-150434525.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "What Collectors Need to Know Now That Jesus Made is MLB's Top Prospect",
-          "s": "Jesus Made's rise up the prospect ranking to number first have mirrored his rise in card value.",
-          "by": "Adam Cellurale",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/collectors-know-now-jesus-made-183255519.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Milwaukee Brewers Lead Baseball With Whopping 9 Prospects on Top-100 List",
-          "s": "Milwaukee landed nine prospects on the fresh top-100 list from Baseball America.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/milwaukee-brewers-lead-baseball-whopping-170554608.html"
-        },
-        {
-          "t": "Brewers' Top Prospects Selected to All-Star Futures Game",
-          "s": "Two of Milwaukee's top prospects earned Futures Game selections.",
-          "by": "",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-selected-star-000004366.html"
-        },
-        {
-          "t": "Brewers' Top Prospects Jesús Made, Luis Peña Named to 2026 All-Star Futures Game",
-          "s": "Made joins fellow top prospect Luis Peña on the Futures Game roster.",
-          "by": "",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-jes-made-130000422.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Jesús Made tallies four hits in Double-A action",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/jesus-made-tallies-four-hits-in-double-a-action"
-        },
-        {
-          "t": "Jesús Made headlines NL Futures Game roster",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/brewers-ss-prospect-made-leads-nl-futures-team"
-        },
-        {
-          "t": "Jesús Made collects five RBI in Double-A return",
-          "date": "2026-06-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/jesus-made-collects-five-rbi-in-double-a-return"
-        }
-      ]
-    },
-    {
-      "name": "Brendan Donovan",
-      "team": "Seattle Mariners",
-      "pos": "2B,3B,SS,OF",
-      "id": 12351,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
-      "ilStatus": "IL10",
-      "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "847",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastMonthStats": {
-        "rank": "1030",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "yahooNews": [
-        {
-          "t": "How Should Seattle Mariners Handle Roster When Brendan Donovan Returns?",
-          "s": "The versatile chess piece looks like he'll be back right after the All-Star break.",
-          "by": "Brady Farkas",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-handle-roster-brendan-230014446.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Latest Brendan Donovan Update Gives Mariners Another Reason to Rethink Their Lineup",
-          "s": "Brendan Donovan could begin a rehab assignment soon, giving the Mariners another reason to rethink their lineup down the stretch.",
-          "by": "Tremayne Person",
-          "when": "13d ago",
-          "href": "https://sports.yahoo.com/articles/latest-brendan-donovan-gives-mariners-031600212.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mariners' Brendan Donovan Trade Looks Like an Unsettling Deadline Cautionary Tale",
-          "s": "Brendan Donovan has been productive when healthy, but his limited availability should complicate the Mariners' trade deadline approach.",
-          "by": "Tremayne Person",
-          "when": "20d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-brendan-donovan-trade-looks-030700614.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brendan Donovan's Latest All-Star Mention Feels Oddly Outdated for the Mariners",
-          "s": "MLB's All-Star voting guide mentioned Brendan Donovan, but the Mariners' current roster reality makes that case messy.",
-          "by": "Tremayne Person",
-          "when": "28d ago",
-          "href": "https://sports.yahoo.com/articles/brendan-donovans-latest-star-mention-030500226.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Cal Raleigh, Brendan Donovan Take Next Steps Forward in Recovery",
-          "s": "The pair of 2025 All-Stars are working their back to returning for the Seattle Mariners",
-          "by": "Teren Kowatsch",
-          "when": "36d ago",
-          "href": "https://sports.yahoo.com/articles/cal-raleigh-brendan-donovan-next-004314866.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mariners' biggest offseason regret being All-Star trade pickup makes no sense",
-          "s": "This player should not be the Mariners biggest regret from their offseason.",
-          "by": "Matt Sullivan",
-          "when": "42d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-biggest-offseason-regret-being-194958040.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brendan Donovan's Return Leaves Mariners with a Loaded Roster Decision Ahead",
-          "s": "Brendan Donovan's eventual return gives Seattle more options, but it may also leave the Mariners with one bench piece too many.",
-          "by": "Tremayne Person",
-          "when": "46d ago",
-          "href": "https://sports.yahoo.com/articles/brendan-donovans-return-leaves-mariners-140600471.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Here's What Dan Wilson Had to Say About Brendan Donovan's Injury",
-          "s": "Wilson explained why Donovan was out of the lineup for the second-straight game ahead of the latter being placed on the 10-day injured list.",
-          "by": "Teren Kowatsch",
-          "when": "48d ago",
-          "href": "https://sports.yahoo.com/articles/heres-dan-wilson-had-brendan-214513001.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Cardinals Fans Denied Chance to Shower Brendan Donovan with Cheers",
-          "s": "A groin injury landed Brendan Donovan on the 10-day Injury List and kept him from playing in front of a Cardinals fanbase that almost assuredly would have showered him with cheers.",
-          "by": "John Denton",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/cardinals-fans-denied-chance-shower-225302079.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mariners’ Dan Wilson Shares Reason for Colt Emerson Decision After Brendan Donovan’s Injury",
-          "s": "The Mariners had an unfortunate news to share involving top prospect Colt Emerson after an update on Brendan Donovan.",
-          "by": "Xavier Constantino",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/mariners-dan-wilson-shares-reason-233958974.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mariners Are Already Getting Too Familiar With Brendan Donovan Injury Scares",
-          "s": "Brendan Donovan's latest injury scare adds to a growing concern for a Mariners team that brought him in to stabilize the lineup.",
-          "by": "Tremayne Person",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/mariners-already-getting-too-familiar-170200279.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Brendan Donovan's Injury Return Puts Mariners in a Dangerous Trade Deadline Trap",
-          "s": "Donovan's return could help Seattle's lineup, but complicates deadline math.",
-          "by": "",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/brendan-donovans-injury-return-puts-030700536.html"
-        },
-        {
-          "t": "Mariners Get Huge Brendan Donovan Boost for White Sox Series",
-          "s": "Seattle gets Donovan back from injury just in time for a key series.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-huge-brendan-donovan-boost-201923037.html"
-        },
-        {
-          "t": "Mariners Get 2 Crucial Injury Updates Before Royals Clash",
-          "s": "Seattle received two important injury updates before facing Kansas City.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/mariners-2-crucial-injury-updates-232934103.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Brendan Donovan (groin) to start rehab assignment",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/brendan-donovan-groin-to-start-rehab-assignment",
-          "fetchedAt": 1783218988235
-        },
-        {
-          "t": "Brendan Donovan (groin) progressing towards return",
-          "date": "2026-06-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/brendan-donovan-groin-progressing-towards-return"
-        }
-      ]
-    },
-    {
       "name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
       "pos": "SS",
@@ -1455,154 +376,42 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "2/5",
-        "r": "2",
+        "hab": "0/3",
+        "r": "1",
         "hr": "0",
-        "rbi": "1",
+        "rbi": "0",
         "sb": "0",
         "k": "0",
-        "tb": "3",
-        "obp": ".400"
+        "tb": "0",
+        "obp": ".250"
       },
       "lastWeekStats": {
-        "rank": "18",
+        "rank": "58",
         "type": "batting",
-        "hab": "10/27",
+        "hab": "9/27",
         "r": "5",
-        "hr": "2",
-        "rbi": "8",
+        "hr": "1",
+        "rbi": "7",
         "sb": "0",
         "k": "1",
-        "tb": "18",
-        "obp": ".393"
+        "tb": "14",
+        "obp": ".357"
       },
       "lastMonthStats": {
-        "rank": "70",
+        "rank": "60",
         "type": "batting",
-        "hab": "31/104",
+        "hab": "31/102",
         "r": "19",
         "hr": "5",
         "rbi": "12",
         "sb": "1",
-        "k": "13",
+        "k": "12",
         "tb": "52",
-        "obp": ".342"
+        "obp": ".355"
       },
       "yahooNews": [
-        {
-          "t": "Dodgers' Mookie Betts Feels Like Steph Curry Right Now",
-          "s": "Los Angeles Dodgers superstar Mookie Betts feels like Golden State Warriors superstar Stephen Curry.",
-          "by": "Gabe Smallson",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-mookie-betts-feels-steph-160004127.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers Overcome Brutal Roki Sasaki Start to Beat Padres",
-          "s": "The Los Angeles Dodgers played a great game on Thursday, July 2, against the San Diego Padres, overcoming a rough outing from Roki Sasaki.",
-          "by": "Nelson Espinal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-overcome-brutal-roki-sasaki-063452295.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers’ Mookie Betts Reveals Latest Off-Field Move Amid 13th MLB Season",
-          "s": "Los Angeles Dodgers shortstop Mookie Betts made an announcement.",
-          "by": "Gavin Groe",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-mookie-betts-reveals-latest-220535535.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers Notes: Mookie Betts Injury Update, LA Demotes Pitcher, Dalton Rushing's Adjustment",
-          "s": "The Los Angeles Dodgers have a Mookie Betts injury update, demoted a pitcher and Dalton Rushing had an adjustment made to his swing.",
-          "by": "Gabe Smallson",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-notes-mookie-betts-injury-125900762.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers shortstop Mookie Betts’ wrist injury gets optimistic Dave Roberts update",
-          "s": "Los Angeles Dodgers star shortstop Mookie Betts is expected back in the lineup on Thursday after right wrist soreness improved with treatment.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-shortstop-mookie-betts-wrist-062727777.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dave Roberts Gives Mookie Betts Injury Update After Lineup Scratch",
-          "s": "Los Angeles Dodgers manager Dave Roberts spoke about Mookie Betts' sudden lineup removal on Wednesday and his wrist injury.",
-          "by": "Nelson Espinal",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/dave-roberts-gives-mookie-betts-010414792.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mookie Betts Scratched from Dodgers Lineup Due to Wrist Soreness Ahead of Game vs. Athletics",
-          "s": "The Dodgers star shortstop Mookie Betts was scratched from Wednesday’s lineup versus the Athletics.",
-          "by": "Tate Mosher",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-scratched-dodgers-lineup-004725977.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mookie Betts Suddenly Removed From Dodgers Lineup Before A’s Game",
-          "s": "Los Angeles Dodgers shortstop Mookie Betts was removed from the lineup on Wednesday, July 1st, without any notice.",
-          "by": "Nelson Espinal",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-suddenly-removed-dodgers-001503731.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers Lineup vs Padres: Shohei Ohtani Out With Injury",
-          "s": "The Los Angeles Dodgers' lineup, pitching matchups and how to watch Saturday's game against the San Diego Padres.",
-          "by": "Noah Camras",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/dodgers-lineup-vs-padres-shohei-220140795.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Despite Rough Outing From Sasaki, Dodgers Complete Comeback Win Over Padres",
-          "s": "The Los Angeles Dodgers overcame a rough start from Roki Sasaki to earn the win against the San Diego Padres.",
-          "by": "Adrian Medina",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/despite-rough-outing-sasaki-dodgers-051956336.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers overcome Roki Sasaki's poor performance to rout Padres",
-          "s": "Roki Sasaki gives up six runs in only three innings, but the Dodgers offense comes through by scoring 12 straight runs against the beleaguered Padres.",
-          "by": "Liana Handler",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/dodgers-overcome-roki-sasakis-poor-053756563.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers Post podcast: Roki Sasaki is running out of excuses",
-          "s": "What to make of Roki Sasaki’s latest implosion? That’s what California Post baseball writers Dylan Hernandez and Jack Harris discuss on the latest episode of the Dodgers Post podcast. While...",
-          "by": "",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/dodgers-post-podcast-roki-sasaki-211731360.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Dodgers Fans Pick Player of the Week: Mookie Betts, Shohei Ohtani or Freddie Freeman?",
-          "s": "Los Angeles Dodgers fans make their pick for Player of the Week! Who takes the crown: Mookie Betts, Shohei Ohtani, or Freddie Freeman? Read the fan verdict.",
-          "by": "Cameron Kiszla",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/dodgers-fans-pick-player-week-220548469.html",
-          "fetchedAt": 1783219090755
-        },
-        {
-          "t": "Mookie Betts’ Surprisingly Strong All-Star Case",
-          "s": "Think Mookie Betts is only an All-Star finalist on name recognition? Think again. His elite defense and recent hot streak make a strong case for the Midsummer Classic.",
-          "by": "Cameron Kiszla",
-          "when": "",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-surprisingly-strong-star-180850013.html",
-          "fetchedAt": 1783219090755
-        },
         {
           "t": "Dodgers Lineup vs Padres: Mookie Betts Status Revealed After Injury",
           "s": "The Dodgers' lineup, pitching matchups and how to watch Thursday's game.",
@@ -1662,40 +471,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "1/5",
+        "hab": "1/3",
         "r": "0",
         "hr": "0",
         "rbi": "0",
-        "sb": "0",
+        "sb": "2",
         "k": "1",
         "tb": "1",
-        "obp": ".200"
+        "obp": ".600"
       },
       "lastWeekStats": {
-        "rank": "462",
+        "rank": "273",
         "type": "batting",
-        "hab": "7/29",
+        "hab": "8/29",
         "r": "3",
         "hr": "1",
-        "rbi": "3",
-        "sb": "0",
+        "rbi": "2",
+        "sb": "2",
         "k": "8",
-        "tb": "11",
-        "obp": ".281"
+        "tb": "12",
+        "obp": ".364"
       },
       "lastMonthStats": {
-        "rank": "835",
+        "rank": "753",
         "type": "batting",
-        "hab": "8/36",
+        "hab": "9/39",
         "r": "4",
         "hr": "1",
         "rbi": "3",
-        "sb": "0",
-        "k": "10",
-        "tb": "12",
-        "obp": ".293"
+        "sb": "2",
+        "k": "11",
+        "tb": "13",
+        "obp": ".326"
       },
       "yahooNews": [
         {
@@ -1744,73 +553,79 @@
       ]
     },
     {
-      "name": "José Ramírez",
-      "team": "Cleveland Guardians",
-      "pos": "3B",
-      "id": 9507,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
-      "ilStatus": "IL10",
-      "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
+      "name": "Alec Burleson",
+      "team": "St. Louis Cardinals",
+      "pos": "1B,OF",
+      "id": 12550,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
+      "ilStatus": null,
+      "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "2/5",
+        "r": "1",
+        "hr": "0",
+        "rbi": "4",
+        "sb": "0",
+        "k": "0",
+        "tb": "2",
+        "obp": ".400"
       },
       "lastWeekStats": {
-        "rank": "1097",
+        "rank": "416",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "3/21",
+        "r": "3",
+        "hr": "1",
+        "rbi": "5",
+        "sb": "0",
+        "k": "3",
+        "tb": "6",
+        "obp": ".182"
       },
       "lastMonthStats": {
-        "rank": "608",
+        "rank": "25",
         "type": "batting",
-        "hab": "10/39",
-        "r": "9",
-        "hr": "2",
-        "rbi": "2",
-        "sb": "4",
-        "k": "9",
-        "tb": "17",
-        "obp": ".293"
+        "hab": "24/96",
+        "r": "19",
+        "hr": "7",
+        "rbi": "20",
+        "sb": "0",
+        "k": "12",
+        "tb": "52",
+        "obp": ".318"
       },
       "yahooNews": [
         {
-          "t": "Guardians' Stephen Vogt Shares Important Jose Ramirez Injury Update",
-          "s": "Cleveland manager Stephen Vogt recently shared a crucial injury update on star third baseman José Ramírez.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-stephen-vogt-shares-important-165803032.html"
+          "t": "What Is the Cardinals' Long-Term Plan for the Corner Infield?",
+          "s": "The second half of June hasn't been kind to St. Louis' postseason hopes.",
+          "by": "",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/cardinals-long-term-plan-corner-130000204.html"
         },
         {
-          "t": "Guardians' Latest Injury Updates on Chase DeLauter, Jose Ramirez, Angel Martinez",
-          "s": "Chase DeLauter is nearing a return for Cleveland, but Ramírez and Angel Martínez are still a ways off.",
-          "by": "Tommy Wild",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-latest-injury-updates-chase-125012551.html"
+          "t": "Fantasy Baseball: Should You Buy-Low on These Veterans, Plus More Skill vs. Luck Factors",
+          "s": "Might we see a second-half surge from a few undervalued names?",
+          "by": "",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-should-you-buy-low-on-these-veterans-plus-more-skill-vs-luck-factors-143832221.html"
         },
         {
-          "t": "Guardians' Chase DeLauter Showing No Signs of Rust Since Injury",
-          "s": "DeLauter has given Cleveland an immediate boost since coming off the injured list.",
-          "by": "Tommy Wild",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-chase-delauter-showing-no-174029186.html"
+          "t": "MLB First Basemen Power Rankings Entering Week 13",
+          "s": "A look at the top performers at first base through 12 weeks.",
+          "by": "",
+          "when": "6d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-first-basemen-power-rankings-160844087.html"
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson homers as Cardinals crush Braves",
+          "date": "2026-07-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/alec-burleson-homers-as-cardinals-crush-braves"
+        }
+      ]
     },
     {
       "name": "Bryan Reynolds",
@@ -1821,40 +636,40 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
-        "hab": "1/4",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
+        "hab": "2/5",
+        "r": "2",
+        "hr": "1",
+        "rbi": "2",
         "sb": "0",
         "k": "2",
-        "tb": "1",
+        "tb": "6",
         "obp": ".400"
       },
       "lastWeekStats": {
-        "rank": "724",
+        "rank": "460",
         "type": "batting",
-        "hab": "5/29",
-        "r": "4",
-        "hr": "0",
-        "rbi": "1",
+        "hab": "6/29",
+        "r": "6",
+        "hr": "1",
+        "rbi": "3",
         "sb": "0",
-        "k": "12",
-        "tb": "6",
-        "obp": ".294"
+        "k": "13",
+        "tb": "11",
+        "obp": ".324"
       },
       "lastMonthStats": {
-        "rank": "79",
+        "rank": "45",
         "type": "batting",
-        "hab": "31/105",
-        "r": "19",
-        "hr": "5",
-        "rbi": "15",
+        "hab": "32/105",
+        "r": "20",
+        "hr": "6",
+        "rbi": "17",
         "sb": "0",
         "k": "30",
-        "tb": "54",
-        "obp": ".378"
+        "tb": "59",
+        "obp": ".387"
       },
       "yahooNews": [
         {
@@ -1893,6 +708,166 @@
       ]
     },
     {
+      "name": "Fernando Tatis Jr.",
+      "team": "San Diego Padres",
+      "pos": "2B,OF",
+      "id": 10639,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
+      "ilStatus": null,
+      "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "batting",
+        "hab": "0/4",
+        "r": "1",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "4",
+        "tb": "0",
+        "obp": ".200"
+      },
+      "lastWeekStats": {
+        "rank": "233",
+        "type": "batting",
+        "hab": "6/31",
+        "r": "5",
+        "hr": "2",
+        "rbi": "4",
+        "sb": "1",
+        "k": "8",
+        "tb": "13",
+        "obp": ".265"
+      },
+      "lastMonthStats": {
+        "rank": "55",
+        "type": "batting",
+        "hab": "32/114",
+        "r": "17",
+        "hr": "4",
+        "rbi": "15",
+        "sb": "6",
+        "k": "23",
+        "tb": "53",
+        "obp": ".331"
+      },
+      "yahooNews": [
+        {
+          "t": "Fernando Tatis Jr.'s Resurgence Critical to Padres' Hopes Against Dodgers on Sunday Night Baseball",
+          "s": "San Diego and Los Angeles conclude a crucial series with Tatis heating up.",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/fernando-tatis-jr-resurgence-critical-201215601.html"
+        },
+        {
+          "t": "Fernando Tatis Jr. Surprisingly High on Padres' All-Time Home Run List",
+          "s": "Tatis finds himself on a surprising list in San Diego franchise history.",
+          "by": "",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/fernando-tatis-jr-surprisingly-high-171138416.html"
+        },
+        {
+          "t": "Padres Cannot Overcome JP Sears, Lose to Cubs",
+          "s": "San Diego drops another game as its slump continues.",
+          "by": "",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/padres-cannot-overcome-jp-sears-133000997.html"
+        }
+      ],
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. goes deep twice against Cubs",
+          "date": "2026-06-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/fernando-tatis-jr-goes-deep-twice-against-cus"
+        },
+        {
+          "t": "Fernando Tatis Jr. draws first off day since May 3",
+          "date": "2026-06-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/fernando-tatis-jr-draws-first-off-day-since-may-3"
+        }
+      ]
+    },
+    {
+      "name": "Nick Kurtz",
+      "team": "Athletics",
+      "pos": "1B",
+      "id": 64313,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
+      "ilStatus": null,
+      "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "batting",
+        "hab": "2/4",
+        "r": "1",
+        "hr": "1",
+        "rbi": "2",
+        "sb": "0",
+        "k": "2",
+        "tb": "5",
+        "obp": ".600"
+      },
+      "lastWeekStats": {
+        "rank": "449",
+        "type": "batting",
+        "hab": "6/20",
+        "r": "3",
+        "hr": "1",
+        "rbi": "2",
+        "sb": "0",
+        "k": "8",
+        "tb": "9",
+        "obp": ".391"
+      },
+      "lastMonthStats": {
+        "rank": "17",
+        "type": "batting",
+        "hab": "27/101",
+        "r": "21",
+        "hr": "9",
+        "rbi": "23",
+        "sb": "1",
+        "k": "42",
+        "tb": "57",
+        "obp": ".388"
+      },
+      "yahooNews": [
+        {
+          "t": "Shea Langeliers, Nick Kurtz Not Interested in Home Run Derby",
+          "s": "The A's All-Star candidate is closing in on a Philadelphia spot but would rather watch.",
+          "by": "",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/shea-langeliers-nick-kurtz-not-220551475.html"
+        },
+        {
+          "t": "Joey Votto Calls Athletics' Nick Kurtz a Future MLB Superstar",
+          "s": "Votto, who spent his 17-year career with Cincinnati, praised Kurtz's ceiling.",
+          "by": "",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/joey-votto-calls-athletics-nick-192504548.html"
+        },
+        {
+          "t": "MLB First Base Power Rankings Entering the Break",
+          "s": "A look at how the top first basemen stack up heading into July.",
+          "by": "",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-first-power-rankings-entering-123900285.html"
+        }
+      ],
+      "nbcNews": [
+        {
+          "t": "Nick Kurtz gets a breather against Angels Sunday",
+          "date": "2026-06-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/nick-kurtz-gets-a-breather-against-angels-sunday"
+        },
+        {
+          "t": "Nick Kurtz collects two hits, two RBI in victory",
+          "date": "2026-06-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/nick-kurtz-collects-two-hits-two-rbi-in-victory"
+        }
+      ]
+    },
+    {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
       "pos": "OF",
@@ -1901,7 +876,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -1913,28 +888,28 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "480",
+        "rank": "485",
         "type": "batting",
-        "hab": "2/11",
-        "r": "3",
+        "hab": "1/6",
+        "r": "2",
         "hr": "0",
-        "rbi": "1",
+        "rbi": "0",
         "sb": "0",
-        "k": "3",
-        "tb": "3",
-        "obp": ".357"
+        "k": "1",
+        "tb": "1",
+        "obp": ".444"
       },
       "lastMonthStats": {
-        "rank": "567",
+        "rank": "573",
         "type": "batting",
-        "hab": "25/88",
+        "hab": "24/84",
         "r": "9",
         "hr": "1",
         "rbi": "7",
         "sb": "1",
         "k": "17",
-        "tb": "40",
-        "obp": ".337"
+        "tb": "39",
+        "obp": ".341"
       },
       "yahooNews": [
         {
@@ -1983,6 +958,235 @@
       ]
     },
     {
+      "name": "José Ramírez",
+      "team": "Cleveland Guardians",
+      "pos": "3B",
+      "id": 9507,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
+      "ilStatus": "IL10",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastWeekStats": {
+        "rank": "1095",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastMonthStats": {
+        "rank": "779",
+        "type": "batting",
+        "hab": "7/35",
+        "r": "6",
+        "hr": "1",
+        "rbi": "1",
+        "sb": "3",
+        "k": "9",
+        "tb": "11",
+        "obp": ".243"
+      },
+      "yahooNews": [
+        {
+          "t": "Guardians' Stephen Vogt Shares Important Jose Ramirez Injury Update",
+          "s": "Cleveland manager Stephen Vogt recently shared a crucial injury update on star third baseman José Ramírez.",
+          "by": "Joey Mistretta, ClutchPoints",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-stephen-vogt-shares-important-165803032.html"
+        },
+        {
+          "t": "Guardians' Latest Injury Updates on Chase DeLauter, Jose Ramirez, Angel Martinez",
+          "s": "Chase DeLauter is nearing a return for Cleveland, but Ramírez and Angel Martínez are still a ways off.",
+          "by": "Tommy Wild",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-latest-injury-updates-chase-125012551.html"
+        },
+        {
+          "t": "Guardians' Chase DeLauter Showing No Signs of Rust Since Injury",
+          "s": "DeLauter has given Cleveland an immediate boost since coming off the injured list.",
+          "by": "Tommy Wild",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-chase-delauter-showing-no-174029186.html"
+        }
+      ],
+      "nbcNews": []
+    },
+    {
+      "name": "Jesús Made",
+      "team": "Milwaukee Brewers",
+      "pos": "2B,3B,SS",
+      "id": 64897,
+      "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
+      "ilStatus": "NA",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastWeekStats": {
+        "rank": "1523",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastMonthStats": {
+        "rank": "1632",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "yahooNews": [
+        {
+          "t": "Milwaukee Brewers Lead Baseball With Whopping 9 Prospects on Top-100 List",
+          "s": "Milwaukee landed nine prospects on the fresh top-100 list from Baseball America.",
+          "by": "",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/milwaukee-brewers-lead-baseball-whopping-170554608.html"
+        },
+        {
+          "t": "Brewers' Top Prospects Selected to All-Star Futures Game",
+          "s": "Two of Milwaukee's top prospects earned Futures Game selections.",
+          "by": "",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-selected-star-000004366.html"
+        },
+        {
+          "t": "Brewers' Top Prospects Jesús Made, Luis Peña Named to 2026 All-Star Futures Game",
+          "s": "Made joins fellow top prospect Luis Peña on the Futures Game roster.",
+          "by": "",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-jes-made-130000422.html"
+        }
+      ],
+      "nbcNews": [
+        {
+          "t": "Jesús Made tallies four hits in Double-A action",
+          "date": "2026-07-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/jesus-made-tallies-four-hits-in-double-a-action"
+        },
+        {
+          "t": "Jesús Made headlines NL Futures Game roster",
+          "date": "2026-07-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/brewers-ss-prospect-made-leads-nl-futures-team"
+        },
+        {
+          "t": "Jesús Made collects five RBI in Double-A return",
+          "date": "2026-06-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/jesus-made-collects-five-rbi-in-double-a-return"
+        }
+      ]
+    },
+    {
+      "name": "Brendan Donovan",
+      "team": "Seattle Mariners",
+      "pos": "2B,3B,SS,OF",
+      "id": 12351,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
+      "ilStatus": "IL10",
+      "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastWeekStats": {
+        "rank": "842",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastMonthStats": {
+        "rank": "1028",
+        "type": "batting",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "yahooNews": [
+        {
+          "t": "Brendan Donovan's Injury Return Puts Mariners in a Dangerous Trade Deadline Trap",
+          "s": "Donovan's return could help Seattle's lineup, but complicates deadline math.",
+          "by": "",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/brendan-donovans-injury-return-puts-030700536.html"
+        },
+        {
+          "t": "Mariners Get Huge Brendan Donovan Boost for White Sox Series",
+          "s": "Seattle gets Donovan back from injury just in time for a key series.",
+          "by": "",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/mariners-huge-brendan-donovan-boost-201923037.html"
+        },
+        {
+          "t": "Mariners Get 2 Crucial Injury Updates Before Royals Clash",
+          "s": "Seattle received two important injury updates before facing Kansas City.",
+          "by": "",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/mariners-2-crucial-injury-updates-232934103.html"
+        }
+      ],
+      "nbcNews": [
+        {
+          "t": "Brendan Donovan (groin) progressing towards return",
+          "date": "2026-06-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/brendan-donovan-groin-progressing-towards-return"
+        }
+      ]
+    },
+    {
       "name": "Jacob Latz",
       "team": "Texas Rangers",
       "pos": "SP,RP",
@@ -1991,7 +1195,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2003,19 +1207,19 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "26",
+        "rank": "34",
         "type": "pitching",
-        "ip": "4.0",
+        "ip": "3.0",
         "w": "0",
         "l": "0",
-        "sv": "3",
+        "sv": "2",
         "era": "0.00",
-        "whip": "0.25",
-        "k9": "6.75",
+        "whip": "0.00",
+        "k9": "9.00",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "19",
+        "rank": "14",
         "type": "pitching",
         "ip": "15.0",
         "w": "0",
@@ -2081,7 +1285,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2093,7 +1297,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "14",
+        "rank": "15",
         "type": "pitching",
         "ip": "6.0",
         "w": "1",
@@ -2105,7 +1309,7 @@
         "qs": "1"
       },
       "lastMonthStats": {
-        "rank": "348",
+        "rank": "336",
         "type": "pitching",
         "ip": "22.1",
         "w": "1",
@@ -2161,7 +1365,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2173,7 +1377,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "816",
+        "rank": "812",
         "type": "pitching",
         "ip": "4.0",
         "w": "0",
@@ -2185,7 +1389,7 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "580",
+        "rank": "587",
         "type": "pitching",
         "ip": "27.0",
         "w": "1",
@@ -2246,7 +1450,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2270,15 +1474,15 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "812",
+        "rank": "583",
         "type": "pitching",
-        "ip": "34.2",
+        "ip": "30.0",
         "w": "1",
-        "l": "3",
+        "l": "2",
         "sv": "0",
-        "era": "4.93",
-        "whip": "1.41",
-        "k9": "10.13",
+        "era": "4.50",
+        "whip": "1.23",
+        "k9": "10.20",
         "qs": "2"
       },
       "yahooNews": [
@@ -2326,19 +1530,19 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
-        "ip": "6.0",
-        "w": "1",
-        "l": "0",
-        "sv": "0",
-        "era": "3.00",
-        "whip": "1.00",
-        "k9": "6.00",
-        "qs": "1"
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "383",
+        "rank": "399",
         "type": "pitching",
         "ip": "12.0",
         "w": "1",
@@ -2350,16 +1554,16 @@
         "qs": "1"
       },
       "lastMonthStats": {
-        "rank": "92",
+        "rank": "134",
         "type": "pitching",
-        "ip": "33.1",
+        "ip": "27.1",
         "w": "3",
         "l": "0",
         "sv": "0",
-        "era": "3.24",
-        "whip": "1.29",
-        "k9": "11.88",
-        "qs": "2"
+        "era": "3.29",
+        "whip": "1.39",
+        "k9": "11.52",
+        "qs": "1"
       },
       "yahooNews": [
         {
@@ -2403,241 +1607,6 @@
       ]
     },
     {
-      "name": "Jimmy Herget",
-      "team": "Colorado Rockies",
-      "pos": "SP,RP",
-      "id": 11203,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11203.1.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/jimmy-herget/48970",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "483",
-        "type": "pitching",
-        "ip": "1.2",
-        "w": "0",
-        "l": "1",
-        "sv": "1",
-        "era": "0.00",
-        "whip": "1.20",
-        "k9": "0.00",
-        "qs": "0"
-      },
-      "lastMonthStats": {
-        "rank": "213",
-        "type": "pitching",
-        "ip": "5.0",
-        "w": "0",
-        "l": "1",
-        "sv": "2",
-        "era": "0.00",
-        "whip": "1.00",
-        "k9": "10.80",
-        "qs": "0"
-      },
-      "yahooNews": [
-        {
-          "t": "Saturday Rockpile: Do Not Adjust Your Screens — The Human Glitch Is Working",
-          "s": "Colorado Rockies news and links for Saturday, June 27.",
-          "by": "James Riggenbach",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/saturday-rockpile-not-adjust-screens-120000301.html"
-        },
-        {
-          "t": "Rockies' Reliever Could Be the Hidden Gem of the 2026 Trade Market",
-          "s": "Is it time for Colorado to move on from a beloved high-leverage arm?",
-          "by": "Jared Bloom",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/rockies-reliever-could-hidden-gem-210813978.html"
-        },
-        {
-          "t": "6 Relievers Twins Should Consider Trading For After Julien Trade Opened Roster Spot",
-          "s": "Minnesota's bullpen depth is worth watching ahead of the deadline.",
-          "by": "",
-          "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/6-relievers-twins-consider-trading-120006303.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Jimmy Herget picks up third save vs. Twins",
-          "date": "2026-06-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/jimmy-herget-picks-up-third-save-vs-twins"
-        },
-        {
-          "t": "Jimmy Herget perfect in ninth for second save",
-          "date": "2026-06-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/jimmy-herget-perfect-in-ninth-for-second-save"
-        }
-      ]
-    },
-    {
-      "name": "Braxton Ashcraft",
-      "team": "Pittsburgh Pirates",
-      "pos": "SP,RP",
-      "id": 11372,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "354",
-        "type": "pitching",
-        "ip": "6.0",
-        "w": "1",
-        "l": "0",
-        "sv": "0",
-        "era": "7.50",
-        "whip": "1.00",
-        "k9": "12.00",
-        "qs": "0"
-      },
-      "lastMonthStats": {
-        "rank": "304",
-        "type": "pitching",
-        "ip": "28.0",
-        "w": "3",
-        "l": "1",
-        "sv": "0",
-        "era": "4.82",
-        "whip": "1.21",
-        "k9": "10.93",
-        "qs": "2"
-      },
-      "yahooNews": [
-        {
-          "t": "Pirates Brimming With Confidence Despite Their Faults",
-          "s": "Manager Don Kelly is a 'glass half full' guy, and Pittsburgh flirted with disaster.",
-          "by": "",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-brimming-confidence-despite-faults-033256743.html"
-        },
-        {
-          "t": "Pirates Player Heap Praise Of Braxton Ashcraft Amid Solid Season",
-          "s": "Ashcraft is 7-3 with a 3.07 ERA this season.",
-          "by": "Cole Shelton",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-player-heap-praise-braxton-173506715.html"
-        },
-        {
-          "t": "Braxton Ashcraft Tops the 5 Best Two-Start Pitchers This Week in Fantasy Baseball",
-          "s": "MLB's best current starting pitchers are even more valuable this week.",
-          "by": "",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/braxton-ashcraft-tops-5-best-184234780.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft overcomes three homers in victory",
-          "date": "2026-06-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/braxton-ashcraft-overcomes-three-homers-in-victory"
-        },
-        {
-          "t": "Braxton Ashcraft tallies 10 strikeouts vs. Mariners",
-          "date": "2026-06-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/braxton-ashcraft-tallies-10-strikeouts-vs-mariners"
-        }
-      ]
-    },
-    {
-      "name": "Emmet Sheehan",
-      "team": "Los Angeles Dodgers",
-      "pos": "SP",
-      "id": 60238,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
-      "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "134",
-        "type": "pitching",
-        "ip": "5.0",
-        "w": "1",
-        "l": "0",
-        "sv": "0",
-        "era": "1.80",
-        "whip": "0.80",
-        "k9": "9.00",
-        "qs": "0"
-      },
-      "lastMonthStats": {
-        "rank": "831",
-        "type": "pitching",
-        "ip": "14.2",
-        "w": "1",
-        "l": "3",
-        "sv": "0",
-        "era": "7.36",
-        "whip": "1.70",
-        "k9": "11.66",
-        "qs": "0"
-      },
-      "yahooNews": [
-        {
-          "t": "Fantasy Baseball Starting Pitcher Buy/Sell: Andrew Abbott, Trey Yesavage, Emmet Sheehan, More",
-          "s": "A look at over 40 starting pitchers worth rostering right now.",
-          "by": "Eric Samulski",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-starting-pitcher-buy-194335153.html"
-        },
-        {
-          "t": "Dodgers Announce Starting Pitchers for Four-Game Series vs Padres",
-          "s": "Los Angeles sets its rotation for the upcoming series with San Diego.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-announce-starting-pitchers-four-160005614.html"
-        },
-        {
-          "t": "Dodgers Gear Up for 1st Home Series Against Padres",
-          "s": "Los Angeles hosts San Diego to open a pivotal home series.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-gear-1st-home-series-175557830.html"
-        }
-      ],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan holds Padres to one run in victory",
-          "date": "2026-06-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/emmet-sheehan-holds-padres-to-one-run-in-victory"
-        }
-      ]
-    },
-    {
       "name": "Caleb Kilian",
       "team": "San Francisco Giants",
       "pos": "RP",
@@ -2646,7 +1615,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2658,7 +1627,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "96",
+        "rank": "98",
         "type": "pitching",
         "ip": "2.0",
         "w": "0",
@@ -2670,7 +1639,7 @@
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "307",
+        "rank": "313",
         "type": "pitching",
         "ip": "9.1",
         "w": "0",
@@ -2736,7 +1705,7 @@
       "ilStatus": null,
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "1.0",
         "w": "0",
@@ -2748,27 +1717,27 @@
         "qs": "0"
       },
       "lastWeekStats": {
-        "rank": "58",
+        "rank": "26",
         "type": "pitching",
-        "ip": "2.0",
+        "ip": "3.0",
         "w": "0",
         "l": "0",
-        "sv": "2",
+        "sv": "3",
         "era": "0.00",
         "whip": "0.00",
-        "k9": "4.50",
+        "k9": "6.00",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "55",
+        "rank": "36",
         "type": "pitching",
-        "ip": "8.0",
+        "ip": "9.0",
         "w": "0",
         "l": "0",
-        "sv": "6",
-        "era": "1.13",
-        "whip": "0.25",
-        "k9": "7.88",
+        "sv": "7",
+        "era": "1.00",
+        "whip": "0.22",
+        "k9": "8.00",
         "qs": "0"
       },
       "yahooNews": [
@@ -2818,15 +1787,15 @@
       ]
     },
     {
-      "name": "Landen Roupp",
-      "team": "San Francisco Giants",
-      "pos": "SP",
-      "id": 60650,
-      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60650.1.png",
+      "name": "Jimmy Herget",
+      "team": "Colorado Rockies",
+      "pos": "SP,RP",
+      "id": 11203,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11203.1.png",
       "ilStatus": null,
-      "nbcUrl": "https://www.nbcsports.com/mlb/landen-roupp/243056",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jimmy-herget/48970",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2838,64 +1807,313 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "827",
+        "rank": "129",
         "type": "pitching",
-        "ip": "2.2",
+        "ip": "1.2",
         "w": "0",
-        "l": "1",
-        "sv": "0",
-        "era": "20.25",
-        "whip": "4.13",
-        "k9": "13.50",
+        "l": "0",
+        "sv": "1",
+        "era": "0.00",
+        "whip": "0.00",
+        "k9": "0.00",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "756",
+        "rank": "228",
         "type": "pitching",
-        "ip": "25.0",
+        "ip": "5.0",
         "w": "0",
-        "l": "2",
-        "sv": "0",
-        "era": "5.40",
-        "whip": "1.52",
-        "k9": "9.72",
-        "qs": "2"
+        "l": "1",
+        "sv": "2",
+        "era": "0.00",
+        "whip": "1.00",
+        "k9": "10.80",
+        "qs": "0"
       },
       "yahooNews": [
         {
-          "t": "Yup, Giants Still Can't Beat the Diamondbacks, Part 8",
-          "s": "The one in which Landen Roupp was bad at pitching.",
-          "by": "Steven Kennedy",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/yup-giants-still-t-beat-141213954.html"
+          "t": "Saturday Rockpile: Do Not Adjust Your Screens — The Human Glitch Is Working",
+          "s": "Colorado Rockies news and links for Saturday, June 27.",
+          "by": "James Riggenbach",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/saturday-rockpile-not-adjust-screens-120000301.html"
         },
         {
-          "t": "Landen Roupp Matches Ugly Giants Record With Loss to Diamondbacks",
-          "s": "The circumstances were too overwhelming to lead to any other result.",
-          "by": "Evan Webeck",
+          "t": "Rockies' Reliever Could Be the Hidden Gem of the 2026 Trade Market",
+          "s": "Is it time for Colorado to move on from a beloved high-leverage arm?",
+          "by": "Jared Bloom",
           "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/landen-roupp-matches-ugly-giants-044547469.html"
+          "href": "https://sports.yahoo.com/articles/rockies-reliever-could-hidden-gem-210813978.html"
         },
         {
-          "t": "Giants Look to Break 5-Game Road Skid",
-          "s": "San Francisco tries to right the ship on the road.",
+          "t": "6 Relievers Twins Should Consider Trading For After Julien Trade Opened Roster Spot",
+          "s": "Minnesota's bullpen depth is worth watching ahead of the deadline.",
           "by": "",
           "when": "5d ago",
-          "href": "https://sports.yahoo.com/articles/giants-look-break-5-game-075550611.html"
+          "href": "https://sports.yahoo.com/articles/6-relievers-twins-consider-trading-120006303.html"
         }
       ],
       "nbcNews": [
         {
-          "t": "Landen Roupp chased in third in loss to D-backs",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/landen-roupp-chased-in-third-in-loss-to-d-backs"
+          "t": "Jimmy Herget picks up third save vs. Twins",
+          "date": "2026-06-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/jimmy-herget-picks-up-third-save-vs-twins"
         },
         {
-          "t": "Landen Roupp let down by pen in no-decision",
-          "date": "2026-06-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-25/landen-roupp-let-down-by-pen-in-no-decision"
+          "t": "Jimmy Herget perfect in ninth for second save",
+          "date": "2026-06-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/jimmy-herget-perfect-in-ninth-for-second-save"
         }
       ]
+    },
+    {
+      "name": "Braxton Ashcraft",
+      "team": "Pittsburgh Pirates",
+      "pos": "SP,RP",
+      "id": 11372,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
+      "ilStatus": null,
+      "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "375",
+        "type": "pitching",
+        "ip": "6.0",
+        "w": "1",
+        "l": "0",
+        "sv": "0",
+        "era": "7.50",
+        "whip": "1.00",
+        "k9": "12.00",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "285",
+        "type": "pitching",
+        "ip": "28.0",
+        "w": "3",
+        "l": "1",
+        "sv": "0",
+        "era": "4.82",
+        "whip": "1.21",
+        "k9": "10.93",
+        "qs": "2"
+      },
+      "yahooNews": [
+        {
+          "t": "Pirates Brimming With Confidence Despite Their Faults",
+          "s": "Manager Don Kelly is a 'glass half full' guy, and Pittsburgh flirted with disaster.",
+          "by": "",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-brimming-confidence-despite-faults-033256743.html"
+        },
+        {
+          "t": "Pirates Player Heap Praise Of Braxton Ashcraft Amid Solid Season",
+          "s": "Ashcraft is 7-3 with a 3.07 ERA this season.",
+          "by": "Cole Shelton",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-player-heap-praise-braxton-173506715.html"
+        },
+        {
+          "t": "Braxton Ashcraft Tops the 5 Best Two-Start Pitchers This Week in Fantasy Baseball",
+          "s": "MLB's best current starting pitchers are even more valuable this week.",
+          "by": "",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/braxton-ashcraft-tops-5-best-184234780.html"
+        }
+      ],
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft overcomes three homers in victory",
+          "date": "2026-06-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/braxton-ashcraft-overcomes-three-homers-in-victory"
+        },
+        {
+          "t": "Braxton Ashcraft tallies 10 strikeouts vs. Mariners",
+          "date": "2026-06-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/braxton-ashcraft-tallies-10-strikeouts-vs-mariners"
+        }
+      ]
+    },
+    {
+      "name": "Emmet Sheehan",
+      "team": "Los Angeles Dodgers",
+      "pos": "SP",
+      "id": 60238,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
+      "ilStatus": null,
+      "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "133",
+        "type": "pitching",
+        "ip": "5.0",
+        "w": "1",
+        "l": "0",
+        "sv": "0",
+        "era": "1.80",
+        "whip": "0.80",
+        "k9": "9.00",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "841",
+        "type": "pitching",
+        "ip": "14.2",
+        "w": "1",
+        "l": "3",
+        "sv": "0",
+        "era": "7.36",
+        "whip": "1.70",
+        "k9": "11.66",
+        "qs": "0"
+      },
+      "yahooNews": [
+        {
+          "t": "Fantasy Baseball Starting Pitcher Buy/Sell: Andrew Abbott, Trey Yesavage, Emmet Sheehan, More",
+          "s": "A look at over 40 starting pitchers worth rostering right now.",
+          "by": "Eric Samulski",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/fantasy-baseball-starting-pitcher-buy-194335153.html"
+        },
+        {
+          "t": "Dodgers Announce Starting Pitchers for Four-Game Series vs Padres",
+          "s": "Los Angeles sets its rotation for the upcoming series with San Diego.",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-announce-starting-pitchers-four-160005614.html"
+        },
+        {
+          "t": "Dodgers Gear Up for 1st Home Series Against Padres",
+          "s": "Los Angeles hosts San Diego to open a pivotal home series.",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-gear-1st-home-series-175557830.html"
+        }
+      ],
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan holds Padres to one run in victory",
+          "date": "2026-06-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/emmet-sheehan-holds-padres-to-one-run-in-victory"
+        }
+      ]
+    },
+    {
+      "name": "Jack Flaherty",
+      "team": "Detroit Tigers",
+      "pos": "SP",
+      "id": 10592,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10592.1.png",
+      "ilStatus": null,
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": [],
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "116",
+        "type": "pitching",
+        "ip": "5.0",
+        "w": "0",
+        "l": "0",
+        "sv": "0",
+        "era": "0.00",
+        "whip": "1.00",
+        "k9": "16.20",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "436",
+        "type": "pitching",
+        "ip": "13.0",
+        "w": "0",
+        "l": "1",
+        "sv": "0",
+        "era": "3.46",
+        "whip": "1.23",
+        "k9": "11.77",
+        "qs": "0"
+      }
+    },
+    {
+      "name": "Ryan Weathers",
+      "team": "New York Yankees",
+      "pos": "SP",
+      "id": 11379,
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11379.1.png",
+      "ilStatus": null,
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": [],
+      "yesterdayStats": {
+        "date": "2026-07-03",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "784",
+        "type": "pitching",
+        "ip": "1.2",
+        "w": "0",
+        "l": "1",
+        "sv": "0",
+        "era": "10.80",
+        "whip": "4.80",
+        "k9": "16.20",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "807",
+        "type": "pitching",
+        "ip": "24.1",
+        "w": "1",
+        "l": "3",
+        "sv": "0",
+        "era": "5.55",
+        "whip": "1.40",
+        "k9": "8.51",
+        "qs": "2"
+      }
     },
     {
       "name": "Edwin Díaz",
@@ -2906,7 +2124,7 @@
       "ilStatus": "IL60",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yesterdayStats": {
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2918,7 +2136,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "2004",
+        "rank": "2002",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -2976,52 +2194,6 @@
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/edwin-diaz-elbow-close-to-facing-hitters-again"
         }
       ]
-    },
-    {
-      "name": "Jack Flaherty",
-      "team": "Detroit Tigers",
-      "pos": "SP",
-      "id": 10592,
-      "img": null,
-      "ilStatus": null,
-      "nbcUrl": null,
-      "yahooNews": [],
-      "yesterdayStats": {
-        "date": "2026-07-02",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "117",
-        "type": "pitching",
-        "ip": "5.0",
-        "w": "0",
-        "l": "0",
-        "sv": "0",
-        "era": "0.00",
-        "whip": "1.00",
-        "k9": "16.20",
-        "qs": "0"
-      },
-      "lastMonthStats": {
-        "rank": "427",
-        "type": "pitching",
-        "ip": "13.0",
-        "w": "0",
-        "l": "1",
-        "sv": "0",
-        "era": "3.46",
-        "whip": "1.23",
-        "k9": "11.77",
-        "qs": "0"
-      }
     }
   ]
 }
