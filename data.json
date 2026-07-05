@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-05T21:05:01.041Z",
+  "lastUpdatedNews": "2026-07-05T21:13:08.791Z",
   "lastUpdatedRosterStats": "2026-07-04T18:01:14Z",
   "players": [
     {
@@ -75,19 +75,21 @@
       ],
       "nbcNews": [
         {
+          "t": "Dillon Dingler has three hits in loss Tuesday",
+          "date": "2026-06-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-23/dillon-dingler-has-three-hits-in-loss-tuesday",
+          "fetchedAt": 1783285975886
+        },
+        {
+          "t": "Dillon Dingler homers on Father’s Day",
+          "date": "2026-06-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/dillon-dingler-homers-on-fathers-day",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Dillon Dingler scores twice in win over Yankees",
           "date": "2026-06-29",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/dillon-dingler-scores-twice-in-win-over-yankees"
-        },
-        {
-          "t": "Dillon Dingler sits Saturday afternoon vs. Astros",
-          "date": "2026-06-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/dillon-dingler-sits-saturday-afternoon-vs-astros"
-        },
-        {
-          "t": "Dillon Dingler blasts solo homer in loss to Astros",
-          "date": "2026-06-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-25/dillon-dingler-blasts-solo-homer-in-loss-to-astros"
         }
       ]
     },
@@ -431,19 +433,21 @@
       ],
       "nbcNews": [
         {
+          "t": "Mookie Betts singles twice, drives in two runs",
+          "date": "2026-06-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/mookie-betts-singles-twice-drives-in-two-runs",
+          "fetchedAt": 1783285975886
+        },
+        {
+          "t": "Mookie Betts hits three-run homer versus Padres",
+          "date": "2026-06-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/mookie-betts-hits-three-run-homer-versus-padres",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Mookie Betts (wrist) returns to Dodgers' lineup",
           "date": "2026-07-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/mookie-betts-wrist-returns-to-dodgers-lineup"
-        },
-        {
-          "t": "Mookie Betts (wrist) expected back in lineup",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/mookie-betts-wrist-expected-back-in-lineup"
-        },
-        {
-          "t": "Mookie Betts scratched with right wrist soreness",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/mookie-betts-scratched-from-wednesdays-lineup"
         }
       ]
     },
@@ -1050,7 +1054,14 @@
           "fetchedAt": 1783242484790
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez (hamate) has been hitting off of tee",
+          "date": "2026-07-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/jose-ramirez-hamate-has-been-hitting-off-of-tee",
+          "fetchedAt": 1783285975886
+        }
+      ]
     },
     {
       "name": "Jesús Made",
@@ -1385,6 +1396,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Tarik Skubal strikes out eight in no-decision",
+          "date": "2026-06-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-19/tarik-skubal-strikes-out-eight-in-no-decision",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Tarik Skubal strikes out nine in win over Yankees",
           "date": "2026-06-30",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/tarik-skubal-strikes-out-nine-in-win-over-yankees"
@@ -1468,19 +1485,21 @@
       ],
       "nbcNews": [
         {
+          "t": "Twins scratch Joe Ryan from start with illness",
+          "date": "2026-06-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-22/twins-scratch-joe-ryan-from-start-with-illness",
+          "fetchedAt": 1783285975886
+        },
+        {
+          "t": "Report: Twins to consider trading ace Joe Ryan",
+          "date": "2026-06-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-22/report-twins-to-consider-trading-ace-joe-ryan",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Joe Ryan hit hard in fourth against Astros",
           "date": "2026-06-30",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/joe-ryan-hit-hard-in-fourth-against-astros"
-        },
-        {
-          "t": "Joe Ryan done in by one bad inning vs. Dodgers",
-          "date": "2026-06-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-25/joe-ryan-done-in-by-one-bad-inning-vs-dodgers"
-        },
-        {
-          "t": "Joe Ryan (illness) to start Wednesday vs. Dodgers",
-          "date": "2026-06-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-23/joe-ryan-illness-to-start-wednesday-vs-dodgers"
         }
       ]
     },
@@ -1556,14 +1575,21 @@
       ],
       "nbcNews": [
         {
+          "t": "MacKenzie Gore holds Padres to one run on Saturday",
+          "date": "2026-06-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/mackenzie-gore-holds-padres-to-one-run-on-saturday",
+          "fetchedAt": 1783285975886
+        },
+        {
+          "t": "Nathan Eovaldi scratched Saturday with sore knee",
+          "date": "2026-06-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/nathan-eovaldi-scratched-saturday-with-sore-knee",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "MacKenzie Gore struggles early in Cleveland",
           "date": "2026-07-01",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/mackenzie-gore-struggles-early-in-cleveland"
-        },
-        {
-          "t": "MacKenzie Gore fans five in victory over Jays",
-          "date": "2026-06-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-25/mackenzie-gore-fans-five-in-victory-over-jays"
         }
       ]
     },
@@ -1727,6 +1753,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Caleb Kilian strikes out two for eighth save",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/caleb-kilian-strikes-out-two-for-eighth-save",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Caleb Kilian perfect in earning seventh save",
           "date": "2026-07-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/caleb-kilian-perfect-in-earning-seventh-save"
@@ -1735,16 +1767,6 @@
           "t": "Caleb Kilian gives up run, earns save in ninth",
           "date": "2026-06-28",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/caleb-kilian-gives-up-run-earns-save-in-ninth"
-        },
-        {
-          "t": "Caleb Kilian gives up four runs to blow save",
-          "date": "2026-06-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-25/caleb-kilian-gives-up-four-runs-to-blow-save"
-        },
-        {
-          "t": "Caleb Kilian locks down fifth save against A's",
-          "date": "2026-06-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/caleb-kilian-locks-down-fifth-save-against-as"
         }
       ]
     },
@@ -1820,6 +1842,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Bryan Baker locks down Astros for 23rd save",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/bryan-baker-locks-down-astros-for-23rd-save",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Bryan Baker secures 22nd save on Thursday",
           "date": "2026-07-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/bryan-baker-secures-22nd-save-on-thursday"
@@ -1828,16 +1856,6 @@
           "t": "Bryan Baker locks down 21st save against D-backs",
           "date": "2026-06-27",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/bryan-baker-locks-down-21st-save-against-d-backs"
-        },
-        {
-          "t": "Bryan Baker works around homer for 20th save",
-          "date": "2026-06-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/bryan-baker-works-around-homer-for-20th-save"
-        },
-        {
-          "t": "Bryan Baker pitches the eighth in victory",
-          "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/bryan-baker-pitches-the-eighth-in-victory"
         }
       ]
     },
@@ -1993,6 +2011,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Braxton Ashcraft limits Nats to one run in win",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/braxton-ashcraft-limits-nats-to-one-run-in-win",
+          "fetchedAt": 1783285975886
+        },
+        {
           "t": "Braxton Ashcraft overcomes three homers in victory",
           "date": "2026-06-29",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/braxton-ashcraft-overcomes-three-homers-in-victory"
@@ -2075,6 +2099,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Sheehan hit around in loss to Orioles",
+          "date": "2026-06-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/sheehan-hit-around-in-loss-to-orioles",
+          "fetchedAt": 1783285975886
+        },
         {
           "t": "Emmet Sheehan holds Padres to one run in victory",
           "date": "2026-06-28",
