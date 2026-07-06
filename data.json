@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-06T09:04:09.380Z",
+  "lastUpdatedNews": "2026-07-06T09:13:17.475Z",
   "lastUpdatedRosterStats": "2026-07-04T18:01:14Z",
   "players": [
     {
@@ -165,20 +165,22 @@
       ],
       "nbcNews": [
         {
+          "t": "Vladimir Guerrero Jr. scratched with back issue",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/vladimir-guerrero-jr-scratched-from-tuesdays-lineup",
+          "date": "2026-06-30",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Blue Jays won’t bench Vladimir Guerrero Jr.",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/blue-jays-wont-bench-vladimir-guerrero-jr",
+          "date": "2026-06-28",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Vladimir Guerrero Jr. to sit out ASG due to back",
           "date": "2026-07-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/vladimir-guerrero-jr-to-sit-out-asg-due-to-back",
           "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Vladimir Guerrero Jr. (back) in Wednesday's lineup",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/vlad-jr-back-is-back-in-the-lineup-on-wednesday"
-        },
-        {
-          "t": "Vladimir Guerrero Jr. day-to-day with back tightness",
-          "date": "2026-06-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/vladimir-guerrero-jr-day-to-day-with-back-tightness"
         }
       ]
     },
@@ -254,21 +256,22 @@
       ],
       "nbcNews": [
         {
+          "t": "Luis García Jr. homers again in loss to Pirates",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/luis-garcia-jr-homers-again-in-loss-to-pirates",
+          "date": "2026-07-05",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Luis García Jr. has four hits, 14th homer in win",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/luis-garcia-jr-has-four-hits-14th-homer-in-win",
+          "date": "2026-06-27",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Luis García Jr. homers twice in win over Pirates",
           "date": "2026-07-03",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/luis-garcia-jr-homers-twice-in-win-over-pirates",
           "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Abrams is not in the starting lineup on Wednesday",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/abrams-is-not-in-the-starting-lineup-on-wednesday",
-          "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Luis García Jr. homers twice, plates five in win",
-          "date": "2026-06-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/luis-garcia-jr-homers-twice-plates-five-in-win"
         }
       ]
     },
@@ -344,20 +347,20 @@
       ],
       "nbcNews": [
         {
+          "t": "Royce Lewis back at 3B on Monday vs. Rangers",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-cd47-d58d-a9bf-df4f14920000",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Royce Lewis homers, doubles against Cardinals",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-bf92-d58d-a9bf-ff9b37220000",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Royce Lewis fans four times against Rangers",
           "date": "2026-06-18",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-18/royce-lewis-fans-four-times-against-rangers",
           "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Royce Lewis delivers walk-off win for Twins in 10",
-          "date": "2026-06-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-26/royce-lewis-delivers-walk-off-win-for-twins-in-10"
-        },
-        {
-          "t": "Royce Lewis hits solo homer in loss to D-backs",
-          "date": "2026-06-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/royce-lewis-hits-solo-homer-in-loss-to-d-backs"
         }
       ]
     },
@@ -523,20 +526,22 @@
       ],
       "nbcNews": [
         {
+          "t": "Elly De La Cruz sprains ankle on Sunday",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/elly-de-la-cruz-sprains-ankle-on-sunday",
+          "date": "2026-06-29",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Elly De La Cruz hitting leadoff against Pirates",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/elly-de-la-cruz-hitting-leadoff-against-pirates",
+          "date": "2026-06-27",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "De La Cruz steals two bases in loss to O’s",
           "date": "2026-07-03",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/de-la-cruz-steals-two-bases-in-loss-to-os",
           "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Elly De La Cruz belts 13th home run as DH Monday",
-          "date": "2026-06-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/elly-de-la-cruz-belts-13th-home-run-as-dh-monday"
-        },
-        {
-          "t": "Elly De La Cruz (ankle) in Monday's lineup at DH",
-          "date": "2026-06-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/elly-de-la-cruz-ankle-in-mondays-lineup-at-dh"
         }
       ]
     },
@@ -612,15 +617,19 @@
       ],
       "nbcNews": [
         {
-          "t": "Alec Burleson gets day off Tuesday vs. D-backs",
-          "date": "2026-06-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-23/alec-burleson-gets-day-off-tuesday-vs-d-backs",
-          "fetchedAt": 1783242772536
+          "t": "Alec Burleson homers, plates three in blowout",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-af2b-d3c8-a99f-efeb704f0000",
+          "fetchedAt": 1783329188693
         },
         {
-          "t": "Alec Burleson homers as Cardinals crush Braves",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/alec-burleson-homers-as-cardinals-crush-braves"
+          "t": "Alec Burleson plates three in win over Rangers",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-9167-dea2-a7df-93f7e2ef0000",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Alec Burleson drives in two as Cardinals best Cubs",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-8069-d3e8-a3fe-947d37540000",
+          "fetchedAt": 1783329188693
         }
       ]
     },
@@ -696,22 +705,22 @@
       ],
       "nbcNews": [
         {
-          "t": "Bryan Reynolds homers, drives in two vs. Nationals",
-          "date": "2026-07-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/bryan-reynolds-homers-drives-in-two-vs-nationals",
-          "fetchedAt": 1783242772536
+          "t": "Bryan Reynolds goes deep as Pirates top Nationals",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/bryan-reynolds-goes-deep-as-pirates-top-nationals",
+          "date": "2026-07-05",
+          "fetchedAt": 1783329188693
         },
         {
-          "t": "Bryan Reynolds singles in return to lineup",
+          "t": "Bryan Reynolds homers, doubles to lead Pirates",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/bryan-reynolds-homers-doubles-to-lead-pirates",
           "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/bryan-reynolds-singles-in-return-to-lineup",
-          "fetchedAt": 1783242772536
+          "fetchedAt": 1783329188693
         },
         {
-          "t": "Bryan Reynolds scratched due to groin discomfort",
-          "date": "2026-06-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-19/bryan-reynolds-scratched-due-to-groin-discomfort",
-          "fetchedAt": 1783242772536
+          "t": "Bryan Reynolds (groin) back in lineup for Pirates",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/bryan-reynolds-groin-back-in-lineup-for-pirates",
+          "date": "2026-06-20",
+          "fetchedAt": 1783329188693
         }
       ]
     },
@@ -787,20 +796,20 @@
       ],
       "nbcNews": [
         {
+          "t": "Fernando Tatis Jr. swipes 18th base in win",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-d777-df06-a19e-ffff61e00000",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Fernando Tatis Jr. slugs walk-off homer vs. Reds",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-b3dc-d81e-adbf-f3de69b00000",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Fernando Tatis Jr. blasts third homer in victory",
           "date": "2026-06-24",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/fernando-tatis-jr-blasts-third-homer-in-victory",
           "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Fernando Tatis Jr. goes deep twice against Cubs",
-          "date": "2026-06-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/fernando-tatis-jr-goes-deep-twice-against-cus"
-        },
-        {
-          "t": "Fernando Tatis Jr. draws first off day since May 3",
-          "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/fernando-tatis-jr-draws-first-off-day-since-may-3"
         }
       ]
     },
@@ -876,21 +885,21 @@
       ],
       "nbcNews": [
         {
+          "t": "Nick Kurtz gets a breather against Angels Sunday",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-28/nick-kurtz-gets-a-breather-against-angels-sunday",
+          "date": "2026-06-28",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Nick Kurtz collects two hits, two RBI in victory",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/nick-kurtz-collects-two-hits-two-rbi-in-victory",
+          "date": "2026-06-27",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Nick Kurtz takes over as AL starter at first base",
           "date": "2026-07-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-takes-over-as-al-starter-at-first-base",
-          "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Nick Kurtz blasts 20th home run in loss Friday",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-blasts-20th-home-run-in-loss-friday",
-          "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Kurtz homers, drives in three in loss",
-          "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/kurtz-homers-drives-in-three-in-loss",
           "fetchedAt": 1783242772536
         }
       ]
@@ -967,20 +976,22 @@
       ],
       "nbcNews": [
         {
+          "t": "Brandon Nimmo (shoulder) out again Tuesday",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/brandon-nimmo-shoulder-out-again-tuesday",
+          "date": "2026-06-30",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Brandon Nimmo has sprained AC joint in shoulder",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-29/brandon-nimmo-has-sprained-ac-joint-in-shoulder",
+          "date": "2026-06-29",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Brandon Nimmo (shoulder) in Saturday’s lineup",
           "date": "2026-07-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/brandon-nimmo-shoulder-returns-to-saturdays-lineup",
           "fetchedAt": 1783242772536
-        },
-        {
-          "t": "Brandon Nimmo (shoulder) remains out of lineup",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/brandon-nimmo-shoulder-remains-out-of-lineup"
-        },
-        {
-          "t": "Brandon Nimmo (shoulder) out third straight game",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/brandon-nimmo-shoulder-out-third-straight-game"
         }
       ]
     },
@@ -1135,19 +1146,19 @@
       ],
       "nbcNews": [
         {
+          "t": "Top prospect Jesús Made suffers quad contusion",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-d898-d4a3-a7fe-ffda269c0000",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Brewers top prospect Jesús Made out with illness",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-6bf5-d3e8-a3fe-fff5edde0000",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Jesús Made tallies four hits in Double-A action",
           "date": "2026-07-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/jesus-made-tallies-four-hits-in-double-a-action"
-        },
-        {
-          "t": "Jesús Made headlines NL Futures Game roster",
-          "date": "2026-07-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-01/brewers-ss-prospect-made-leads-nl-futures-team"
-        },
-        {
-          "t": "Jesús Made collects five RBI in Double-A return",
-          "date": "2026-06-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-20/jesus-made-collects-five-rbi-in-double-a-return"
         }
       ]
     },
@@ -1665,19 +1676,19 @@
       ],
       "nbcNews": [
         {
+          "t": "Chase Burns strikes out seven in win over Mets",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-ce25-d58d-a9bf-de2ffa280000",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Chase Burns strikes out seven in no-decision",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-b008-d81e-adbf-f1ce25830000",
+          "fetchedAt": 1783329188693
+        },
+        {
           "t": "Chase Burns defeats Brewers for 10th victory",
           "date": "2026-07-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/chase-burns-defeats-brewers-for-10th-victory"
-        },
-        {
-          "t": "Chase Burns collects 10 strikeouts vs. Pirates",
-          "date": "2026-06-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/chase-burns-collects-ten-strikeouts-vs-pirates"
-        },
-        {
-          "t": "Chase Burns fans seven Yankees, earns ninth win",
-          "date": "2026-06-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-21/chase-burns-fans-seven-yankees-earns-ninth-win"
         }
       ]
     },
@@ -1928,14 +1939,19 @@
       ],
       "nbcNews": [
         {
-          "t": "Jimmy Herget picks up third save vs. Twins",
-          "date": "2026-06-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-27/jimmy-herget-picks-up-third-save-vs-twins"
+          "t": "Rockies activate reliever Jimmy Herget from IL",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-d77b-d627-adbe-ffff60640000",
+          "fetchedAt": 1783329188693
         },
         {
-          "t": "Jimmy Herget perfect in ninth for second save",
-          "date": "2026-06-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-24/jimmy-herget-perfect-in-ninth-for-second-save"
+          "t": "Jimmy Herget (shoulder) lands on the IL",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-272e-d03f-a3df-6fff94c80000",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Rockies activate Herget from bereavement list",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-1d74-df9c-a1be-5f77cd6c0000",
+          "fetchedAt": 1783329188693
         }
       ]
     },
@@ -2328,14 +2344,21 @@
       ],
       "nbcNews": [
         {
-          "t": "Edwin Díaz (elbow) throws successful bullpen",
-          "date": "2026-07-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-02/edwin-diaz-elbow-throws-successful-bullpen"
+          "t": "Edwin Díaz (elbow) throws live bullpen session",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/edwin-diaz-elbow-throws-live-bullpen-session",
+          "date": "2026-07-05",
+          "fetchedAt": 1783329188693
         },
         {
-          "t": "Edwin Díaz (elbow) close to facing hitters again",
-          "date": "2026-06-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-30/edwin-diaz-elbow-close-to-facing-hitters-again"
+          "t": "Edwin Díaz (elbow) throws successful bullpen",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-06-19/edwin-diaz-elbow-throws-successful-bullpen",
+          "date": "2026-06-19",
+          "fetchedAt": 1783329188693
+        },
+        {
+          "t": "Edwin Díaz (elbow) set to throw bullpen session",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news?playerNewsId=0000019e-cd9d-d45b-a39f-edbd54690000",
+          "fetchedAt": 1783329188693
         }
       ]
     }
