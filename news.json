@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-08T04:49:08.403Z",
+  "lastUpdatedNews": "2026-07-08T04:54:02.605Z",
   "players": [
     {
       "id": 11928,
@@ -250,12 +250,12 @@
           "fetchedAt": 1783448747837
         },
         {
-          "t": "Top MLB Home Run Bets for July 6: Power Matchups for Rice, Wood, and Betts",
-          "s": "Target Monday's top MLB home run props with Ben Rice, James Wood and Mookie Betts in favorable power matchups.",
-          "by": "Andrew Phelps",
+          "t": "San Diego gets back in win column heading home",
+          "s": "FriarWatch: July 6 Edition",
+          "by": "Lincoln Zdunich",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/top-mlb-home-run-bets-113000774.html",
-          "fetchedAt": 1783448747837
+          "href": "https://sports.yahoo.com/articles/san-diego-gets-back-win-214000517.html",
+          "fetchedAt": 1783486420467
         }
       ],
       "nbcNews": []
@@ -265,7 +265,24 @@
       "name": "Jesús Made",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Brewers’ top prospects Jesús Made, Luis Peña named to 2026 All-Star Futures Game",
+          "s": "Milwaukee’s top two prospects set to participate in annual showcase",
+          "by": "Adam Zimmer",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/brewers-top-prospects-jes-made-130000422.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "Milwaukee Brewers lead baseball with whopping 9 prospects on top-100 list",
+          "s": "The Milwaukee Brewers landed nine prospects on the fresh top-100 list from Baseball America, more than any other team.",
+          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/milwaukee-brewers-lead-baseball-whopping-170554608.html",
+          "fetchedAt": 1783486420467
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -273,7 +290,24 @@
       "name": "Brendan Donovan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "How Should Seattle Mariners Handle Roster When Brendan Donovan Returns?",
+          "s": "The versatile chess piece looks like he'll be back right after the All-Star break.",
+          "by": "Brady Farkas",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/seattle-mariners-handle-roster-brendan-230014446.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "Brendan Donovan's Latest Mariners Workouts Hint at His Post-All-Star Break Role",
+          "s": "Seattle's banged-up outfield makes Brendan Donovan's latest workouts even more important as the Mariners wait for his return.",
+          "by": "Tremayne Person",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/brendan-donovans-latest-mariners-workouts-133600106.html",
+          "fetchedAt": 1783486420467
+        }
+      ],
       "nbcNews": [
         {
           "t": "Brendan Donovan (groin) to start rehab assignment",
@@ -290,27 +324,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [
         {
+          "t": "Dodgers Will Do 'Dive' on Roki Sasaki as Struggles Continue",
+          "s": "Roki Sasaki has resorted back to some unfortunate trends, leading the Los Angeles Dodgers to do a \"dive\" on his struggles.",
+          "by": "Matt Levine",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-dive-roki-sasaki-struggles-213021476.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "MLB standings reveal three obvious tiers of trade deadline blueprints",
+          "s": "With Aug. 3 now just weeks away, each team's fate is becoming all too clear.",
+          "by": "Chris Landers",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-standings-reveal-three-obvious-191346911.html",
+          "fetchedAt": 1783486420467
+        },
+        {
           "t": "Top MLB Home Run Bets for July 7: Bregman, Soto, and Tatis Jr. in Prime Matchups",
           "s": "Target Tuesday's best MLB home run bets with Alex Bregman, Juan Soto and Fernando Tatis Jr. in favorable matchups.",
           "by": "Andrew Phelps",
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/top-mlb-home-run-bets-113000505.html",
-          "fetchedAt": 1783448747837
-        },
-        {
-          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Monday, July 6",
-          "s": "MLB player props for Monday, July 6. Here are all of Colby Marchio’s favorite looks from today’s slate!",
-          "by": "Colby Marchio",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-144300736.html",
-          "fetchedAt": 1783448747837
-        },
-        {
-          "t": "Dodgers Must Address Roki Sasaki’s Growing Inconsistency Issues",
-          "s": "Roki Sasaki’s volatile stretch is forcing the Los Angeles Dodgers to refine his command as rotation injuries mount.",
-          "by": "Eduardo Solano",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-must-address-roki-sasaki-154350107.html",
           "fetchedAt": 1783448747837
         }
       ],
@@ -322,6 +356,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [
+        {
+          "t": "4 Brady Singer trade destinations ahead of the MLB trade deadline",
+          "s": "These four teams could look for starting pitching help at the trade deadline.",
+          "by": "Keegan Nickoson",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/4-brady-singer-trade-destinations-134104986.html",
+          "fetchedAt": 1783486420467
+        },
         {
           "t": "Reds Ace Chase Burns Ranks Among the Best Starting Pitchers in MLB",
           "s": "The Cincinnati Reds have one of the best pitchers in the league on their roster this season.",
@@ -336,14 +378,6 @@
           "by": "Joey Mistretta, ClutchPoints",
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/5-biggest-mlb-star-game-174755224.html",
-          "fetchedAt": 1783448747837
-        },
-        {
-          "t": "Sal Stewart, Chase Burns Named to 2026 MLB All-Star Game for Reds",
-          "s": "Stewart and Burns have been cornerstone pieces for the Reds this season.",
-          "by": "Keegan Nickoson",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/sal-stewart-chase-burns-named-012602173.html",
           "fetchedAt": 1783448747837
         }
       ],
@@ -363,20 +397,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [
         {
-          "t": "Guardians star José Ramírez making progress after hand surgery, will soon begin batting practice",
-          "s": "José Ramírez has made steady progress in his recovery from hand surgery and the Cleveland Guardians star third baseman will soon start taking batting practice. Ramírez injured his hand while making a swing against the Detroit Tigers three days earlier. Chris Antonetti, the Guardians' president of baseball operations, said Ramírez has been hitting off a tee and is scheduled to start overhand batting practice “over the next couple days.”",
-          "by": "TOM WITHERS",
-          "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-star-jos-ram-rez-164041144.html",
-          "fetchedAt": 1783448747837
+          "t": "Guardians Exec Gives Jose Ramirez Injury Update",
+          "s": "Cleveland Guardians superstar Jose Ramirez continues to progress from his hand injury.",
+          "by": "Tommy Wild",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-exec-gives-jose-ramirez-194516237.html",
+          "fetchedAt": 1783486420467
         },
         {
-          "t": "This Jose Ramirez video will excite Guardians fans",
-          "s": "Star third baseman Jose Ramirez was back on the field for the Guardians taking ground balls following his hamate surgery",
-          "by": "Steve Silverman, ClutchPoints",
-          "when": "4d ago",
-          "href": "https://sports.yahoo.com/articles/jose-ramirez-video-excite-guardians-223101360.html",
-          "fetchedAt": 1783448747837
+          "t": "When will Jose Ramirez play? Guardians update status of his injury",
+          "s": "President of baseball operations Chris Antonetti provided an update on star third baseman Jose Ramirez as he recovers from a hamate bone injury.",
+          "by": "Ryan Lewis, Akron Beacon Journal",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/jose-ramirez-play-guardians-status-170640805.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "Guardians Team President Announces Latest Update on 3B José Ramírez",
+          "s": "Cleveland Guardians' Team President revealed an update on José Ramírez's injury on Sunday.",
+          "by": "Nicholas Covone",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-team-president-announces-latest-185127758.html",
+          "fetchedAt": 1783486420467
         }
       ],
       "nbcNews": [
@@ -411,12 +453,12 @@
           "fetchedAt": 1783448747837
         },
         {
-          "t": "Pirates Upset Over All-Star Snub, And They're Right to Feel Like That",
-          "s": "Major League Baseball announced its All-Star rosters over the weekend, an announcement that always comes with its fair share of criticism. Guys have to deal with getting snubbed, an unfortunate situation for some small-market clubs like the Pittsburgh Pirates.",
-          "by": "Jon Conahan",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-upset-over-star-snub-033509019.html",
-          "fetchedAt": 1783448747837
+          "t": "Top MLB Home Run Bets for July 6: Power Matchups for Rice, Wood, and Betts",
+          "s": "Target Monday's top MLB home run props with Ben Rice, James Wood and Mookie Betts in favorable power matchups.",
+          "by": "Andrew Phelps",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/top-mlb-home-run-bets-113000774.html",
+          "fetchedAt": 1783486420467
         }
       ],
       "nbcNews": [
@@ -433,7 +475,24 @@
       "name": "Brandon Nimmo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Three Questions Rangers Must Answer Against Tigers This Weekend",
+          "s": "The Texas Rangers return home to host the Detroit Tigers starting on Thursday with some questions that need to be answered.",
+          "by": "Matt Postins",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/three-questions-rangers-must-answer-130008599.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "Why Rangers Slugger Brandon Nimmo May Not Need Injured List Stint",
+          "s": "The Texas Rangers moved outfielder Brandon Nimmo to the 10-day injured list for the first time since joining the team.",
+          "by": "Matt Postins",
+          "when": "5d ago",
+          "href": "https://sports.yahoo.com/articles/why-rangers-slugger-brandon-nimmo-000001154.html",
+          "fetchedAt": 1783486420467
+        }
+      ],
       "nbcNews": [
         {
           "t": "Brandon Nimmo (shoulder) in Saturday’s lineup",
@@ -450,28 +509,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [
         {
-          "t": "Sunday morning Rangers things",
-          "s": "Sunday morning Rangers news and links",
-          "by": "Adam J. Morris",
+          "t": "Jacob Latz’s Breakout Season Earns First Career All-Star Selection",
+          "s": "Jacob Latz reinvented himself as one of baseball’s most dominant relievers and earned his first All-Star selection.",
+          "by": "Anthony Arroyo",
           "when": "2d ago",
-          "href": "https://sports.yahoo.com/articles/sunday-morning-rangers-things-140000334.html",
-          "fetchedAt": 1783448747837
+          "href": "https://sports.yahoo.com/articles/jacob-latz-breakout-season-earns-165553808.html",
+          "fetchedAt": 1783486420467
         },
         {
-          "t": "Rangers' Jacob Latz named to MLB All-Star Team",
-          "s": "Texas Rangers reliever Jacob Latz has been named to this year's MLB All-Star Team, the league announced Sunday evening.",
-          "by": "Carter Freemon",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-named-mlb-014041863.html",
-          "fetchedAt": 1783448747837
+          "t": "Rangers' Jacob Latz Reacts to All-Star Selection",
+          "s": "Texas Rangers left-hander Jacob Latz is heading to the Midsummer Classic for the first time.",
+          "by": "Don Strouble",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-reacts-star-183004122.html",
+          "fetchedAt": 1783486420467
         },
         {
-          "t": "Rangers Closer Jacob Latz's Latest Award is All-Star Game Berth",
-          "s": "The Texas Rangers close, recently named the AL reliever of the month, will represent the Texas Rangers at the All-Star Game later this month.",
+          "t": "The Biggest Rangers All-Star Snubs: These Four Players Should Feel Slighted",
+          "s": "The Texas Rangers only have one player heading to the All-Star Game later this month. It didn't have to be this way.",
           "by": "Matt Postins",
-          "when": "3d ago",
-          "href": "https://sports.yahoo.com/articles/rangers-closer-jacob-latzs-latest-001522058.html",
-          "fetchedAt": 1783448747837
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/biggest-rangers-star-snubs-four-210003196.html",
+          "fetchedAt": 1783486420467
         }
       ],
       "nbcNews": []
@@ -691,7 +750,32 @@
       "name": "Bryan Baker",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Rays Rightfully Solidifying Spot in Top Five of MLB Power Rankings",
+          "s": "The Tampa Bay Rays are continuing to move up the latest edition of the MLB power rankings.",
+          "by": "Kenneth Teape",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/rays-rightfully-solidifying-spot-top-230004480.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "Rays Climb Into Top 5 of MLB Power Rankings as Junior Caminero's MVP Case Grows",
+          "s": "The Rays climb into the Top 5 of MLB power rankings as Junior Caminero's MVP-caliber season fuels Tampa Bay's AL East lead. We break down the latest rankings, Caminero's historic power surge, Eric Neander's trade deadline outlook, and World Series hopes.",
+          "by": "Roundtable Sports",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/rays-climb-top-5-mlb-073832023.html",
+          "fetchedAt": 1783486420467
+        },
+        {
+          "t": "Four Rays Players Who Were Snubbed From the 2026 MLB All-Star Game",
+          "s": "The Rays have four All-Stars, but Nick Martinez, Shane McClanahan, Kevin Kelly and Jonathan Aranda were all deserving of 2026 MLB All-Star selections. We break down Tampa Bay's biggest snubs, Kevin Cash's comments, and the AL roster debate.",
+          "by": "Roundtable Sports",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/four-rays-players-were-snubbed-171117689.html",
+          "fetchedAt": 1783486420467
+        }
+      ],
       "nbcNews": []
     },
     {
