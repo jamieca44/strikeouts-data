@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-08T09:07:00.310Z",
+  "lastUpdatedNews": "2026-07-08T09:12:13.182Z",
   "players": [
     {
       "id": 11928,
@@ -742,7 +742,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Kilian strikes out two for eighth save",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/caleb-kilian-strikes-out-two-for-eighth-save",
+          "fetchedAt": 1783501933182,
+          "date": "2026-07-04"
+        }
+      ]
     },
     {
       "id": 11998,
@@ -775,7 +782,26 @@
           "fetchedAt": 1783486420467
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker locks down Astros for 23rd save",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/bryan-baker-locks-down-astros-for-23rd-save",
+          "fetchedAt": 1783501933182,
+          "date": "2026-07-04"
+        },
+        {
+          "t": "Edwin Uceta (shoulder) remains shut down",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/edwin-uceta-shoulder-remains-shut-down",
+          "fetchedAt": 1783501933182,
+          "date": "2026-07-06"
+        },
+        {
+          "t": "Bryan Baker quiets Yankees to collect 24th save",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/bryan-baker-quiets-yankees-to-collect-24th-save",
+          "fetchedAt": 1783501933182,
+          "date": "2026-07-07"
+        }
+      ]
     },
     {
       "id": 10214,
