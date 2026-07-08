@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedRosterStats": "2026-07-07T17:54:28Z",
+  "lastUpdatedRosterStats": "2026-07-08T05:52:23Z",
   "players": [
     {
       "id": 11928,
@@ -699,14 +699,14 @@
       "yesterdayStats": {
         "date": "2026-07-06",
         "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
+        "ip": "7.0",
+        "w": "1",
+        "l": "0",
+        "sv": "0",
+        "era": "0.00",
+        "whip": "0.57",
+        "k9": "11.57",
+        "qs": "1"
       },
       "lastWeekStats": {
         "rank": "606",
@@ -916,11 +916,11 @@
         "type": "pitching",
         "ip": "1.0",
         "w": "0",
-        "l": "1",
+        "l": "0",
         "sv": "0",
         "era": "0.00",
-        "whip": "2.00",
-        "k9": "0.00",
+        "whip": "1.00",
+        "k9": "9.00",
         "qs": "0"
       },
       "lastWeekStats": {
@@ -1000,14 +1000,14 @@
       "yesterdayStats": {
         "date": "2026-07-06",
         "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
+        "ip": "4.1",
+        "w": "0",
+        "l": "1",
+        "sv": "0",
+        "era": "2.08",
+        "whip": "1.38",
+        "k9": "10.38",
+        "qs": "0"
       },
       "lastWeekStats": {
         "rank": "684",
@@ -1086,14 +1086,14 @@
       "yesterdayStats": {
         "date": "2026-07-06",
         "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
+        "ip": "4.0",
+        "w": "0",
+        "l": "1",
+        "sv": "0",
+        "era": "9.00",
+        "whip": "2.00",
+        "k9": "13.50",
+        "qs": "0"
       },
       "lastWeekStats": {
         "rank": "788",
