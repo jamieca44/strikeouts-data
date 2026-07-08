@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "lastUpdatedRosterStats": "2026-07-08T16:03:49Z",
+  "schemaVersion": 2,
+  "lastUpdatedRosterStats": "2026-07-08T23:47:47Z",
   "players": [
     {
       "id": 11928,
@@ -1162,6 +1162,1401 @@
         "k9": "-",
         "qs": "-"
       }
+    }
+  ],
+  "teams": [
+    {
+      "leagueId": "68809",
+      "teamId": "8",
+      "leagueName": "KALIFORNIA PENAL LEAGUE 2026",
+      "teamName": "Seattle Strikeouts",
+      "statCategories": {
+        "batting": [
+          "hab",
+          "r",
+          "hr",
+          "rbi",
+          "sb",
+          "k",
+          "tb",
+          "obp"
+        ],
+        "pitching": [
+          "ip",
+          "w",
+          "l",
+          "sv",
+          "era",
+          "whip",
+          "k9",
+          "qs"
+        ]
+      },
+      "playersRef": "players"
+    },
+    {
+      "leagueId": "16419",
+      "teamId": "8",
+      "leagueName": "Dynasty Baseball 10",
+      "teamName": "Seattle Gators",
+      "statCategories": {
+        "batting": [
+          "hab",
+          "r",
+          "hr",
+          "rbi",
+          "sb",
+          "obp"
+        ],
+        "pitching": [
+          "ip",
+          "w",
+          "sv",
+          "k",
+          "era",
+          "whip"
+        ]
+      },
+      "players": [
+        {
+          "id": 11928,
+          "name": "Dillon Dingler",
+          "team": "Detroit Tigers",
+          "pos": "C",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
+          },
+          "lastWeekStats": {
+            "rank": "608",
+            "type": "batting",
+            "hab": "5/22",
+            "r": "2",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".261"
+          },
+          "lastMonthStats": {
+            "rank": "92",
+            "type": "batting",
+            "hab": "33/104",
+            "r": "18",
+            "hr": "5",
+            "rbi": "16",
+            "sb": "0",
+            "obp": ".330"
+          },
+          "sharedWithTeam1": true
+        },
+        {
+          "id": 8658,
+          "name": "Freddie Freeman",
+          "team": "Los Angeles Dodgers",
+          "pos": "1B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "2/5",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".400"
+          },
+          "lastWeekStats": {
+            "rank": "135",
+            "type": "batting",
+            "hab": "8/27",
+            "r": "2",
+            "hr": "2",
+            "rbi": "3",
+            "sb": "1",
+            "obp": ".367"
+          },
+          "lastMonthStats": {
+            "rank": "35",
+            "type": "batting",
+            "hab": "33/102",
+            "r": "18",
+            "hr": "5",
+            "rbi": "14",
+            "sb": "1",
+            "obp": ".425"
+          }
+        },
+        {
+          "id": 64311,
+          "name": "Travis Bazzana",
+          "team": "Cleveland Guardians",
+          "pos": "2B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
+          },
+          "lastWeekStats": {
+            "rank": "514",
+            "type": "batting",
+            "hab": "5/21",
+            "r": "2",
+            "hr": "0",
+            "rbi": "2",
+            "sb": "0",
+            "obp": ".304"
+          },
+          "lastMonthStats": {
+            "rank": "183",
+            "type": "batting",
+            "hab": "19/92",
+            "r": "14",
+            "hr": "3",
+            "rbi": "10",
+            "sb": "3",
+            "obp": ".302"
+          }
+        },
+        {
+          "id": 61788,
+          "name": "Caleb Durbin",
+          "team": "Boston Red Sox",
+          "pos": "2B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".200"
+          },
+          "lastWeekStats": {
+            "rank": "393",
+            "type": "batting",
+            "hab": "1/18",
+            "r": "3",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "0",
+            "obp": ".227"
+          },
+          "lastMonthStats": {
+            "rank": "31",
+            "type": "batting",
+            "hab": "24/86",
+            "r": "17",
+            "hr": "7",
+            "rbi": "14",
+            "sb": "4",
+            "obp": ".344"
+          }
+        },
+        {
+          "id": 12100,
+          "name": "Otto Lopez",
+          "team": "Miami Marlins",
+          "pos": "2B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "1/5",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".200"
+          },
+          "lastWeekStats": {
+            "rank": "12",
+            "type": "batting",
+            "hab": "13/28",
+            "r": "6",
+            "hr": "2",
+            "rbi": "6",
+            "sb": "1",
+            "obp": ".467"
+          },
+          "lastMonthStats": {
+            "rank": "8",
+            "type": "batting",
+            "hab": "38/105",
+            "r": "23",
+            "hr": "4",
+            "rbi": "16",
+            "sb": "7",
+            "obp": ".395"
+          }
+        },
+        {
+          "id": 64313,
+          "name": "Nick Kurtz",
+          "team": "Athletics",
+          "pos": "1B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/5",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
+          },
+          "lastWeekStats": {
+            "rank": "486",
+            "type": "batting",
+            "hab": "4/21",
+            "r": "2",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "0",
+            "obp": ".227"
+          },
+          "lastMonthStats": {
+            "rank": "18",
+            "type": "batting",
+            "hab": "26/101",
+            "r": "19",
+            "hr": "8",
+            "rbi": "21",
+            "sb": "0",
+            "obp": ".359"
+          },
+          "sharedWithTeam1": true
+        },
+        {
+          "id": 10234,
+          "name": "Dansby Swanson",
+          "team": "Chicago Cubs",
+          "pos": "SS",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "2/4",
+            "r": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".500"
+          },
+          "lastWeekStats": {
+            "rank": "19",
+            "type": "batting",
+            "hab": "6/18",
+            "r": "6",
+            "hr": "3",
+            "rbi": "9",
+            "sb": "0",
+            "obp": ".333"
+          },
+          "lastMonthStats": {
+            "rank": "3",
+            "type": "batting",
+            "hab": "25/89",
+            "r": "22",
+            "hr": "9",
+            "rbi": "30",
+            "sb": "5",
+            "obp": ".330"
+          }
+        },
+        {
+          "id": 12157,
+          "name": "Pete Crow-Armstrong",
+          "team": "Chicago Cubs",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "2/5",
+            "r": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".400"
+          },
+          "lastWeekStats": {
+            "rank": "18",
+            "type": "batting",
+            "hab": "8/17",
+            "r": "3",
+            "hr": "1",
+            "rbi": "4",
+            "sb": "3",
+            "obp": ".571"
+          },
+          "lastMonthStats": {
+            "rank": "1",
+            "type": "batting",
+            "hab": "37/97",
+            "r": "20",
+            "hr": "8",
+            "rbi": "18",
+            "sb": "9",
+            "obp": ".483"
+          }
+        },
+        {
+          "id": 12522,
+          "name": "Jackson Merrill",
+          "team": "San Diego Padres",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "1/4",
+            "r": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "1",
+            "obp": ".250"
+          },
+          "lastWeekStats": {
+            "rank": "99",
+            "type": "batting",
+            "hab": "7/25",
+            "r": "4",
+            "hr": "2",
+            "rbi": "4",
+            "sb": "1",
+            "obp": ".308"
+          },
+          "lastMonthStats": {
+            "rank": "127",
+            "type": "batting",
+            "hab": "28/112",
+            "r": "12",
+            "hr": "4",
+            "rbi": "11",
+            "sb": "9",
+            "obp": ".270"
+          }
+        },
+        {
+          "id": 10504,
+          "name": "Cody Bellinger",
+          "team": "New York Yankees",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "1/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".250"
+          },
+          "lastWeekStats": {
+            "rank": "755",
+            "type": "batting",
+            "hab": "3/25",
+            "r": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".154"
+          },
+          "lastMonthStats": {
+            "rank": "489",
+            "type": "batting",
+            "hab": "19/100",
+            "r": "8",
+            "hr": "2",
+            "rbi": "9",
+            "sb": "3",
+            "obp": ".270"
+          }
+        },
+        {
+          "id": 11760,
+          "name": "Riley Greene",
+          "team": "Detroit Tigers",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
+          },
+          "lastWeekStats": {
+            "rank": "44",
+            "type": "batting",
+            "hab": "6/20",
+            "r": "3",
+            "hr": "2",
+            "rbi": "7",
+            "sb": "1",
+            "obp": ".348"
+          },
+          "lastMonthStats": {
+            "rank": "77",
+            "type": "batting",
+            "hab": "22/90",
+            "r": "13",
+            "hr": "7",
+            "rbi": "15",
+            "sb": "1",
+            "obp": ".324"
+          }
+        },
+        {
+          "id": 10496,
+          "name": "Taylor Ward",
+          "team": "Baltimore Orioles",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/2",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".500"
+          },
+          "lastWeekStats": {
+            "rank": "358",
+            "type": "batting",
+            "hab": "5/17",
+            "r": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "1",
+            "obp": ".381"
+          },
+          "lastMonthStats": {
+            "rank": "335",
+            "type": "batting",
+            "hab": "25/103",
+            "r": "14",
+            "hr": "2",
+            "rbi": "3",
+            "sb": "1",
+            "obp": ".336"
+          }
+        },
+        {
+          "id": 64330,
+          "name": "Cam Smith",
+          "team": "Houston Astros",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".400"
+          },
+          "lastWeekStats": {
+            "rank": "500",
+            "type": "batting",
+            "hab": "5/21",
+            "r": "3",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".333"
+          },
+          "lastMonthStats": {
+            "rank": "303",
+            "type": "batting",
+            "hab": "22/94",
+            "r": "12",
+            "hr": "5",
+            "rbi": "8",
+            "sb": "1",
+            "obp": ".277"
+          }
+        },
+        {
+          "id": 10916,
+          "name": "Royce Lewis",
+          "team": "Minnesota Twins",
+          "pos": "1B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".250"
+          },
+          "lastWeekStats": {
+            "rank": "453",
+            "type": "batting",
+            "hab": "4/20",
+            "r": "1",
+            "hr": "0",
+            "rbi": "2",
+            "sb": "1",
+            "obp": ".304"
+          },
+          "lastMonthStats": {
+            "rank": "116",
+            "type": "batting",
+            "hab": "27/99",
+            "r": "13",
+            "hr": "5",
+            "rbi": "12",
+            "sb": "3",
+            "obp": ".330"
+          },
+          "sharedWithTeam1": true
+        },
+        {
+          "id": 62954,
+          "name": "Colt Emerson",
+          "team": "Seattle Mariners",
+          "pos": "3B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".250"
+          },
+          "lastWeekStats": {
+            "rank": "667",
+            "type": "batting",
+            "hab": "2/16",
+            "r": "2",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".176"
+          },
+          "lastMonthStats": {
+            "rank": "473",
+            "type": "batting",
+            "hab": "13/73",
+            "r": "8",
+            "hr": "3",
+            "rbi": "9",
+            "sb": "2",
+            "obp": ".250"
+          }
+        },
+        {
+          "id": 8996,
+          "name": "Jose Altuve",
+          "team": "Houston Astros",
+          "pos": "2B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "1/5",
+            "r": "1",
+            "hr": "1",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".200"
+          },
+          "lastWeekStats": {
+            "rank": "42",
+            "type": "batting",
+            "hab": "6/24",
+            "r": "6",
+            "hr": "2",
+            "rbi": "4",
+            "sb": "1",
+            "obp": ".357"
+          },
+          "lastMonthStats": {
+            "rank": "211",
+            "type": "batting",
+            "hab": "21/99",
+            "r": "14",
+            "hr": "5",
+            "rbi": "13",
+            "sb": "1",
+            "obp": ".278"
+          }
+        },
+        {
+          "id": 11529,
+          "name": "Noelvi Marte",
+          "team": "Cincinnati Reds",
+          "pos": "3B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "450",
+            "type": "batting",
+            "hab": "3/16",
+            "r": "2",
+            "hr": "1",
+            "rbi": "3",
+            "sb": "0",
+            "obp": ".188"
+          },
+          "lastMonthStats": {
+            "rank": "259",
+            "type": "batting",
+            "hab": "16/76",
+            "r": "11",
+            "hr": "5",
+            "rbi": "9",
+            "sb": "3",
+            "obp": ".250"
+          }
+        },
+        {
+          "id": 60580,
+          "name": "Cole Young",
+          "team": "Seattle Mariners",
+          "pos": "2B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "1/3",
+            "r": "1",
+            "hr": "1",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".500"
+          },
+          "lastWeekStats": {
+            "rank": "443",
+            "type": "batting",
+            "hab": "3/16",
+            "r": "3",
+            "hr": "1",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".235"
+          },
+          "lastMonthStats": {
+            "rank": "204",
+            "type": "batting",
+            "hab": "26/97",
+            "r": "15",
+            "hr": "6",
+            "rbi": "11",
+            "sb": "0",
+            "obp": ".304"
+          }
+        },
+        {
+          "id": 11768,
+          "name": "Jeremy Peña",
+          "team": "Houston Astros",
+          "pos": "SS",
+          "ilStatus": "IL10",
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "1,581",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastMonthStats": {
+            "rank": "144",
+            "type": "batting",
+            "hab": "20/68",
+            "r": "12",
+            "hr": "3",
+            "rbi": "9",
+            "sb": "5",
+            "obp": ".360"
+          }
+        },
+        {
+          "id": 12375,
+          "name": "Marcelo Mayer",
+          "team": "Boston Red Sox",
+          "pos": "2B",
+          "ilStatus": "IL10",
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "837",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastMonthStats": {
+            "rank": "735",
+            "type": "batting",
+            "hab": "9/40",
+            "r": "3",
+            "hr": "1",
+            "rbi": "8",
+            "sb": "0",
+            "obp": ".295"
+          }
+        },
+        {
+          "id": 62984,
+          "name": "Matt Shaw",
+          "team": "Chicago Cubs",
+          "pos": "3B",
+          "ilStatus": "IL10",
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "1,137",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastMonthStats": {
+            "rank": "309",
+            "type": "batting",
+            "hab": "9/35",
+            "r": "10",
+            "hr": "1",
+            "rbi": "8",
+            "sb": "1",
+            "obp": ".395"
+          }
+        },
+        {
+          "id": 63537,
+          "name": "Franklin Arias",
+          "team": "Boston Red Sox",
+          "pos": "SS",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "1,204",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastMonthStats": {
+            "rank": "1,375",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          }
+        },
+        {
+          "id": 64967,
+          "name": "Eduardo Quintero",
+          "team": "Los Angeles Dodgers",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "1,544",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastMonthStats": {
+            "rank": "1,677",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          }
+        },
+        {
+          "id": 62962,
+          "name": "Walker Jenkins",
+          "team": "Minnesota Twins",
+          "pos": "OF",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "1,131",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastMonthStats": {
+            "rank": "1,309",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          }
+        },
+        {
+          "id": 9701,
+          "name": "Jacob deGrom",
+          "team": "Texas Rangers",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "5.0",
+            "w": "0",
+            "sv": "0",
+            "k": "7",
+            "era": "3.60",
+            "whip": "1.40"
+          },
+          "lastWeekStats": {
+            "rank": "468",
+            "type": "pitching",
+            "ip": "5.0",
+            "w": "0",
+            "sv": "0",
+            "k": "7",
+            "era": "3.60",
+            "whip": "1.40"
+          },
+          "lastMonthStats": {
+            "rank": "212",
+            "type": "pitching",
+            "ip": "30.0",
+            "w": "2",
+            "sv": "0",
+            "k": "38",
+            "era": "4.20",
+            "whip": "1.07"
+          }
+        },
+        {
+          "id": 10438,
+          "name": "Dylan Cease",
+          "team": "Toronto Blue Jays",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "29",
+            "type": "pitching",
+            "ip": "7.0",
+            "w": "1",
+            "sv": "0",
+            "k": "9",
+            "era": "0.00",
+            "whip": "0.57"
+          },
+          "lastMonthStats": {
+            "rank": "71",
+            "type": "pitching",
+            "ip": "28.1",
+            "w": "2",
+            "sv": "0",
+            "k": "45",
+            "era": "2.22",
+            "whip": "1.13"
+          }
+        },
+        {
+          "id": 12086,
+          "name": "Jacob Latz",
+          "team": "Texas Rangers",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "2,448",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastMonthStats": {
+            "rank": "45",
+            "type": "pitching",
+            "ip": "13.0",
+            "w": "0",
+            "sv": "9",
+            "k": "14",
+            "era": "1.38",
+            "whip": "0.62"
+          },
+          "sharedWithTeam1": true
+        },
+        {
+          "id": 10946,
+          "name": "Ryan Helsley",
+          "team": "Baltimore Orioles",
+          "pos": "RP",
+          "ilStatus": "IL15",
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "2,110",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastMonthStats": {
+            "rank": "615",
+            "type": "pitching",
+            "ip": "4.2",
+            "w": "0",
+            "sv": "1",
+            "k": "6",
+            "era": "7.71",
+            "whip": "1.71"
+          }
+        },
+        {
+          "id": 11998,
+          "name": "Bryan Baker",
+          "team": "Tampa Bay Rays",
+          "pos": "RP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "1.0",
+            "w": "0",
+            "sv": "1",
+            "k": "1",
+            "era": "0.00",
+            "whip": "1.00"
+          },
+          "lastWeekStats": {
+            "rank": "32",
+            "type": "pitching",
+            "ip": "3.0",
+            "w": "0",
+            "sv": "3",
+            "k": "3",
+            "era": "0.00",
+            "whip": "0.33"
+          },
+          "lastMonthStats": {
+            "rank": "54",
+            "type": "pitching",
+            "ip": "10.0",
+            "w": "0",
+            "sv": "8",
+            "k": "9",
+            "era": "0.90",
+            "whip": "0.30"
+          },
+          "sharedWithTeam1": true
+        },
+        {
+          "id": 11706,
+          "name": "Cristopher Sánchez",
+          "team": "Philadelphia Phillies",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "823",
+            "type": "pitching",
+            "ip": "3.1",
+            "w": "0",
+            "sv": "0",
+            "k": "1",
+            "era": "24.30",
+            "whip": "3.90"
+          },
+          "lastMonthStats": {
+            "rank": "603",
+            "type": "pitching",
+            "ip": "34.0",
+            "w": "3",
+            "sv": "0",
+            "k": "34",
+            "era": "5.56",
+            "whip": "1.35"
+          }
+        },
+        {
+          "id": 12345,
+          "name": "Kyle Bradish",
+          "team": "Baltimore Orioles",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "414",
+            "type": "pitching",
+            "ip": "7.2",
+            "w": "0",
+            "sv": "0",
+            "k": "5",
+            "era": "3.52",
+            "whip": "0.78"
+          },
+          "lastMonthStats": {
+            "rank": "215",
+            "type": "pitching",
+            "ip": "31.1",
+            "w": "2",
+            "sv": "0",
+            "k": "33",
+            "era": "3.45",
+            "whip": "1.15"
+          }
+        },
+        {
+          "id": 9121,
+          "name": "Gerrit Cole",
+          "team": "New York Yankees",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "178",
+            "type": "pitching",
+            "ip": "5.0",
+            "w": "1",
+            "sv": "0",
+            "k": "7",
+            "era": "3.60",
+            "whip": "1.00"
+          },
+          "lastMonthStats": {
+            "rank": "628",
+            "type": "pitching",
+            "ip": "24.2",
+            "w": "2",
+            "sv": "0",
+            "k": "27",
+            "era": "5.47",
+            "whip": "1.42"
+          }
+        },
+        {
+          "id": 11014,
+          "name": "Freddy Peralta",
+          "team": "New York Mets",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "783",
+            "type": "pitching",
+            "ip": "8.2",
+            "w": "0",
+            "sv": "0",
+            "k": "10",
+            "era": "6.23",
+            "whip": "1.96"
+          },
+          "lastMonthStats": {
+            "rank": "1,019",
+            "type": "pitching",
+            "ip": "28.0",
+            "w": "1",
+            "sv": "0",
+            "k": "24",
+            "era": "7.39",
+            "whip": "1.68"
+          }
+        },
+        {
+          "id": 10627,
+          "name": "Jesús Luzardo",
+          "team": "Philadelphia Phillies",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "64",
+            "type": "pitching",
+            "ip": "6.0",
+            "w": "1",
+            "sv": "0",
+            "k": "9",
+            "era": "1.50",
+            "whip": "0.67"
+          },
+          "lastMonthStats": {
+            "rank": "40",
+            "type": "pitching",
+            "ip": "30.1",
+            "w": "3",
+            "sv": "0",
+            "k": "45",
+            "era": "1.78",
+            "whip": "1.12"
+          }
+        },
+        {
+          "id": 9691,
+          "name": "Robbie Ray",
+          "team": "San Francisco Giants",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "411",
+            "type": "pitching",
+            "ip": "6.0",
+            "w": "1",
+            "sv": "0",
+            "k": "4",
+            "era": "4.50",
+            "whip": "1.33"
+          },
+          "lastMonthStats": {
+            "rank": "44",
+            "type": "pitching",
+            "ip": "34.0",
+            "w": "4",
+            "sv": "0",
+            "k": "23",
+            "era": "2.12",
+            "whip": "0.88"
+          }
+        },
+        {
+          "id": 11379,
+          "name": "Ryan Weathers",
+          "team": "New York Yankees",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-07-07",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "740",
+            "type": "pitching",
+            "ip": "4.0",
+            "w": "0",
+            "sv": "0",
+            "k": "6",
+            "era": "9.00",
+            "whip": "2.00"
+          },
+          "lastMonthStats": {
+            "rank": "774",
+            "type": "pitching",
+            "ip": "22.1",
+            "w": "1",
+            "sv": "0",
+            "k": "25",
+            "era": "5.64",
+            "whip": "1.52"
+          },
+          "sharedWithTeam1": true
+        }
+      ]
     }
   ]
 }
