@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-08T03:26:18.937Z",
+  "lastUpdatedNews": "2026-07-08T04:49:08.403Z",
   "players": [
     {
       "id": 11928,
@@ -66,7 +66,14 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. to sit out ASG due to back",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/vladimir-guerrero-jr-to-sit-out-asg-due-to-back",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-04"
+        }
+      ]
     },
     {
       "id": 10964,
@@ -99,7 +106,20 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. homers again in loss to Pirates",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/luis-garcia-jr-homers-again-in-loss-to-pirates",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-05"
+        },
+        {
+          "t": "Luis García Jr. homers twice in win over Pirates",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/luis-garcia-jr-homers-twice-in-win-over-pirates",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-03"
+        }
+      ]
     },
     {
       "id": 10916,
@@ -327,7 +347,14 @@
           "fetchedAt": 1783448747837
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "De La Cruz steals two bases in loss to O’s",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/de-la-cruz-steals-two-bases-in-loss-to-os",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-03"
+        }
+      ]
     },
     {
       "id": 9507,
@@ -352,7 +379,14 @@
           "fetchedAt": 1783448747837
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez (hamate) has been hitting off of tee",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/jose-ramirez-hamate-has-been-hitting-off-of-tee",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-05"
+        }
+      ]
     },
     {
       "id": 10577,
@@ -400,7 +434,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo (shoulder) in Saturday’s lineup",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/brandon-nimmo-shoulder-returns-to-saturdays-lineup",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-04"
+        }
+      ]
     },
     {
       "id": 12086,
@@ -466,7 +507,14 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal limits A’s to one run in victory",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/tarik-skubal-limits-as-to-one-run-in-victory",
+          "fetchedAt": 1783486134829,
+          "date": "2026-07-07"
+        }
+      ]
     },
     {
       "id": 11847,
