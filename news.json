@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-09T09:16:12.052Z",
+  "lastUpdatedNews": "2026-07-09T09:16:30.591Z",
   "players": [
     {
       "id": 11928,
@@ -198,7 +198,14 @@
           "fetchedAt": 1783544974279
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson swats 15th homer in win vs. Brewers",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/alec-burleson-swats-15th-homer-in-win-vs-brewers",
+          "fetchedAt": 1783588572792
+        }
+      ]
     },
     {
       "id": 64313,
@@ -367,7 +374,14 @@
           "fetchedAt": 1783588533810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts knocks in go-ahead run in eighth",
+          "date": "2026-07-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/mookie-betts-knocks-in-go-ahead-run-in-eighth",
+          "fetchedAt": 1783588575200
+        }
+      ]
     },
     {
       "id": 12393,
@@ -641,7 +655,14 @@
           "fetchedAt": 1783588533810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore falls apart in fifth vs. Angels",
+          "date": "2026-07-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/mackenzie-gore-falls-apart-in-fifth-vs-angels",
+          "fetchedAt": 1783588577103
+        }
+      ]
     },
     {
       "id": 64316,
@@ -674,7 +695,14 @@
           "fetchedAt": 1783588533810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns labors in win over Phillies",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/chase-burns-labors-in-win-over-phillies",
+          "fetchedAt": 1783588577393
+        }
+      ]
     },
     {
       "id": 11203,
@@ -902,7 +930,14 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jack Flaherty combines with two on shutout",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/jack-flaherty-combines-with-two-on-shutout",
+          "fetchedAt": 1783588578601
+        }
+      ]
     },
     {
       "id": 11379,
@@ -1165,7 +1200,14 @@
           "fetchedAt": 1783563052767
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong homers twice to lead Cubs",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/pete-crow-armstrong-homers-twice-to-lead-cubs",
+          "fetchedAt": 1783588582059
+        }
+      ]
     },
     {
       "id": 12522,
@@ -1510,7 +1552,14 @@
           "fetchedAt": 1783563085294
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Matt Shaw (hand) won’t return before break",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/matt-shaw-hand-wont-return-before-break",
+          "fetchedAt": 1783588586074
+        }
+      ]
     },
     {
       "id": 63537,
@@ -1582,7 +1631,14 @@
           "fetchedAt": 1783563088441
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom strikes out seven against Angels",
+          "date": "2026-07-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/jacob-degrom-strikes-out-seven-against-angels",
+          "fetchedAt": 1783588588290
+        }
+      ]
     },
     {
       "id": 10438,
@@ -1614,7 +1670,20 @@
           "fetchedAt": 1783563089668
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease takes no-no into ninth against Giants",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dylan-cease-takes-no-no-into-ninth-against-giants",
+          "fetchedAt": 1783588588686
+        },
+        {
+          "t": "Dylan Cease goes even in 2-0 shutout of Mariners",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/dylan-cease-goes-even-in-2-0-shutout-of-mariners",
+          "fetchedAt": 1783588588686
+        }
+      ]
     },
     {
       "id": 10946,
@@ -1639,7 +1708,14 @@
           "fetchedAt": 1783563090450
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Helsley (elbow) seeking second opinion",
+          "date": "2026-07-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/ryan-helsley-elbow-seeking-second-opinion",
+          "fetchedAt": 1783588589121
+        }
+      ]
     },
     {
       "id": 11706,
@@ -1672,7 +1748,20 @@
           "fetchedAt": 1783563091979
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez lit up for nine runs by Royals",
+          "date": "2026-07-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/cristopher-sanchez-torched-for-nine-runs-by-royals",
+          "fetchedAt": 1783588589600
+        },
+        {
+          "t": "Cristopher Sánchez named to NL All-Star squad",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/cristopher-sanchez-named-to-nl-all-star-squad",
+          "fetchedAt": 1783588589600
+        }
+      ]
     },
     {
       "id": 12345,
