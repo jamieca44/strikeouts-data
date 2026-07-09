@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-09T09:16:30.591Z",
+  "lastUpdatedNews": "2026-07-09T21:13:42.844Z",
   "players": [
     {
       "id": 11928,
@@ -80,6 +80,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. delivers fifth homer in win",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/vladimir-guerrero-jr-delivers-fifth-homer-in-win",
+          "fetchedAt": 1783631597087
+        },
         {
           "t": "Vladimir Guerrero Jr. to sit out ASG due to back",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/vladimir-guerrero-jr-to-sit-out-asg-due-to-back",
@@ -165,7 +171,14 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Lewis homers in loss to the Guardians",
+          "date": "2026-07-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/lewis-homers-in-loss-to-the-guardians",
+          "fetchedAt": 1783631598095
+        }
+      ]
     },
     {
       "id": 12550,
@@ -745,6 +758,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Skenes, Miz, Meyer will not pitch in All-Star Game",
+          "date": "2026-07-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/skenes-miz-meyer-will-not-pitch-in-all-star-game",
+          "fetchedAt": 1783631604464
+        },
+        {
           "t": "Braxton Ashcraft limits Nats to one run in win",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/braxton-ashcraft-limits-nats-to-one-run-in-win",
           "fetchedAt": 1783415615861,
@@ -891,6 +910,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) faces hitters in live BP session",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/edwin-diaz-elbow-faces-hitters-in-live-bp-session",
+          "fetchedAt": 1783631606434
+        },
         {
           "t": "Edwin Díaz (elbow) throws live bullpen session",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/edwin-diaz-elbow-throws-live-bullpen-session",
@@ -1083,7 +1108,14 @@
           "fetchedAt": 1783563049944
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin hits two-run homer in 2-1 victory",
+          "date": "2026-07-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/caleb-durbin-hits-two-run-homer-in-2-1-victory",
+          "fetchedAt": 1783631608441
+        }
+      ]
     },
     {
       "id": 12100,
@@ -1271,7 +1303,14 @@
           "fetchedAt": 1783563054450
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bellinger starting at 1B on Thursday",
+          "date": "2026-07-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/bellinger-starting-at-1b-on-thursday",
+          "fetchedAt": 1783631610497
+        }
+      ]
     },
     {
       "id": 11760,
@@ -1826,7 +1865,14 @@
           "fetchedAt": 1783563093915
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole records a quality start but takes the loss",
+          "date": "2026-07-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/gerrit-cole-records-a-quality-start-but-takes-the-loss",
+          "fetchedAt": 1783631619698
+        }
+      ]
     },
     {
       "id": 11014,
@@ -1859,7 +1905,14 @@
           "fetchedAt": 1783588533810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta exits game trailing in fifth inning",
+          "date": "2026-07-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/freddy-peralta-exits-game-trailing-in-fifth-inning",
+          "fetchedAt": 1783631620764
+        }
+      ]
     },
     {
       "id": 10627,
@@ -1892,7 +1945,20 @@
           "fetchedAt": 1783588533810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Skenes, Miz, Meyer will not pitch in All-Star Game",
+          "date": "2026-07-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/skenes-miz-meyer-will-not-pitch-in-all-star-game",
+          "fetchedAt": 1783631621172
+        },
+        {
+          "t": "Jesús Luzardo strikes out nine in victory",
+          "date": "2026-07-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/jesus-luzardo-strikes-out-nine-in-victory",
+          "fetchedAt": 1783631621172
+        }
+      ]
     },
     {
       "id": 9691,
@@ -1925,6 +1991,21 @@
           "fetchedAt": 1783588533810
         }
       ],
+      "nbcNews": [
+        {
+          "t": "Robbie Ray tosses quality start in win vs. Rockies",
+          "date": "2026-07-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/robbie-ray-tosses-quality-start-in-win-vs-rockies",
+          "fetchedAt": 1783631622166
+        }
+      ]
+    },
+    {
+      "id": 9727,
+      "name": "Kirby Yates",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
+      "yahooNews": [],
       "nbcNews": []
     }
   ]
