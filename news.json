@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-09T02:11:33.916Z",
+  "lastUpdatedNews": "2026-07-09T02:23:29.906Z",
   "players": [
     {
       "id": 11928,
@@ -33,7 +33,20 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler (hand) X-rays come back negative",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dillon-dingler-hand-x-rays-come-back-negative",
+          "fetchedAt": 1783563717334,
+          "date": "2026-07-08"
+        },
+        {
+          "t": "Dillon Dingler exits game with right hand injury",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dillon-dingler-exits-game-with-right-hand-injury",
+          "fetchedAt": 1783563717334,
+          "date": "2026-07-08"
+        }
+      ]
     },
     {
       "id": 10621,
@@ -938,7 +951,14 @@
           "fetchedAt": 1783563048300
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman homers, plates pair in win",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/freddie-freeman-homers-plates-pair-in-win",
+          "fetchedAt": 1783563748360,
+          "date": "2026-07-05"
+        }
+      ]
     },
     {
       "id": 64311,
@@ -971,7 +991,14 @@
           "fetchedAt": 1783563049089
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana falls out of leadoff spot vs. lefty",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/travis-bazzana-falls-out-of-leadoff-spot-vs-lefty",
+          "fetchedAt": 1783563753467,
+          "date": "2026-07-08"
+        }
+      ]
     },
     {
       "id": 61788,
@@ -1036,7 +1063,26 @@
           "fetchedAt": 1783563050810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Otto Lopez has another multi-hit game in win",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/otto-lopez-has-another-multi-hit-game-in-win",
+          "fetchedAt": 1783563756239,
+          "date": "2026-07-08"
+        },
+        {
+          "t": "Otto Lopez homers, picks up three hits in win",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/otto-lopez-homers-picks-up-three-hits-in-win",
+          "fetchedAt": 1783563756239,
+          "date": "2026-07-05"
+        },
+        {
+          "t": "Otto Lopez remains hot with homer, three hits",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/otto-lopez-remains-hot-with-homer-three-hits",
+          "fetchedAt": 1783563756239,
+          "date": "2026-07-05"
+        }
+      ]
     },
     {
       "id": 10234,
@@ -1134,7 +1180,14 @@
           "fetchedAt": 1783563053579
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill goes 2-for-3, homers in loss",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/jackson-merrill-goes-2-for-3-homers-in-loss",
+          "fetchedAt": 1783563778271,
+          "date": "2026-07-04"
+        }
+      ]
     },
     {
       "id": 10504,
@@ -1190,7 +1243,20 @@
           "fetchedAt": 1783563055512
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene homers, drives home four in victory",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/riley-greene-homers-drives-home-four-in-victory",
+          "fetchedAt": 1783563789709,
+          "date": "2026-07-05"
+        },
+        {
+          "t": "Riley Greene goes 2-for-4, homers against Rangers",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/riley-greene-goes-2-for-4-homers-against-rangers",
+          "fetchedAt": 1783563789709,
+          "date": "2026-07-04"
+        }
+      ]
     },
     {
       "id": 10496,
@@ -1286,7 +1352,14 @@
           "fetchedAt": 1783563080489
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve delivers 10th homer in Astros’ victory",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/jose-altuve-delivers-10th-homer-in-astros-victory",
+          "fetchedAt": 1783563799459,
+          "date": "2026-07-07"
+        }
+      ]
     },
     {
       "id": 11529,
@@ -1334,7 +1407,14 @@
           "fetchedAt": 1783563082177
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young connects for 10th homer in defeat",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/cole-young-connects-for-10th-homer-in-defeat",
+          "fetchedAt": 1783563805326,
+          "date": "2026-07-07"
+        }
+      ]
     },
     {
       "id": 11768,
@@ -1366,7 +1446,14 @@
           "fetchedAt": 1783563083500
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña (calf) starting rehab assignment",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/jeremy-pena-calf-starting-rehab-assignment",
+          "fetchedAt": 1783563807583,
+          "date": "2026-07-06"
+        }
+      ]
     },
     {
       "id": 12375,
