@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-09T00:05:40.029Z",
+  "lastUpdatedNews": "2026-07-09T02:11:33.916Z",
   "players": [
     {
       "id": 11928,
@@ -912,7 +912,32 @@
       "name": "Freddie Freeman",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Ranking the top 10 first basemen in MLB entering July",
+          "s": "MLB heads into the 16th week of the 2026 season. The 2026 All-Star Game takes place in one week, and the All-Star teams, from each respective league, have been announced. The pool of players was arguably as good as it’s…",
+          "by": "Kyle Amore",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/ranking-top-10-first-basemen-130900957.html",
+          "fetchedAt": 1783563048300
+        },
+        {
+          "t": "Why Dodgers’ Freddie Freeman is big All-Star Game guy",
+          "s": "Dodgers first baseman Freddie Freeman is gearing up for his 10th All-Star Game, and he hasn't gotten sick of it yet.",
+          "by": "Dan Fappiano, ClutchPoints",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/why-dodgers-freddie-freeman-big-194003148.html",
+          "fetchedAt": 1783563048300
+        },
+        {
+          "t": "“Coming to End of My Career” – Freddie Freeman Opens Up on 10th All-Star Game Stint Amid Retirement Buzz",
+          "s": "At 36 years old, Freddie Freeman would ideally like to play for a few more years before retiring at 40. However, things do not always go according to plan, and by now, Freeman knows to cherish every All-Star Game.",
+          "by": "Srijanee Chakraborty",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/coming-end-career-freddie-freeman-015219252.html",
+          "fetchedAt": 1783563048300
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -920,7 +945,32 @@
       "name": "Travis Bazzana",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Former Florida State Pitcher Messick Named MLB All-Star",
+          "s": "The former Seminole legend becomes Cleveland’s first southpaw starter honored since 2008, parlaying his dominant collegiate blueprint into a peer-voted selection for the Midsummer Classic in Philadelphia.",
+          "by": "Pankti Parmar",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/former-florida-state-pitcher-messick-221732529.html",
+          "fetchedAt": 1783563049089
+        },
+        {
+          "t": "Guardians’ Cade Smith gets brutally honest on 1st career All-Star selection",
+          "s": "Cleveland Guardians pitcher Cade Smith made jokes at his own expense after making his first MLB All-Star team.",
+          "by": "Jackson Stone, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-cade-smith-gets-brutally-175627998.html",
+          "fetchedAt": 1783563049089
+        },
+        {
+          "t": "Guardians rookies Travis Bazzana, Parker Messick plus Cade Smith lead All-Star selections",
+          "s": "The Guardians will have three All-Stars when the mid-summer classic is played in the city of brotherly love on July 14 during America’s celebration of 250 years. Two (second baseman Travis Bazzana and starting pitcher Parker Messick) will head to Philadelphia as rookies, while Cade Smith makes his first All-Star appearance in his first full season as Cleveland’s stopper after Emmanuel Clase’s ...",
+          "by": "Mark Podolski, The News-Herald, Willoughby, Ohio",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-rookies-travis-bazzana-parker-035900683.html",
+          "fetchedAt": 1783563049089
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -928,7 +978,32 @@
       "name": "Caleb Durbin",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Caleb Durbin Went From Unrosterable to the Red Sox's Best Hitter, and the Swing Change Explains Why",
+          "s": "Two months ago you would not have blamed anyone for cutting Caleb Durbin. A ground ball rate sitting at 58 percent, which is not a batting stance, it is a confession. Boston traded for him in a six-player deal last February, sending Kyle Harrison, David Hamilton, and Shane Drohan to Milwaukee to get him, and for two months it looked like the kind of trade a front office quietly hopes you forget by August.",
+          "by": "Tom McFeeley",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/caleb-durbin-went-unrosterable-red-204206973.html",
+          "fetchedAt": 1783563049944
+        },
+        {
+          "t": "Red Sox's recent hot streak shows Craig Breslow got more offseason moves right than expected",
+          "s": "Breslow deserves some credit as some key offseason additions lead Boston's recent surge.",
+          "by": "TJ Morin",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/red-soxs-recent-hot-streak-190726432.html",
+          "fetchedAt": 1783563049944
+        },
+        {
+          "t": "TST Images: Red Sox beat Angels, 5-2, at Angel Stadium",
+          "s": "LOS ANGELES --The Boston Red Sox defeated the Los Angeles Angels, 5-2, on July 3, 2026 at Angel Stadium.",
+          "by": "The Sporting Tribune",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/tst-images-red-sox-beat-042544084.html",
+          "fetchedAt": 1783563049944
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -936,7 +1011,31 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Stowers homers, López has 40th multi-hit game as Marlins beat Mariners 2-0 for 5th straight win",
+          "s": "Kyle Stowers homered, major league batting leader Otto López had his 40th multi-hit game and the Miami Marlins beat the Seattle Mariners 2-0 on Wednesday night. Tyler Phillips (2-3) pitched five sharp innings, allowing four hits on 71 pitches, before three relievers finished off Miami's fifth straight victory. The Marlins are a major league-best 25-8 since June 1.",
+          "when": "46m ago",
+          "href": "https://sports.yahoo.com/articles/stowers-homers-l-pez-40th-012422037.html",
+          "fetchedAt": 1783563050810
+        },
+        {
+          "t": "Marlins stay put in the power rankings despite a series sweep last week",
+          "s": "It just wasn't enough to bump them up any spots.",
+          "by": "Jared Bloom",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/marlins-stay-put-power-rankings-223951638.html",
+          "fetchedAt": 1783563050810
+        },
+        {
+          "t": "Fantasy Baseball Rest-of-Season Rankings: Scott Pianowski's updated risers and fallers as of July 6",
+          "s": "Fantasy baseball analyst Scott Pianowski updates his rankings as of July 6 with the biggest risers and fallers.",
+          "by": "Scott Pianowski",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-rest-of-season-rankings-scott-pianowskis-updated-risers-and-fallers-as-of-july-6-170808282.html",
+          "fetchedAt": 1783563050810
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -944,7 +1043,32 @@
       "name": "Dansby Swanson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Chicago Cubs Announce Dansby Swanson Change During Orioles Series",
+          "s": "On Wednesday night, the Chicago Cubs will continue their series with the Baltimore Orioles in Maryland.They are coming off a 5-2 win on Tuesday.Dansby Swanson (who batted 8th) finished with two hits, one RBI and one run.Chicago Cubs Announce Dansby Swanson ChangeFor Wednesday’s game, the Cubs have announced their starting lineup.Via Underdog MLB: “Cubs 7/8 […] The post Chicago Cubs Announce Dansby Swanson Change During Orioles Series appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-212459097.html",
+          "fetchedAt": 1783563051965
+        },
+        {
+          "t": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Wednesday, July 8",
+          "s": "Josh Inglis' home run picks for tonight are topped by Juan Soto and Esmerlyn Valdez. Free MLB predictions for Wednesday, July 8.",
+          "by": "Josh Inglis",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-130100093.html",
+          "fetchedAt": 1783563051965
+        },
+        {
+          "t": "Cubs 5, Orioles 2: Matthew Boyd flashes his 2025 form",
+          "s": "The Cubs began their road trip with a solid pitching performance and some timely hitting.",
+          "by": "Al Yellon",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-4-orioles-2-matthew-130000186.html",
+          "fetchedAt": 1783563051965
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -952,7 +1076,32 @@
       "name": "Pete Crow-Armstrong",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pete Crow-Armstrong becomes MLB’s 1st 20-20 hitter this season, hitting two HRs in Cubs’ 9-7 win",
+          "s": "BALTIMORE — Pete Crow-Armstrong isn’t showing any signs of cooling off at the plate. Crow-Armstrong became the first hitter with at least 20 home runs and 20 steals in MLB this season when he went deep in the third inning to give the Chicago Cubs an early lead against the Baltimore Orioles on Wednesday night at Camden Yards. The 24-year-old center fielder took Orioles starter Dean Kremer out ...",
+          "by": "Meghan Montemurro, Chicago Tribune",
+          "when": "13m ago",
+          "href": "https://sports.yahoo.com/articles/pete-crow-armstrong-becomes-mlb-015700595.html",
+          "fetchedAt": 1783563052767
+        },
+        {
+          "t": "Orioles rally falls short in 9-7 loss to Cubs",
+          "s": "The Orioles allowed eight consecutive runs and failed to battle back in a 9-7 loss to Chicago.",
+          "by": "Alex Church",
+          "when": "23m ago",
+          "href": "https://sports.yahoo.com/articles/orioles-rally-falls-short-9-014659111.html",
+          "fetchedAt": 1783563052767
+        },
+        {
+          "t": "Crow-Armstrong hits 2 of Chicago's 5 homers and the Cubs outslug Baltimore 9-7",
+          "s": "Pete Crow-Armstrong hit two of Chicago's five home runs and the Cubs outslugged the Baltimore Orioles 9-7 on Wednesday night. Michael Conforto and Carson Kelly also went deep on the first two pitches of the fifth inning for Chicago, tying the game immediately after Pete Alonso's two-run shot had given Baltimore a 3-1 lead.",
+          "by": "NOAH TRISTER",
+          "when": "32m ago",
+          "href": "https://sports.yahoo.com/articles/crow-armstrong-hits-2-chicagos-013810410.html",
+          "fetchedAt": 1783563052767
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -960,7 +1109,31 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The decline of Jackson Merrill is an indictment of Padres mismanagement",
+          "s": "The young centerfielder's struggles have been incredibly depressing to watch.",
+          "by": "Thomas Conroy",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/decline-jackson-merrill-indictment-padres-140000600.html",
+          "fetchedAt": 1783563053579
+        },
+        {
+          "t": "Jackson Merrill Sends Message to Padres Fans Amid Brutal Losing Skid",
+          "s": "San Diego Padres star Jackson Merrill sent a direct message to the fans amid the recent losing skid.",
+          "by": "Matt Levine",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/jackson-merrill-sends-message-padres-220004070.html",
+          "fetchedAt": 1783563053579
+        },
+        {
+          "t": "Jackson Merrill's RBI single",
+          "s": "Jackson Merrill hits an RBI single to right, tying the game at 1 in the bottom of the 1st inning",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/jackson-merrills-rbi-single-020146818.html",
+          "fetchedAt": 1783563053579
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -968,7 +1141,24 @@
       "name": "Cody Bellinger",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Why Yankees' first-half team MVP per ESPN is Cam Schlittler, not Ben Rice",
+          "s": "Despite how good Rice has been, Schlittler's impact has been bigger.",
+          "by": "Matt Sullivan",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/why-yankees-first-half-team-191442197.html",
+          "fetchedAt": 1783563054450
+        },
+        {
+          "t": "Four Yankees are headed to the All-Star Game",
+          "s": "The Midsummer Classic in Philadelphia will feature a quartet of Bronx Bombers.",
+          "by": "Kevin Winterhalt",
+          "when": "4d ago",
+          "href": "https://sports.yahoo.com/articles/four-yankees-headed-star-game-234607130.html",
+          "fetchedAt": 1783563054450
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -976,7 +1166,30 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Riley Greene's RBI single",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/riley-greenes-rbi-single-225928314.html",
+          "fetchedAt": 1783563055512
+        },
+        {
+          "t": "Ranking the Detroit Tigers' Last 10 First-Round Draft Picks",
+          "s": "Ranking the best and worst Detroit Tigers draft picks over the last decade.",
+          "by": "Dominic Minchella",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/ranking-detroit-tigers-last-10-120008740.html",
+          "fetchedAt": 1783563055512
+        },
+        {
+          "t": "Athletics look to stop 3-game road skid, play the Tigers",
+          "s": "Athletics (41-50, fourth in the AL West) vs. Detroit Tigers (41-50, fourth in the AL Central) Detroit; Wednesday, 6:40 p.m. EDT PITCHING PROBABLES: Athletics: Jeffrey Springs (3-8, 5.79 ERA, 1.38 WHIP, 80 strikeouts); Tigers: Troy Melton (4-1, 2.05 ERA, 0.80 WHIP, 32 strikeouts) LINE: Tigers -163, Athletics +134; over/under is 9 runs BOTTOM LINE: The Athletics will try to break a three-game road slide when they face the Detroit Tigers. Detroit is 41-50 overall and 24-21 at home.",
+          "by": "The Associated Press",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/athletics-look-stop-3-game-075559964.html",
+          "fetchedAt": 1783563055512
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -984,7 +1197,32 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Baltimore Orioles’ Craig Albernaz Reacts to Concerning Taylor Ward Trend",
+          "s": "Baltimore Orioles outfielder Taylor Ward is having an interesting season.",
+          "by": "Jesus Jimenez",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/baltimore-orioles-craig-albernaz-reacts-160027152.html",
+          "fetchedAt": 1783563056346
+        },
+        {
+          "t": "Phillies linked to 'most coveted' hitter from Orioles at trade deadline",
+          "s": "This would be a great addition to the Phillies outfield.",
+          "by": "Conor Liguori",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-linked-most-coveted-hitter-144335272.html",
+          "fetchedAt": 1783563056346
+        },
+        {
+          "t": "Orioles have 75% chance to trade .731 OPS outfielder per ESPN",
+          "s": "This is a very high number for the Orioles.",
+          "by": "Matt Sullivan",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/orioles-75-chance-trade-731-170932579.html",
+          "fetchedAt": 1783563056346
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1000,7 +1238,23 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Former Seattle Mariners Infielder Calls Colt Emerson 'A Unicorn'",
+          "s": "Ben Williamson came up with Emerson after both were drafted in the 2023 Draft.",
+          "by": "Brady Farkas",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/former-seattle-mariners-infielder-calls-190054162.html",
+          "fetchedAt": 1783563078111
+        },
+        {
+          "t": "Former Seattle Mariners Infielder Calls Colt Emerson 'A Unicorn'",
+          "s": "Ben Williamson came up with Emerson after both were drafted in the 2023 Draft.",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/videos/former-seattle-mariners-infielder-calls-190054554.html",
+          "fetchedAt": 1783563078111
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1008,7 +1262,30 @@
       "name": "Jose Altuve",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Altuve, Allen lead Astros' offense in 6-3 win",
+          "s": "Jose Altuve's solo home run and Nick Allen's two-run single power the Astros' offense to a 6-3 victory over the Nationals",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/videos/altuve-allen-lead-astros-offense-034536644.html",
+          "fetchedAt": 1783563080489
+        },
+        {
+          "t": "James Wood, Jose Tena Homer in Washington Nationals' 6-3 Loss",
+          "s": "Dylan Crews struck out with the bases loaded to end the Washington Nationals' 6-3 loss against the Houston Astros",
+          "by": "Ahmed Ghafir",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/james-wood-jose-tena-homer-021525157.html",
+          "fetchedAt": 1783563080489
+        },
+        {
+          "t": "James Wood crushes grand slam in Nationals' win",
+          "s": "James Wood crushes a grand slam and CJ Abrams hits a three-run home run in the Nationals' 12-11 win against the Astros",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/james-wood-crushes-grand-slam-042216726.html",
+          "fetchedAt": 1783563080489
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1016,7 +1293,15 @@
       "name": "Noelvi Marte",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Noelvi Marte's solo home run (6)",
+          "s": "Noelvi Marte gives the Reds the lead in the bottom of the 4th inning with a solo home run to left field",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/videos/noelvi-martes-solo-home-run-002905143.html",
+          "fetchedAt": 1783563081346
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1024,7 +1309,31 @@
       "name": "Cole Young",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Cole Young's All-Star Snub Adds Insult to Mariners' Latest Breakout Story",
+          "s": "The Mariners finally have a young infield breakout in Cole Young, which makes his All-Star snub even more frustrating for Seattle fans.",
+          "by": "Tremayne Person",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/cole-youngs-star-snub-adds-133600028.html",
+          "fetchedAt": 1783563082177
+        },
+        {
+          "t": "Mariners fail to take advantage of opportunities, lose 6-5",
+          "s": "Mariners can’t add on in Miami, get walked off by Marlins 6-5",
+          "by": "Kate Preusser",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-fail-advantage-opportunities-lose-022946863.html",
+          "fetchedAt": 1783563082177
+        },
+        {
+          "t": "Cole Young's solo home run (10)",
+          "s": "Cole Young crushes a solo home run to right field for his 10th home run of the season, bringing the Mariners to within one run in the 5th inning",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/cole-youngs-solo-home-run-000022196.html",
+          "fetchedAt": 1783563082177
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1032,7 +1341,31 @@
       "name": "Jeremy Peña",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Could Boston Red Sox Target Astros’ Shortstop in Trade?",
+          "s": "Could the Red Sox and Astros line up on a trade that sends Houston shortstop Jeremy Pena to Boston?",
+          "by": "Zach Coe",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/could-boston-red-sox-target-233028551.html",
+          "fetchedAt": 1783563083500
+        },
+        {
+          "t": "Could Boston Red Sox Target Astros’ Shortstop in Trade?",
+          "s": "Could the Red Sox and Astros line up on a trade that sends Houston shortstop Jeremy Pena to Boston?",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/videos/could-boston-red-sox-target-233028868.html",
+          "fetchedAt": 1783563083500
+        },
+        {
+          "t": "Braves rumors: Atlanta remains linked to Astros star before trade deadline",
+          "s": "Rumors are swirling around MLB it appears the Braves have their eyes set on a star-caliber player on the Astros ahead of the trade deadline.",
+          "by": "Benedetto Vitale, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/braves-rumors-atlanta-remains-linked-172326196.html",
+          "fetchedAt": 1783563083500
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1048,7 +1381,31 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Cubs rumors: Insider’s bold Chicago trade deadline prediction will catch fans’ attention",
+          "s": "If the Cubs are serious about competing for a World Series title, they will enter the trade deadline with a buyer's mentality.",
+          "by": "Dan Fappiano, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-rumors-insider-bold-chicago-205539049.html",
+          "fetchedAt": 1783563085294
+        },
+        {
+          "t": "2026 Cubs Heroes and Goats: Matthew Boyd is the Superhero vs. the Orioles",
+          "s": "Cubs bats back a strong Boyd outing for a 5-2 victory to start the road trip.",
+          "by": "Thomas Smith",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-matthew-143000304.html",
+          "fetchedAt": 1783563085294
+        },
+        {
+          "t": "2 Cubs Listed In ESPN's Top-100 Trade Deadline Candidates",
+          "s": "With pitching injuries mounting, Chicago may sacrifice core offensive talent for an elite arm. Discover why Seiya Suzuki and Matt Shaw are surfacing as potential trade chips.",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/2-cubs-listed-espns-top-212252454.html",
+          "fetchedAt": 1783563085294
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1072,7 +1429,23 @@
       "name": "Walker Jenkins",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "It’s been a big week for Saints outfielder ‘Captain America’",
+          "s": "Before Walker Jenkins was drafted, former Twins star Michael Cuddyer dubbed him “Captain America” That moniker became a little more appropriate last week, when Jenkins rescued a young fan who fainted during the national anthem at CHS Field. The Saints routinely stand with a local Little Leaguer on the field during the national anthem, and in 90-degree heat under sunny skies last Tuesday, the ...",
+          "by": "Anya Armentrout, Pioneer Press",
+          "when": "2d ago",
+          "href": "https://sports.yahoo.com/articles/big-week-saints-outfielder-captain-181500633.html",
+          "fetchedAt": 1783563087309
+        },
+        {
+          "t": "Final 2026 MLB Draft Predictions + Futures Game Stars to Watch",
+          "s": "The 2026 MLB Draft is almost here, and Adam Weinrib and Eric Cole break down the latest draft buzz before the first pick is made.",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/final-2026-mlb-draft-predictions-181931067.html",
+          "fetchedAt": 1783563087309
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1080,7 +1453,31 @@
       "name": "Jacob deGrom",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Thoughts on an 8-3 Rangers win",
+          "s": "Rangers 8, Angels 3",
+          "by": "Adam J. Morris",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/thoughts-8-3-rangers-win-125801068.html",
+          "fetchedAt": 1783563088441
+        },
+        {
+          "t": "Jacob deGrom Limited to 5 Innings Due to Hip and Leg Soreness in Rangers' Win",
+          "s": "deGrom exits early as the Rangers share an injury update.",
+          "by": "Miracle Dimwesh",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/jacob-degrom-limited-5-innings-110043405.html",
+          "fetchedAt": 1783563088441
+        },
+        {
+          "t": "Ezequiel Duran laces go-ahead single in Rangers' win",
+          "s": "Ezequiel Duran laces the go-ahead single in the bottom of the 8th and Jacob deGrom strikes out seven in Rangers' 8-3 win",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/ezequiel-duran-laces-ahead-single-054541779.html",
+          "fetchedAt": 1783563088441
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1088,7 +1485,31 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dylan Cease flirts with no-hitter in Blue Jays' win",
+          "s": "Dylan Cease takes a no-hitter into the 9th inning and Kazuma Okamoto hits a grand slam in the Blue Jays' 10-0 win over the Giants",
+          "when": "38m ago",
+          "href": "https://sports.yahoo.com/videos/dylan-cease-flirts-no-hitter-013248315.html",
+          "fetchedAt": 1783563089668
+        },
+        {
+          "t": "Definitely a loss, almost a no-hitter, hopefully rock bottom",
+          "s": "It can’t get worse … right?",
+          "by": "Brady Klopfer",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/definitely-loss-almost-no-hitter-004323211.html",
+          "fetchedAt": 1783563089668
+        },
+        {
+          "t": "Blue Jays’ Dylan Cease has bid for 2nd career no-hitter broken up by Giants in 9th inning",
+          "s": "Cease threw a career-high 118 pitches and struck out 11 in a near-spotless performance.",
+          "by": "Associated Press",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-dylan-cease-bid-233159546.html",
+          "fetchedAt": 1783563089668
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1096,7 +1517,24 @@
       "name": "Ryan Helsley",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Closer Confidential: Ryan Helsley's Elbow Scare Puts Baltimore's Bullpen and Trade Deadline in Doubt",
+          "s": "While you were celebrating, we were monitoring, so here’s your Week 15 primer for the back-ends of all the bullpens. Ryan Helsley landed on the injured list Friday, and Tyler Wells, not a name most fantasy managers rostered in any format, has saved back-to-back games in his place. Emilio Pagan is back in Cincinnati and, for once, the word “committee” does not apply to his bullpen anymore.",
+          "by": "Tom McFeeley",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/closer-confidential-ryan-helsleys-elbow-144658539.html",
+          "fetchedAt": 1783563090450
+        },
+        {
+          "t": "Baltimore Orioles Injury Report Spells Bad News for Ryan Helsley",
+          "s": "Ryan Helsley's first season with the Baltimore Orioles has been frequently interrupted by injuries.",
+          "by": "Jesus Jimenez",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/baltimore-orioles-injury-report-spells-153026910.html",
+          "fetchedAt": 1783563090450
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1104,7 +1542,32 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Why Cristopher Sanchez is still Phillies' team MVP despite awful start vs. Royals",
+          "s": "The Phillies ace is still the best player on the team even with a recent brutal outing.",
+          "by": "Matt Sullivan",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/why-cristopher-sanchez-still-phillies-193214565.html",
+          "fetchedAt": 1783563091979
+        },
+        {
+          "t": "Jesus Luzardo Deserving of Spot on NL All-Star Team",
+          "s": "Philadelphia Phillies starting pitcher Jesus Luzardo was named a replacement on the National League All-Star Team.",
+          "by": "Kenneth Teape",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/jesus-luzardo-deserving-spot-nl-170004581.html",
+          "fetchedAt": 1783563091979
+        },
+        {
+          "t": "Phillies pitcher Zack Wheeler has harsh words regarding the MLB All-Star Game",
+          "s": "The 2026 MLB All-Star Game is set to take place in Philadelphia, but one of the city’s biggest stars won’t be taking part, and he isn’t happy about it. Phillies star Zack Wheeler has publicly voiced his frustration after learning…",
+          "by": "Lou Landers",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-pitcher-zack-wheeler-harsh-154342515.html",
+          "fetchedAt": 1783563091979
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1112,7 +1575,32 @@
       "name": "Kyle Bradish",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Sunday afternoon Orioles game thread: at Reds, 1:05pm ET",
+          "s": "O’s look to complete their third sweep of the season with a victory over the Reds",
+          "by": "John Beers",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/sunday-afternoon-orioles-game-thread-163500061.html",
+          "fetchedAt": 1783563092871
+        },
+        {
+          "t": "Orioles fail to sweep Reds, drop finale 3-2",
+          "s": "For the seventh time this year, the O’s failed to win with a chance at a four-game win streak.",
+          "by": "John Beers",
+          "when": "3d ago",
+          "href": "https://sports.yahoo.com/articles/orioles-fail-sweep-reds-drop-200553160.html",
+          "fetchedAt": 1783563092871
+        },
+        {
+          "t": "Craig Albernaz Explains Why He Trusts Kyle Bradish",
+          "s": "The Orioles manager stood behind his starter after leaving him in past 100 pitches on Sunday, showing how much trust he has in the right-hander going forward.",
+          "by": "Grant Mona",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/craig-albernaz-explains-why-trusts-213842555.html",
+          "fetchedAt": 1783563092871
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1120,7 +1608,31 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Yankees suffer sixth shutout loss of the season",
+          "s": "The Yankees reined in the strikeouts at the expense of scoring even a single run.",
+          "by": "Peter Brody",
+          "when": "50m ago",
+          "href": "https://sports.yahoo.com/articles/yankees-suffer-sixth-shutout-loss-012132095.html",
+          "fetchedAt": 1783563093915
+        },
+        {
+          "t": "Rays beat the Yankees 3-0 to extend AL East lead to 5 games",
+          "s": "Jonathan Aranda drove in three runs, Shane McClanahan pitched 6 1/3 innings and the Tampa Bay Rays beat the New York Yankees 3-0 on Wednesday night to extend their AL East lead to five games. McClanahan (8-5) scattered four hits and struck out five without a walk on 85 pitches. Bryan Baker struck out the side in the ninth inning for his 25th save.",
+          "when": "52m ago",
+          "href": "https://sports.yahoo.com/articles/rays-beat-yankees-3-0-011920166.html",
+          "fetchedAt": 1783563093915
+        },
+        {
+          "t": "Gerrit Cole receives no run support in Yankees' 3-0 loss to Rays",
+          "s": "Gerrit Cole pitched into the seventh but the Yankees did not give him run support in their 3-0 loss to the Rays on Wednesday night.",
+          "by": "Phillip Martinez",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/gerrit-cole-receives-no-run-005946561.html",
+          "fetchedAt": 1783563093915
+        }
+      ],
       "nbcNews": []
     },
     {
