@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-08T21:13:20.476Z",
+  "lastUpdatedNews": "2026-07-09T00:05:40.029Z",
   "players": [
     {
       "id": 11928,
@@ -905,6 +905,246 @@
           "fetchedAt": 1783458208620
         }
       ],
+      "nbcNews": []
+    },
+    {
+      "id": 8658,
+      "name": "Freddie Freeman",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 64311,
+      "name": "Travis Bazzana",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 61788,
+      "name": "Caleb Durbin",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 12100,
+      "name": "Otto Lopez",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10234,
+      "name": "Dansby Swanson",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 12157,
+      "name": "Pete Crow-Armstrong",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 12522,
+      "name": "Jackson Merrill",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10504,
+      "name": "Cody Bellinger",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 11760,
+      "name": "Riley Greene",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10496,
+      "name": "Taylor Ward",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 64330,
+      "name": "Cam Smith",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 62954,
+      "name": "Colt Emerson",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 8996,
+      "name": "Jose Altuve",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 11529,
+      "name": "Noelvi Marte",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 60580,
+      "name": "Cole Young",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 11768,
+      "name": "Jeremy Peña",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 12375,
+      "name": "Marcelo Mayer",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 62984,
+      "name": "Matt Shaw",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 63537,
+      "name": "Franklin Arias",
+      "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 64967,
+      "name": "Eduardo Quintero",
+      "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 62962,
+      "name": "Walker Jenkins",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 9701,
+      "name": "Jacob deGrom",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10438,
+      "name": "Dylan Cease",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10946,
+      "name": "Ryan Helsley",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 11706,
+      "name": "Cristopher Sánchez",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 12345,
+      "name": "Kyle Bradish",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 9121,
+      "name": "Gerrit Cole",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 11014,
+      "name": "Freddy Peralta",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10627,
+      "name": "Jesús Luzardo",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 9691,
+      "name": "Robbie Ray",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
+      "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
+      "yahooNews": [],
       "nbcNews": []
     }
   ]
