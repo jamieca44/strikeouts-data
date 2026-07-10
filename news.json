@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-09T21:19:58.164Z",
+  "lastUpdatedNews": "2026-07-10T09:15:54.324Z",
   "players": [
     {
       "id": 11928,
@@ -34,6 +34,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Dillon Dingler (hand) not in Tigers’ lineup",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/dillon-dingler-hand-not-in-tigers-lineup",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-09"
+        },
         {
           "t": "Dillon Dingler (hand) X-rays come back negative",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dillon-dingler-hand-x-rays-come-back-negative",
@@ -127,16 +133,16 @@
       ],
       "nbcNews": [
         {
+          "t": "Luis García Jr. connects for 20th homer in win",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/luis-garcia-jr-connects-for-20th-homer",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-08"
+        },
+        {
           "t": "Luis García Jr. homers again in loss to Pirates",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/luis-garcia-jr-homers-again-in-loss-to-pirates",
           "fetchedAt": 1783486134829,
           "date": "2026-07-05"
-        },
-        {
-          "t": "Luis García Jr. homers twice in win over Pirates",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/luis-garcia-jr-homers-twice-in-win-over-pirates",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-03"
         }
       ]
     },
@@ -253,16 +259,22 @@
       ],
       "nbcNews": [
         {
-          "t": "Nick Kurtz blasts 20th home run in loss Friday",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-blasts-20th-home-run-in-loss-friday",
-          "fetchedAt": 1783545184578,
-          "date": "2026-07-04"
+          "t": "Nick Kurtz (illness) returns to A’s lineup",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/nick-kurtz-illness-returns-to-as-lineup",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-09"
         },
         {
-          "t": "Nick Kurtz takes over as AL starter at first base",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/nick-kurtz-takes-over-as-al-starter-at-first-base",
-          "fetchedAt": 1783407066726,
-          "date": "2026-07-04"
+          "t": "Nick Kurtz day-to-day with illness",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/nick-kurtz-day-to-day-with-illness",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-08"
+        },
+        {
+          "t": "Nick Kurtz leaves game early with illness",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/nick-kurtz-leaves-wednesdays-game-with-illness",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-08"
         }
       ]
     },
@@ -363,14 +375,7 @@
           "fetchedAt": 1783486420467
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brendan Donovan (groin) to start rehab assignment",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/brendan-donovan-groin-to-start-rehab-assignment",
-          "fetchedAt": 1783407066726,
-          "date": "2026-07-04"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -443,14 +448,7 @@
           "fetchedAt": 1783631968300
         }
       ],
-      "nbcNews": [
-        {
-          "t": "De La Cruz steals two bases in loss to O’s",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/de-la-cruz-steals-two-bases-in-loss-to-os",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-03"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -547,14 +545,7 @@
           "fetchedAt": 1783631968300
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo (shoulder) in Saturday’s lineup",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/brandon-nimmo-shoulder-returns-to-saturdays-lineup",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-04"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -621,6 +612,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Passan: Tigers “far more likely” to trade Skubal",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/passan-tigers-far-more-likely-to-trade-skubal",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-08"
+        },
         {
           "t": "Tarik Skubal limits A’s to one run in victory",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/tarik-skubal-limits-as-to-one-run-in-victory",
@@ -842,14 +839,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Caleb Kilian strikes out two for eighth save",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/caleb-kilian-strikes-out-two-for-eighth-save",
-          "fetchedAt": 1783501933182,
-          "date": "2026-07-04"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -884,10 +874,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Bryan Baker locks down Astros for 23rd save",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/bryan-baker-locks-down-astros-for-23rd-save",
-          "fetchedAt": 1783501933182,
-          "date": "2026-07-04"
+          "t": "Bryan Baker strikes out three for 25th save",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/bryan-baker-strikes-out-three-for-25th-save",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-08"
         },
         {
           "t": "Edwin Uceta (shoulder) remains shut down",
@@ -2049,7 +2039,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kirby Yates takes loss to Rangers in ninth",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/kirby-yates-takes-loss-to-rangers-in-ninth",
+          "fetchedAt": 1783674917821,
+          "date": "2026-07-09"
+        }
+      ]
     }
   ]
 }
