@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-10T09:18:25.050Z",
+  "lastUpdatedNews": "2026-07-10T21:14:17.113Z",
   "players": [
     {
       "id": 11928,
@@ -1278,14 +1278,7 @@
           "fetchedAt": 1783563053579
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill goes 2-for-3, homers in loss",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/jackson-merrill-goes-2-for-3-homers-in-loss",
-          "fetchedAt": 1783563778271,
-          "date": "2026-07-04"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -1362,12 +1355,6 @@
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/riley-greene-homers-drives-home-four-in-victory",
           "fetchedAt": 1783563789709,
           "date": "2026-07-05"
-        },
-        {
-          "t": "Riley Greene goes 2-for-4, homers against Rangers",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/riley-greene-goes-2-for-4-homers-against-rangers",
-          "fetchedAt": 1783563789709,
-          "date": "2026-07-04"
         }
       ]
     },
@@ -1433,7 +1420,14 @@
           "fetchedAt": 1783563078111
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emerson not in starting lineup on Friday",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/emerson-not-in-starting-lineup-on-friday",
+          "fetchedAt": 1783718032111,
+          "date": "2026-07-10"
+        }
+      ]
     },
     {
       "id": 8996,
