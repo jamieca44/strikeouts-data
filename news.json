@@ -436,7 +436,14 @@
           "fetchedAt": 1783631968300
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly triples and homers in win over Cubs",
+          "date": "2026-07-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/elly-triples-and-homers-in-win-over-cubs",
+          "fetchedAt": 1783765835668
+        }
+      ]
     },
     {
       "id": 9507,
@@ -469,14 +476,7 @@
           "fetchedAt": 1783486420467
         }
       ],
-      "nbcNews": [
-        {
-          "t": "José Ramírez (hamate) has been hitting off of tee",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/jose-ramirez-hamate-has-been-hitting-off-of-tee",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-05"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -509,14 +509,7 @@
           "fetchedAt": 1783544974279
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Reynolds goes deep as Pirates top Nationals",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/bryan-reynolds-goes-deep-as-pirates-top-nationals",
-          "fetchedAt": 1783407066726,
-          "date": "2026-07-05"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9876,
@@ -819,14 +812,7 @@
           "fetchedAt": 1783458208620
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan effective for 4 1/3 against Padres",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/emmet-sheehan-effective-for-4-1-3-against-padres",
-          "fetchedAt": 1783415615861,
-          "date": "2026-07-05"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -834,7 +820,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Kilian gives up three runs to blow save",
+          "date": "2026-07-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/caleb-kilian-gives-up-three-runs-to-blow-save",
+          "fetchedAt": 1783765843064
+        }
+      ]
     },
     {
       "id": 11998,
@@ -967,10 +960,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Jack Flaherty combines with two on shutout",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/jack-flaherty-combines-with-two-on-shutout",
-          "fetchedAt": 1783588578601
+          "t": "Jack Flaherty logs quality start in win on Friday",
+          "date": "2026-07-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/jack-flaherty-logs-quality-start-in-win-on-friday",
+          "fetchedAt": 1783765914381
         }
       ]
     },
@@ -1004,7 +997,14 @@
           "fetchedAt": 1783718217113
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Weathers allows one run, gets a no-decision v. WAS",
+          "date": "2026-07-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/weathers-allows-one-run-gets-a-no-decision-v-was",
+          "fetchedAt": 1783765843490
+        }
+      ]
     },
     {
       "id": 8658,
@@ -1037,14 +1037,7 @@
           "fetchedAt": 1783718217113
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman homers, plates pair in win",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/freddie-freeman-homers-plates-pair-in-win",
-          "fetchedAt": 1783563748360,
-          "date": "2026-07-05"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -1161,18 +1154,6 @@
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/otto-lopez-has-another-multi-hit-game-in-win",
           "fetchedAt": 1783563756239,
           "date": "2026-07-08"
-        },
-        {
-          "t": "Otto Lopez homers, picks up three hits in win",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/otto-lopez-homers-picks-up-three-hits-in-win",
-          "fetchedAt": 1783563756239,
-          "date": "2026-07-05"
-        },
-        {
-          "t": "Otto Lopez remains hot with homer, three hits",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/otto-lopez-remains-hot-with-homer-three-hits",
-          "fetchedAt": 1783563756239,
-          "date": "2026-07-05"
         }
       ]
     },
@@ -1349,14 +1330,7 @@
           "fetchedAt": 1783631968300
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene homers, drives home four in victory",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/riley-greene-homers-drives-home-four-in-victory",
-          "fetchedAt": 1783563789709,
-          "date": "2026-07-05"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -1552,6 +1526,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Cole Young hits 11th homer in loss to Rays",
+          "date": "2026-07-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/cole-young-hits-11th-homer-in-loss-to-rays",
+          "fetchedAt": 1783765853405
+        },
+        {
           "t": "Cole Young connects for 10th homer in defeat",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/cole-young-connects-for-10th-homer-in-defeat",
           "fetchedAt": 1783563805326,
@@ -1590,6 +1570,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Jeremy Peña (calf) returns to Astros lineup Friday",
+          "date": "2026-07-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/jeremy-pena-calf-returns-to-astros-lineup-friday",
+          "fetchedAt": 1783765854321
+        },
         {
           "t": "Jeremy Peña (calf) starting rehab assignment",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/jeremy-pena-calf-starting-rehab-assignment",
