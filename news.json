@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-12T09:21:19.918Z",
+  "lastUpdatedNews": "2026-07-12T11:21:19.778Z",
   "players": [
     {
       "id": 11928,
@@ -653,7 +653,14 @@
           "fetchedAt": 1783675071449
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan delivers quality start in no-decision",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/joe-ryan-delivers-quality-start-in-no-decision",
+          "fetchedAt": 1783855255161,
+          "date": "2026-07-11"
+        }
+      ]
     },
     {
       "id": 10940,
@@ -687,6 +694,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Rangers to start MacKenzie Gore on short rest",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/rangers-to-start-mackenzie-gore-on-short-rest",
+          "fetchedAt": 1783855277369,
+          "date": "2026-07-11"
+        },
         {
           "t": "MacKenzie Gore falls apart in fifth vs. Angels",
           "date": "2026-07-09",
@@ -1402,7 +1415,14 @@
           "fetchedAt": 1783631968300
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward belts sixth home run in win Saturday",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/taylor-ward-belts-sixth-home-run-in-win-saturday",
+          "fetchedAt": 1783855263530,
+          "date": "2026-07-11"
+        }
+      ]
     },
     {
       "id": 64330,
@@ -1671,14 +1691,7 @@
           "fetchedAt": 1783804777561
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Matt Shaw (hand) won’t return before break",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/matt-shaw-hand-wont-return-before-break",
-          "fetchedAt": 1783588586074
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -1923,7 +1936,14 @@
           "fetchedAt": 1783675071449
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish strikes out five in win over Royals",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/kyle-bradish-strikes-out-five-in-win-over-royals",
+          "fetchedAt": 1783855271023,
+          "date": "2026-07-11"
+        }
+      ]
     },
     {
       "id": 9121,
