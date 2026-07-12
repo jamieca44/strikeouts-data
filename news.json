@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-12T21:16:06.522Z",
+  "lastUpdatedNews": "2026-07-12T21:24:02.557Z",
   "players": [
     {
       "id": 11928,
@@ -341,7 +341,14 @@
           "fetchedAt": 1783890966522
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Made singles, plates run in Futures Game",
+          "date": "2026-07-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/jesus-made-singles-plates-run-in-futures-game",
+          "fetchedAt": 1783891442557
+        }
+      ]
     },
     {
       "id": 12351,
@@ -1773,6 +1780,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Jacob deGrom (glute) scratched from Sunday’s start",
+          "date": "2026-07-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/jacob-degrom-glute-scratched-from-sundays-start",
+          "fetchedAt": 1783891442557
+        },
+        {
           "t": "Jacob deGrom strikes out seven against Angels",
           "date": "2026-07-07",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/jacob-degrom-strikes-out-seven-against-angels",
@@ -1812,15 +1825,15 @@
       ],
       "nbcNews": [
         {
+          "t": "Dylan Cease named AL All-Star starting pitcher",
+          "date": "2026-07-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/dylan-cease-named-al-all-star-starting-pitcher",
+          "fetchedAt": 1783891442557
+        },
+        {
           "t": "Dylan Cease takes no-no into ninth against Giants",
           "date": "2026-07-08",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dylan-cease-takes-no-no-into-ninth-against-giants",
-          "fetchedAt": 1783588588686
-        },
-        {
-          "t": "Dylan Cease goes even in 2-0 shutout of Mariners",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/dylan-cease-goes-even-in-2-0-shutout-of-mariners",
           "fetchedAt": 1783588588686
         }
       ]
@@ -1857,6 +1870,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Ryan Helsley says UCL intact, will keep rehabbing",
+          "date": "2026-07-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/ryan-helsley-says-ucl-intact-will-keep-rehabbing",
+          "fetchedAt": 1783891442557
+        },
         {
           "t": "Ryan Helsley (elbow) seeking second opinion",
           "date": "2026-07-07",
@@ -1898,16 +1917,16 @@
       ],
       "nbcNews": [
         {
-          "t": "Cristopher Sánchez lit up for nine runs by Royals",
-          "date": "2026-07-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/cristopher-sanchez-torched-for-nine-runs-by-royals",
-          "fetchedAt": 1783588589600
+          "t": "Cristopher Sánchez, Cease named starters for ASG",
+          "date": "2026-07-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/cristopher-sanchez-cease-named-starters-for-asg",
+          "fetchedAt": 1783891442557
         },
         {
-          "t": "Cristopher Sánchez named to NL All-Star squad",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/cristopher-sanchez-named-to-nl-all-star-squad",
-          "fetchedAt": 1783588589600
+          "t": "Cristopher Sánchez bounces back with 7 K’s in win",
+          "date": "2026-07-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/cristopher-sanchez-bounces-back-with-7-ks-in-win",
+          "fetchedAt": 1783891442557
         }
       ]
     },
