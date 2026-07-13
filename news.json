@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-13T21:16:25.843Z",
+  "lastUpdatedNews": "2026-07-13T21:26:19.006Z",
   "players": [
     {
       "id": 11928,
@@ -86,16 +86,16 @@
       ],
       "nbcNews": [
         {
+          "t": "Vladimir Guerrero Jr. homers, steals bag in loss",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/vladimir-guerrero-jr-homers-steals-bag-in-loss",
+          "fetchedAt": 1783977973954,
+          "date": "2026-07-12"
+        },
+        {
           "t": "Vladimir Guerrero Jr. delivers fifth homer in win",
           "date": "2026-07-08",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/vladimir-guerrero-jr-delivers-fifth-homer-in-win",
           "fetchedAt": 1783631597087
-        },
-        {
-          "t": "Vladimir Guerrero Jr. to sit out ASG due to back",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/vladimir-guerrero-jr-to-sit-out-asg-due-to-back",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-04"
         }
       ]
     },
@@ -173,6 +173,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Royce Lewis homers, doubles in Twins’ victory",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/royce-lewis-homers-doubles-in-twins-victory",
+          "fetchedAt": 1783977975337,
+          "date": "2026-07-11"
+        },
         {
           "t": "Lewis homers in loss to the Guardians",
           "date": "2026-07-09",
@@ -542,7 +548,14 @@
           "fetchedAt": 1783934425446
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo walks off Astros with RBI single",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/brandon-nimmo-walks-off-astros-with-rbi-single",
+          "fetchedAt": 1783977947332,
+          "date": "2026-07-12"
+        }
+      ]
     },
     {
       "id": 12086,
@@ -796,16 +809,22 @@
       ],
       "nbcNews": [
         {
-          "t": "Skenes, Miz, Meyer will not pitch in All-Star Game",
-          "date": "2026-07-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/skenes-miz-meyer-will-not-pitch-in-all-star-game",
-          "fetchedAt": 1783631604464
+          "t": "Foster Griffin named to NL All-Star squad",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/foster-griffin-named-to-nl-all-star-squad",
+          "fetchedAt": 1783977976421,
+          "date": "2026-07-11"
         },
         {
-          "t": "Braxton Ashcraft limits Nats to one run in win",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/braxton-ashcraft-limits-nats-to-one-run-in-win",
-          "fetchedAt": 1783415615861,
-          "date": "2026-07-04"
+          "t": "Braxton Ashcraft struggles in first-half finale",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/braxton-ashcraft-struggles-in-first-half-finale",
+          "fetchedAt": 1783977976421,
+          "date": "2026-07-11"
+        },
+        {
+          "t": "Pirates and Brewers postponed due to rain Friday",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/pirates-and-braves-postponed-due-to-rain-friday",
+          "fetchedAt": 1783977976421,
+          "date": "2026-07-10"
         }
       ]
     },
@@ -840,7 +859,14 @@
           "fetchedAt": 1783804777561
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan yields three runs in loss to D-backs",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/emmet-sheehan-yields-three-runs-in-loss-to-d-backs",
+          "fetchedAt": 1783977951527,
+          "date": "2026-07-12"
+        }
+      ]
     },
     {
       "id": 12387,
@@ -965,16 +991,22 @@
       ],
       "nbcNews": [
         {
+          "t": "Edwin Díaz (elbow) fans two in rehab appearance",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/edwin-diaz-elbow-fans-two-in-rehab-appearance",
+          "fetchedAt": 1783977977652,
+          "date": "2026-07-11"
+        },
+        {
+          "t": "Edwin Díaz (elbow) starts rehab assignment",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/edwin-diaz-elbow-starts-rehab-assignment",
+          "fetchedAt": 1783977977652,
+          "date": "2026-07-11"
+        },
+        {
           "t": "Edwin Díaz (elbow) faces hitters in live BP session",
           "date": "2026-07-08",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/edwin-diaz-elbow-faces-hitters-in-live-bp-session",
           "fetchedAt": 1783631606434
-        },
-        {
-          "t": "Edwin Díaz (elbow) throws live bullpen session",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/edwin-diaz-elbow-throws-live-bullpen-session",
-          "fetchedAt": 1783415615861,
-          "date": "2026-07-05"
         }
       ]
     },
@@ -1089,7 +1121,14 @@
           "fetchedAt": 1783934425446
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman to hit third for NL All-Stars",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-13/freddie-freeman-to-hit-third-for-nl-all-stars",
+          "fetchedAt": 1783977952760,
+          "date": "2026-07-13"
+        }
+      ]
     },
     {
       "id": 64311,
@@ -1163,6 +1202,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Caleb Durbin hitting cleanup Saturday vs. Mets",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/caleb-durbin-hitting-cleanup-saturday-vs-mets",
+          "fetchedAt": 1783977979005,
+          "date": "2026-07-11"
+        },
         {
           "t": "Caleb Durbin hits two-run homer in 2-1 victory",
           "date": "2026-07-09",
@@ -1512,10 +1557,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Jose Altuve delivers 10th homer in Astros’ victory",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/jose-altuve-delivers-10th-homer-in-astros-victory",
-          "fetchedAt": 1783563799459,
-          "date": "2026-07-07"
+          "t": "Jose Altuve hits 11th homer in loss to Rangers",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/jose-altuve-hits-11th-homer-in-loss-to-rangers",
+          "fetchedAt": 1783977968860,
+          "date": "2026-07-12"
         }
       ]
     },
