@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-13T21:26:19.006Z",
+  "lastUpdatedNews": "2026-07-14T23:57:55.081Z",
   "players": [
     {
       "id": 11928,
@@ -33,26 +33,7 @@
           "fetchedAt": 1783847923184
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler (hand) not in Tigers’ lineup",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/dillon-dingler-hand-not-in-tigers-lineup",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-09"
-        },
-        {
-          "t": "Dillon Dingler (hand) X-rays come back negative",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dillon-dingler-hand-x-rays-come-back-negative",
-          "fetchedAt": 1783563717334,
-          "date": "2026-07-08"
-        },
-        {
-          "t": "Dillon Dingler exits game with right hand injury",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dillon-dingler-exits-game-with-right-hand-injury",
-          "fetchedAt": 1783563717334,
-          "date": "2026-07-08"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -130,20 +111,7 @@
           "fetchedAt": 1783765953197
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. connects for 20th homer in win",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/luis-garcia-jr-connects-for-20th-homer",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-08"
-        },
-        {
-          "t": "Luis García Jr. homers again in loss to Pirates",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/luis-garcia-jr-homers-again-in-loss-to-pirates",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-05"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -215,14 +183,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson swats 15th homer in win vs. Brewers",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/alec-burleson-swats-15th-homer-in-win-vs-brewers",
-          "fetchedAt": 1783588572792
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -255,26 +216,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Nick Kurtz (illness) returns to A’s lineup",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/nick-kurtz-illness-returns-to-as-lineup",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-09"
-        },
-        {
-          "t": "Nick Kurtz day-to-day with illness",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/nick-kurtz-day-to-day-with-illness",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-08"
-        },
-        {
-          "t": "Nick Kurtz leaves game early with illness",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/nick-kurtz-leaves-wednesdays-game-with-illness",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-08"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -413,14 +355,7 @@
           "fetchedAt": 1783934425446
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts knocks in go-ahead run in eighth",
-          "date": "2026-07-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/mookie-betts-knocks-in-go-ahead-run-in-eighth",
-          "fetchedAt": 1783588575200
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -621,20 +556,7 @@
           "fetchedAt": 1783890966522
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Passan: Tigers “far more likely” to trade Skubal",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/passan-tigers-far-more-likely-to-trade-skubal",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-08"
-        },
-        {
-          "t": "Tarik Skubal limits A’s to one run in victory",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/tarik-skubal-limits-as-to-one-run-in-victory",
-          "fetchedAt": 1783486134829,
-          "date": "2026-07-07"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -1161,14 +1083,7 @@
           "fetchedAt": 1783631968300
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana falls out of leadoff spot vs. lefty",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/travis-bazzana-falls-out-of-leadoff-spot-vs-lefty",
-          "fetchedAt": 1783563753467,
-          "date": "2026-07-08"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -1246,14 +1161,7 @@
           "fetchedAt": 1783847923184
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Otto Lopez has another multi-hit game in win",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/otto-lopez-has-another-multi-hit-game-in-win",
-          "fetchedAt": 1783563756239,
-          "date": "2026-07-08"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -1318,14 +1226,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong homers twice to lead Cubs",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/pete-crow-armstrong-homers-twice-to-lead-cubs",
-          "fetchedAt": 1783588582059
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -1389,14 +1290,7 @@
           "fetchedAt": 1783890966522
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bellinger starting at 1B on Thursday",
-          "date": "2026-07-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/bellinger-starting-at-1b-on-thursday",
-          "fetchedAt": 1783631610497
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -2020,14 +1914,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole records a quality start but takes the loss",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/gerrit-cole-records-a-quality-start-but-takes-the-loss",
-          "fetchedAt": 1783631619698
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -2059,14 +1946,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta exits game trailing in fifth inning",
-          "date": "2026-07-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/freddy-peralta-exits-game-trailing-in-fifth-inning",
-          "fetchedAt": 1783631620764
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -2099,20 +1979,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Skenes, Miz, Meyer will not pitch in All-Star Game",
-          "date": "2026-07-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/skenes-miz-meyer-will-not-pitch-in-all-star-game",
-          "fetchedAt": 1783631621172
-        },
-        {
-          "t": "Jesús Luzardo strikes out nine in victory",
-          "date": "2026-07-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/jesus-luzardo-strikes-out-nine-in-victory",
-          "fetchedAt": 1783631621172
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
@@ -2145,14 +2012,7 @@
           "fetchedAt": 1783847923184
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray tosses quality start in win vs. Rockies",
-          "date": "2026-07-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-04/robbie-ray-tosses-quality-start-in-win-vs-rockies",
-          "fetchedAt": 1783631622166
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
