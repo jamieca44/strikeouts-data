@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-15T09:09:02.700Z",
+  "lastUpdatedNews": "2026-07-15T09:22:50.096Z",
   "players": [
     {
       "id": 11928,
@@ -125,14 +125,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson swats 15th homer in win vs. Brewers",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/alec-burleson-swats-15th-homer-in-win-vs-brewers",
-          "fetchedAt": 1783588572792
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -935,7 +928,14 @@
           "fetchedAt": 1784073622660
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger claims All-Star Game MVP honors",
+          "date": "2026-07-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-14/cody-bellinger-claims-all-star-game-mvp-honors",
+          "fetchedAt": 1784107358373
+        }
+      ]
     },
     {
       "id": 11760,
