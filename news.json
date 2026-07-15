@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-15T21:12:38.535Z",
+  "lastUpdatedNews": "2026-07-15T21:23:55.140Z",
   "players": [
     {
       "id": 11928,
@@ -683,26 +683,7 @@
           "fetchedAt": 1784149912980
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker strikes out three for 25th save",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/bryan-baker-strikes-out-three-for-25th-save",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-08"
-        },
-        {
-          "t": "Edwin Uceta (shoulder) remains shut down",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/edwin-uceta-shoulder-remains-shut-down",
-          "fetchedAt": 1783501933182,
-          "date": "2026-07-06"
-        },
-        {
-          "t": "Bryan Baker quiets Yankees to collect 24th save",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/bryan-baker-quiets-yankees-to-collect-24th-save",
-          "fetchedAt": 1783501933182,
-          "date": "2026-07-07"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -1535,7 +1516,14 @@
           "fetchedAt": 1784149949073
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Phillies won’t use Wheeler, Sanchez this weekend",
+          "date": "2026-07-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-15/phillies-wont-use-wheeler-sanchez-this-weekend",
+          "fetchedAt": 1784150635140
+        }
+      ]
     },
     {
       "id": 9691,
@@ -1552,7 +1540,14 @@
           "fetchedAt": 1784073595944
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Webb will start on Saturday out of the break",
+          "date": "2026-07-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-15/webb-will-start-on-saturday-out-of-the-break",
+          "fetchedAt": 1784150635140
+        }
+      ]
     },
     {
       "id": 9727,
