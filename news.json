@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-15T21:23:55.140Z",
+  "lastUpdatedNews": "2026-07-15T22:29:32.510Z",
   "players": [
     {
       "id": 11928,
@@ -66,20 +66,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. homers, steals bag in loss",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/vladimir-guerrero-jr-homers-steals-bag-in-loss",
-          "fetchedAt": 1783977973954,
-          "date": "2026-07-12"
-        },
-        {
-          "t": "Vladimir Guerrero Jr. delivers fifth homer in win",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/vladimir-guerrero-jr-delivers-fifth-homer-in-win",
-          "fetchedAt": 1783631597087
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -112,20 +99,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis homers, doubles in Twins’ victory",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/royce-lewis-homers-doubles-in-twins-victory",
-          "fetchedAt": 1783977975337,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Lewis homers in loss to the Guardians",
-          "date": "2026-07-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/lewis-homers-in-loss-to-the-guardians",
-          "fetchedAt": 1783631598095
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -233,14 +207,7 @@
           "fetchedAt": 1784149904000
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jesús Made singles, plates run in Futures Game",
-          "date": "2026-07-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/jesus-made-singles-plates-run-in-futures-game",
-          "fetchedAt": 1783891442557
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12351,
@@ -306,14 +273,7 @@
           "fetchedAt": 1784106491114
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly triples and homers in win over Cubs",
-          "date": "2026-07-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/elly-triples-and-homers-in-win-over-cubs",
-          "fetchedAt": 1783765835668
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -396,14 +356,7 @@
           "fetchedAt": 1784073721970
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo walks off Astros with RBI single",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/brandon-nimmo-walks-off-astros-with-rbi-single",
-          "fetchedAt": 1783977947332,
-          "date": "2026-07-12"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -494,14 +447,7 @@
           "fetchedAt": 1784073608544
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan delivers quality start in no-decision",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/joe-ryan-delivers-quality-start-in-no-decision",
-          "fetchedAt": 1783855255161,
-          "date": "2026-07-11"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -509,20 +455,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Rangers to start MacKenzie Gore on short rest",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/rangers-to-start-mackenzie-gore-on-short-rest",
-          "fetchedAt": 1783855277369,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "MacKenzie Gore falls apart in fifth vs. Angels",
-          "date": "2026-07-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/mackenzie-gore-falls-apart-in-fifth-vs-angels",
-          "fetchedAt": 1783588577103
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -555,20 +488,7 @@
           "fetchedAt": 1784073611938
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns dealing with groin soreness",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/chase-burns-dealing-with-groin-soreness",
-          "fetchedAt": 1783805197521,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Chase Burns labors in win over Phillies",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/chase-burns-labors-in-win-over-phillies",
-          "fetchedAt": 1783588577393
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -601,26 +521,7 @@
           "fetchedAt": 1784106495450
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Foster Griffin named to NL All-Star squad",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/foster-griffin-named-to-nl-all-star-squad",
-          "fetchedAt": 1783977976421,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Braxton Ashcraft struggles in first-half finale",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/braxton-ashcraft-struggles-in-first-half-finale",
-          "fetchedAt": 1783977976421,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Pirates and Brewers postponed due to rain Friday",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/pirates-and-braves-postponed-due-to-rain-friday",
-          "fetchedAt": 1783977976421,
-          "date": "2026-07-10"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -628,14 +529,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan yields three runs in loss to D-backs",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/emmet-sheehan-yields-three-runs-in-loss-to-d-backs",
-          "fetchedAt": 1783977951527,
-          "date": "2026-07-12"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -643,14 +537,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Caleb Kilian gives up three runs to blow save",
-          "date": "2026-07-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/caleb-kilian-gives-up-three-runs-to-blow-save",
-          "fetchedAt": 1783765843064
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -708,26 +595,7 @@
           "fetchedAt": 1784073618605
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (elbow) fans two in rehab appearance",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/edwin-diaz-elbow-fans-two-in-rehab-appearance",
-          "fetchedAt": 1783977977652,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Edwin Díaz (elbow) starts rehab assignment",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/edwin-diaz-elbow-starts-rehab-assignment",
-          "fetchedAt": 1783977977652,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Edwin Díaz (elbow) faces hitters in live BP session",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/edwin-diaz-elbow-faces-hitters-in-live-bp-session",
-          "fetchedAt": 1783631606434
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -744,14 +612,7 @@
           "fetchedAt": 1784073620287
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jack Flaherty logs quality start in win on Friday",
-          "date": "2026-07-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/jack-flaherty-logs-quality-start-in-win-on-friday",
-          "fetchedAt": 1783765914381
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11379,
@@ -759,14 +620,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Weathers allows one run, gets a no-decision v. WAS",
-          "date": "2026-07-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/weathers-allows-one-run-gets-a-no-decision-v-was",
-          "fetchedAt": 1783765843490
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -871,20 +725,7 @@
           "fetchedAt": 1784149936440
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin hitting cleanup Saturday vs. Mets",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/caleb-durbin-hitting-cleanup-saturday-vs-mets",
-          "fetchedAt": 1783977979005,
-          "date": "2026-07-11"
-        },
-        {
-          "t": "Caleb Durbin hits two-run homer in 2-1 victory",
-          "date": "2026-07-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/caleb-durbin-hits-two-run-homer-in-2-1-victory",
-          "fetchedAt": 1783631608441
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -1081,14 +922,7 @@
           "fetchedAt": 1783977385843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Taylor Ward belts sixth home run in win Saturday",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/taylor-ward-belts-sixth-home-run-in-win-saturday",
-          "fetchedAt": 1783855263530,
-          "date": "2026-07-11"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -1104,14 +938,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Emerson not in starting lineup on Friday",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/emerson-not-in-starting-lineup-on-friday",
-          "fetchedAt": 1783718032111,
-          "date": "2026-07-10"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -1136,14 +963,7 @@
           "fetchedAt": 1784149923307
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve hits 11th homer in loss to Rangers",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/jose-altuve-hits-11th-homer-in-loss-to-rangers",
-          "fetchedAt": 1783977968860,
-          "date": "2026-07-12"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -1159,20 +979,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cole Young hits 11th homer in loss to Rays",
-          "date": "2026-07-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/cole-young-hits-11th-homer-in-loss-to-rays",
-          "fetchedAt": 1783765853405
-        },
-        {
-          "t": "Cole Young connects for 10th homer in defeat",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/cole-young-connects-for-10th-homer-in-defeat",
-          "fetchedAt": 1783563805326,
-          "date": "2026-07-07"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -1189,20 +996,7 @@
           "fetchedAt": 1784106540374
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña (calf) returns to Astros lineup Friday",
-          "date": "2026-07-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/jeremy-pena-calf-returns-to-astros-lineup-friday",
-          "fetchedAt": 1783765854321
-        },
-        {
-          "t": "Jeremy Peña (calf) starting rehab assignment",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-06/jeremy-pena-calf-starting-rehab-assignment",
-          "fetchedAt": 1783563807583,
-          "date": "2026-07-06"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1301,20 +1095,7 @@
           "fetchedAt": 1784073733714
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom (glute) scratched from Sunday’s start",
-          "date": "2026-07-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-10/jacob-degrom-glute-scratched-from-sundays-start",
-          "fetchedAt": 1783891442557
-        },
-        {
-          "t": "Jacob deGrom strikes out seven against Angels",
-          "date": "2026-07-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/jacob-degrom-strikes-out-seven-against-angels",
-          "fetchedAt": 1783588588290
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1347,20 +1128,7 @@
           "fetchedAt": 1784073735262
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease named AL All-Star starting pitcher",
-          "date": "2026-07-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/dylan-cease-named-al-all-star-starting-pitcher",
-          "fetchedAt": 1783891442557
-        },
-        {
-          "t": "Dylan Cease takes no-no into ninth against Giants",
-          "date": "2026-07-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-08/dylan-cease-takes-no-no-into-ninth-against-giants",
-          "fetchedAt": 1783588588686
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1368,20 +1136,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Helsley says UCL intact, will keep rehabbing",
-          "date": "2026-07-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/ryan-helsley-says-ucl-intact-will-keep-rehabbing",
-          "fetchedAt": 1783891442557
-        },
-        {
-          "t": "Ryan Helsley (elbow) seeking second opinion",
-          "date": "2026-07-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-07/ryan-helsley-elbow-seeking-second-opinion",
-          "fetchedAt": 1783588589121
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -1414,20 +1169,7 @@
           "fetchedAt": 1784073736919
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez, Cease named starters for ASG",
-          "date": "2026-07-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-12/cristopher-sanchez-cease-named-starters-for-asg",
-          "fetchedAt": 1783891442557
-        },
-        {
-          "t": "Cristopher Sánchez bounces back with 7 K’s in win",
-          "date": "2026-07-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/cristopher-sanchez-bounces-back-with-7-ks-in-win",
-          "fetchedAt": 1783891442557
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
@@ -1435,14 +1177,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish strikes out five in win over Royals",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-11/kyle-bradish-strikes-out-five-in-win-over-royals",
-          "fetchedAt": 1783855271023,
-          "date": "2026-07-11"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -1555,14 +1290,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kirby Yates takes loss to Rangers in ninth",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-09/kirby-yates-takes-loss-to-rangers-in-ninth",
-          "fetchedAt": 1783674917821,
-          "date": "2026-07-09"
-        }
-      ]
+      "nbcNews": []
     }
   ]
 }
