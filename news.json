@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-16T18:36:33.821Z",
+  "lastUpdatedNews": "2026-07-16T21:03:43.724Z",
   "players": [
     {
       "id": 11928,
@@ -117,12 +117,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
       "yahooNews": [
         {
-          "t": "The reason Athletics’ Nick Kurtz, Jared Carrabis have beef",
-          "s": "Nick Kurtz and Jared Carrabis banter over who's the A's best player, with Kurtz backing catcher Shea Langeliers.",
-          "by": "Garrett Kerman, ClutchPoints",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/reason-athletics-nick-kurtz-jared-184638840.html",
-          "fetchedAt": 1784106521421
+          "t": "How Athletics Can Build Momentum After All-Star Break",
+          "s": "The Athletics are in the midst of a massive skid, which for most teams could be season-ending.",
+          "by": "Andrew L. Ferguson Jr",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/athletics-build-momentum-star-break-100006854.html",
+          "fetchedAt": 1784235804946
+        },
+        {
+          "t": "3 Athletics Who Will Have Massive Second Half of Season",
+          "s": "The Athletics need to turn things around after the All-Star break with the help of these players.",
+          "by": "Andrew L. Ferguson Jr",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/3-athletics-massive-second-half-100006854.html",
+          "fetchedAt": 1784235804946
         }
       ],
       "nbcNews": []
@@ -132,7 +140,32 @@
       "name": "Fernando Tatis Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Padres Face Serious Questions Going Into Second Half",
+          "s": "The San Diego Padres have a lot of questions going into the second half as they try to save their season.",
+          "by": "Bob McCullough",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/padres-face-serious-questions-going-193520227.html",
+          "fetchedAt": 1784235757555
+        },
+        {
+          "t": "Starting Pitching Is Biggest Need For Padres At Deadline",
+          "s": "With the rotation ravaged by injuries and a Wild Card spot within reach, A.J. Preller must navigate the trade market to salvage San Diego’s postseason aspirations.",
+          "by": "Zach Carver",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/starting-pitching-biggest-padres-deadline-180805951.html",
+          "fetchedAt": 1784235757555
+        },
+        {
+          "t": "Phillies' Potential Fernando Tatis Jr. Pursuit Has Layers",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/phillies-potential-fernando-tatis-jr-110037901.html",
+          "fetchedAt": 1784235757555
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -205,14 +238,6 @@
           "when": "1h ago",
           "href": "https://sports.yahoo.com/articles/dodgers-mookie-betts-six-gold-210620629.html",
           "fetchedAt": 1784155239297
-        },
-        {
-          "t": "Mookie Betts to Launch New Glove Brand After All-Star Break Celebration",
-          "s": "Los Angeles Dodgers shortstop Mookie Betts will be launching a new glove brand called LGND.",
-          "by": "Tate Mosher",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-launch-glove-brand-192854329.html",
-          "fetchedAt": 1784073720645
         }
       ],
       "nbcNews": []
@@ -478,12 +503,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [
         {
-          "t": "Four Biggest Pirates Surprises at All-Star Break",
-          "s": "A few Pittsburgh Pirates players are standing out in ways not expected of them.",
-          "by": "Dominic Campbell",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/four-biggest-pirates-surprises-star-220004875.html",
-          "fetchedAt": 1784106495450
+          "t": "Pirates Ace Paul Skenes Grades Performance After 'Weird' First Half",
+          "s": "Skenes hasn't pitched like himself this season",
+          "by": "Tyler Maher",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-ace-paul-skenes-grades-151925338.html",
+          "fetchedAt": 1784235802935
+        },
+        {
+          "t": "Pirates Ace Paul Skenes Breaks Down ‘Interesting’ and ‘Weird’ First Half of 2026 MLB Season",
+          "s": "Grading himself a \\\"B\\\" before the All-Star break, Paul Skenes believes in his skills in what has become an \\\"interesting\\\" and \\\"weird\\\" 2026 campaign.",
+          "by": "Daniel Yanofsky",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-ace-paul-skenes-breaks-143252462.html",
+          "fetchedAt": 1784235802935
+        },
+        {
+          "t": "Pirates’ Pitching Plan Coming Out of the All-Star Break",
+          "s": "The Pittsburgh Pirates are making a change to their starting rotation after the All-Star Break.",
+          "by": "Tommy Wild",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-pitching-plan-coming-star-224525719.html",
+          "fetchedAt": 1784235802935
         }
       ],
       "nbcNews": [
@@ -518,28 +559,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [
         {
-          "t": "MLB Rankings: Top 10 relief pitchers at the All-Star break",
-          "s": "The 2026 MLB season has reached the All-Star Game. This season has shown many players and teams having sensational seasons. Following the All-Star Game, the second half of the season will be in full swing. Here are the top relief…",
-          "by": "Kyle Amore",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rankings-top-10-relief-133959376.html",
-          "fetchedAt": 1784149912980
+          "t": "Fantasy Baseball Closer Report: Assessing the saves landscape and closer rankings at the All-Star break",
+          "s": "Jorge Montanez breaks down the last week in saves from around the league with updated closer rankings.",
+          "by": "Jorge Montanez",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-assessing-053717813.html",
+          "fetchedAt": 1784235819205
         },
         {
-          "t": "Rays Pitchers Contribute to AL All-Star Team's Dominance",
-          "s": "The Tampa Bay Rays pitching staff contributed to a convincing win for the American League All-Stars.",
-          "by": "Kenneth Teape",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/rays-pitchers-contribute-al-star-110009345.html",
-          "fetchedAt": 1784149912980
-        },
-        {
-          "t": "Junior Caminero Will Make Rays History in AL All-Stars Starting Lineup",
-          "s": "Tampa Bay Rays third baseman Junior Caminero is making franchise history when he takes the field with the American League All-Stars.",
-          "by": "Kenneth Teape",
+          "t": "Rays Star Junior Caminero Avoids Serious Injury as Tampa Bay Shines in MLB All-Star Game",
+          "s": "Five Rays represented Tampa Bay in the 2026 MLB All-Star Game, highlighted by dominant outings from Nick Martinez, Drew Rasmussen, and Bryan Baker. The biggest storyline came when Junior Caminero exited after being hit by a pitch, though initial tests were negative.",
+          "by": "Christian Rauh",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/junior-caminero-rays-history-al-203001230.html",
-          "fetchedAt": 1784149912980
+          "href": "https://sports.yahoo.com/articles/rays-star-junior-caminero-avoids-045303187.html",
+          "fetchedAt": 1784235819205
+        },
+        {
+          "t": "Rays star across 2026 All-Star Game festivities",
+          "s": "The Tampa Bay Rays — rightfully so, given their dominance in the American League thus far — had a strong showing at the All-Star Game this week, chief among them Junior Caminero. Home Run Derby At still 23-years young, which I feel the broadcasts should have mentioned even more often than they frequently did, returned […]",
+          "by": "Danny Russell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rays-star-across-2026-star-120000219.html",
+          "fetchedAt": 1784235819205
         }
       ],
       "nbcNews": []
@@ -565,14 +606,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/videos/edwin-diaz-rehab-pkg-190428005.html",
           "fetchedAt": 1784155227773
-        },
-        {
-          "t": "Edwin Diaz addresses cockfighting as he works toward Dodgers return",
-          "s": "Dodgers closer Edwin Diaz made his first public comments about his involvement in cockfighting since USA TODAY Sports published stories about the issue.",
-          "by": "Josh Peter, USA TODAY",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/edwin-diaz-addresses-cockfighting-works-203544331.html",
-          "fetchedAt": 1784073618605
         }
       ],
       "nbcNews": [
@@ -715,20 +748,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [
         {
-          "t": "Marlins' Otto Lopez Appreciative of All-Star Experience",
-          "s": "From getting designated for assignment two times to finding a home in Miami, the Marlins' shortstop has come a long way, and now finds himself sharing the field with MLB's best.",
-          "by": "Brandon Liguori",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/marlins-otto-lopez-appreciative-star-001245548.html",
-          "fetchedAt": 1784106528423
+          "t": "Fantasy Baseball: These 5 batters have exceeded expectations but can you trust them in the second half?",
+          "s": "Fantasy baseball analyst Corbin Young highlights 5 batters who have come out of nowhere this season, and if they can keep it up.",
+          "by": "Corbin Young",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-these-5-batters-have-exceeded-expectations-but-can-you-trust-them-in-the-second-half-140620185.html",
+          "fetchedAt": 1784235807494
         },
         {
-          "t": "Marlins Have 5th-Hardest Remaining Strength of Schedule",
-          "s": "Miami must navigate a road-heavy gauntlet against MLB’s elite to maintain their playoff surge, leaning on a dominant pitching rotation and Otto Lopez’s breakout offensive campaign.",
-          "by": "Demetrius Montero",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/marlins-5th-hardest-remaining-strength-220713096.html",
-          "fetchedAt": 1784106528423
+          "t": "Miami Marlins’ second act: Five storylines heading into the back half of the season",
+          "s": "The Miami Marlins ended last season with a 79-83 record and out of the playoffs, so expectations were not exactly sky-high for the 2026 season. However, their blistering pace in June has put them in a good place at the All-Star break. Here are some of the major storylines for the second half of the Marlins’ season. Can the Marlins stay red-hot? Heading into the All-Star break, the Marlins were ...",
+          "by": "Ava DiCecca, South Florida Sun-Sentinel",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/miami-marlins-second-act-five-192600553.html",
+          "fetchedAt": 1784235807494
+        },
+        {
+          "t": "What Marlins First-Round Pick Says About Their Long Term Vision",
+          "s": "The Miami Marlins are carefully balancing the present and future at shortstop. Will their be a dilemma or will they handle it with dignity?",
+          "by": "Miguel Mike Medina",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/marlins-first-round-pick-says-150004684.html",
+          "fetchedAt": 1784235807494
         }
       ],
       "nbcNews": []
@@ -748,28 +789,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "“Would Love to Dethrone Him” – Pete Crow-Armstrong Ready to Take On Shohei Ohtani as He Reveals Hilarious Plan",
-          "s": "Winning the MVP in the National League is never easy, especially with the challenge the defending Shohei Ohtani brings. However, as the LA Dodgers’ Japanese player enters with the advantage of being a two-way player, another contender has different plans.",
-          "by": "Supriyo Sarkar",
+          "t": "This stat proves Pete Crow-Armstrong is emerging as best MLB player not named Shohei Ohtani",
+          "s": "A notable stat indicates that Pete Crow-Armstrong is on the cusp of surpassing Shohei Ohtani as the best MLB player.",
+          "by": "Zachary Draves, ClutchPoints",
           "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/love-dethrone-him-pete-crow-041227586.html",
-          "fetchedAt": 1784106534294
+          "href": "https://sports.yahoo.com/articles/stat-proves-pete-crow-armstrong-154131584.html",
+          "fetchedAt": 1784235810711
         },
         {
-          "t": "Chicago Cubs’ Pete Crow-Armstrong ponders participating in the 2027 Home Run Derby at Wrigley Field",
-          "s": "PHILADELPHIA — Chicago Cubs center fielder Pete Crow-Armstrong sounds uncertain about potentially participating in next year’s Home Run Derby at Wrigley Field. Wrigley will host its first All-Star Game since 1990 when the Midsummer Classic comes to the North Side in 2027. Last time, Cubs legend and Hall of Famer Ryne Sandberg won the event at the Friendly Confines. As tempting as it would be ...",
-          "by": "Meghan Montemurro, Chicago Tribune",
+          "t": "Chicago Cubs news — Pete Crow-Armstrong",
+          "s": "PCA had a fun All-Star break, but he knows he has more work to do to help the Cubs make the playoffs.",
+          "by": "Jeff Brown",
           "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-pete-crow-armstrong-003800574.html",
-          "fetchedAt": 1784106534294
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-news-pete-crow-120000367.html",
+          "fetchedAt": 1784235810711
         },
         {
-          "t": "Alex Rodriguez calls Cubs’ Pete Crow-Armstrong the Kylian Mbappé of MLB",
-          "s": "Pete Crow-Armstrong's breakout season has earned him plenty of praise, but Alex Rodriguez may have delivered the biggest compliment yet.",
-          "by": "Chris Spiering, ClutchPoints",
+          "t": "Column: 10-year reunion of Chicago Cubs’ 2016 champions is a reminder the saga is still in progress",
+          "s": "It’s OK to admit you suffer from Chicago Reunion Fatigue, otherwise known as CRF. It’s a nonthreatening ailment brought on by the proliferation of reunions of our legacy sports teams over the last 10 months, from the 40-year anniversary of the Bears’ 1985 Super Bowl team to the Blackhawks’ Banner Years ceremony to Derrick Rose’s jersey retirement by the Bulls to the recent return of the 1983 ...",
+          "by": "Paul Sullivan, Chicago Tribune",
           "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/alex-rodriguez-calls-cubs-pete-224418632.html",
-          "fetchedAt": 1784106534294
+          "href": "https://sports.yahoo.com/articles/column-10-reunion-chicago-cubs-110000774.html",
+          "fetchedAt": 1784235810711
         }
       ],
       "nbcNews": []
@@ -779,7 +820,16 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Padres Face Serious Questions Going Into Second Half",
+          "s": "The San Diego Padres have a lot of questions going into the second half as they try to save their season.",
+          "by": "Bob McCullough",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/padres-face-serious-questions-going-193520227.html",
+          "fetchedAt": 1784235775081
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -860,7 +910,32 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Ward a Deadline Seller?",
+          "s": "The top landing spots for Baltimore Orioles outfielder Taylor Ward if he is on the move at the MLB Trade Deadline.",
+          "by": "Mark Morales-Smith",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/taylor-ward-top-fantasy-baseball-170722186.html",
+          "fetchedAt": 1784235777697
+        },
+        {
+          "t": "Phillies Trade Targets",
+          "s": "The Philadelphia Phillies are once again in a situation where they need to address multiple problems on the roster. The problems are not anything new, and in fact are the same that have hurt them for years. A right-handed outfielder and proper setup man in the bullpen are still things that need to be addressed. […] The post Philadelphia Phillies Rumors: 3 Trade Targets That Just Make Sense appeared first on Stadium Rant.",
+          "by": "Charles North",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/philadelphia-phillies-rumors-3-trade-130000778.html",
+          "fetchedAt": 1784235777697
+        },
+        {
+          "t": "Philadelphia Phillies Rumors: The 3 Most Valuable Prospects To Trade",
+          "s": "The Philadelphia Phillies have been on an absolute tear after Don Mattingly took over, but they still may not have enough to get to that next level. The MLB trade deadline is inching closer, and the Phillies will need to be aggressive. These are three prospects that Philadelphia could include in some big-time trade packages. […] The post Philadelphia Phillies Rumors: The 3 Most Valuable Prospects To Trade appeared first on Stadium Rant.",
+          "by": "Charles North",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/philadelphia-phillies-rumors-3-most-110000285.html",
+          "fetchedAt": 1784235777697
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -927,12 +1002,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [
         {
-          "t": "Astros' 'most valuable' trade chip is All-Star not named Yordan Alvarez",
-          "s": "The Astros are not likely to be sellers at the trade deadline.",
-          "by": "Conor Liguori",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/astros-most-valuable-trade-chip-200230077.html",
-          "fetchedAt": 1784106540374
+          "t": "Three blockbuster trade targets Craig Breslow and the Red Sox should pursue before the trade deadline",
+          "s": "Getting any one of these three players could help Boston be a contender for years to come.",
+          "by": "TJ Morin",
+          "when": "25m ago",
+          "href": "https://sports.yahoo.com/articles/three-blockbuster-trade-targets-craig-203807769.html",
+          "fetchedAt": 1784235812392
+        },
+        {
+          "t": "Atlanta Braves Top Trade Target Could be in Form of Former World Series MVP",
+          "s": "MLB trade rumors are pouring in from all angles as we’re officially less than three weeks away from the always-anticipated deadline. This year, teams have until August 3rd to decide whether to ship players or bring in new additions to their clubs. For the Atlanta Braves, their top need remains the same: starting pitching, but […] The post Atlanta Braves Top Trade Target Could be in Form of Former World Series MVP appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/atlanta-braves-top-trade-target-183325018.html",
+          "fetchedAt": 1784235812392
+        },
+        {
+          "t": "Francisco Lindor isn't the blockbuster the Red Sox need at this year's MLB trade deadline",
+          "s": "The Red Sox need to make a splash, but Lindor shouldn't be their man.",
+          "by": "TJ Morin",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/francisco-lindor-isnt-blockbuster-red-030410341.html",
+          "fetchedAt": 1784235812392
         }
       ],
       "nbcNews": []
