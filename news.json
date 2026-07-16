@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-16T21:03:43.724Z",
+  "lastUpdatedNews": "2026-07-16T21:21:07.963Z",
   "players": [
     {
       "id": 11928,
@@ -438,7 +438,14 @@
           "fetchedAt": 1784155223487
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bailey Ober will open second half for Twins Friday",
+          "date": "2026-07-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/bailey-ober-will-open-second-half-for-twins-friday",
+          "fetchedAt": 1784236867963
+        }
+      ]
     },
     {
       "id": 10940,
@@ -542,7 +549,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Roki Sasaki to start Dodgers’ second half opener",
+          "date": "2026-07-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/roki-sasaki-to-start-dodgers-second-half-opener",
+          "fetchedAt": 1784236867963
+        }
+      ]
     },
     {
       "id": 12387,
@@ -640,7 +654,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole to open second half for Yankees",
+          "date": "2026-07-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/gerrit-cole-to-open-second-half-for-yankees",
+          "fetchedAt": 1784236867963
+        }
+      ]
     },
     {
       "id": 8658,
