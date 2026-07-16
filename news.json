@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-16T18:35:55.131Z",
+  "lastUpdatedNews": "2026-07-16T18:36:33.821Z",
   "players": [
     {
       "id": 11928,
@@ -42,12 +42,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [
         {
-          "t": "The most jaw-dropping Home Run Derby performances ever",
-          "s": "Aaron Judge, Bryce Harper, Sammy Sosa and the most dominant Home Run Derby performances in MLB history.",
-          "by": "Nick Villano",
+          "t": "Blue Jays Haven't Lost Power, Just Slugging in Heart of the Lineup",
+          "s": "The Blue Jays still have power hitters, but their veteran core no longer punishes fastballs the way it did in 2025. Here's why Toronto's offense has declined.",
+          "by": "Yirsandy Rodriguez",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-havent-lost-power-120009724.html",
+          "fetchedAt": 1784226989808
+        },
+        {
+          "t": "The Biggest Mistake the Blue Jays Cannot Repeat in the Second Half",
+          "s": "The Toronto Blue Jays cannot afford another half of inconsistent offense if Vladimir Guerrero Jr., George Springer, and the lineup want to keep their playoff hopes alive.",
+          "by": "Wesley Dixon",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/biggest-mistake-blue-jays-cannot-201131309.html",
+          "fetchedAt": 1784226989808
+        },
+        {
+          "t": "Post All-Star Break Burning Questions for the Blue Jays",
+          "s": "Plenty of questions remain for the Blue Jays ahead of a crucial post All-Star break stretch.",
+          "by": "Ben Fisher",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/most-jaw-dropping-home-run-230003323.html",
-          "fetchedAt": 1784073739013
+          "href": "https://sports.yahoo.com/articles/post-star-break-burning-questions-120009592.html",
+          "fetchedAt": 1784226989808
         }
       ],
       "nbcNews": []
@@ -65,14 +81,6 @@
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/nationals-exec-paul-toboni-disputes-154618144.html",
           "fetchedAt": 1784149950879
-        },
-        {
-          "t": "1 trade Nationals must not make at 2026 MLB trade deadline",
-          "s": "The Washington Nationals are trying to stay in the playoff hunt, but here is one trade they must not make at the 2026 MLB deadline.",
-          "by": "Douglas Fritz, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/1-trade-nationals-must-not-183254568.html",
-          "fetchedAt": 1784073590423
         }
       ],
       "nbcNews": []
@@ -115,22 +123,6 @@
           "when": "14h ago",
           "href": "https://sports.yahoo.com/articles/reason-athletics-nick-kurtz-jared-184638840.html",
           "fetchedAt": 1784106521421
-        },
-        {
-          "t": "Handing Out Athletics Superlatives at Season Halfway Point",
-          "s": "Taking a look at the Athletics who have had a great first half of the season.",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/handing-athletics-superlatives-season-halfway-120009930.html",
-          "fetchedAt": 1784106521421
-        },
-        {
-          "t": "MLB Rankings: Top 10 first basemen at the All-Star break",
-          "s": "The 2026 MLB season has reached the All-Star break. This season has shown many players and teams having sensational seasons. Following the All-Star Game, the second half of the season will be in full swing. Here are the top 10…",
-          "by": "Kyle Amore",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rankings-top-10-first-123600752.html",
-          "fetchedAt": 1784106521421
         }
       ],
       "nbcNews": []
@@ -140,24 +132,7 @@
       "name": "Fernando Tatis Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
-      "yahooNews": [
-        {
-          "t": "Fantasy Baseball: 5 hitters who have been struggling but could bounce back in the second half based on advanced metrics",
-          "s": "Fantasy baseball analyst Corbin Young highlights five hitters who have been struggling, and if they can rebound in the second half of 2026.",
-          "by": "Corbin Young",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-5-hitters-who-have-been-struggling-but-could-bounce-back-in-the-second-half-based-on-advanced-metrics-142335129.html",
-          "fetchedAt": 1784106523908
-        },
-        {
-          "t": "San Diego 'showing some cracks' after Padres' poor first half",
-          "s": "Yahoo Sports hosts Jason Fitz and Caroline Fenton spoke with Yahoo Sports national baseball insider Russell Dorsey about the team's struggles so far this season and what it could mean for any potential moves at the trade deadline. Watch the full episode of Yahoo Sports Daily on YouTube or YahooSports.TV.",
-          "by": "Jason Fitz",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/video/san-diego-showing-some-cracks-after-padres-poor-first-half-214036835.html",
-          "fetchedAt": 1784106523908
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -198,13 +173,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/seattle-mariners-situation-brendan-donovan-150055580.html",
           "fetchedAt": 1784155218173
-        },
-        {
-          "t": "Seattle Mariners' Situation with Brendan Donovan is Getting Precarious",
-          "s": "The big offseason acquisition hasn't been on the field since mid-May, and the M's are counting on him to get back as they make a second-half push.",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/videos/seattle-mariners-situation-brendan-donovan-150055627.html",
-          "fetchedAt": 1784073599969
         }
       ],
       "nbcNews": [
@@ -254,7 +222,32 @@
       "name": "Elly De La Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "MLB Rankings: Top 10 shortstops at the All-Star break",
+          "s": "The 2026 MLB season has reached the All-Star Game. This season has shown many players and teams having sensational seasons. Following the All-Star Game, the second half of the season will be in full swing. Here are the top 10…",
+          "by": "Kyle Amore",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-rankings-top-10-shortstops-115100112.html",
+          "fetchedAt": 1784226926585
+        },
+        {
+          "t": "Cincinnati Reds Might Have the Best Starting Pitching Duo in MLB",
+          "s": "The Cincinnati Reds have two of the best pitchers in MLB on their roster at the same time right now.",
+          "by": "Zach Pressnell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-might-best-starting-232824318.html",
+          "fetchedAt": 1784226926585
+        },
+        {
+          "t": "Sal Stewart, Chase Burns rep the Reds in tonight’s MLB All Star Game",
+          "s": "First pitch is slated for just after 8 PM ET on FOX.",
+          "by": "Wick Terrell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/sal-stewart-chase-burns-rep-185438286.html",
+          "fetchedAt": 1784226926585
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -311,14 +304,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/despite-impressive-stats-brandon-lowe-150207886.html",
           "fetchedAt": 1784155219544
-        },
-        {
-          "t": "Demilio: Pirates’ Bryan Reynolds an Egregious All-Star Snub",
-          "s": "The Pirates have two All-Stars this year but won’t have anyone competing in Tuesday’s Midsummer Classic at Citizens Bank Park […] The post Demilio: Pirates’ Bryan Reynolds an Egregious All-Star Snub appeared first on Pittsburgh Baseball Now.",
-          "by": "Danny Demilio",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/demilio-pirates-bryan-reynolds-egregious-174218023.html",
-          "fetchedAt": 1784073605133
         }
       ],
       "nbcNews": []
@@ -328,32 +313,7 @@
       "name": "Brandon Nimmo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
-      "yahooNews": [
-        {
-          "t": "Assembling The Mets’ No-Star Team",
-          "s": "The best of the best, except for the best.",
-          "by": "Linus Lawrence",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/assembling-mets-no-star-team-160000860.html",
-          "fetchedAt": 1784073721970
-        },
-        {
-          "t": "Fantasy Baseball: 5 hitters who have been struggling but could bounce back in the second half based on advanced metrics",
-          "s": "Fantasy baseball analyst Corbin Young highlights five hitters who have been struggling, and if they can rebound in the second half of 2026.",
-          "by": "Corbin Young",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-5-hitters-who-have-been-struggling-but-could-bounce-back-in-the-second-half-based-on-advanced-metrics-142335129.html",
-          "fetchedAt": 1784073721970
-        },
-        {
-          "t": "Astros Drop Series Finale to the Rangers 6-5 on Nimmo's Walk-Off Single",
-          "s": "The Astros dropped the series finale to the Rangers 6-5 Sunday afternoon at Globe Life Field on a Brandon Nimmo walk-off single in the ninth inning. A gut punch way to head into the All-Star break.",
-          "by": "Sydney Cruse",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/astros-drop-series-finale-rangers-230059465.html",
-          "fetchedAt": 1784073721970
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -363,28 +323,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [
         {
-          "t": "Texas Rangers’ Jacob Latz takes long road to first All-Star Game",
-          "s": "Left-hander Jacob Latz is the Texas Rangers’ lone representative at the 2026 All-Star Game, five years after his MLB debut and nine years after he was drafted. The Jacob Latz...",
-          "by": "Jeff Wilson",
-          "when": "55m ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-jacob-latz-takes-230624781.html",
-          "fetchedAt": 1784073723712
+          "t": "Rangers’ Jacob Latz Has Emerged as a Pleasant Bullpen Surprise",
+          "s": "Jacob Latz has stabilized the Texas Rangers, providing the late-inning dominance needed to secure another postseason run.",
+          "by": "Eduardo Solano",
+          "when": "35m ago",
+          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-emerged-pleasant-180048630.html",
+          "fetchedAt": 1784226976933
         },
         {
-          "t": "Rangers' Latz's Dominant Season Earns First All-Star Selection",
-          "s": "Jacob Latz has been rewarded with the first All-Star selection of his career as a member of the Texas Rangers.",
-          "by": "Anthony Arroyo",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/rangers-latzs-dominant-season-earns-220043453.html",
-          "fetchedAt": 1784073723712
+          "t": "Rangers First Half Report Card: AL West Extremely Winnable",
+          "s": "Despite a turbulent first half, the Texas Rangers sit atop a struggling division. Now, Jacob deGrom’s health and a powerhouse offense must stabilize the lead to secure the crown.",
+          "by": "Jordon Lawrenz",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-first-half-report-card-150648780.html",
+          "fetchedAt": 1784226976933
         },
         {
-          "t": "Tuesday Morning Texas Rangers Update",
-          "s": "The latest on the once and future World Series champion Texas Rangers",
-          "by": "ghostofErikThompson",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/tuesday-morning-texas-rangers-130012418.html",
-          "fetchedAt": 1784073723712
+          "t": "Rangers' Jacob Latz Makes MLB All-Star Game Debut",
+          "s": "Texas Rangers closer Jacob Latz struck out Luis Arraez in his MLB All-Star Game debut on Tuesday night.",
+          "by": "Kane McCutchen",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-makes-mlb-144315828.html",
+          "fetchedAt": 1784226976933
         }
       ],
       "nbcNews": []
@@ -524,14 +484,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/four-biggest-pirates-surprises-star-220004875.html",
           "fetchedAt": 1784106495450
-        },
-        {
-          "t": "Paul Skenes Sees Pirates All-Star Starting Rotation in Near Future",
-          "s": "The Pittsburgh Pirates ace has high hopes for his fellow starting pitchers.",
-          "by": "Dominic Campbell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/paul-skenes-sees-pirates-star-220004457.html",
-          "fetchedAt": 1784106495450
         }
       ],
       "nbcNews": [
@@ -639,12 +591,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
       "yahooNews": [
         {
-          "t": "Los Angeles Dodgers Recent World Series Champion Really Struggling with Current MLB Team",
-          "s": "The Los Angeles Dodgers have enjoyed back-to-back World Series victories and remain the most dominant team in Major League Baseball this year as well. Baseball is a fast-paced sport in terms of player transactions and roster turnover, so it’s fun to revisit old teams and faces to check in on how they are currently performing. […] The post Los Angeles Dodgers Recent World Series Champion Really Struggling with Current MLB Team appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-recent-world-180045079.html",
-          "fetchedAt": 1784073620287
+          "t": "Jack Flaherty Is the Strikeout Breakout Built on Pitch Design, Not Velocity",
+          "s": "Jack Flaherty hasn’t radically changed much about his pitches. Rather, Flaherty had a first-half turnaround highlighted by pitch command that has led to a fantasy baseball strikeout breakout. Here is what fantasy baseball managers need to know about Flaherty’s turnaround.",
+          "by": "Chelena Goldman",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/jack-flaherty-strikeout-breakout-built-213817753.html",
+          "fetchedAt": 1784226971728
         }
       ],
       "nbcNews": []
@@ -664,27 +616,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Freddie Freeman bats 3rd, Max Muncy 5th, Andy Pages 8th in All-Star Game lineup",
-          "s": "The lineups for the 2026 All-Star Game were released on Monday and just like last year’s lineup, three Dodgers will be starting for the National League at Citizens Bank Park in Philadelphia. Freddie Freeman moves up a spot in the starting lineup, going from cleanup last year to hitting third this year. This is Freeman’s […]",
-          "by": "Jacob Macofsky",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-bats-3rd-max-200222015.html",
-          "fetchedAt": 1784073728293
+          "t": "Freddie Freeman knows the finish line is coming and wants to savor the last chapter",
+          "s": "PHILADELPHIA — The moment that will stay with me from the MLB All-Star Game didn't happen on the field.",
+          "by": "Arash Markazi",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-knows-finish-line-162110956.html",
+          "fetchedAt": 1784226978953
         },
         {
-          "t": "Freddie Freeman breaks down facing Phillies lefty Cristopher Sanchez",
-          "s": "Freddie Freeman explains the challenge of facing Phillies lefty Cristopher Sanchez and what makes him tough at the plate.",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/videos/freddie-freeman-breaks-down-facing-183831744.html",
-          "fetchedAt": 1784073728293
+          "t": "Freddie Freeman Sets 40-Year Retirement Target",
+          "s": "Freddie Freeman reveals he plans to play until age 40, extending his Dodgers tenure by three more years during All-Star week.",
+          "by": "James Odonnell",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-sets-40-retirement-030957453.html",
+          "fetchedAt": 1784226978953
         },
         {
-          "t": "Freddie Freeman Reflects on His 10th All-Star Game Experience and Its Significance",
-          "s": "On Monday, St. Louis Cardinals outfielder Jordan Walker won the Home Run Derby, beating out Philadelphia Philliesdesignated hitterKyle Schwarber in the final round. While each league has a handful of talented players, Los Angeles Dodgersfirst basemanFreddie Freeman is enjoying his 10th All-Star Game appearance.",
-          "by": "Nate Lunak",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-reflects-10th-star-164454965.html",
-          "fetchedAt": 1784073728293
+          "t": "Freddie Freeman reveals retirement timeline during All-Star week",
+          "s": "Freddie Freeman appeared in his 10th All-Star Game on Tuesday. At 36 years old, Freddie Freeman is coming off his 10th career All-Star selection. In the 2026 MLB All-Star Game,...",
+          "by": "Valentina Martinez",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-reveals-retirement-timeline-012734654.html",
+          "fetchedAt": 1784226978953
         }
       ],
       "nbcNews": []
@@ -776,14 +729,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/marlins-5th-hardest-remaining-strength-220713096.html",
           "fetchedAt": 1784106528423
-        },
-        {
-          "t": "MLB All-Stars Otto Lopez and Luis Arraez persevere: 'Baseball needs us too'",
-          "s": "NL batting title frontrunners aren't your typical All-Stars, but that's what makes Otto Lopez and Luis Arraez so special.",
-          "by": "Gabe Lacques, USA TODAY",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-stars-otto-lopez-luis-095608988.html",
-          "fetchedAt": 1784106528423
         }
       ],
       "nbcNews": []
@@ -834,16 +779,7 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [
-        {
-          "t": "San Diego 'showing some cracks' after Padres' poor first half",
-          "s": "Yahoo Sports hosts Jason Fitz and Caroline Fenton spoke with Yahoo Sports national baseball insider Russell Dorsey about the team's struggles so far this season and what it could mean for any potential moves at the trade deadline. Watch the full episode of Yahoo Sports Daily on YouTube or YahooSports.TV.",
-          "by": "Jason Fitz",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/video/san-diego-showing-some-cracks-after-padres-poor-first-half-214036835.html",
-          "fetchedAt": 1784073730975
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -924,16 +860,7 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [
-        {
-          "t": "Should the Orioles trade Taylor Ward?",
-          "s": "The outfielder’s expiring contract and the Orioles’ playoff uncertainty put Baltimore in a tough spot this trade season",
-          "by": "John Beers",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/orioles-trade-taylor-ward-130000218.html",
-          "fetchedAt": 1784106536450
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1064,7 +991,16 @@
       "name": "Walker Jenkins",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The Twins could be sitting on a wild card for their playoff push",
+          "s": "Walker Jenkins's MLB debut could be complicated but has potential to carry the Minnesota Twins to the playoffs.",
+          "by": "Chris Schad",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/twins-could-sitting-wild-card-000002378.html",
+          "fetchedAt": 1784226958868
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1074,20 +1010,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [
         {
-          "t": "Why Rangers Are Still in Position to Win the American League West",
-          "s": "A dominant rotation and resilient bullpen have kept the Texas Rangers atop a tight American League West.",
-          "by": "Eduardo Solano",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/why-rangers-still-position-win-151937617.html",
-          "fetchedAt": 1784073733714
+          "t": "Rangers First Half Report Card: AL West Extremely Winnable",
+          "s": "Despite a turbulent first half, the Texas Rangers sit atop a struggling division. Now, Jacob deGrom’s health and a powerhouse offense must stabilize the lead to secure the crown.",
+          "by": "Jordon Lawrenz",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-first-half-report-card-150648780.html",
+          "fetchedAt": 1784226982579
         },
         {
-          "t": "The Mets’ top 10 draft picks, according to bWAR",
-          "s": "From Doc & Darryl to the Captain and the Polar Bear.",
-          "by": "Linus Lawrence",
+          "t": "Rangers Grades for Every Position Group at the All-Star Break",
+          "s": "Here's a look at how every position group for the Texas Rangers grades out at the All-Star break of the 2026 season.",
+          "by": "Matt Postins",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mets-top-10-draft-picks-140000673.html",
-          "fetchedAt": 1784073733714
+          "href": "https://sports.yahoo.com/articles/rangers-grades-every-position-group-180005510.html",
+          "fetchedAt": 1784226982579
+        },
+        {
+          "t": "Three Keys to Second Half for Texas Rangers",
+          "s": "Let’s break down three keys to a successful second half of the season for the Texas Rangers.",
+          "by": "Kane McCutchen",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/three-keys-second-half-texas-000039941.html",
+          "fetchedAt": 1784226982579
         }
       ],
       "nbcNews": []
@@ -1099,28 +1043,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "Gamethread: MLB All-Star Game, 8:00 p.m. ET",
-          "s": "Coverage begins at 6:30 p.m. ET",
-          "by": "Brandon Day",
-          "when": "32m ago",
-          "href": "https://sports.yahoo.com/articles/gamethread-mlb-star-game-8-233000127.html",
-          "fetchedAt": 1784073735262
+          "t": "Dylan Cease to Start Against Rays After All-Star Game Performance, Says John Schneider",
+          "s": "Toronto Blue Jays manager John Schneider provided a pitching schedule for after the All-Star Break.",
+          "by": "Tate Mosher",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/dylan-cease-start-against-rays-200302786.html",
+          "fetchedAt": 1784226984791
         },
         {
-          "t": "2026 MLB All-Star Game live updates: Dylan Cease, Cristopher Sánchez take mound as AL, NL face off in Midsummer Classic",
-          "s": "It's time for the 96th Midsummer Classic.",
-          "by": "Yahoo Sports Staff",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/mlb/live/2026-mlb-all-star-game-live-updates-dylan-cease-cristopher-sanchez-take-mound-as-al-nl-face-off-in-midsummer-classic-220000147.html",
-          "fetchedAt": 1784073735262
+          "t": "Major League baseball All-Star Game moments",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://www.yahoo.com/news/videos/major-league-baseball-star-game-080623656.html",
+          "fetchedAt": 1784226984791
         },
         {
-          "t": "Who are MLB All-Star Game starting pitchers? Sanchez, Cease get nod for NL, AL",
-          "s": "Here's what to know on Cristopher Sánchez and Dylan Cease as they get ready to start the 2026 MLB All-Star Game for the National League and American League.",
-          "by": "John Leuzzi, USA TODAY NETWORK",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-star-game-starting-pitchers-190508817.html",
-          "fetchedAt": 1784073735262
+          "t": "Here's How Toronto Blue Jays All-Stars Did in Midsummer Classic",
+          "s": "The Blue Jays had several players take center stage at Citizens Bank Arena in Philadelphia.",
+          "by": "Teren Kowatsch",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/heres-toronto-blue-jays-stars-070122716.html",
+          "fetchedAt": 1784226984791
         }
       ],
       "nbcNews": []
@@ -1140,28 +1084,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [
         {
-          "t": "Gamethread: MLB All-Star Game, 8:00 p.m. ET",
-          "s": "Coverage begins at 6:30 p.m. ET",
-          "by": "Brandon Day",
-          "when": "32m ago",
-          "href": "https://sports.yahoo.com/articles/gamethread-mlb-star-game-8-233000127.html",
-          "fetchedAt": 1784073736919
+          "t": "Phillies Set Zack Wheeler to Start Against Dodgers After All-Star Break",
+          "s": "The Phillies have finalized their decision on Zack Wheeler.",
+          "by": "Miracle Dimwesh",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-set-zack-wheeler-start-194031045.html",
+          "fetchedAt": 1784226987755
         },
         {
-          "t": "2026 MLB All-Star Game Thread",
-          "s": "The best players from the NL and AL face off, come watch!",
-          "by": "Austin Posey",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/2026-mlb-star-game-thread-230000001.html",
-          "fetchedAt": 1784073736919
+          "t": "Freddie Freeman breaks down facing Phillies lefty Cristopher Sanchez",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/freddie-freeman-breaks-down-facing-183831744.html",
+          "fetchedAt": 1784226987755
         },
         {
-          "t": "2026 MLB All-Star Game live updates: Dylan Cease, Cristopher Sánchez take mound as AL, NL face off in Midsummer Classic",
-          "s": "It's time for the 96th Midsummer Classic.",
-          "by": "Yahoo Sports Staff",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/mlb/live/2026-mlb-all-star-game-live-updates-dylan-cease-cristopher-sanchez-take-mound-as-al-nl-face-off-in-midsummer-classic-220000147.html",
-          "fetchedAt": 1784073736919
+          "t": "“Very Emotional for Him” — Dodgers Manager Explains Phillies Star’s Tough Night as AL Gets 2025 Revenge",
+          "s": "Coming into the 96th MLB All-Star Game in the City of Brotherly Love, the American League held the all-time edge with 48 wins, 45 losses, and two ties. In recent years, the AL had largely dominated the Midsummer Classic, though 2025 proved to be an exception as the National League earned just its second win in the previous 12 editions.",
+          "by": "Ritabrata Chakrabarti",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/very-emotional-him-dodgers-manager-120002524.html",
+          "fetchedAt": 1784226987755
         }
       ],
       "nbcNews": []
@@ -1179,7 +1123,16 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Michael Kay, Paul O’Neill open up on the state of Yankees heading into second half — and what’s the biggest concern",
+          "s": "Before the Yankees took the field again for the second half, YES broadcasters Michael Kay and Paul O’Neill fielded some questions about the Bombers.",
+          "by": "Steve Serby",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/michael-kay-paul-o-neill-022756023.html",
+          "fetchedAt": 1784226965550
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1262,12 +1215,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [
         {
-          "t": "Giants Face Difficult Ray Decision Before Trade Deadline",
-          "s": "The San Francisco Giants must weigh Robbie Ray’s reliable production against his hefty salary.",
-          "by": "Eduardo Solano",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/giants-face-difficult-ray-decision-180043474.html",
-          "fetchedAt": 1784073595944
+          "t": "Blue Jays Predicted to Re-Acquire Cy Young Award Winner Amid Rotation Woes",
+          "s": "The Toronto Blue Jays could still be buyers ahead of the August 3 trade deadline, and adding starting pitching is a clear need.Toronto’s rotation has been hampered by injuries, as Jose Berrios, Bowden Francis, and Cody Ponce are all lost for the season. Max Scherzer, Trey Yesavage, and Shane Bieber have also missed time, and […] The post Blue Jays Predicted to Re-Acquire Cy Young Award Winner Amid Rotation Woes appeared first on HEAVY.",
+          "by": "Cole Shelton",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-predicted-acquire-cy-160037220.html",
+          "fetchedAt": 1784226969255
+        },
+        {
+          "t": "Predicting Phillies’ biggest move before MLB trade deadline",
+          "s": "ClutchPoints' Joey Mistretta makes a bold Philadelphia Phillies' prediction as the 2026 MLB trade deadline draws near.",
+          "by": "Joey Mistretta, ClutchPoints",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/predicting-phillies-biggest-move-mlb-235508262.html",
+          "fetchedAt": 1784226969255
+        },
+        {
+          "t": "Why passing on Tarik Skubal trade would be massive mistake for Tigers",
+          "s": "ClutchPoints' Joey Mistretta explains why the Tigers should trade Tarik Skubal before the deadline despite still being in contention.",
+          "by": "Joey Mistretta, ClutchPoints",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/why-passing-tarik-skubal-trade-230044118.html",
+          "fetchedAt": 1784226969255
         }
       ],
       "nbcNews": [
