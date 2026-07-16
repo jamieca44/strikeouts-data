@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-15T22:40:41.796Z",
+  "lastUpdatedNews": "2026-07-16T18:35:55.131Z",
   "players": [
     {
       "id": 11928,
@@ -207,7 +207,14 @@
           "fetchedAt": 1784073599969
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Donovan (groin) starts rehab in Arizona",
+          "date": "2026-07-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/donovan-groin-starts-rehab-in-arizona",
+          "fetchedAt": 1784226955131
+        }
+      ]
     },
     {
       "id": 9552,
@@ -487,7 +494,14 @@
           "fetchedAt": 1784155225019
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns, Reds agree to 7-year, $105MM deal",
+          "date": "2026-07-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/passan-burns-reds-agree-to-7-year-105mm-deal",
+          "fetchedAt": 1784226955131
+        }
+      ]
     },
     {
       "id": 11203,
@@ -520,7 +534,14 @@
           "fetchedAt": 1784106495450
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pirates go Jones, Ashcraft, Skenes out of break",
+          "date": "2026-07-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-15/pirates-go-jones-ashcraft-skenes-out-of-break",
+          "fetchedAt": 1784226955131
+        }
+      ]
     },
     {
       "id": 60238,
@@ -602,7 +623,14 @@
           "fetchedAt": 1784073618605
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) fans two in rehab appearance",
+          "date": "2026-07-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-14/edwin-diaz-elbow-fans-two-in-rehab-appearance",
+          "fetchedAt": 1784226955131
+        }
+      ]
     },
     {
       "id": 10592,
@@ -659,14 +687,7 @@
           "fetchedAt": 1784073728293
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman to hit third for NL All-Stars",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-13/freddie-freeman-to-hit-third-for-nl-all-stars",
-          "fetchedAt": 1783977952760,
-          "date": "2026-07-13"
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
