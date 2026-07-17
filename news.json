@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-16T21:21:07.963Z",
+  "lastUpdatedNews": "2026-07-17T09:04:37.826Z",
   "players": [
     {
       "id": 11928,
@@ -14,22 +14,6 @@
           "by": "Chris Beaven, Canton Repository",
           "when": "12h ago",
           "href": "https://sports.yahoo.com/articles/stark-countys-dillon-dingler-makes-104026129.html",
-          "fetchedAt": 1784155236344
-        },
-        {
-          "t": "Detroit Tigers Go Hitless in 96th MLB All-Star Game as Verlander Bids Farewell",
-          "s": "The American League dominated Philadelphia as four Tigers joined the midsummer festivities, highlighting Justin Verlander’s poignant final selection and Riley Greene’s historic streak amidst a nostalgic national celebration.",
-          "by": "Nick Faber",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-hitless-96th-mlb-032558839.html",
-          "fetchedAt": 1784155236344
-        },
-        {
-          "t": "Tigers’ Kevin McGonigle reveals mom’s emotions on hometown All-Star Game bid",
-          "s": "Tigers young star Kevin McGonigle reveals his mother's emotions on earning a All-Star nod and playing in his hometown.",
-          "by": "Zachary Weinberger, ClutchPoints",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-kevin-mcgonigle-reveals-mom-224628007.html",
           "fetchedAt": 1784155236344
         }
       ],
@@ -98,16 +82,7 @@
       "name": "Alec Burleson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
-      "yahooNews": [
-        {
-          "t": "MLB Rankings: Top 10 first basemen at the All-Star break",
-          "s": "The 2026 MLB season has reached the All-Star break. This season has shown many players and teams having sensational seasons. Following the All-Star Game, the second half of the season will be in full swing. Here are the top 10…",
-          "by": "Kyle Amore",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rankings-top-10-first-123600752.html",
-          "fetchedAt": 1784149902156
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -173,24 +148,7 @@
       "name": "Jesús Made",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yahooNews": [
-        {
-          "t": "How to live stream 2026, MLB, All-Star Game: National League vs American League, TV channel",
-          "s": "Baseball’s annual Midsummer Classic returns Tuesday night as the 2026 MLB All-Star Game brings together the best players from the American League and National League for one of the sport’s premier showcase events. How to Watch 2026 MLB All-Star Game…",
-          "by": "Ben Verbrugge",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/live-stream-2026-mlb-star-210000406.html",
-          "fetchedAt": 1784149904000
-        },
-        {
-          "t": "MLB All-Star Game 2026: How to watch tonight, TV channel, start time, roster, and everything else you need to know",
-          "s": "It's time for the 2026 MLB All-Star Game. Here's how to tune in live.",
-          "by": "Danica Creahan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/mlb/article/mlb-all-star-game-2026-how-to-watch-tonight-tv-channel-start-time-roster-and-everything-else-you-need-to-know-094500765.html",
-          "fetchedAt": 1784149904000
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -200,12 +158,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [
         {
-          "t": "Seattle Mariners' Situation with Brendan Donovan is Getting Precarious",
-          "s": "The big offseason acquisition hasn't been on the field since mid-May, and the M's are counting on him to get back as they make a second-half push.",
+          "t": "ESPN's Buster Olney Weighs in on Brendan Donovan Injury Situation",
+          "s": "",
+          "by": "",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/videos/espns-buster-olney-weighs-brendan-181605778.html",
+          "fetchedAt": 1784279071765
+        },
+        {
+          "t": "ESPN's Buster Olney Weighs in on Brendan Donovan Injury Situation",
+          "s": "The Seattle Mariners utility player began his rehab assignment on Wednesday, going 0-for-3 with a walk.",
           "by": "Brady Farkas",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-situation-brendan-donovan-150055580.html",
-          "fetchedAt": 1784155218173
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/espns-buster-olney-weighs-brendan-181605444.html",
+          "fetchedAt": 1784279071765
+        },
+        {
+          "t": "Mariners’ Brendan Donovan gets key injury update before second half of season",
+          "s": "Mariners infielder Brendan Donovan took a step forward on Wednesday as he continues to recover from injury.",
+          "by": "Joey Mistretta, ClutchPoints",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-brendan-donovan-gets-key-152938630.html",
+          "fetchedAt": 1784279071765
         }
       ],
       "nbcNews": [
@@ -282,28 +256,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [
         {
-          "t": "What will the Guardians do at MLB trade deadline? Who might they target?",
-          "s": "Jose Ramirez's injury status? A potential Steven Kwan rebuild? The strategy at the trade deadline? Here are the top questions facing the Guardians.",
-          "by": "Ryan Lewis, Akron Beacon Journal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-mlb-trade-deadline-might-101635370.html",
-          "fetchedAt": 1784149952469
+          "t": "The Biggest Mistake the Guardians Can't Repeat in the Second Half of the Season",
+          "s": "The Cleveland Guardians can't keep expecting to get away with this in the second half of the season.",
+          "by": "Nick Pedone",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/biggest-mistake-guardians-cant-repeat-165002834.html",
+          "fetchedAt": 1784279067027
         },
         {
-          "t": "Grading The Guardians: First-Half Report Card At The All-Star Break",
-          "s": "The Cleveland Guardians have earned a solid grade after a competitive first half of the season. Currently, they are tied for first in the American League Central with a 51-46 record. There are a lot of positives to take away, including the overall pitching success and solid play from the young players. Another reason to […] The post Grading The Guardians: First-Half Report Card At The All-Star Break appeared first on Stadium Rant.",
-          "by": "Chris Paterakis",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/grading-guardians-first-half-report-130000640.html",
-          "fetchedAt": 1784149952469
+          "t": "Guardians News – The Calm Before the Second Half",
+          "s": "Morning News for Thursday, July 16th, 2026",
+          "by": "Nicole Williams",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-news-calm-second-half-120000846.html",
+          "fetchedAt": 1784279067027
         },
         {
-          "t": "Guardians jump spots in power rankings after an impressive sweep",
-          "s": "What a way to go into the All-Star Break.",
-          "by": "Jared Bloom",
+          "t": "One Key Change the Guardians Must Make Immediately After the Break",
+          "s": "Here's the biggest change the Cleveland Guardians must make immediately following the MLB All-Star break.",
+          "by": "Nick Pedone",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-jump-spots-power-rankings-201333921.html",
-          "fetchedAt": 1784149952469
+          "href": "https://sports.yahoo.com/articles/one-key-change-guardians-must-201200857.html",
+          "fetchedAt": 1784279067027
         }
       ],
       "nbcNews": []
@@ -313,24 +287,7 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [
-        {
-          "t": "Pirates Offense Makes History Despite All-Star Snubs",
-          "s": "The Pittsburgh Pirates have one of the best offenses in baseball this season.",
-          "by": "Dominic Campbell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-offense-makes-history-despite-140006606.html",
-          "fetchedAt": 1784155219544
-        },
-        {
-          "t": "Despite Impressive Stats, Brandon Lowe, Bryan Reynolds Among Pirates To Not Receive MLB All-Star Honors",
-          "s": "The Pirates' hottest hitters did not receive All-Star honors despite the team leading the league in several offensive categories.",
-          "by": "SNP Staff",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/despite-impressive-stats-brandon-lowe-150207886.html",
-          "fetchedAt": 1784155219544
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -412,32 +369,7 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [
-        {
-          "t": "Joe Ryan's All-Star Rise",
-          "s": "Joe Ryan performed well in the All-Star game on Tuesday.",
-          "by": "Joey Mistretta",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/minnesota-twins-joe-ryan-turns-030633857.html",
-          "fetchedAt": 1784155223487
-        },
-        {
-          "t": "Twins ace Joe Ryan reacts to last year's bizarre Red Sox trade rumor at All-Star Game",
-          "s": "Minnesota Twins ace Joe Ryan reacted to last summer's false Red Sox trade deadline rumor",
-          "by": "Jackson Kruse",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/twins-ace-joe-ryan-reacts-220004119.html",
-          "fetchedAt": 1784155223487
-        },
-        {
-          "t": "Red Sox Trade Deadline Outlook Has Dramatically Changed",
-          "s": "The Boston Red Sox look like a club that could end up doing some damage ahead of the trade deadline.",
-          "by": "Patrick McAvoy",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-trade-deadline-outlook-230003398.html",
-          "fetchedAt": 1784155223487
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Bailey Ober will open second half for Twins Friday",
@@ -475,14 +407,6 @@
           "by": "Victor Barbosa",
           "when": "6h ago",
           "href": "https://sports.yahoo.com/articles/brewers-jacob-misiorowski-gives-massive-160008314.html",
-          "fetchedAt": 1784155225019
-        },
-        {
-          "t": "Cincinnati Reds: Stewart and Burns are enjoying time with family and friends at the All-Star Game",
-          "s": "PHILADELPHIA — At this point last year, Sal Stewart was packing his bags to move from Double-A to Triple-A. He had just been promoted to the next level in the Cincinnati Reds’ farm system, and he was hoping to do enough in Triple-A to earn a September call-up. Everything over the last year has gone as well as Stewart could have hoped. He got that call-up, made the most of it and then played so ...",
-          "by": "Charlie Goldsmith, Journal-News, Hamilton, Ohio",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-stewart-burns-enjoying-035900846.html",
           "fetchedAt": 1784155225019
         }
       ],
@@ -604,24 +528,7 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [
-        {
-          "t": "Dave Roberts Reveals What Edwin Diaz Needs Before Dodgers Return",
-          "s": "Dodgers manager Dave Roberts addressed Edwin Diaz's rehabilitation assignment as the reliever works his way back from elbow surgery.",
-          "by": "Nelson Espinal",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/dave-roberts-reveals-edwin-diaz-231017895.html",
-          "fetchedAt": 1784155227773
-        },
-        {
-          "t": "Edwin diaz rehab pkg",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/edwin-diaz-rehab-pkg-190428005.html",
-          "fetchedAt": 1784155227773
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Edwin Díaz (elbow) fans two in rehab appearance",
@@ -703,28 +610,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [
         {
-          "t": "Guardians’ Pitching Shines as American League Wins All-Star Game",
-          "s": "Cleveland Guardians pitchers Cade Smith and Parker Messick helped the American League win the 2026 MLB All-Star Game.",
-          "by": "Tommy Wild",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-pitching-shines-american-league-124504272.html",
-          "fetchedAt": 1784149954303
+          "t": "The Biggest Mistake the Guardians Can't Repeat in the Second Half of the Season",
+          "s": "The Cleveland Guardians can't keep expecting to get away with this in the second half of the season.",
+          "by": "Nick Pedone",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/biggest-mistake-guardians-cant-repeat-165002834.html",
+          "fetchedAt": 1784279069940
         },
         {
-          "t": "Guardians in contention for division title, postseason once again",
-          "s": "Here we go again. At the All-Star break, the Cleveland Guardians are in the thick of the race both for the American League Central Division title and a playoff spot. It seems like every season the Guardians are counted out before the season starts. This season, Detroit and Kansas City were the popular choices to win the AL Central crown, with the Chicago White Sox and Minnesota Twins at the ...",
-          "by": "Michael Greco, Star Beacon, Ashtabula, Ohio",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-contention-division-title-postseason-204600270.html",
-          "fetchedAt": 1784149954303
+          "t": "Teammates Rave About Cleveland Guardians All-Star Closer Cade Smith",
+          "s": "The Cleveland Guardians were lucky to get a closer after Emmanuel Clase was suspended, but it is hard to believe that they may have ended up with someone just as good if not better.",
+          "by": "Cade Cracas",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/teammates-rave-cleveland-guardians-star-125954221.html",
+          "fetchedAt": 1784279069940
         },
         {
-          "t": "What will the Guardians do at MLB trade deadline? Who might they target?",
-          "s": "Jose Ramirez's injury status? A potential Steven Kwan rebuild? The strategy at the trade deadline? Here are the top questions facing the Guardians.",
-          "by": "Ryan Lewis, Akron Beacon Journal",
+          "t": "One Key Change the Guardians Must Make Immediately After the Break",
+          "s": "Here's the biggest change the Cleveland Guardians must make immediately following the MLB All-Star break.",
+          "by": "Nick Pedone",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-mlb-trade-deadline-might-101635370.html",
-          "fetchedAt": 1784149954303
+          "href": "https://sports.yahoo.com/articles/one-key-change-guardians-must-201200857.html",
+          "fetchedAt": 1784279069940
         }
       ],
       "nbcNews": []
@@ -736,28 +643,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [
         {
-          "t": "Are Red Sox for Real? Where Boston Stands Post-All-Star Game",
-          "s": "The Boston Red Sox are the hottest team in baseball right now, but can that continue?",
-          "by": "Patrick McAvoy",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-real-where-boston-120113282.html",
-          "fetchedAt": 1784149936440
-        },
-        {
-          "t": "Can Red Sox actually sustain momentum post-All-Star break? A look at the numbers",
-          "s": "The Red Sox entered the break on a ridiculous hot streak. How much they win (or lose) in the next few weeks will determine their season.",
-          "by": "Michael Hurley",
+          "t": "Red Sox's Caleb Durbin Has Top-25 OPS In Baseball Since May 28",
+          "s": "The Boston Red Sox's trade for Caleb Durbin looked like a disaster until May 28",
+          "by": "Aaliyan Mohammed",
           "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-actually-sustain-momentum-080000665.html",
-          "fetchedAt": 1784149936440
+          "href": "https://sports.yahoo.com/articles/red-soxs-caleb-durbin-top-190840775.html",
+          "fetchedAt": 1784279056228
         },
         {
-          "t": "Red Sox’s Recent Winning Streak Correlates With Major Boston Sports Trade",
-          "s": "The Boston Celtics’ blockbuster trade of five-time All-Star Jaylen Brown was a painful one for the city. However, another team in town has coincidentally been on the upswing – the Boston Red Sox.Brown was traded to the Philadelphia 76ers on the night of July 1. At the time, the Red Sox were 11 games under […] The post Red Sox’s Recent Winning Streak Correlates With Major Boston Sports Trade appeared first on HEAVY.",
-          "by": "Matthew Singer",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-recent-winning-streak-012541200.html",
-          "fetchedAt": 1784149936440
+          "t": "'So Much for Selling:' Red Sox's Hot Streak Has Put MLB on Notice",
+          "s": "The Boston Red Sox have gone from looking like potential massive sellers to potential buyers in just a few weeks.",
+          "by": "Patrick McAvoy",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/much-selling-red-soxs-hot-164933592.html",
+          "fetchedAt": 1784279056228
+        },
+        {
+          "t": "First Half Recap | Midseason superlatives for the Red Sox",
+          "s": "Mike Giardi and Kayla Burton join Trenni Casey on Early Edition to hand out midseason superlatives for the Boston Red Sox. They decide who the biggest disappointment has been, who the best offseason acquisition has been, and more.First Half Recap | Midseason superlatives for the Red Sox originally appeared on NBC Sports Boston",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/first-half-recap-midseason-superlatives-070320237.html",
+          "fetchedAt": 1784279056228
         }
       ],
       "nbcNews": []
@@ -898,32 +805,7 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [
-        {
-          "t": "Detroit Tigers in MLB All-Star Game: Four combined strikeouts, no hits",
-          "s": "Four Detroit Tigers represented the American League at the 2026 MLB All-Star Game, but didn't do much on the field.",
-          "by": "Christian Romo, Detroit Free Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-star-game-riley-220050076.html",
-          "fetchedAt": 1784155234656
-        },
-        {
-          "t": "Riley Greene Makes Tigers History With Third Straight All-Star Nod",
-          "s": "The 25-year-old outfielder is the first Detroit player in nearly six decades to earn three consecutive All-Star selections, joining one of the most exclusive clubs in franchise history.",
-          "by": "Yirsandy Rodriguez",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/riley-greene-makes-tigers-history-210925943.html",
-          "fetchedAt": 1784155234656
-        },
-        {
-          "t": "2026 MLB All-Star Game time, channel, as 4 Tigers head to Philadelphia",
-          "s": "Four members of the Detroit Tigers have been named as 2026 American League All-Stars. Here's what you need to know for the game:",
-          "by": "Christian Romo, Detroit Free Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/2026-mlb-star-game-time-091116856.html",
-          "fetchedAt": 1784155234656
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -988,14 +870,6 @@
           "when": "8h ago",
           "href": "https://sports.yahoo.com/articles/lab-look-second-offense-125300925.html",
           "fetchedAt": 1784149923307
-        },
-        {
-          "t": "MLB’s Best and Worst at Using ABS Challenge System",
-          "s": "For starters, they need to make sure players don't waste challenges too early in games. It's just like timeouts in football: You don't want them to go unused, but you also want to save them for crucial moments late in games. And managers might look at the individual statistics and decide one of his players simply isn't allowed to use a challenge.",
-          "by": "Craig Ellenport",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-best-worst-using-abs-172240444.html",
-          "fetchedAt": 1784149923307
         }
       ],
       "nbcNews": []
@@ -1056,19 +930,19 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [
         {
+          "t": "Red Sox winning streak isn't an indictment of Roman Anthony and Marcelo Mayer despite speculation",
+          "s": "The Red Sox are thriving now, but blaming Roman Anthony and Marcelo Mayer for before that isn't fair.",
+          "by": "TJ Morin",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-winning-streak-isnt-230240465.html",
+          "fetchedAt": 1784279053682
+        },
+        {
           "t": "Boston Red Sox Named Potential Trade Deadline Landing Spot for 4-Time All-Star",
           "s": "What a difference just a couple of weeks make. After losing 10-2 to the Washington Nationals on July 1, the Boston Red Sox hit the road for a nine-game road trip leading into the All-Star break.Seemed all but buried in the American League wild-card race, the Red Sox did something nobody saw coming: they went […] The post Boston Red Sox Named Potential Trade Deadline Landing Spot for 4-Time All-Star appeared first on HEAVY.",
           "by": "Scott Roche",
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/boston-red-sox-named-potential-153610508.html",
-          "fetchedAt": 1784149928280
-        },
-        {
-          "t": "This Red Sox-Giants Trade for Luis Arrez Would Give Boston the Bat it Needs",
-          "s": "The Boston Red Sox need some more offense and the San Francisco Giants could help in that department.",
-          "by": "Patrick McAvoy",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-giants-trade-luis-154943396.html",
           "fetchedAt": 1784149928280
         }
       ],
@@ -1079,7 +953,16 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The Short Porch is thinking about the Cubs and the Trade Deadline",
+          "s": "Will the Cubs make the moves they need to to compete?",
+          "by": "Sara Sanchez",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/short-porch-thinking-cubs-trade-210000760.html",
+          "fetchedAt": 1784279033605
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1254,28 +1137,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [
         {
-          "t": "Should the New York Mets’ Next Move Be To Rebuild, or Retool?",
-          "s": "The New York Mets are in the midst of yet another disappointing season. After making major offseason additions such as Freddy Peralta and Bo Bichette, the Mets were expected to become serious playoff contenders. Instead, New York sits at the bottom of the NL East and is more than 10 games under .500, leaving fans […] The post Should the New York Mets’ Next Move Be To Rebuild, or Retool? appeared first on The Lead.",
-          "by": "Riley Schumacher",
+          "t": "Mets Reportedly Willing to Trade Almost Anyone, Including Francisco Lindor",
+          "s": "The New York Mets are reportedly listening to trade offers for many of their players. Here's what that means for the rest of the MLB at the deadline.",
+          "by": "Justin Binkowski",
           "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/york-mets-next-move-rebuild-163727485.html",
-          "fetchedAt": 1784149946990
+          "href": "https://sports.yahoo.com/articles/mets-reportedly-willing-trade-almost-042648544.html",
+          "fetchedAt": 1784279059839
         },
         {
-          "t": "Mets’ Bo Bichette gets eye opening trade update that doesn’t make much sense",
-          "s": "Will Bichette get traded?",
-          "by": "Jon Conahan",
+          "t": "Mets fire sale pending",
+          "s": "Entering the second half 16 games out of the division lead, New York's brass is set to unload anyone on the roster but five key cornerstones.",
+          "by": "Jeff Hawkins",
           "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/mets-bo-bichette-gets-eye-144233435.html",
-          "fetchedAt": 1784149946990
+          "href": "https://sports.yahoo.com/articles/mets-fire-sale-pending-024220052.html",
+          "fetchedAt": 1784279059839
         },
         {
-          "t": "New York Mets Rumors: 3 Players They Should Sell At The Trade Deadline",
-          "s": "The New York Mets have had an absolutely abysmal first half of the 2026 season. They came in with hopes of contending and pushing for an NL East crown. Instead, they are trying not to have the worst record in the division. They sit at 16 games behind the Atlanta Braves for the division and […] The post New York Mets Rumors: 3 Players They Should Sell At The Trade Deadline appeared first on Stadium Rant.",
-          "by": "Charles North",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/york-mets-rumors-3-players-131500910.html",
-          "fetchedAt": 1784149946990
+          "t": "Mets Open to Trading Francisco Lindor as Steve Cohen Gives Up on $369 Million Roster: Report",
+          "s": "The New York Mets entered the All-Star break on the heels of their worst first-half performance in 31 years. And mind you, that’s from the majors’ second-highest payroll at $369 million.",
+          "by": "Ritabrata Chakrabarti",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/mets-open-trading-francisco-lindor-022502410.html",
+          "fetchedAt": 1784279059839
         }
       ],
       "nbcNews": []
@@ -1287,27 +1170,19 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
+          "t": "Phillies Players Mostly Have Disappointing Performances at 2026 MLB All-Star Game",
+          "s": "How did the Philadelphia Phillies players do at the 2026 MLB All-Star Game?",
+          "by": "Nick Ziegler",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-players-mostly-disappointing-performances-110005448.html",
+          "fetchedAt": 1784279061953
+        },
+        {
           "t": "How Phillies stars played in Philadelphia’s MLB All-Star Game",
           "s": "The Philadelphia Phillies had several representatives during the 2026 MLB All-Star Game at their home stadium.",
           "by": "Jackson Stone, ClutchPoints",
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/phillies-stars-played-philadelphia-mlb-155813985.html",
-          "fetchedAt": 1784149949073
-        },
-        {
-          "t": "Phillies players introduced in epic All-Star Game lineup ceremony",
-          "s": "Kyle Schwarber, Cristopher Sanchez and the other Phillies players were introduced to kick off the 2026 MLB All-Star Game at Citizens Bank Park.Phillies players introduced in epic All-Star Game lineup ceremony originally appeared on NBC Sports Philadelphia",
-          "by": "",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/videos/phillies-players-introduced-epic-star-043636211.html",
-          "fetchedAt": 1784149949073
-        },
-        {
-          "t": "2026 MLB All-Star Game Thread",
-          "s": "The 96th Midsummer Classic",
-          "by": "Frank Polito",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/2026-mlb-star-game-thread-230000452.html",
           "fetchedAt": 1784149949073
         }
       ],
