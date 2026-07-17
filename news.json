@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-17T21:04:31.926Z",
+  "lastUpdatedNews": "2026-07-17T21:20:56.846Z",
   "players": [
     {
       "id": 11928,
@@ -539,7 +539,14 @@
           "fetchedAt": 1784322226950
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) moving rehab to Single-A",
+          "date": "2026-07-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-17/edwin-diaz-elbow-moving-rehab-to-single-a",
+          "fetchedAt": 1784323256846
+        }
+      ]
     },
     {
       "id": 10592,
