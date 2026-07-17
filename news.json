@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-17T09:20:53.286Z",
+  "lastUpdatedNews": "2026-07-17T21:04:31.926Z",
   "players": [
     {
       "id": 11928,
@@ -9,12 +9,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [
         {
-          "t": "Stark County's Dillon Dingler makes All-Star Game debut. How did he do?",
+          "t": "Dingler's all-star debut, then the numbers",
           "s": "Here's a look at Jackson High School graduate Dillon Dingler's first appearance in the MLB All-Star Game and how the Detroit Tigers catcher fared.",
-          "by": "Chris Beaven, Canton Repository",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/stark-countys-dillon-dingler-makes-104026129.html",
-          "fetchedAt": 1784155236344
+          "by": "",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/videos/dinglers-star-debut-then-numbers-142636083.html",
+          "fetchedAt": 1784322267396
+        },
+        {
+          "t": "Detroit Tigers’ 10 defining storylines from the first half of 2026",
+          "s": "From a disastrous May collapse to the surge of three young All-Stars, Detroit’s rollercoaster season hinges on a resilient pitching staff and a high-stakes summer postseason chase.",
+          "by": "Rogelio Castillo",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/detroit-tigers-10-defining-storylines-022926256.html",
+          "fetchedAt": 1784322267396
         }
       ],
       "nbcNews": []
@@ -32,22 +40,6 @@
           "when": "6h ago",
           "href": "https://sports.yahoo.com/articles/blue-jays-havent-lost-power-120009724.html",
           "fetchedAt": 1784226989808
-        },
-        {
-          "t": "The Biggest Mistake the Blue Jays Cannot Repeat in the Second Half",
-          "s": "The Toronto Blue Jays cannot afford another half of inconsistent offense if Vladimir Guerrero Jr., George Springer, and the lineup want to keep their playoff hopes alive.",
-          "by": "Wesley Dixon",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/biggest-mistake-blue-jays-cannot-201131309.html",
-          "fetchedAt": 1784226989808
-        },
-        {
-          "t": "Post All-Star Break Burning Questions for the Blue Jays",
-          "s": "Plenty of questions remain for the Blue Jays ahead of a crucial post All-Star break stretch.",
-          "by": "Ben Fisher",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/post-star-break-burning-questions-120009592.html",
-          "fetchedAt": 1784226989808
         }
       ],
       "nbcNews": []
@@ -57,16 +49,7 @@
       "name": "Luis García Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
-      "yahooNews": [
-        {
-          "t": "Nationals' Exec Paul Toboni Disputes James Wood Trade Rumors",
-          "s": "The Washington Nationals confirmed that star outfielder James Wood is not a trade candidate after one report said otherwise over the weekend",
-          "by": "Ahmed Ghafir",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/nationals-exec-paul-toboni-disputes-154618144.html",
-          "fetchedAt": 1784149950879
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -82,7 +65,16 @@
       "name": "Alec Burleson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Cardinals' Power Surge",
+          "s": "Colby Marchio's favorite home run looks for July 17. Free HR picks for Friday night, featuring Alec Burleson.",
+          "by": "Colby Marchio",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-161900586.html",
+          "fetchedAt": 1784322205094
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -97,14 +89,6 @@
           "by": "Andrew L. Ferguson Jr",
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/athletics-build-momentum-star-break-100006854.html",
-          "fetchedAt": 1784235804946
-        },
-        {
-          "t": "3 Athletics Who Will Have Massive Second Half of Season",
-          "s": "The Athletics need to turn things around after the All-Star break with the help of these players.",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/3-athletics-massive-second-half-100006854.html",
           "fetchedAt": 1784235804946
         }
       ],
@@ -130,14 +114,6 @@
           "by": "Zach Carver",
           "when": "2h ago",
           "href": "https://sports.yahoo.com/articles/starting-pitching-biggest-padres-deadline-180805951.html",
-          "fetchedAt": 1784235757555
-        },
-        {
-          "t": "Phillies' Potential Fernando Tatis Jr. Pursuit Has Layers",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/phillies-potential-fernando-tatis-jr-110037901.html",
           "fetchedAt": 1784235757555
         }
       ],
@@ -198,20 +174,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [
         {
-          "t": "Dodgers’ Mookie Betts Launches His Own Glove Brand — And You Can Meet Him at the Launch",
-          "s": "Los Angeles Dodgers shortstop Mookie Betts is launching his own glove company called LGND.",
+          "t": "Jomboy’s Joez Breaks Down Infamous 2024 World Series Mookie Betts Incident With DMAC",
+          "s": "Dodgers Nation's Doug McKain sat down with Jomboy Media's Joez McFly to discuss the 2024 World Series incident involving Yankees fans and Mookie Betts.",
           "by": "Cameron Kiszla",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-mookie-betts-launches-own-213315307.html",
-          "fetchedAt": 1784155239297
+          "when": "15m ago",
+          "href": "https://sports.yahoo.com/articles/jomboy-joez-breaks-down-infamous-204901816.html",
+          "fetchedAt": 1784322269858
         },
         {
-          "t": "Dodgers' Mookie Betts has six Gold Gloves. And now a baseball glove company",
-          "s": "Mookie Betts is a shortstop whose six Gold Gloves came playing right field. He is one of the few players in MLB history to be named an All-Star as an infielder and outfielder.",
-          "by": "Steve Henson",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-mookie-betts-six-gold-210620629.html",
-          "fetchedAt": 1784155239297
+          "t": "Mookie Betts Discusses Retirement Plans and His Future with the Dodgers",
+          "s": "Mookie Betts has already carved out an impressive MLB career. Now into his 13th season, the former fifth-round pick of the Boston Red Sox has earned eight All-Star nods, six Gold Glove Awards, seven Silver Slugger Awards and was even named the American League MVP in 2018. While his personal success has been impressive, Betts has been a part of some great teams.",
+          "by": "Nate Lunak",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/mookie-betts-discusses-retirement-plans-144824731.html",
+          "fetchedAt": 1784322269858
+        },
+        {
+          "t": "Dodgers Star Mookie Betts Reveals When He Plans to Retire",
+          "s": "Los Angeles Dodgers star Mookie Betts reveals when he plans to retire from his baseball career. The post Dodgers Star Mookie Betts Reveals When He Plans to Retire appeared first on HEAVY.",
+          "by": "DJ Siddiqi",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-star-mookie-betts-reveals-110619562.html",
+          "fetchedAt": 1784322269858
         }
       ],
       "nbcNews": []
@@ -221,32 +205,7 @@
       "name": "Elly De La Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
-      "yahooNews": [
-        {
-          "t": "MLB Rankings: Top 10 shortstops at the All-Star break",
-          "s": "The 2026 MLB season has reached the All-Star Game. This season has shown many players and teams having sensational seasons. Following the All-Star Game, the second half of the season will be in full swing. Here are the top 10…",
-          "by": "Kyle Amore",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rankings-top-10-shortstops-115100112.html",
-          "fetchedAt": 1784226926585
-        },
-        {
-          "t": "Cincinnati Reds Might Have the Best Starting Pitching Duo in MLB",
-          "s": "The Cincinnati Reds have two of the best pitchers in MLB on their roster at the same time right now.",
-          "by": "Zach Pressnell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-might-best-starting-232824318.html",
-          "fetchedAt": 1784226926585
-        },
-        {
-          "t": "Sal Stewart, Chase Burns rep the Reds in tonight’s MLB All Star Game",
-          "s": "First pitch is slated for just after 8 PM ET on FOX.",
-          "by": "Wick Terrell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/sal-stewart-chase-burns-rep-185438286.html",
-          "fetchedAt": 1784226926585
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -287,7 +246,24 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pirates Second Half Preview: Playoff Chase is on",
+          "s": "After a four days off, he Pirates open up the second half of their schedule on Friday night against the […] The post Pirates Second Half Preview: Playoff Chase is on appeared first on Pittsburgh Baseball Now.",
+          "by": "Danny Demilio",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-second-half-preview-playoff-121452761.html",
+          "fetchedAt": 1784322210040
+        },
+        {
+          "t": "Top 3 MLB Home Run Bets for July 17: Abreu, Lowe, and Moniak Shine",
+          "s": "Our top MLB home run picks for Friday spotlight Wilyer Abreu, Brandon Lowe and Mickey Moniak to go deep.",
+          "by": "Andrew Phelps",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/top-3-mlb-home-run-113000416.html",
+          "fetchedAt": 1784322210040
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -319,14 +295,6 @@
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/rangers-first-half-report-card-150648780.html",
           "fetchedAt": 1784226976933
-        },
-        {
-          "t": "Rangers' Jacob Latz Makes MLB All-Star Game Debut",
-          "s": "Texas Rangers closer Jacob Latz struck out Luis Arraez in his MLB All-Star Game debut on Tuesday night.",
-          "by": "Kane McCutchen",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/rangers-jacob-latz-makes-mlb-144315828.html",
-          "fetchedAt": 1784226976933
         }
       ],
       "nbcNews": []
@@ -338,28 +306,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [
         {
-          "t": "Tigers Face AL's Three Worst Teams Before Trade Deadline in Season-Defining Stretch",
-          "s": "Detroit must capitalize on a soft schedule to transform from deadline sellers into legitimate postseason contenders, potentially keeping coveted arms Tarik Skubal and Casey Mize in Michigan.",
-          "by": "Nick Faber",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-face-als-three-worst-201300115.html",
-          "fetchedAt": 1784155221463
+          "t": "With light second-half MLB schedule, Tigers out to ace Tarik Skubal decision",
+          "s": "Coming out of the All-Star break, Detroit was 3.5 games out of the AL Wild Card chase.",
+          "by": "Jeff Hawkins",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/light-second-half-mlb-schedule-170802931.html",
+          "fetchedAt": 1784322261000
         },
         {
-          "t": "MLB trade deadline 2026: Top trade candidates, possible buyers and sellers",
-          "s": "What to know for the 2026 MLB trade deadline, including top candidates, buyers and sellers, burning questions.",
-          "by": "Kevin Skiver, USA TODAY",
+          "t": "When will Aaron Judge return? Will the Tigers trade Tarik Skubal? Can Shohei Ohtani win the Cy Young? Second-half storylines!",
+          "s": "On this episode of Baseball Bar-B-Cast, Jake and Jordan take a look at the main storylines of the second half of the season that fans should pay attention to, as well as the latest news before the season resumes.",
+          "by": "Yahoo Sports Staff",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/mlb/article/when-will-aaron-judge-return-will-the-tigers-trade-tarik-skubal-can-shohei-ohtani-win-the-cy-young-second-half-storylines-180140633.html",
+          "fetchedAt": 1784322261000
+        },
+        {
+          "t": "Pair of Reports Add Fuel to LA Dodgers-Tarik Skubal Trade Speculation: What Could a Deal Cost LA?",
+          "s": "While the Los Angeles Dodgers don’t need to make a Tarik Skubal trade, a pair of new reports explain why […]",
+          "by": "Jason Burgos",
           "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-trade-deadline-2026-top-175933329.html",
-          "fetchedAt": 1784155221463
-        },
-        {
-          "t": "Braves Predicted to Land 2-Time Cy Young Award Winner in Blockbuster Move",
-          "s": "The Atlanta Braves have been widely rumored to be heavily interested in acquiring left-handed pitcher Tarik Skubal.Atlanta has struggled as of late, but still is atop the NL East, but the lead is shrinking. So, the Braves should look to add more talent to the roster ahead of the August 3 trade deadline.The Braves have […] The post Braves Predicted to Land 2-Time Cy Young Award Winner in Blockbuster Move appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/braves-predicted-land-2-time-173900495.html",
-          "fetchedAt": 1784155221463
+          "href": "https://sports.yahoo.com/articles/pair-reports-add-fuel-la-152111801.html",
+          "fetchedAt": 1784322261000
         }
       ],
       "nbcNews": []
@@ -369,7 +337,32 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "How the Next Two Weeks Could Define Minnesota Twins' Season",
+          "s": "The Twins come out of the break tied for the final AL wild card spot, and the schedule ahead will settle their deadline plans.",
+          "by": "Grant Mona",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/next-two-weeks-could-define-195149109.html",
+          "fetchedAt": 1784322216221
+        },
+        {
+          "t": "Twins' Biggest Trade Deadline Chips Revealed",
+          "s": "The Minnesota Twins face difficult decisions as the Aug. 3 trade deadline approaches.",
+          "by": "Andrew Jamieson",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/twins-biggest-trade-deadline-chips-153107269.html",
+          "fetchedAt": 1784322216221
+        },
+        {
+          "t": "Yankees potential trade target: Joe Ryan",
+          "s": "The starter might not be available with the Twins in the playoff running, but should the Yankees try anyway?",
+          "by": "Matt Ferenchick",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-potential-trade-target-joe-140000626.html",
+          "fetchedAt": 1784322216221
+        }
+      ],
       "nbcNews": [
         {
           "t": "Bailey Ober will open second half for Twins Friday",
@@ -394,20 +387,28 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Cincinnati Reds Announce Unexpected Rotation Plans Coming Out of All-Star Break",
-          "s": "Cincinnati Reds Announce Unexpected Rotation Plans Coming Out of All-Star Break",
-          "by": "Greg Kuffner",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-announce-unexpected-rotation-182444134.html",
-          "fetchedAt": 1784155225019
+          "t": "How Cincinnati Reds Can Still Make a Playoff Run",
+          "s": "The Reds are under .500 at the break, but the path back to the postseason is not closed yet.",
+          "by": "Grant Mona",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-still-playoff-run-194545395.html",
+          "fetchedAt": 1784322262927
         },
         {
-          "t": "Brewers' Jacob Misiorowski Gives Massive Injury Update Amid MLB All-Star Game Absence",
-          "s": "Milwaukee Brewers ace Jacob Misiorowski talked about his arm fatigue following Tuesday night's MLB All-Star Game",
-          "by": "Victor Barbosa",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/brewers-jacob-misiorowski-gives-massive-160008314.html",
-          "fetchedAt": 1784155225019
+          "t": "Cincinnati Reds Rumored to Shop Star Pitcher at 2026 MLB Trade Deadline",
+          "s": "The Cincinnati Reds are in a tough spot. After starting the 2026 MLB season with strong momentum, the Reds have […]",
+          "by": "Austin Konenski",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-rumored-shop-star-194150292.html",
+          "fetchedAt": 1784322262927
+        },
+        {
+          "t": "Reds lock up Burns long-term with historic deal",
+          "s": "",
+          "by": "",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/reds-lock-burns-long-term-173550742.html",
+          "fetchedAt": 1784322262927
         }
       ],
       "nbcNews": [
@@ -503,22 +504,6 @@
           "when": "15h ago",
           "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-assessing-053717813.html",
           "fetchedAt": 1784235819205
-        },
-        {
-          "t": "Rays Star Junior Caminero Avoids Serious Injury as Tampa Bay Shines in MLB All-Star Game",
-          "s": "Five Rays represented Tampa Bay in the 2026 MLB All-Star Game, highlighted by dominant outings from Nick Martinez, Drew Rasmussen, and Bryan Baker. The biggest storyline came when Junior Caminero exited after being hit by a pitch, though initial tests were negative.",
-          "by": "Christian Rauh",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/rays-star-junior-caminero-avoids-045303187.html",
-          "fetchedAt": 1784235819205
-        },
-        {
-          "t": "Rays star across 2026 All-Star Game festivities",
-          "s": "The Tampa Bay Rays — rightfully so, given their dominance in the American League thus far — had a strong showing at the All-Star Game this week, chief among them Junior Caminero. Home Run Derby At still 23-years young, which I feel the broadcasts should have mentioned even more often than they frequently did, returned […]",
-          "by": "Danny Russell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/rays-star-across-2026-star-120000219.html",
-          "fetchedAt": 1784235819205
         }
       ],
       "nbcNews": []
@@ -528,7 +513,32 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dodgers Make Big Announcement on Star Pitcher Edwin Diaz",
+          "s": "Los Angeles Dodgers star Edwin Diaz is moving a step closer to returning from elbow surgery. The standout closer is set to make a rehab appearance with Single-A Ontario on Friday, the club announced on X (formerly Twitter). Diaz, 32, is on the 60-day injured list after undergoing surgery to remove loose bodies from his […] The post Dodgers Make Big Announcement on Star Pitcher Edwin Diaz appeared first on HEAVY.",
+          "by": "Douglas Bonjour",
+          "when": "33m ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-big-announcement-star-pitcher-203029918.html",
+          "fetchedAt": 1784322226950
+        },
+        {
+          "t": "Two Key Dodgers Veterans Start Long-Awaited Rehab Assignments",
+          "s": "The Los Angeles Dodgers are about get Blake Snell and Kike Hernandez back on the field as they work their way back.",
+          "by": "Nelson Espinal",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/two-key-dodgers-veterans-start-180040516.html",
+          "fetchedAt": 1784322226950
+        },
+        {
+          "t": "Dodgers’ Edwin Diaz gets official date for next rehab appearance",
+          "s": "Edwin Diaz is makiing progress as he continues to work his way back to the Dodgers following a surgery in his elbow.",
+          "by": "Rexwell Villas, ClutchPoints",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-edwin-diaz-gets-official-040039598.html",
+          "fetchedAt": 1784322226950
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -675,22 +685,6 @@
           "when": "6h ago",
           "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-these-5-batters-have-exceeded-expectations-but-can-you-trust-them-in-the-second-half-140620185.html",
           "fetchedAt": 1784235807494
-        },
-        {
-          "t": "Miami Marlins’ second act: Five storylines heading into the back half of the season",
-          "s": "The Miami Marlins ended last season with a 79-83 record and out of the playoffs, so expectations were not exactly sky-high for the 2026 season. However, their blistering pace in June has put them in a good place at the All-Star break. Here are some of the major storylines for the second half of the Marlins’ season. Can the Marlins stay red-hot? Heading into the All-Star break, the Marlins were ...",
-          "by": "Ava DiCecca, South Florida Sun-Sentinel",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/miami-marlins-second-act-five-192600553.html",
-          "fetchedAt": 1784235807494
-        },
-        {
-          "t": "What Marlins First-Round Pick Says About Their Long Term Vision",
-          "s": "The Miami Marlins are carefully balancing the present and future at shortstop. Will their be a dilemma or will they handle it with dignity?",
-          "by": "Miguel Mike Medina",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/marlins-first-round-pick-says-150004684.html",
-          "fetchedAt": 1784235807494
         }
       ],
       "nbcNews": []
@@ -760,28 +754,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [
         {
-          "t": "Former Dodgers Shine in All-Star Game With MVP Award, Homer",
-          "s": "A former Los Angeles Dodger took home the MVP award at the 2026 All-Star Game, marking a career resurgence after a difficult end to his time in LA.",
-          "by": "Cameron Kiszla",
-          "when": "41m ago",
-          "href": "https://sports.yahoo.com/articles/former-dodgers-shine-star-game-215908500.html",
-          "fetchedAt": 1784155231219
+          "t": "Cody Bellinger says Call of Duty brings athletes together as sports and gaming collide at Fanatics Fest",
+          "s": "NEW YORK — Cody Bellinger has played for baseball's biggest brands over his career.",
+          "by": "Arash Markazi",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/cody-bellinger-says-call-duty-145702379.html",
+          "fetchedAt": 1784322264636
         },
         {
-          "t": "Yankees Star Cody Bellinger Shares Polarizing Thoughts on an MLB Salary Cap",
-          "s": "The New York Yankees are back in contention once again in 2026, and over the past few days, they’ve been firmly in the limelight, starting with Ben Rice in the Home Run Derby on Monday and finishing in the All-Star Game on Tuesday with several players starring for the AL.In that game, the Yankees did […] The post Yankees Star Cody Bellinger Shares Polarizing Thoughts on an MLB Salary Cap appeared first on HEAVY.",
-          "by": "Nathan Smith",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-star-cody-bellinger-shares-205648801.html",
-          "fetchedAt": 1784155231219
+          "t": "2026 World Series Odds: Yankees Remain Favored AL Squad",
+          "s": "Check out the latest 2026 MLB World Series odds. The Dodgers are the favorites to win again in 2026, but the Yankees aren't that far off.",
+          "by": "Jason Wilson",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/2026-world-series-odds-yankees-remain-favored-al-squad-021600953.html",
+          "fetchedAt": 1784322264636
         },
         {
-          "t": "AL Dominates NL in 4-0 Shutout at 96th MLB All-Star Game as Cody Bellinger Claims MVP",
-          "s": "The 96th Midsummer Classic at Citizens Bank Park delivered a familiar result on Tuesday night. The American League dominated in […]",
-          "by": "Isaac Ciravolo",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/al-dominates-nl-4-0-202913876.html",
-          "fetchedAt": 1784155231219
+          "t": "Yankees Own the All-Star Game + Second-Half Perspective",
+          "s": "",
+          "by": "",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/videos/yankees-own-star-game-second-225752611.html",
+          "fetchedAt": 1784322264636
         }
       ],
       "nbcNews": []
@@ -791,7 +785,16 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Top 3 MLB Home Run Bets for July 17: Abreu, Lowe, and Moniak Shine",
+          "s": "Our top MLB home run picks for Friday spotlight Wilyer Abreu, Brandon Lowe and Mickey Moniak to go deep.",
+          "by": "Andrew Phelps",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/top-3-mlb-home-run-113000416.html",
+          "fetchedAt": 1784322233814
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -806,22 +809,6 @@
           "by": "Mark Morales-Smith",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/taylor-ward-top-fantasy-baseball-170722186.html",
-          "fetchedAt": 1784235777697
-        },
-        {
-          "t": "Phillies Trade Targets",
-          "s": "The Philadelphia Phillies are once again in a situation where they need to address multiple problems on the roster. The problems are not anything new, and in fact are the same that have hurt them for years. A right-handed outfielder and proper setup man in the bullpen are still things that need to be addressed. […] The post Philadelphia Phillies Rumors: 3 Trade Targets That Just Make Sense appeared first on Stadium Rant.",
-          "by": "Charles North",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/philadelphia-phillies-rumors-3-trade-130000778.html",
-          "fetchedAt": 1784235777697
-        },
-        {
-          "t": "Philadelphia Phillies Rumors: The 3 Most Valuable Prospects To Trade",
-          "s": "The Philadelphia Phillies have been on an absolute tear after Don Mattingly took over, but they still may not have enough to get to that next level. The MLB trade deadline is inching closer, and the Phillies will need to be aggressive. These are three prospects that Philadelphia could include in some big-time trade packages. […] The post Philadelphia Phillies Rumors: The 3 Most Valuable Prospects To Trade appeared first on Stadium Rant.",
-          "by": "Charles North",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/philadelphia-phillies-rumors-3-most-110000285.html",
           "fetchedAt": 1784235777697
         }
       ],
@@ -848,16 +835,7 @@
       "name": "Jose Altuve",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
-      "yahooNews": [
-        {
-          "t": "In The Lab: A Look at Second Base Offense",
-          "s": "Who is Jose Altuve at this stage of his career?",
-          "by": "Scott Barzilla",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/lab-look-second-offense-125300925.html",
-          "fetchedAt": 1784149923307
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -922,14 +900,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/red-sox-winning-streak-isnt-230240465.html",
           "fetchedAt": 1784279053682
-        },
-        {
-          "t": "Boston Red Sox Named Potential Trade Deadline Landing Spot for 4-Time All-Star",
-          "s": "What a difference just a couple of weeks make. After losing 10-2 to the Washington Nationals on July 1, the Boston Red Sox hit the road for a nine-game road trip leading into the All-Star break.Seemed all but buried in the American League wild-card race, the Red Sox did something nobody saw coming: they went […] The post Boston Red Sox Named Potential Trade Deadline Landing Spot for 4-Time All-Star appeared first on HEAVY.",
-          "by": "Scott Roche",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/boston-red-sox-named-potential-153610508.html",
-          "fetchedAt": 1784149928280
         }
       ],
       "nbcNews": []
@@ -997,22 +967,6 @@
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/rangers-first-half-report-card-150648780.html",
           "fetchedAt": 1784226982579
-        },
-        {
-          "t": "Rangers Grades for Every Position Group at the All-Star Break",
-          "s": "Here's a look at how every position group for the Texas Rangers grades out at the All-Star break of the 2026 season.",
-          "by": "Matt Postins",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/rangers-grades-every-position-group-180005510.html",
-          "fetchedAt": 1784226982579
-        },
-        {
-          "t": "Three Keys to Second Half for Texas Rangers",
-          "s": "Let’s break down three keys to a successful second half of the season for the Texas Rangers.",
-          "by": "Kane McCutchen",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/three-keys-second-half-texas-000039941.html",
-          "fetchedAt": 1784226982579
         }
       ],
       "nbcNews": []
@@ -1022,32 +976,7 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [
-        {
-          "t": "Dylan Cease to Start Against Rays After All-Star Game Performance, Says John Schneider",
-          "s": "Toronto Blue Jays manager John Schneider provided a pitching schedule for after the All-Star Break.",
-          "by": "Tate Mosher",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/dylan-cease-start-against-rays-200302786.html",
-          "fetchedAt": 1784226984791
-        },
-        {
-          "t": "Major League baseball All-Star Game moments",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://www.yahoo.com/news/videos/major-league-baseball-star-game-080623656.html",
-          "fetchedAt": 1784226984791
-        },
-        {
-          "t": "Here's How Toronto Blue Jays All-Stars Did in Midsummer Classic",
-          "s": "The Blue Jays had several players take center stage at Citizens Bank Arena in Philadelphia.",
-          "by": "Teren Kowatsch",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/heres-toronto-blue-jays-stars-070122716.html",
-          "fetchedAt": 1784226984791
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1063,32 +992,7 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [
-        {
-          "t": "Phillies Set Zack Wheeler to Start Against Dodgers After All-Star Break",
-          "s": "The Phillies have finalized their decision on Zack Wheeler.",
-          "by": "Miracle Dimwesh",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-set-zack-wheeler-start-194031045.html",
-          "fetchedAt": 1784226987755
-        },
-        {
-          "t": "Freddie Freeman breaks down facing Phillies lefty Cristopher Sanchez",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/freddie-freeman-breaks-down-facing-183831744.html",
-          "fetchedAt": 1784226987755
-        },
-        {
-          "t": "“Very Emotional for Him” — Dodgers Manager Explains Phillies Star’s Tough Night as AL Gets 2025 Revenge",
-          "s": "Coming into the 96th MLB All-Star Game in the City of Brotherly Love, the American League held the all-time edge with 48 wins, 45 losses, and two ties. In recent years, the AL had largely dominated the Midsummer Classic, though 2025 proved to be an exception as the National League earned just its second win in the previous 12 editions.",
-          "by": "Ritabrata Chakrabarti",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/very-emotional-him-dodgers-manager-120002524.html",
-          "fetchedAt": 1784226987755
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1162,14 +1066,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/phillies-players-mostly-disappointing-performances-110005448.html",
           "fetchedAt": 1784279061953
-        },
-        {
-          "t": "How Phillies stars played in Philadelphia’s MLB All-Star Game",
-          "s": "The Philadelphia Phillies had several representatives during the 2026 MLB All-Star Game at their home stadium.",
-          "by": "Jackson Stone, ClutchPoints",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-stars-played-philadelphia-mlb-155813985.html",
-          "fetchedAt": 1784149949073
         }
       ],
       "nbcNews": [
