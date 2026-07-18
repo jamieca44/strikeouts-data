@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdatedRosterStats": "2026-07-17T18:09:08Z",
+  "lastUpdatedRosterStats": "2026-07-18T06:07:53Z",
   "players": [
     {
       "id": 11928,
@@ -9,16 +9,16 @@
       "pos": "C",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "1",
+        "obp": ".500"
       },
       "lastWeekStats": {
         "rank": "600",
@@ -52,16 +52,16 @@
       "pos": "1B",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/4",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "1",
+        "obp": ".250"
       },
       "lastWeekStats": {
         "rank": "45",
@@ -95,7 +95,7 @@
       "pos": "1B,2B",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -138,16 +138,16 @@
       "pos": "1B,3B",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "0/4",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "0",
+        "obp": ".000"
       },
       "lastWeekStats": {
         "rank": "91",
@@ -181,16 +181,16 @@
       "pos": "SS",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "0/3",
+        "r": "1",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "0",
+        "obp": ".250"
       },
       "lastWeekStats": {
         "rank": "488",
@@ -224,16 +224,16 @@
       "pos": "SS",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "4/5",
+        "r": "2",
+        "hr": "1",
+        "rbi": "1",
+        "sb": "0",
+        "k": "0",
+        "tb": "7",
+        "obp": ".800"
       },
       "lastWeekStats": {
         "rank": "41",
@@ -267,16 +267,16 @@
       "pos": "1B,OF",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/4",
+        "r": "2",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "1",
+        "obp": ".400"
       },
       "lastWeekStats": {
         "rank": "525",
@@ -310,15 +310,15 @@
       "pos": "OF",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
+        "hab": "0/0",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "0",
         "obp": "-"
       },
       "lastWeekStats": {
@@ -353,16 +353,16 @@
       "pos": "2B,OF",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "3/5",
+        "r": "0",
+        "hr": "0",
+        "rbi": "1",
+        "sb": "0",
+        "k": "0",
+        "tb": "3",
+        "obp": ".600"
       },
       "lastWeekStats": {
         "rank": "622",
@@ -396,16 +396,16 @@
       "pos": "OF",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "2",
+        "obp": ".333"
       },
       "lastWeekStats": {
         "rank": "316",
@@ -439,7 +439,7 @@
       "pos": "1B",
       "ilStatus": "IL10",
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -451,7 +451,7 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "1,230",
+        "rank": "1230",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -482,7 +482,7 @@
       "pos": "3B",
       "ilStatus": "IL10",
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -506,7 +506,7 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "1,244",
+        "rank": "1244",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -525,7 +525,7 @@
       "pos": "2B,3B,SS",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -537,7 +537,7 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "1,403",
+        "rank": "1403",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -549,7 +549,7 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "1,634",
+        "rank": "1634",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -568,7 +568,7 @@
       "pos": "2B,3B,SS,OF",
       "ilStatus": "IL10",
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -592,7 +592,7 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "1,014",
+        "rank": "1014",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -611,7 +611,7 @@
       "pos": "SP,RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -654,7 +654,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -697,7 +697,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -740,7 +740,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -783,7 +783,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -826,16 +826,16 @@
       "pos": "RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
+        "ip": "1.0",
+        "w": "0",
+        "l": "0",
+        "sv": "0",
+        "era": "0.00",
+        "whip": "0.00",
+        "k9": "9.00",
+        "qs": "0"
       },
       "lastWeekStats": {
         "rank": "688",
@@ -869,7 +869,7 @@
       "pos": "RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -881,7 +881,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "2,424",
+        "rank": "2424",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -912,16 +912,16 @@
       "pos": "RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
+        "ip": "0.2",
+        "w": "0",
+        "l": "1",
+        "sv": "0",
+        "era": "27.00",
+        "whip": "3.00",
+        "k9": "0.00",
+        "qs": "0"
       },
       "lastWeekStats": {
         "rank": "103",
@@ -955,7 +955,7 @@
       "pos": "SP,RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -998,7 +998,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1041,7 +1041,7 @@
       "pos": "SP,RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1053,7 +1053,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "2,107",
+        "rank": "2107",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1084,7 +1084,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1127,7 +1127,7 @@
       "pos": "RP",
       "ilStatus": "IL60",
       "yesterdayStats": {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1139,7 +1139,7 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "1,929",
+        "rank": "1929",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1151,7 +1151,7 @@
         "qs": "-"
       },
       "lastMonthStats": {
-        "rank": "2,075",
+        "rank": "2075",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1225,14 +1225,14 @@
           "pos": "C",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "1/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".500"
           },
           "lastWeekStats": {
             "rank": "562",
@@ -1263,14 +1263,14 @@
           "pos": "1B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "644",
@@ -1300,14 +1300,14 @@
           "pos": "2B,OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "205",
@@ -1337,14 +1337,14 @@
           "pos": "2B,3B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "5/8",
+            "r": "2",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".667"
           },
           "lastWeekStats": {
             "rank": "306",
@@ -1374,14 +1374,14 @@
           "pos": "2B,SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "2/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".500"
           },
           "lastWeekStats": {
             "rank": "660",
@@ -1411,14 +1411,14 @@
           "pos": "1B,3B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "72",
@@ -1449,14 +1449,14 @@
           "pos": "SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "567",
@@ -1486,14 +1486,14 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/3",
+            "r": "1",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "1",
+            "obp": ".250"
           },
           "lastWeekStats": {
             "rank": "123",
@@ -1523,14 +1523,14 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/5",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "136",
@@ -1560,14 +1560,14 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "1/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".250"
           },
           "lastWeekStats": {
             "rank": "276",
@@ -1597,14 +1597,14 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "1/3",
+            "r": "1",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".500"
           },
           "lastWeekStats": {
             "rank": "201",
@@ -1634,14 +1634,14 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "1/3",
+            "r": "1",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "0",
+            "obp": ".500"
           },
           "lastWeekStats": {
             "rank": "60",
@@ -1671,13 +1671,13 @@
           "pos": "2B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
+            "hab": "0/0",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
             "obp": "-"
           },
           "lastWeekStats": {
@@ -1708,7 +1708,7 @@
           "pos": "1B",
           "ilStatus": "IL10",
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1718,7 +1718,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1,230",
+            "rank": "1230",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1746,14 +1746,14 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/4",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "244",
@@ -1783,14 +1783,14 @@
           "pos": "3B,SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "440",
@@ -1820,13 +1820,13 @@
           "pos": "3B,OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
+            "hab": "0/0",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
             "obp": "-"
           },
           "lastWeekStats": {
@@ -1857,14 +1857,14 @@
           "pos": "2B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".000"
           },
           "lastWeekStats": {
             "rank": "69",
@@ -1894,14 +1894,14 @@
           "pos": "SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "2/3",
+            "r": "2",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".800"
           },
           "lastWeekStats": {
             "rank": "419",
@@ -1931,7 +1931,7 @@
           "pos": "2B,3B,SS",
           "ilStatus": "IL10",
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1968,7 +1968,7 @@
           "pos": "3B,OF",
           "ilStatus": "IL10",
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1978,7 +1978,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1,021",
+            "rank": "1021",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2005,7 +2005,7 @@
           "pos": "SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2015,7 +2015,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1,091",
+            "rank": "1091",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2025,7 +2025,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1,356",
+            "rank": "1356",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2042,7 +2042,7 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2052,7 +2052,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1,437",
+            "rank": "1437",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2062,7 +2062,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1,667",
+            "rank": "1667",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2079,7 +2079,7 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2089,7 +2089,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1,016",
+            "rank": "1016",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2099,7 +2099,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1,287",
+            "rank": "1287",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2116,7 +2116,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2126,7 +2126,7 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "1,847",
+            "rank": "1847",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2153,7 +2153,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2163,7 +2163,7 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "1,989",
+            "rank": "1989",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2190,7 +2190,7 @@
           "pos": "SP,RP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2228,14 +2228,14 @@
           "pos": "RP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
-            "ip": "-",
-            "w": "-",
-            "sv": "-",
-            "k": "-",
-            "era": "-",
-            "whip": "-"
+            "ip": "0.2",
+            "w": "0",
+            "sv": "0",
+            "k": "0",
+            "era": "27.00",
+            "whip": "3.00"
           },
           "lastWeekStats": {
             "rank": "141",
@@ -2266,7 +2266,7 @@
           "pos": "RP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2276,7 +2276,7 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "2,424",
+            "rank": "2424",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2304,7 +2304,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2341,7 +2341,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2378,7 +2378,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2388,7 +2388,7 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "2,012",
+            "rank": "2012",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2415,7 +2415,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2452,7 +2452,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2489,17 +2489,17 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
-            "ip": "-",
-            "w": "-",
-            "sv": "-",
-            "k": "-",
-            "era": "-",
-            "whip": "-"
+            "ip": "6.0",
+            "w": "0",
+            "sv": "0",
+            "k": "8",
+            "era": "3.00",
+            "whip": "0.83"
           },
           "lastWeekStats": {
-            "rank": "1,770",
+            "rank": "1770",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2526,7 +2526,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-07-16",
+            "date": "2026-07-17",
             "type": "pitching",
             "ip": "-",
             "w": "-",
