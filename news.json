@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-18T21:04:40.194Z",
+  "lastUpdatedNews": "2026-07-18T21:20:46.736Z",
   "players": [
     {
       "id": 11928,
@@ -106,7 +106,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis out Saturday with hamstring soreness",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/royce-lewis-out-saturday-with-hamstring-soreness",
+          "fetchedAt": 1784409646736
+        }
+      ]
     },
     {
       "id": 12550,
@@ -268,7 +275,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez (hand) might skip rehab assignment",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/jose-ramirez-hand-might-skip-rehab-assignment",
+          "fetchedAt": 1784409646736
+        }
+      ]
     },
     {
       "id": 10577,
@@ -641,7 +655,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana delivers RBI triple in loss",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/travis-bazzana-delivers-rbi-triple-in-loss",
+          "fetchedAt": 1784409646736
+        }
+      ]
     },
     {
       "id": 61788,
@@ -830,7 +851,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Colt Emerson goes 0-for-3 in loss to Giants",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/colt-emerson-goes-0-for-3-in-loss-to-giants",
+          "fetchedAt": 1784409646736
+        }
+      ]
     },
     {
       "id": 8996,
