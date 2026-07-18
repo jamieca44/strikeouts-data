@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-18T10:16:49.354Z",
+  "lastUpdatedNews": "2026-07-18T10:36:07.625Z",
   "players": [
     {
       "id": 11928,
@@ -50,7 +50,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. sits against southpaw on Friday",
+          "date": "2026-07-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-17/luis-garcia-jr-sits-against-southpaw-on-friday",
+          "fetchedAt": 1784370967625
+        }
+      ]
     },
     {
       "id": 10916,
@@ -222,7 +229,14 @@
           "fetchedAt": 1784369754881
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz goes deep as Reds top Rockies",
+          "date": "2026-07-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-17/elly-de-la-cruz-goes-deep-as-reds-top-rockies",
+          "fetchedAt": 1784370967625
+        }
+      ]
     },
     {
       "id": 9507,
@@ -476,14 +490,7 @@
           "fetchedAt": 1784235802935
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pirates go Jones, Ashcraft, Skenes out of break",
-          "date": "2026-07-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-15/pirates-go-jones-ashcraft-skenes-out-of-break",
-          "fetchedAt": 1784226955131
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -794,7 +801,14 @@
           "fetchedAt": 1784235777697
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward lifts O’s past Astros with late homer",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/taylor-ward-lifts-os-past-astros-with-late-homer",
+          "fetchedAt": 1784370967625
+        }
+      ]
     },
     {
       "id": 64330,
@@ -1139,14 +1153,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Phillies won’t use Wheeler, Sanchez this weekend",
-          "date": "2026-07-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-15/phillies-wont-use-wheeler-sanchez-this-weekend",
-          "fetchedAt": 1784150635140
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
@@ -1179,14 +1186,7 @@
           "fetchedAt": 1784369799299
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Webb will start on Saturday out of the break",
-          "date": "2026-07-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-15/webb-will-start-on-saturday-out-of-the-break",
-          "fetchedAt": 1784150635140
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
