@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-17T21:20:56.846Z",
+  "lastUpdatedNews": "2026-07-18T10:16:49.354Z",
   "players": [
     {
       "id": 11928,
@@ -82,16 +82,7 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [
-        {
-          "t": "How Athletics Can Build Momentum After All-Star Break",
-          "s": "The Athletics are in the midst of a massive skid, which for most teams could be season-ending.",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/athletics-build-momentum-star-break-100006854.html",
-          "fetchedAt": 1784235804946
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -205,7 +196,32 @@
       "name": "Elly De La Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Reds Beat Rockies 7-2 Behind Brady Singer, Spencer Steer",
+          "s": "The Reds are now 44-52.",
+          "by": "Keegan Nickoson",
+          "when": "57m ago",
+          "href": "https://sports.yahoo.com/articles/reds-beat-rockies-7-2-091812327.html",
+          "fetchedAt": 1784369754881
+        },
+        {
+          "t": "De La Cruz leads Reds against the Rockies after 4-hit game",
+          "s": "Cincinnati Reds (44-52, fifth in the NL Central) vs. Colorado Rockies (39-60, fifth in the NL West) Denver; Saturday, 3:10 p.m. EDT PITCHING PROBABLES: Reds: Rhett Lowder (3-6, 4.91 ERA, 1.54 WHIP, 59 strikeouts); Rockies: Tomoyuki Sugano (0-0) LINE: Rockies -116, Reds -106; over/under is 12 runs BOTTOM LINE: The Cincinnati Reds take on the Colorado Rockies after Elly De La Cruz had four hits against the Rockies on Friday. Colorado has a 22-26 record in home games and a 39-60 record overall.",
+          "by": "The Associated Press",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/la-cruz-leads-reds-against-075547860.html",
+          "fetchedAt": 1784369754881
+        },
+        {
+          "t": "Cincinnati Reds Rumored to Shop Star Pitcher at 2026 MLB Trade Deadline",
+          "s": "The Cincinnati Reds are in a tough spot. After starting the 2026 MLB season with strong momentum, the Reds have […]",
+          "by": "Austin Konenski",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-rumored-shop-star-194150292.html",
+          "fetchedAt": 1784369754881
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -228,14 +244,6 @@
           "by": "Nicole Williams",
           "when": "21h ago",
           "href": "https://sports.yahoo.com/articles/guardians-news-calm-second-half-120000846.html",
-          "fetchedAt": 1784279067027
-        },
-        {
-          "t": "One Key Change the Guardians Must Make Immediately After the Break",
-          "s": "Here's the biggest change the Cleveland Guardians must make immediately following the MLB All-Star break.",
-          "by": "Nick Pedone",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/one-key-change-guardians-must-201200857.html",
           "fetchedAt": 1784279067027
         }
       ],
@@ -280,6 +288,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [
+        {
+          "t": "Rangers Need Bullpen Help to Sustain American League West Lead",
+          "s": "Despite stellar rotation depth and timely hitting, a wave of injuries has left the Texas Rangers relief corps vulnerable.",
+          "by": "Eduardo Solano",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-bullpen-help-sustain-american-180035556.html",
+          "fetchedAt": 1784369803188
+        },
         {
           "t": "Rangers’ Jacob Latz Has Emerged as a Pleasant Bullpen Surprise",
           "s": "Jacob Latz has stabilized the Texas Rangers, providing the late-inning dominance needed to secure another postseason run.",
@@ -377,7 +393,16 @@
       "name": "MacKenzie Gore",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Texas Rangers lineup for July 17, 2026",
+          "s": "The Rangers at the Braves to start the second half",
+          "by": "Adam J. Morris",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-july-17-205807911.html",
+          "fetchedAt": 1784369760144
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -449,14 +474,6 @@
           "when": "6h ago",
           "href": "https://sports.yahoo.com/articles/pirates-ace-paul-skenes-breaks-143252462.html",
           "fetchedAt": 1784235802935
-        },
-        {
-          "t": "Pirates’ Pitching Plan Coming Out of the All-Star Break",
-          "s": "The Pittsburgh Pirates are making a change to their starting rotation after the All-Star Break.",
-          "by": "Tommy Wild",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-pitching-plan-coming-star-224525719.html",
-          "fetchedAt": 1784235802935
         }
       ],
       "nbcNews": [
@@ -496,16 +513,7 @@
       "name": "Bryan Baker",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
-      "yahooNews": [
-        {
-          "t": "Fantasy Baseball Closer Report: Assessing the saves landscape and closer rankings at the All-Star break",
-          "s": "Jorge Montanez breaks down the last week in saves from around the league with updated closer rankings.",
-          "by": "Jorge Montanez",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-assessing-053717813.html",
-          "fetchedAt": 1784235819205
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -553,16 +561,7 @@
       "name": "Jack Flaherty",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
-      "yahooNews": [
-        {
-          "t": "Jack Flaherty Is the Strikeout Breakout Built on Pitch Design, Not Velocity",
-          "s": "Jack Flaherty hasn’t radically changed much about his pitches. Rather, Flaherty had a first-half turnaround highlighted by pitch command that has led to a fantasy baseball strikeout breakout. Here is what fantasy baseball managers need to know about Flaherty’s turnaround.",
-          "by": "Chelena Goldman",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/jack-flaherty-strikeout-breakout-built-213817753.html",
-          "fetchedAt": 1784226971728
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -587,28 +586,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Freddie Freeman knows the finish line is coming and wants to savor the last chapter",
-          "s": "PHILADELPHIA — The moment that will stay with me from the MLB All-Star Game didn't happen on the field.",
-          "by": "Arash Markazi",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-knows-finish-line-162110956.html",
-          "fetchedAt": 1784226978953
+          "t": "Dodgers’ Freddie Freeman Reveals His Plan to Play Until Age 40",
+          "s": "Freddie Freeman desires to deliver three more seasons of elite production for the Los Angeles Dodgers.",
+          "by": "Eduardo Solano",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-freddie-freeman-reveals-plan-180035001.html",
+          "fetchedAt": 1784369804884
         },
         {
-          "t": "Freddie Freeman Sets 40-Year Retirement Target",
-          "s": "Freddie Freeman reveals he plans to play until age 40, extending his Dodgers tenure by three more years during All-Star week.",
-          "by": "James Odonnell",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-sets-40-retirement-030957453.html",
-          "fetchedAt": 1784226978953
+          "t": "Freddie Freeman Makes Future Plans Clear Ahead of Dodgers Contract Year",
+          "s": "Dodgers first baseman Freddie Freeman is close the end of his career, and with his contract up after 2027, his future remains a question.",
+          "by": "Nelson Espinal",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-makes-future-plans-230513710.html",
+          "fetchedAt": 1784369804884
         },
         {
-          "t": "Freddie Freeman reveals retirement timeline during All-Star week",
-          "s": "Freddie Freeman appeared in his 10th All-Star Game on Tuesday. At 36 years old, Freddie Freeman is coming off his 10th career All-Star selection. In the 2026 MLB All-Star Game,...",
-          "by": "Valentina Martinez",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-reveals-retirement-timeline-012734654.html",
-          "fetchedAt": 1784226978953
+          "t": "Why Dodgers shouldn’t wait to extend Freddie Freeman’s contract",
+          "s": "Freddie Freeman wants to finish his career with the Dodgers.",
+          "by": "Dylan Hernandez",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/why-dodgers-shouldn-t-wait-150000298.html",
+          "fetchedAt": 1784369804884
         }
       ],
       "nbcNews": []
@@ -634,14 +633,6 @@
           "when": "20h ago",
           "href": "https://sports.yahoo.com/articles/teammates-rave-cleveland-guardians-star-125954221.html",
           "fetchedAt": 1784279069940
-        },
-        {
-          "t": "One Key Change the Guardians Must Make Immediately After the Break",
-          "s": "Here's the biggest change the Cleveland Guardians must make immediately following the MLB All-Star break.",
-          "by": "Nick Pedone",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/one-key-change-guardians-must-201200857.html",
-          "fetchedAt": 1784279069940
         }
       ],
       "nbcNews": []
@@ -658,22 +649,6 @@
           "by": "Aaliyan Mohammed",
           "when": "13h ago",
           "href": "https://sports.yahoo.com/articles/red-soxs-caleb-durbin-top-190840775.html",
-          "fetchedAt": 1784279056228
-        },
-        {
-          "t": "'So Much for Selling:' Red Sox's Hot Streak Has Put MLB on Notice",
-          "s": "The Boston Red Sox have gone from looking like potential massive sellers to potential buyers in just a few weeks.",
-          "by": "Patrick McAvoy",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/much-selling-red-soxs-hot-164933592.html",
-          "fetchedAt": 1784279056228
-        },
-        {
-          "t": "First Half Recap | Midseason superlatives for the Red Sox",
-          "s": "Mike Giardi and Kayla Burton join Trenni Casey on Early Edition to hand out midseason superlatives for the Boston Red Sox. They decide who the biggest disappointment has been, who the best offseason acquisition has been, and more.First Half Recap | Midseason superlatives for the Red Sox originally appeared on NBC Sports Boston",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/first-half-recap-midseason-superlatives-070320237.html",
           "fetchedAt": 1784279056228
         }
       ],
@@ -842,7 +817,32 @@
       "name": "Jose Altuve",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Astros Back In Action vs Orioles, Announce New Roster Move and Set Lineup",
+          "s": "The Houston Astros will face the Baltimore Orioles in the first series after the All-Star break, and there's a new addition to the lineup.",
+          "by": "Maanav Gupta",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/astros-back-action-vs-orioles-224036097.html",
+          "fetchedAt": 1784369774796
+        },
+        {
+          "t": "Astros rumors: Insider leaves door open for Yordan Alvarez trade at deadline",
+          "s": "One insider believes there is a scenario where the Astros could ship off Yordan Alvarez at the MLB trade deadline.",
+          "by": "RB Hayek, ClutchPoints",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/astros-rumors-insider-leaves-door-202100861.html",
+          "fetchedAt": 1784369774796
+        },
+        {
+          "t": "Astros rumors: Would Houston make these Yordan Alvarez, Jose Altuve moves to help their trade deadline?",
+          "s": "The Astros likely won't make these Yordan Alvarez and Jose Altuve defensive moves, but anything could happen.",
+          "by": "Joey Mistretta, ClutchPoints",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/astros-rumors-houston-yordan-alvarez-195919121.html",
+          "fetchedAt": 1784369774796
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -882,14 +882,6 @@
           "when": "2h ago",
           "href": "https://sports.yahoo.com/articles/atlanta-braves-top-trade-target-183325018.html",
           "fetchedAt": 1784235812392
-        },
-        {
-          "t": "Francisco Lindor isn't the blockbuster the Red Sox need at this year's MLB trade deadline",
-          "s": "The Red Sox need to make a splash, but Lindor shouldn't be their man.",
-          "by": "TJ Morin",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/francisco-lindor-isnt-blockbuster-red-030410341.html",
-          "fetchedAt": 1784235812392
         }
       ],
       "nbcNews": []
@@ -899,16 +891,7 @@
       "name": "Marcelo Mayer",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
-      "yahooNews": [
-        {
-          "t": "Red Sox winning streak isn't an indictment of Roman Anthony and Marcelo Mayer despite speculation",
-          "s": "The Red Sox are thriving now, but blaming Roman Anthony and Marcelo Mayer for before that isn't fair.",
-          "by": "TJ Morin",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-winning-streak-isnt-230240465.html",
-          "fetchedAt": 1784279053682
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -951,12 +934,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [
         {
-          "t": "The Twins could be sitting on a wild card for their playoff push",
-          "s": "Walker Jenkins's MLB debut could be complicated but has potential to carry the Minnesota Twins to the playoffs.",
-          "by": "Chris Schad",
+          "t": "Twins' Biggest Trade Deadline Chips Revealed",
+          "s": "The Minnesota Twins face difficult decisions as the Aug. 3 trade deadline approaches.",
+          "by": "Andrew Jamieson",
           "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/twins-could-sitting-wild-card-000002378.html",
-          "fetchedAt": 1784226958868
+          "href": "https://sports.yahoo.com/articles/twins-biggest-trade-deadline-chips-153107269.html",
+          "fetchedAt": 1784369795612
+        },
+        {
+          "t": "3 storylines that could determine the Twins fate in the second half",
+          "s": "The Minnesota Twins have several things that could either help or end their push to the playoffs.",
+          "by": "Chris Schad",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/3-storylines-could-determine-twins-143002868.html",
+          "fetchedAt": 1784369795612
+        },
+        {
+          "t": "3 Players the Minnesota Twins Could Move Ahead of the Trade Deadline",
+          "s": "The Minnesota Twins could once again be active this upcoming trade deadline.",
+          "by": "Jesus Jimenez",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/3-players-minnesota-twins-could-130042539.html",
+          "fetchedAt": 1784369795612
         }
       ],
       "nbcNews": []
@@ -967,6 +966,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [
+        {
+          "t": "Texas Rangers lineup for July 17, 2026",
+          "s": "The Rangers at the Braves to start the second half",
+          "by": "Adam J. Morris",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-july-17-205807911.html",
+          "fetchedAt": 1784369807494
+        },
         {
           "t": "Rangers First Half Report Card: AL West Extremely Winnable",
           "s": "Despite a turbulent first half, the Texas Rangers sit atop a struggling division. Now, Jacob deGrom’s health and a powerhouse offense must stabilize the lead to secure the crown.",
@@ -983,7 +990,32 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Two-start pitchers: Dylan Cease fronts a smattering of strong options as we roll into the second half",
+          "s": "Drew Rasmussen, Cristopher Sanchez and Jacob deGrom are among the projected two-start pitchers for the upcoming week.",
+          "by": "David Shovein",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/two-start-pitchers-dylan-cease-024353101.html",
+          "fetchedAt": 1784369785722
+        },
+        {
+          "t": "Game Thread: A stacked day of baseball!",
+          "s": "I am ready for it.",
+          "by": "Brett Phillips",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/game-thread-stacked-day-baseball-172000461.html",
+          "fetchedAt": 1784369785722
+        },
+        {
+          "t": "Dylan Cease or Cam Schlittler? Breaking down the AL Cy Young race in 5 stats",
+          "s": "The American League Cy Young race is a dead heat between two AL East aces. But these stats point to a clear winner.",
+          "by": "Oliver Fox",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dylan-cease-cam-schlittler-breaking-155719008.html",
+          "fetchedAt": 1784369785722
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -999,7 +1031,32 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Game Thread: A stacked day of baseball!",
+          "s": "I am ready for it.",
+          "by": "Brett Phillips",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/game-thread-stacked-day-baseball-172000461.html",
+          "fetchedAt": 1784369789526
+        },
+        {
+          "t": "Phillies Make Major Announcement on Pitcher Zack Wheeler",
+          "s": "Philadelphia Phillies pitcher Zack Wheeler will get a little extra rest following the All-Star break. Wheeler is not scheduled to start during the upcoming series against the New York Mets. Instead, according to MLB.com’s Todd Zolcecki, the club will begin the second half of the season with Aaron Nola, Jesus Luzardo and Alan Rangel heading […] The post Phillies Make Major Announcement on Pitcher Zack Wheeler appeared first on HEAVY.",
+          "by": "Douglas Bonjour",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-major-announcement-pitcher-zack-182619751.html",
+          "fetchedAt": 1784369789526
+        },
+        {
+          "t": "Phillies Smart To Line up Rotation To Get Veterans Extra Rest",
+          "s": "The Philadelphia Phillies made a calculated decision with their second half rotation that should benefit their veteran starters.",
+          "by": "Kenneth Teape",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-smart-line-rotation-veterans-230003076.html",
+          "fetchedAt": 1784369789526
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1017,12 +1074,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [
         {
-          "t": "Michael Kay, Paul O’Neill open up on the state of Yankees heading into second half — and what’s the biggest concern",
-          "s": "Before the Yankees took the field again for the second half, YES broadcasters Michael Kay and Paul O’Neill fielded some questions about the Bombers.",
-          "by": "Steve Serby",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/michael-kay-paul-o-neill-022756023.html",
-          "fetchedAt": 1784226965550
+          "t": "Aaron Boone Faces Backlash Over Gerrit Cole Decision in Yankees Loss",
+          "s": "The New York Yankees held a 1-0 lead over the Los Angeles Dodgers entering the seventh inning of Friday night’s series opener in the Bronx.However, a late-game decision by manager Aaron Boone proved costly. After Gerrit Cole walked the leadoff batter, Boone visited the mound but elected to leave his starter in the game despite Cole […] The post Aaron Boone Faces Backlash Over Gerrit Cole Decision in Yankees Loss appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/aaron-boone-faces-backlash-over-075116042.html",
+          "fetchedAt": 1784369797474
+        },
+        {
+          "t": "Boone faults himself for leaving in Cole, who gives up go-ahead homer to Muncy in Dodgers' win",
+          "s": "Gerrit Cole had just walked Mookie Betts leading off the seventh inning with the Yankees leading by one run when Aaron Boone walked slowly to the mound. After an eight-second conversation, the New York manager left in his ace. Seven pitches later, Max Muncy drove a hanging slider into the right-field second deck, lifting the Los Angeles Dodgers to a 2-1 victory Friday night in their first game back in the Bronx since winning the first of consecutive World Series titles in 2024.",
+          "by": "RONALD BLUM",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/boone-faults-himself-leaving-cole-043255052.html",
+          "fetchedAt": 1784369797474
+        },
+        {
+          "t": "Yankees' Aaron Boone owns costly decision to have Gerrit Cole face Max Muncy: 'That's on me'",
+          "s": "Yankees manager Aaron Boone discussed the decision to leave Gerrit Cole to face Max Muncy in Friday's loss to the Dodgers and owned up to the result.",
+          "by": "Phillip Martinez",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-aaron-boone-owns-costly-032023758.html",
+          "fetchedAt": 1784369797474
         }
       ],
       "nbcNews": []
@@ -1065,16 +1138,7 @@
       "name": "Jesús Luzardo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
-      "yahooNews": [
-        {
-          "t": "Phillies Players Mostly Have Disappointing Performances at 2026 MLB All-Star Game",
-          "s": "How did the Philadelphia Phillies players do at the 2026 MLB All-Star Game?",
-          "by": "Nick Ziegler",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/phillies-players-mostly-disappointing-performances-110005448.html",
-          "fetchedAt": 1784279061953
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Phillies won’t use Wheeler, Sanchez this weekend",
@@ -1091,28 +1155,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [
         {
-          "t": "Blue Jays Predicted to Re-Acquire Cy Young Award Winner Amid Rotation Woes",
-          "s": "The Toronto Blue Jays could still be buyers ahead of the August 3 trade deadline, and adding starting pitching is a clear need.Toronto’s rotation has been hampered by injuries, as Jose Berrios, Bowden Francis, and Cody Ponce are all lost for the season. Max Scherzer, Trey Yesavage, and Shane Bieber have also missed time, and […] The post Blue Jays Predicted to Re-Acquire Cy Young Award Winner Amid Rotation Woes appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-predicted-acquire-cy-160037220.html",
-          "fetchedAt": 1784226969255
+          "t": "San Francisco Giants’ Insider Flags Top Trade Chips Ahead of Deadline",
+          "s": "The San Francisco Giants are in one of the worst positions across Major League Baseball right now.Reaching postseason contention is shrinking day by day, and with the MLB trade deadline approaching, it’s time to consider their options.They’re expected to be sellers this summer, and one insider is highlighting their top trade chips.Giants’ Insider Reveals Top […] The post San Francisco Giants’ Insider Flags Top Trade Chips Ahead of Deadline appeared first on HEAVY.",
+          "by": "Maria Aldrich",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/san-francisco-giants-insider-flags-035643743.html",
+          "fetchedAt": 1784369799299
         },
         {
-          "t": "Predicting Phillies’ biggest move before MLB trade deadline",
-          "s": "ClutchPoints' Joey Mistretta makes a bold Philadelphia Phillies' prediction as the 2026 MLB trade deadline draws near.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/predicting-phillies-biggest-move-mlb-235508262.html",
-          "fetchedAt": 1784226969255
+          "t": "Cardinals Named Fit for Pair of Former All-Star Pitchers with Deadline Coming",
+          "s": "The St. Louis Cardinals are set to begin the second half on Friday, and they have one of the easier schedules the rest of the way. That bodes well for them, as they sit just one game back in the National League wild card race at 50-45.All signs point to them sticking with their plan […] The post Cardinals Named Fit for Pair of Former All-Star Pitchers with Deadline Coming appeared first on HEAVY.",
+          "by": "Curt Bishop",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/cardinals-named-fit-pair-former-222614558.html",
+          "fetchedAt": 1784369799299
         },
         {
-          "t": "Why passing on Tarik Skubal trade would be massive mistake for Tigers",
-          "s": "ClutchPoints' Joey Mistretta explains why the Tigers should trade Tarik Skubal before the deadline despite still being in contention.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/why-passing-tarik-skubal-trade-230044118.html",
-          "fetchedAt": 1784226969255
+          "t": "Giants rumors: Ken Rosenthal gets real on chances San Fran trades big contracts",
+          "s": "MLB insider Ken Rosenthal shares his feelings on the San Francisco Giants' potential trade deadline ambitions",
+          "by": "Alex House, ClutchPoints",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/giants-rumors-ken-rosenthal-gets-202500332.html",
+          "fetchedAt": 1784369799299
         }
       ],
       "nbcNews": [
