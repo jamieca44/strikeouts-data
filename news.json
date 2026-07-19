@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-19T09:03:54.587Z",
+  "lastUpdatedNews": "2026-07-19T09:20:59.064Z",
   "players": [
     {
       "id": 11928,
@@ -50,7 +50,14 @@
           "fetchedAt": 1784408660865
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. doubles, scores in 1-0 win",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/vladimir-guerrero-jr-doubles-scores-in-1-0-win",
+          "fetchedAt": 1784452859064
+        }
+      ]
     },
     {
       "id": 10964,
@@ -220,14 +227,7 @@
           "fetchedAt": 1784451777996
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Donovan (groin) starts rehab in Arizona",
-          "date": "2026-07-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/donovan-groin-starts-rehab-in-arizona",
-          "fetchedAt": 1784226955131
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -423,7 +423,14 @@
           "fetchedAt": 1784369803188
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz picks up 19th save vs. Braves Saturday",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/jacob-latz-picks-up-19th-save-vs-braves-saturday",
+          "fetchedAt": 1784452859064
+        }
+      ]
     },
     {
       "id": 11763,
@@ -456,7 +463,14 @@
           "fetchedAt": 1784322261000
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal blanks Angels over seven in victory",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/tarik-skubal-blanks-angels-over-seven-in-victory",
+          "fetchedAt": 1784452859064
+        }
+      ]
     },
     {
       "id": 11847,
@@ -489,14 +503,7 @@
           "fetchedAt": 1784451830272
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bailey Ober will open second half for Twins Friday",
-          "date": "2026-07-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/bailey-ober-will-open-second-half-for-twins-friday",
-          "fetchedAt": 1784236867963
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -513,7 +520,14 @@
           "fetchedAt": 1784369760144
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore strikes out seven in win Saturday",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/mackenzie-gore-strikes-out-seven-in-win-saturday",
+          "fetchedAt": 1784452859064
+        }
+      ]
     },
     {
       "id": 64316,
@@ -546,14 +560,7 @@
           "fetchedAt": 1784322262927
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns, Reds agree to 7-year, $105MM deal",
-          "date": "2026-07-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/passan-burns-reds-agree-to-7-year-105mm-deal",
-          "fetchedAt": 1784226955131
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -602,14 +609,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Roki Sasaki to start Dodgers’ second half opener",
-          "date": "2026-07-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/roki-sasaki-to-start-dodgers-second-half-opener",
-          "fetchedAt": 1784236867963
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -698,14 +698,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole to open second half for Yankees",
-          "date": "2026-07-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-16/gerrit-cole-to-open-second-half-for-yankees",
-          "fetchedAt": 1784236867963
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -1066,7 +1059,14 @@
           "fetchedAt": 1784451807929
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young hits three-run homer in Mariners’ win",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/cole-young-hits-three-run-homer-in-mariners-win",
+          "fetchedAt": 1784452859064
+        }
+      ]
     },
     {
       "id": 11768,
@@ -1099,7 +1099,26 @@
           "fetchedAt": 1784451809625
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Astros say Jeremy Peña exits with hamstring cramp",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/astros-say-jeremy-pena-exits-with-hamstring-cramp",
+          "fetchedAt": 1784452859064
+        },
+        {
+          "t": "Jeremy Peña exits with apparent injury vs. Orioles",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/jeremy-pena-exits-with-apparent-injury-vs-orioles",
+          "fetchedAt": 1784452859064
+        },
+        {
+          "t": "Jeremy Peña reaches base four times in loss",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/jeremy-pena-reaches-base-four-times-in-loss",
+          "fetchedAt": 1784452859064
+        }
+      ]
     },
     {
       "id": 12375,
