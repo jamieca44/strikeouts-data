@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-19T21:03:53.444Z",
+  "lastUpdatedNews": "2026-07-19T21:21:06.553Z",
   "players": [
     {
       "id": 11928,
@@ -236,7 +236,14 @@
           "fetchedAt": 1784451777996
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brendan Donovan (groin) goes hitless in rehab game",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/brendan-donovan-groin-goes-hitless-in-rehab-game",
+          "fetchedAt": 1784496066553
+        }
+      ]
     },
     {
       "id": 9552,
@@ -568,7 +575,14 @@
           "fetchedAt": 1784495001472
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Reds sign Chase Burns to 7-yr, $105M extension",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/reds-sign-chase-burns-to-7-yr-105m-extension",
+          "fetchedAt": 1784496066553
+        }
+      ]
     },
     {
       "id": 11203,
@@ -617,7 +631,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers-Yankees postponed due to inclement weather",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/dodgers-yankees-postponed-due-to-inclement-weather",
+          "fetchedAt": 1784496066553
+        }
+      ]
     },
     {
       "id": 12387,
@@ -812,7 +833,14 @@
           "fetchedAt": 1784408674934
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Lopez (finger) not in Marlins lineup on Sunday",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/otto-lopez-not-in-marlins-lineup-on-sunday",
+          "fetchedAt": 1784496066553
+        }
+      ]
     },
     {
       "id": 10234,
@@ -887,7 +915,14 @@
           "fetchedAt": 1784495003581
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger goes 0-for-3, strikes out twice",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/cody-bellinger-goes-0-for-3-strikes-out-twice",
+          "fetchedAt": 1784496066553
+        }
+      ]
     },
     {
       "id": 11760,
