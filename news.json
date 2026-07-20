@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-20T21:04:52.667Z",
+  "lastUpdatedNews": "2026-07-20T21:22:31.972Z",
   "players": [
     {
       "id": 11928,
@@ -148,7 +148,14 @@
           "fetchedAt": 1784581419892
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kurtz (thumb) still not doing baseball activities",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/kurtz-thumb-still-not-doing-baseball-activities",
+          "fetchedAt": 1784582551972
+        }
+      ]
     },
     {
       "id": 10639,
@@ -649,7 +656,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) sharp in rehab appearance",
+          "date": "2026-07-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-18/edwin-diaz-elbow-sharp-again-in-rehab-appearance",
+          "fetchedAt": 1784582551972
+        }
+      ]
     },
     {
       "id": 10592,
@@ -1245,7 +1259,14 @@
           "fetchedAt": 1784538282316
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom (glute) to start Monday vs. White Sox",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jacob-degrom-glute-to-start-monday-vs-white-sox",
+          "fetchedAt": 1784582551972
+        }
+      ]
     },
     {
       "id": 10438,
