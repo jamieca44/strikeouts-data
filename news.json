@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-20T09:20:33.824Z",
+  "lastUpdatedNews": "2026-07-20T21:04:52.667Z",
   "players": [
     {
       "id": 11928,
@@ -123,12 +123,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [
         {
-          "t": "Cardinals' Power Surge",
-          "s": "MLB home runs predictions, odds, props, and best bets for today's action. Free MLB picks including James Wood and Yordan Alvarez for Saturday, July 18.",
-          "by": "Quinn Allen",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-141800931.html",
-          "fetchedAt": 1784451825970
+          "t": "Burleson, Fermín Homers",
+          "s": "Colby Marchio's favorite home run looks for July 19. Free HR picks for Friday night, featuring Yordan Alvarez.",
+          "by": "Colby Marchio",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-153900309.html",
+          "fetchedAt": 1784581485168
         }
       ],
       "nbcNews": []
@@ -138,7 +138,16 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Peters Hits for Cycle",
+          "s": "The South Side push through the end of the second half and start the second half hot in Toronto.",
+          "by": "Allie Wesel",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/white-sox-weekly-july-6-133700688.html",
+          "fetchedAt": 1784581419892
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -202,14 +211,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/seattle-mariners-manager-discusses-star-220238619.html",
           "fetchedAt": 1784451777996
-        },
-        {
-          "t": "Mariners News: Brendan Donovan, Julio Rodriguez, and Bryce Miller",
-          "s": "Saturday links!",
-          "by": "Becca Weinberg",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-news-brendan-donovan-julio-140000171.html",
-          "fetchedAt": 1784451777996
         }
       ],
       "nbcNews": [
@@ -233,22 +234,6 @@
           "by": "",
           "when": "19h ago",
           "href": "https://sports.yahoo.com/videos/dmac-vs-joez-2024-world-013819250.html",
-          "fetchedAt": 1784495009587
-        },
-        {
-          "t": "Dodgers execute relay to nab tying run at plate",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/dodgers-execute-relay-nab-tying-014040339.html",
-          "fetchedAt": 1784495009587
-        },
-        {
-          "t": "Mookie Betts has the recipe for Dodgers to avoid boredom in dominance",
-          "s": "The Dodgers are running away with the NL West, but Mookie Betts has the mentality to avoid complacency.",
-          "by": "John Perrotto",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-recipe-dodgers-avoid-134902319.html",
           "fetchedAt": 1784495009587
         }
       ],
@@ -301,12 +286,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [
         {
-          "t": "Guardians Receiving Promising Updates on Jos Ramrez's Injury Recovery",
-          "s": "The Cleveland Guardians have been without many of it's important position players for the past few weeks. Fortunately, Jos Ramrez is set to return from the injured list in due time.",
-          "by": "Cade Cracas",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-receiving-promising-updates-jos-164509969.html",
-          "fetchedAt": 1784451780082
+          "t": "Cleveland Guardians' Biggest Trade Deadline Need is Obvious",
+          "s": "The Cleveland Guardians must find a way to improve their lineup, and the trade deadline is their best chance at doing so.",
+          "by": "Tommy Wild",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cleveland-guardians-biggest-trade-deadline-153023591.html",
+          "fetchedAt": 1784581459910
+        },
+        {
+          "t": "Guardians News: So Many Baserunning Gaffes",
+          "s": "News and Notes for Monday, July 20th, 2026",
+          "by": "Quincy Wheeler",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-news-many-baserunning-gaffes-143408895.html",
+          "fetchedAt": 1784581459910
+        },
+        {
+          "t": "Guardians treading water as Jose Ramirez, Angel Martinez rehab injuries",
+          "s": "The Guardians have remained near the top of the AL Central while Jose Ramirez and Angel Martinez rehab injuries, but the lineup badly needs a boost.",
+          "by": "Ryan Lewis, Akron Beacon Journal",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-treading-water-jose-ramirez-101544694.html",
+          "fetchedAt": 1784581459910
         }
       ],
       "nbcNews": [
@@ -325,20 +326,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [
         {
-          "t": "Esmerlyn Valdez's two-run home run (11)",
-          "s": "",
-          "by": "",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/videos/esmerlyn-valdezs-two-run-home-182919187.html",
-          "fetchedAt": 1784451828543
+          "t": "Top MLB Home Run Bets for July 20: Sluggers Rice, Bauers, and Greene Shine",
+          "s": "Our top MLB home run prop bets for Monday feature Ben Rice, Jake Bauers and Riley Greene to go deep.",
+          "by": "Andrew Phelps",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/top-mlb-home-run-bets-113000884.html",
+          "fetchedAt": 1784581488386
         },
         {
-          "t": "Top MLB Home Run Bets for July 18: Lowe, Harris II, and Soderstrom Shine",
-          "s": "Our top MLB home run prop bets for Saturday feature Brandon Lowe, Michael Harris II and Tyler Soderstrom to go deep.",
+          "t": "Top Home Run Bets for Sunday: O'Hearn, Hernandez, and Arozarena's Matchups Explained",
+          "s": "Sunday's best MLB home run prop bets spotlight Ryan O'Hearn, Heriberto Hernandez and Randy Arozarena in prime matchups.",
           "by": "Andrew Phelps",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/top-mlb-home-run-bets-113000298.html",
-          "fetchedAt": 1784451828543
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/top-home-run-bets-sunday-113000938.html",
+          "fetchedAt": 1784581488386
         }
       ],
       "nbcNews": []
@@ -350,27 +351,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [
         {
+          "t": "Brandon Nimmo's two-run single",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/brandon-nimmos-two-run-single-220404780.html",
+          "fetchedAt": 1784581461597
+        },
+        {
+          "t": "Brandon Nimmo Highlights Rangers Resiliency in 7-6 Win",
+          "s": "Shaking off a devastating blowout, Brandon Nimmo helped the Texas Rangers rally from another early deficit against the Atlanta Braves.",
+          "by": "Jordon Lawrenz",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/brandon-nimmo-highlights-rangers-resiliency-171251312.html",
+          "fetchedAt": 1784581461597
+        },
+        {
           "t": "Brandon Nimmo's three RBIs propel Rangers past Braves",
           "s": "",
           "by": "",
           "when": "9h ago",
           "href": "https://sports.yahoo.com/videos/brandon-nimmos-three-rbis-propel-000103966.html",
-          "fetchedAt": 1784451782242
-        },
-        {
-          "t": "Nimmo delivers go-ahead, 2-run single in 6th inning and drives in 3 as Rangers edge Braves 7-6",
-          "s": "Brandon Nimmo's two-run single in the sixth inning gave Texas the lead as the Rangers rallied from an early deficit to beat the Atlanta Braves 7-6 on Saturday in a matchup of first-place teams. Texas left-hander MacKenzie Gore (6-8) gave up a two-run homer to Eli White in Atlanta's four-run second inning and another homer to Michael Harris II the following inning.",
-          "by": "CHARLES ODUM",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/nimmo-delivers-ahead-2-run-231644045.html",
-          "fetchedAt": 1784451782242
-        },
-        {
-          "t": "BABIP and defense doom Braves in loss to Texas",
-          "s": "The Braves lost a bummer of a game, as bad BABIP luck and poor defense proved too much for the offense to overcome",
-          "by": "Daniel Hutchinson-Kausch",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/babip-defense-doom-braves-loss-230908763.html",
           "fetchedAt": 1784451782242
         }
       ],
@@ -451,14 +452,6 @@
           "by": "Grant Mona",
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/ryan-jeffers-reveals-twins-mindset-211014402.html",
-          "fetchedAt": 1784451830272
-        },
-        {
-          "t": "Potential MLB trade targets: Ranking the top 25 deadline candidates",
-          "s": "Which MLB contenders will buy and which stars could be available? A look at the names most likely to impact the deadline market.",
-          "by": "Gabe Lacques, USA TODAY",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/potential-mlb-trade-targets-ranking-110149148.html",
           "fetchedAt": 1784451830272
         }
       ],
@@ -646,14 +639,6 @@
           "when": "14h ago",
           "href": "https://sports.yahoo.com/articles/closer-confidential-week-17-lets-185937295.html",
           "fetchedAt": 1784538288711
-        },
-        {
-          "t": "Rays' Star Slugger Predicted to Win American League MVP",
-          "s": "Will a player from the Tampa Bay Rays win the AL MVP?",
-          "by": "Nick Ziegler",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/rays-star-slugger-predicted-win-170004369.html",
-          "fetchedAt": 1784408629693
         }
       ],
       "nbcNews": []
@@ -671,7 +656,24 @@
       "name": "Jack Flaherty",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tigers open up second half of road trip vs Cubs on Monday",
+          "s": "The Detroit Tigers failed to complete the sweep of the Los Angeles Angels on Sunday afternoon, falling short by a run in a 3-2 defeat in Anaheim. Casey Mize was knocked out early after getting hit on the left wrist with a 108 mph comebacker and the offense wasted all of its gas the night […]",
+          "by": "Adam Dubbin",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-open-second-half-road-110000360.html",
+          "fetchedAt": 1784581434999
+        },
+        {
+          "t": "Cubs begin 3-game series at home against the Tigers",
+          "s": "Detroit Tigers (46-53, fourth in the AL Central) vs. Chicago Cubs (56-43, second in the NL Central) Chicago; Monday, 8:05 p.m. EDT PITCHING PROBABLES: Tigers: Jack Flaherty (3-8, 4.48 ERA, 1.41 WHIP, 98 strikeouts); Cubs: Jameson Taillon (0-0) LINE: Cubs -115, Tigers -106; over/under is 11 1/2 runs BOTTOM LINE: The Chicago Cubs host the Detroit Tigers on Monday to start a three-game series. Chicago has gone 29-20 at home and 56-43 overall.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-begin-3-game-series-075608483.html",
+          "fetchedAt": 1784581434999
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -679,7 +681,32 @@
       "name": "Ryan Weathers",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pirates vs. Yankees prediction: Odds, recent stats, trends, and best bets for July 20",
+          "s": "Pittsburgh Pirates vs. New York Yankees Betting Preview for July 20",
+          "by": "Rotoworld Bet Staff",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-vs-yankees-prediction-odds-161619483.html",
+          "fetchedAt": 1784581436911
+        },
+        {
+          "t": "New York Yankees vs. Pittsburgh Pirates: Series Preview",
+          "s": "The Pirates come to The Bronx to play the Yankees for the first and only time this season.",
+          "by": "Jeff Middleton",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-vs-pittsburgh-pirates-123000834.html",
+          "fetchedAt": 1784581436911
+        },
+        {
+          "t": "Yankees start 3-game series with the Pirates",
+          "s": "Pittsburgh Pirates (52-48, fourth in the NL Central) vs. New York Yankees (55-44, second in the AL East) New York; Monday, 7:05 p.m. EDT PITCHING PROBABLES: Pirates: Braxton Ashcraft (9-3, 3.49 ERA, 1.11 WHIP, 128 strikeouts); Yankees: Ryan Weathers (3-7, 4.15 ERA, 1.24 WHIP, 110 strikeouts) LINE: Yankees -121, Pirates -101; over/under is 8 runs BOTTOM LINE: The New York Yankees host the Pittsburgh Pirates on Monday to begin a three-game series. New York has a 55-44 record overall and a 24-22 record at home.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-start-3-game-series-075559357.html",
+          "fetchedAt": 1784581436911
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -697,28 +724,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [
         {
-          "t": "Travis Bazzana walks it off in 5-3 win over Pirates",
-          "s": "",
-          "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/travis-bazzana-walks-off-5-050619650.html",
-          "fetchedAt": 1784451795345
+          "t": "Three Positives From the Week of July 12th",
+          "s": "The All-Stars shone bright in Philly while the rest of team fizzled out in Cleveland.",
+          "by": "Madelyn Novak",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/three-positives-week-july-12th-152747045.html",
+          "fetchedAt": 1784581463561
         },
         {
-          "t": "BAZZANA WALKS IT OFF!!!",
-          "s": "THANK YOU TRAVIS BAZZANA FOR SAVING THIS GAME!!! Seriously that was such a tough watch for the first 7 1/2 innings. The pitching staff kept us in the game but the offense was looking grim until that rally in the bottom of the 8th. Then when Bailey got thrown out at home I couldn’t help […]",
-          "by": "ZachF1324",
+          "t": "Cleveland Guardians' Biggest Trade Deadline Need is Obvious",
+          "s": "The Cleveland Guardians must find a way to improve their lineup, and the trade deadline is their best chance at doing so.",
+          "by": "Tommy Wild",
           "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/bazzana-walks-off-035434193.html",
-          "fetchedAt": 1784451795345
+          "href": "https://sports.yahoo.com/articles/cleveland-guardians-biggest-trade-deadline-153023591.html",
+          "fetchedAt": 1784581463561
         },
         {
-          "t": "Listen to Tom Hamilton call Travis Bazzana's first walk-off home run",
-          "s": "The Guardians rally for a dramatic comeback win over the Pirates. Hear Tom Hamilton call Travis Bazzana's walk-off home run to beat Pittsburgh.",
-          "by": "Ryan Lewis, Canton Repository",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/listen-tom-hamilton-call-travis-034612729.html",
-          "fetchedAt": 1784451795345
+          "t": "Guardians Drop Series to Pirates as the Lineup Goes Cold",
+          "s": "The Cleveland Guardians' bats couldn't keep up with the Pittsburgh Pirates' much-improved lineup.",
+          "by": "Tommy Wild",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-drop-series-pirates-lineup-140033589.html",
+          "fetchedAt": 1784581463561
         }
       ],
       "nbcNews": [
@@ -737,20 +764,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [
         {
-          "t": "Boston Red Sox Doing Everything They Can to Force Craig Breslow’s Hand at Trade Deadline",
-          "s": "The Red Sox have accomplished something that no team has done in baseball history; now the ball is in Craig Breslow’s court ahead of the trade deadline.",
-          "by": "Zach Coe",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/boston-red-sox-doing-everything-222643486.html",
-          "fetchedAt": 1784451797296
+          "t": "How Has Caleb Durbin Compared To Alex Bregman This Season?",
+          "s": "The Boston Red Sox let Alex Bregman walk in free agency and brought in Caleb Durbin to replace him",
+          "by": "Aaliyan Mohammed",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/caleb-durbin-compared-alex-bregman-182802166.html",
+          "fetchedAt": 1784581465722
         },
         {
-          "t": "Red Sox fans gave up on these 4 players who are leading their playoff push",
-          "s": "The Boston Red Sox were dead in the water a month ago, and fans had largely given up on several players who have since led the charge for in turnaround.",
-          "by": "Christopher Kline",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-fans-gave-4-172545199.html",
-          "fetchedAt": 1784451797296
+          "t": "How the Red Sox Saved Their 2026 Season With a Historic Hot Streak",
+          "s": "The Boston Red Sox are the hottest team in Major League Baseball. After sweeping the division-leading Tampa Bay Rays at […]",
+          "by": "Isaac Ciravolo",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-saved-2026-season-183811689.html",
+          "fetchedAt": 1784581465722
+        },
+        {
+          "t": "Red Sox 3B Caleb Durbin Honest About Win Streak, Plans for Division",
+          "s": "Going into the All-Star break, the Boston Red Sox were riding a nine-game winning streak. Somehow, they’d find a way to keep that rolling, winning their first four games out of the break against the Tampa Bay Rays to extend that streak to 13 games.For the Red Sox, it’s their longest winning streak since 1948. […] The post Red Sox 3B Caleb Durbin Honest About Win Streak, Plans for Division appeared first on HEAVY.",
+          "by": "Dan Morrison",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-3b-caleb-durbin-153447242.html",
+          "fetchedAt": 1784581465722
         }
       ],
       "nbcNews": []
@@ -760,16 +795,7 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [
-        {
-          "t": "Otto Lopez's sac fly",
-          "s": "",
-          "by": "",
-          "when": "28m ago",
-          "href": "https://sports.yahoo.com/videos/otto-lopezs-sac-fly-203620612.html",
-          "fetchedAt": 1784408674934
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Lopez (finger) not in Marlins lineup on Sunday",
@@ -800,14 +826,6 @@
           "when": "21h ago",
           "href": "https://sports.yahoo.com/articles/top-home-run-bets-sunday-113000938.html",
           "fetchedAt": 1784538290806
-        },
-        {
-          "t": "Chicago Cubs Announce Dansby Swanson Change During Twins Series",
-          "s": "On Saturday, the Chicago Cubs will play the second game of their series with the Minnesota Twins at Wrigley Field. They are coming off a 5-2 loss on Friday night. Dansby Swanson (who batted 9th) finished with one strikeout and no hits. Chicago Cubs Announce Dansby Swanson Change For Saturday’s game, the Cubs have announced […] The post Chicago Cubs Announce Dansby Swanson Change During Twins Series appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-193537703.html",
-          "fetchedAt": 1784408635415
         }
       ],
       "nbcNews": []
@@ -963,14 +981,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/orioles-pull-off-miraculous-escape-004153488.html",
           "fetchedAt": 1784538306271
-        },
-        {
-          "t": "Phillies linked to pair of Mets relievers as trade deadline targets",
-          "s": "These two relievers from the Mets could be future Phillies players.",
-          "by": "Matt Sullivan",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-linked-pair-mets-relievers-190414773.html",
-          "fetchedAt": 1784408669726
         }
       ],
       "nbcNews": [
@@ -1027,14 +1037,6 @@
           "when": "1h ago",
           "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-194410050.html",
           "fetchedAt": 1784495017137
-        },
-        {
-          "t": "Astros Unveil Starting Lineup Looking to Bounce Back vs. Orioles",
-          "s": "The Houston Astros' starting lineup has been revealed.",
-          "by": "Dominic Minchella",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/astros-unveil-starting-lineup-looking-180004728.html",
-          "fetchedAt": 1784495017137
         }
       ],
       "nbcNews": [
@@ -1061,28 +1063,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [
         {
-          "t": "Seattle Mariners Break Through Offensive Woes in 4-3 Win Against San Francisco Giants",
+          "t": "GIlbert's 10 strikeouts, Young's homer lead to win",
           "s": "",
           "by": "",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/seattle-mariners-break-offensive-woes-044131821.html",
-          "fetchedAt": 1784451807929
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/gilberts-10-strikeouts-youngs-homer-003142235.html",
+          "fetchedAt": 1784581471185
         },
         {
-          "t": "Young, Rodríguez lead Mariners to comeback win",
-          "s": "",
-          "by": "",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/young-rodr-guez-lead-mariners-043025354.html",
-          "fetchedAt": 1784451807929
+          "t": "Mariners carve out niche, win 6-3 over Giants",
+          "s": "Mariners score via small ball, chaos ball, home run, defeat Giants 6-3",
+          "by": "Kate Preusser",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-carve-niche-win-6-003510188.html",
+          "fetchedAt": 1784581471185
         },
         {
-          "t": "Seattle Mariners Break Through Offensive Woes in 4-3 Win Against San Francisco Giants",
-          "s": "The Mariners earned their first win of the second half of the season with a late surge against the Giants.",
-          "by": "Teren Kowatsch",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-break-offensive-woes-044131431.html",
-          "fetchedAt": 1784451807929
+          "t": "Gilbert has 10 strikeouts in 6 innings, Raley and Young hit HRs as Mariners beat Giants 6-3",
+          "s": "Logan Gilbert had 10 strikeouts across six strong innings, Luke Raley and Cole Young homered, and the Seattle Mariners beat the San Francisco Giants 6-3 on Sunday. Gilbert (8-6) allowed three runs and four hits and walked one. The Mariners (50-50) are back to .",
+          "by": "ANDREW DESTIN",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/gilbert-10-strikeouts-6-innings-232146834.html",
+          "fetchedAt": 1784581471185
         }
       ],
       "nbcNews": [
@@ -1101,12 +1103,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [
         {
-          "t": "Why Astros stars Jeremy Pena, Christian Walker exited Saturday’s game vs. Orioles",
-          "s": "Two Astros regulars didn't finish Saturday's game against the Orioles as Jeremy Pena and Christian Walker exited with injuries.",
-          "by": "Abdullah Imran, ClutchPoints",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/why-astros-stars-jeremy-pena-235510544.html",
-          "fetchedAt": 1784451809625
+          "t": "Why Astros don't plan to be sellers at MLB trade deadline",
+          "s": "Houston may have a few movable pieces, but they likely aren't going anywhere.",
+          "by": "Conor Liguori",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/why-astros-dont-plan-sellers-191022732.html",
+          "fetchedAt": 1784581473054
+        },
+        {
+          "t": "Red Sox Trade Pitch Acquires 30-Homer Game-Changer at Deadline",
+          "s": "Amid a 13-game win streak by the Boston Red Sox, the team has catapulted itself right back into the playoff race.Once at the bottom of the American League, elite pitching and clutch hitting have brought this team back from the dead.However, there are still needs on offense that this team needs to address.First baseman Willson […] The post Red Sox Trade Pitch Acquires 30-Homer Game-Changer at Deadline appeared first on HEAVY.",
+          "by": "Matthew Singer",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-trade-pitch-acquires-184625629.html",
+          "fetchedAt": 1784581473054
+        },
+        {
+          "t": "In The Lab: A Look at Shortstop Offense",
+          "s": "How good is Jeremy Pena offensively?",
+          "by": "Scott Barzilla",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/lab-look-shortstop-offense-125700998.html",
+          "fetchedAt": 1784581473054
         }
       ],
       "nbcNews": [
@@ -1160,16 +1178,7 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [
-        {
-          "t": "Chicago Cubs news — Shaw, Brown, PCA",
-          "s": "Positional flexibility is one of the attributes that has made Matt Shaw a valuable trade asset for the Cubs.",
-          "by": "Jeff Brown",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-news-shaw-brown-120000467.html",
-          "fetchedAt": 1784451813712
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1243,7 +1252,32 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Fantasy Baseball 2-Start Pitcher Rankings: Be sure to snag the top-2 options in a weak list of streamers",
+          "s": "Fantasy baseball analyst Fred Zinkie gives you his top pitchers to stream this week.",
+          "by": "Fred Zinkie",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-2-start-pitcher-rankings-be-sure-to-snag-the-top-2-options-in-a-weak-list-of-streamers-141914452.html",
+          "fetchedAt": 1784581451458
+        },
+        {
+          "t": "Ranking the 10 best pitchers in MLB after 2026 All-Star Game",
+          "s": "These are the 10 best pitchers in MLB right now based on advanced metrics",
+          "by": "Connor Leathe",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/ranking-10-best-pitchers-mlb-134300784.html",
+          "fetchedAt": 1784581451458
+        },
+        {
+          "t": "Rays take road skid into matchup with the Blue Jays",
+          "s": "Tampa Bay Rays (56-42, first in the AL East) vs. Toronto Blue Jays (46-53, fifth in the AL East) Toronto; Monday, 7:07 p.m. EDT PITCHING PROBABLES: Rays: Nick Martinez (8-2, 2.65 ERA, 1.12 WHIP, 62 strikeouts); Blue Jays: Dylan Cease (6-4, 2.56 ERA, 1.13 WHIP, 148 strikeouts) LINE: Blue Jays -157, Rays +128; over/under is 7 1/2 runs BOTTOM LINE: The Tampa Bay Rays will attempt to break their six-game road skid in a matchup with the Toronto Blue Jays. Toronto is 46-53 overall and 25-27 at home.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/rays-road-skid-matchup-blue-075545380.html",
+          "fetchedAt": 1784581451458
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1252,6 +1286,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [
+        {
+          "t": "Closer Confidential for Week 17: Let's Get Strapped In",
+          "s": "The All-Star break is over, the sunburn is fading, and the ninth inning picked up exactly where it left off. Mason Miller worked out of a bases-loaded, nobody-out disaster like it was a bullpen session. The Royals blew a save in the first game back, because some habits survive a four-day vacation.",
+          "by": "Tom McFeeley",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/closer-confidential-week-17-lets-185937295.html",
+          "fetchedAt": 1784581478481
+        },
         {
           "t": "Orioles’ Ryan Helsley provides pivotal injury update",
           "s": "Orioles pitcher Ryan Helsley would give an update on his elbow injury, as he has only played in 17 games this season.",
@@ -1268,24 +1310,7 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [
-        {
-          "t": "Cristopher Sanchez: MVP",
-          "s": "There were actually a decent amount of candidates",
-          "by": "Ethan Witte",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/cristopher-sanchez-mvp-150000300.html",
-          "fetchedAt": 1784495021405
-        },
-        {
-          "t": "Zack Wheeler Gets Some Love in MLB Pitcher Power Ranking",
-          "s": "Philadelphia Phillies starting pitcher Zack Wheeler may have been snubbed by the voters for the MLB All-Star Game, but people are still noticing and respecting his outstanding play this year.",
-          "by": "Robert Marvi",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/zack-wheeler-gets-love-mlb-110007123.html",
-          "fetchedAt": 1784495021405
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1334,22 +1359,6 @@
           "when": "17h ago",
           "href": "https://sports.yahoo.com/articles/michael-kay-says-quiet-part-033437235.html",
           "fetchedAt": 1784495024827
-        },
-        {
-          "t": "Max Muncy hits game-winning homer in Dodgers’ win",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/max-muncy-hits-game-winning-025854949.html",
-          "fetchedAt": 1784495024827
-        },
-        {
-          "t": "Yankees’ Aaron Boone regrets not pulling Gerrit Cole earlier in tight loss to Dodgers",
-          "s": "Yankees manager Aaron Boone takes the blame for leaving Gerrit Cole in the game in Friday night's loss vs. Dodgers",
-          "by": "Alex House, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-aaron-boone-regrets-not-194819217.html",
-          "fetchedAt": 1784495024827
         }
       ],
       "nbcNews": []
@@ -1361,28 +1370,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [
         {
-          "t": "Mets rumors: Francisco Lindor trade rumors are swirling, but will Bo Bichette be moved?",
-          "s": "Though the Mets are surrounded by trade rumors regarding Francisco Lindor, this MLB insider speaks on Bo Bichette's status.",
-          "by": "Zachary Weinberger, ClutchPoints",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/mets-rumors-francisco-lindor-trade-170628464.html",
-          "fetchedAt": 1784451823758
+          "t": "Why David Stearns Won’t Trigger the Nuclear Option on Bo Bichette, Despite Mets’ Collapse",
+          "s": "New York Mets infielder Bo Bichette signed a three-year, $126 million contract six months ago. Now, he finds himself in the midst of hearing his name in trade rumors. With a record of 42-58, the team sits with the fourth-worst record in MLB.Multiple media members, including Chelsea Janes of SNY and Jon Heyman of the […] The post Why David Stearns Won’t Trigger the Nuclear Option on Bo Bichette, Despite Mets’ Collapse appeared first on HEAVY.",
+          "by": "Terrance Biggs",
+          "when": "54m ago",
+          "href": "https://sports.yahoo.com/articles/why-david-stearns-won-t-201039281.html",
+          "fetchedAt": 1784581482904
         },
         {
-          "t": "White Sox Need To Make This Trade With Mets To Win Division",
-          "s": "The Chicago White Sox need help in the starting rotation",
-          "by": "Aaliyan Mohammed",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/white-sox-trade-mets-win-123613845.html",
-          "fetchedAt": 1784451823758
+          "t": "Mets Send Peralta To Mound In His Milwaukee Homecoming",
+          "s": "The New York Mets were expecting big things from Freddy Peralta, but now they're showcasing him for a trade.",
+          "by": "Bob McCullough",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/mets-send-peralta-mound-milwaukee-174312679.html",
+          "fetchedAt": 1784581482904
         },
         {
-          "t": "Potential MLB trade targets: Ranking the top 25 deadline candidates",
-          "s": "Which MLB contenders will buy and which stars could be available? A look at the names most likely to impact the deadline market.",
-          "by": "Gabe Lacques, USA TODAY",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/potential-mlb-trade-targets-ranking-110149148.html",
-          "fetchedAt": 1784451823758
+          "t": "Brewers set for Mets, who've been struggling with Peralta, Williams",
+          "s": "Including Freddy Peralta and Devin Williams, the New York Mets have several former Brewers connections. The two teams face off beginning July 20.",
+          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/brewers-set-mets-whove-struggling-173258165.html",
+          "fetchedAt": 1784581482904
         }
       ],
       "nbcNews": []
@@ -1394,28 +1403,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
-          "t": "Schwarber, Turner and Luzardo lead the Phillies to a 6-1 victory over the Mets",
-          "s": "Kyle Schwarber hit his major league-leading 33rd home run, fellow All-Star Jesús Luzardo allowed two hits in five strong innings and the Philadelphia Phillies defeated the New York Mets 6-1 on Saturday. Trea Turner also went deep for the Phillies and finished 3 for 4 with a walk. Bryce Harper had a two-run single.",
-          "by": "AARON BRACY",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/schwarber-turner-luzardo-lead-phillies-232041059.html",
-          "fetchedAt": 1784451821461
+          "t": "Jesus Luzardo Overcomes Bizarre Splits Leading Phillies Over Mets",
+          "s": "Philadelphia Phillies starting pitcher Jesus Luzardo overcome some odd splits to help the team beat the New York Mets.",
+          "by": "Kenneth Teape",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/jesus-luzardo-overcomes-bizarre-splits-230003518.html",
+          "fetchedAt": 1784581481000
         },
         {
-          "t": "Turner, Schwarber power Phillies to 6-1 win",
-          "s": "Three hits from Trea Turner and a two-run homer from Kyle Schwarber propel the Phillies to a 6-1 win over the Mets",
+          "t": "Turner, Schwarber power Phillies to a much-needed 6-1 win over Mets",
+          "s": "Jesús Luzardo only allowed one run on two hits over five strong innings, and a pair of homers from Kyle Schwarber and Trea Turner lead the way for the Phillies in a 6-1 win over the New York Mets.Turner, Schwarber power Phillies to a much-needed 6-1 win over Mets originally appeared on NBC Sports Philadelphia",
           "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/turner-schwarber-power-phillies-6-234714673.html",
-          "fetchedAt": 1784451821461
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/turner-schwarber-power-phillies-much-040715744.html",
+          "fetchedAt": 1784581481000
         },
         {
-          "t": "Kyle Schwarber launches No. 33 as Phillies beat the Mets and the rain",
-          "s": "Kyle Schwarber set the tone with his MLB-leading 33rd homer as the Phillies powered past the Mets 6-1 in a rain-delayed win.",
-          "by": "Jim Salisbury",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/kyle-schwarber-launches-no-33-185557243.html",
-          "fetchedAt": 1784451821461
+          "t": "The Luzardodyssey: Phillies 6, Mets 1",
+          "s": "Philadelphia is of Greek etymology, after all.",
+          "by": "Jared Frank",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/luzardodyssey-phillies-6-mets-1-225118679.html",
+          "fetchedAt": 1784581481000
         }
       ],
       "nbcNews": []
@@ -1458,16 +1467,7 @@
       "name": "Kirby Yates",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
-      "yahooNews": [
-        {
-          "t": "Angels Lose 2-1 To Tigers On Another Blown Save By Yates",
-          "s": "The Los Angeles Angels followed one of their familiar losing formulas in their loss to Detroit last night.",
-          "by": "Bob McCullough",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/angels-lose-2-1-tigers-105445582.html",
-          "fetchedAt": 1784408658680
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     }
   ]
