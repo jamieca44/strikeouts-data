@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-20T09:05:13.976Z",
+  "lastUpdatedNews": "2026-07-20T09:20:33.824Z",
   "players": [
     {
       "id": 11928,
@@ -90,14 +90,7 @@
           "fetchedAt": 1784538285628
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. sits against southpaw on Friday",
-          "date": "2026-07-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-17/luis-garcia-jr-sits-against-southpaw-on-friday",
-          "fetchedAt": 1784370967625
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -179,7 +172,14 @@
           "fetchedAt": 1784538300811
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. homers, steals base versus K.C.",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/fernando-tatis-jr-homers-steals-base-versus-k-c",
+          "fetchedAt": 1784539233824
+        }
+      ]
     },
     {
       "id": 64897,
@@ -252,7 +252,14 @@
           "fetchedAt": 1784495009587
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts goes hitless in doubleheader",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/mookie-betts-goes-hitless-in-doubleheader",
+          "fetchedAt": 1784539233824
+        }
+      ]
     },
     {
       "id": 12393,
@@ -285,14 +292,7 @@
           "fetchedAt": 1784495012404
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz goes deep as Reds top Rockies",
-          "date": "2026-07-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-17/elly-de-la-cruz-goes-deep-as-reds-top-rockies",
-          "fetchedAt": 1784370967625
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -664,14 +664,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (elbow) moving rehab to Single-A",
-          "date": "2026-07-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-17/edwin-diaz-elbow-moving-rehab-to-single-a",
-          "fetchedAt": 1784323256846
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -867,7 +860,14 @@
           "fetchedAt": 1784538304134
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill goes 4-for-6, homers twice in rout",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/jackson-merrill-goes-4-for-6-homers-twice-in-rout",
+          "fetchedAt": 1784539233824
+        }
+      ]
     },
     {
       "id": 10504,
@@ -1037,7 +1037,14 @@
           "fetchedAt": 1784495017137
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve belts 12th home run in loss to Orioles",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/jose-altuve-belts-12th-home-run-in-loss-to-orioles",
+          "fetchedAt": 1784539233824
+        }
+      ]
     },
     {
       "id": 11529,
