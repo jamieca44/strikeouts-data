@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-21T21:04:20.445Z",
+  "lastUpdatedNews": "2026-07-21T21:20:50.432Z",
   "players": [
     {
       "id": 11928,
@@ -73,7 +73,20 @@
           "fetchedAt": 1784667841948
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ernie Clement hits third against Rays",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/ernie-clement-hits-third-against-rays",
+          "fetchedAt": 1784668850432
+        },
+        {
+          "t": "Vladimir Guerrero Jr.'s OPS falls below .700 mark",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/vladimir-guerrero-jr-s-ops-falls-below-700-mark",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 10964,
@@ -114,7 +127,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis returns to Twins’ lineup on Sunday",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/royce-lewis-returns-to-twins-lineup-on-sunday",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 12550,
@@ -619,7 +639,14 @@
           "fetchedAt": 1784624667695
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan allows six runs in loss to Phillies",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/emmet-sheehan-allows-six-runs-in-loss-to-phillies",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 12387,
@@ -692,7 +719,14 @@
           "fetchedAt": 1784624611379
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) could return this week vs. Mets",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/edwin-diaz-elbow-could-return-this-week-vs-mets",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 10592,
@@ -813,7 +847,14 @@
           "fetchedAt": 1784581463561
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana hits walkoff homer for Guardians",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/travis-bazzana-hits-walkoff-homer-for-guardians",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 61788,
@@ -1096,7 +1137,20 @@
           "fetchedAt": 1784624635759
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "J.P. Crawford scratched from Monday’s lineup",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/j-p-crawford-scratched-from-mondays-lineup",
+          "fetchedAt": 1784668850432
+        },
+        {
+          "t": "Colt Emerson takes a seat on Monday vs. Reds",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/colt-emerson-takes-a-seat-on-monday-vs-reds",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 8996,
@@ -1201,7 +1255,26 @@
           "fetchedAt": 1784581473054
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña launches grand slam versus Marlins",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jeremy-pena-launches-grand-slam-versus-marlins",
+          "fetchedAt": 1784668850432
+        },
+        {
+          "t": "Jeremy Peña (hamstring) back in Monday’s lineup",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jeremy-pena-hamstring-back-in-mondays-lineup",
+          "fetchedAt": 1784668850432
+        },
+        {
+          "t": "Jeremy Peña (hamstring) could play against Marlins",
+          "date": "2026-07-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/jeremy-pena-hamstring-could-play-against-marlins",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 12375,
@@ -1234,7 +1307,14 @@
           "fetchedAt": 1784667825323
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mayer (forearm) has been cleared to start hitting",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/mayer-forearm-has-been-cleared-to-start-hitting",
+          "fetchedAt": 1784668850432
+        }
+      ]
     },
     {
       "id": 62984,
