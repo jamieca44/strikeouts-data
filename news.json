@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-22T21:05:21.687Z",
+  "lastUpdatedNews": "2026-07-22T21:21:05.115Z",
   "players": [
     {
       "id": 11928,
@@ -232,7 +232,14 @@
           "fetchedAt": 1784754277641
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. hits third homer in four games",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/fernando-tatis-jr-hits-third-homer-in-four-games",
+          "fetchedAt": 1784755265115
+        }
+      ]
     },
     {
       "id": 64897,
@@ -315,7 +322,20 @@
           "fetchedAt": 1784754208684
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts crushes two home runs in loss Monday",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/mookie-betts-crushes-two-home-runs-in-loss-monday",
+          "fetchedAt": 1784755265115
+        },
+        {
+          "t": "Dodgers drop Mookie Betts to fifth in lineup",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/dodgers-drop-mookie-betts-to-fifth-in-lineup",
+          "fetchedAt": 1784755265115
+        }
+      ]
     },
     {
       "id": 12393,
@@ -388,7 +408,14 @@
           "fetchedAt": 1784754301037
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Guardians activate José Ramírez from injured list",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jose-ramirez-is-back-off-the-injured-list",
+          "fetchedAt": 1784755265115
+        }
+      ]
     },
     {
       "id": 10577,
@@ -979,7 +1006,20 @@
           "fetchedAt": 1784711015963
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Otto Lopez (finger) back after two-game absence",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/otto-lopez-finger-returns-after-two-game-absence",
+          "fetchedAt": 1784755265115
+        },
+        {
+          "t": "Otto Lopez (finger) out second straight contest",
+          "date": "2026-07-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/otto-lopez-finger-out-second-straight-contest",
+          "fetchedAt": 1784755265115
+        }
+      ]
     },
     {
       "id": 10234,
@@ -1269,7 +1309,20 @@
           "fetchedAt": 1784754217408
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve receives rare day off vs. Marlins",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jose-altuve-receives-rare-day-off-vs-marlins",
+          "fetchedAt": 1784755265115
+        },
+        {
+          "t": "Jose Altuve makes seven outs against Marlins",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jose-altuve-makes-seven-outs-against-marlins",
+          "fetchedAt": 1784755265115
+        }
+      ]
     },
     {
       "id": 11529,
@@ -1646,7 +1699,14 @@
           "fetchedAt": 1784754219392
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole fans 11 through seven against Pirates",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/gerrit-cole-fans-11-through-seven-against-pirates",
+          "fetchedAt": 1784755265115
+        }
+      ]
     },
     {
       "id": 11014,
