@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-22T09:04:39.790Z",
+  "lastUpdatedNews": "2026-07-22T09:21:08.335Z",
   "players": [
     {
       "id": 11928,
@@ -127,14 +127,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis returns to Twins’ lineup on Sunday",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/royce-lewis-returns-to-twins-lineup-on-sunday",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -159,7 +152,14 @@
           "fetchedAt": 1784711059652
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson collects three hits in loss",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/alec-burleson-collects-three-hits-in-loss",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 64313,
@@ -232,14 +232,7 @@
           "fetchedAt": 1784667843704
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. homers, steals base versus K.C.",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/fernando-tatis-jr-homers-steals-base-versus-k-c",
-          "fetchedAt": 1784539233824
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -314,14 +307,7 @@
           "fetchedAt": 1784624650488
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts goes hitless in doubleheader",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/mookie-betts-goes-hitless-in-doubleheader",
-          "fetchedAt": 1784539233824
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -354,7 +340,14 @@
           "fetchedAt": 1784624653977
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz blasts 17th homer in victory",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/elly-de-la-cruz-blasts-17th-homer-in-victory",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 9507,
@@ -502,14 +495,7 @@
           "fetchedAt": 1784711077552
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal blanks Angels over seven in victory",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/tarik-skubal-blanks-angels-over-seven-in-victory",
-          "fetchedAt": 1784452859064
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -583,7 +569,14 @@
           "fetchedAt": 1784624643878
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns fans six over five scoreless in win",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/chase-burns-fans-six-over-five-scoreless-in-win",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 11203,
@@ -872,14 +865,7 @@
           "fetchedAt": 1784711039712
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana hits walkoff homer for Guardians",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/travis-bazzana-hits-walkoff-homer-for-guardians",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -936,14 +922,7 @@
           "fetchedAt": 1784711015963
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Lopez (finger) not in Marlins lineup on Sunday",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/otto-lopez-not-in-marlins-lineup-on-sunday",
-          "fetchedAt": 1784496066553
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -960,7 +939,14 @@
           "fetchedAt": 1784711031022
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson scores three times against Tigers",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/dansby-swanson-scores-three-times-against-tigers",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 12157,
@@ -993,7 +979,14 @@
           "fetchedAt": 1784624670408
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong reaches five times in victory",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/pete-crow-armstrong-reaches-five-times-in-victory",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 12522,
@@ -1018,14 +1011,7 @@
           "fetchedAt": 1784667845630
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill goes 4-for-6, homers twice in rout",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/jackson-merrill-goes-4-for-6-homers-twice-in-rout",
-          "fetchedAt": 1784539233824
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -1050,14 +1036,7 @@
           "fetchedAt": 1784624645581
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger goes 0-for-3, strikes out twice",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/cody-bellinger-goes-0-for-3-strikes-out-twice",
-          "fetchedAt": 1784496066553
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -1201,14 +1180,7 @@
           "fetchedAt": 1784624660794
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve belts 12th home run in loss to Orioles",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/jose-altuve-belts-12th-home-run-in-loss-to-orioles",
-          "fetchedAt": 1784539233824
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -1216,7 +1188,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Spencer Steer (ribs) absent from Tuesday’s lineup",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/spencer-steer-ribs-absent-from-tuesdays-lineup",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 60580,
@@ -1233,14 +1212,7 @@
           "fetchedAt": 1784711045048
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cole Young hits three-run homer in Mariners’ win",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/cole-young-hits-three-run-homer-in-mariners-win",
-          "fetchedAt": 1784452859064
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -1284,12 +1256,6 @@
           "t": "Jeremy Peña (hamstring) back in Monday’s lineup",
           "date": "2026-07-20",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jeremy-pena-hamstring-back-in-mondays-lineup",
-          "fetchedAt": 1784668850432
-        },
-        {
-          "t": "Jeremy Peña (hamstring) could play against Marlins",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/jeremy-pena-hamstring-could-play-against-marlins",
           "fetchedAt": 1784668850432
         }
       ]
@@ -1477,14 +1443,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Orioles move Ryan Helsley (elbow) to 60-day IL",
-          "date": "2026-07-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-19/orioles-move-ryan-helsley-elbow-to-60-day-il",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -1549,7 +1508,14 @@
           "fetchedAt": 1784667839883
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "O’s vs. Red Sox postponed Monday due to rain",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/os-vs-red-sox-postponed-monday-due-to-rain",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 9121,
@@ -1607,7 +1573,14 @@
           "fetchedAt": 1784711057151
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta torched for seven runs in loss",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/freddy-peralta-torched-for-seven-runs-in-loss",
+          "fetchedAt": 1784712068335
+        }
+      ]
     },
     {
       "id": 10627,
