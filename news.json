@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-23T09:04:15.097Z",
+  "lastUpdatedNews": "2026-07-23T09:20:54.210Z",
   "players": [
     {
       "id": 11928,
@@ -34,6 +34,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Dillon Dingler homers, doubles in loss to Cubs",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/dillon-dingler-homers-doubles-in-loss-to-cubs",
+          "fetchedAt": 1784798454210
+        },
         {
           "t": "Dillon Dingler has four hits, two homers in win",
           "date": "2026-07-21",
@@ -79,12 +85,6 @@
           "date": "2026-07-21",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/ernie-clement-hits-third-against-rays",
           "fetchedAt": 1784668850432
-        },
-        {
-          "t": "Vladimir Guerrero Jr.'s OPS falls below .700 mark",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/vladimir-guerrero-jr-s-ops-falls-below-700-mark",
-          "fetchedAt": 1784668850432
         }
       ]
     },
@@ -119,7 +119,14 @@
           "fetchedAt": 1784754241223
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. hits 21st homer against Rockies",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/luis-garcia-jr-hits-21st-homer-against-rockies",
+          "fetchedAt": 1784798454210
+        }
+      ]
     },
     {
       "id": 10916,
@@ -192,14 +199,7 @@
           "fetchedAt": 1784667853216
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Kurtz (thumb) still not doing baseball activities",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/kurtz-thumb-still-not-doing-baseball-activities",
-          "fetchedAt": 1784582551972
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -322,20 +322,7 @@
           "fetchedAt": 1784797450810
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts crushes two home runs in loss Monday",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/mookie-betts-crushes-two-home-runs-in-loss-monday",
-          "fetchedAt": 1784755265115
-        },
-        {
-          "t": "Dodgers drop Mookie Betts to fifth in lineup",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/dodgers-drop-mookie-betts-to-fifth-in-lineup",
-          "fetchedAt": 1784755265115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -440,7 +427,14 @@
           "fetchedAt": 1784711063144
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Reynolds finishes doubleheader 0-for-9",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/bryan-reynolds-finishes-doubleheader-0-for-9",
+          "fetchedAt": 1784798454210
+        }
+      ]
     },
     {
       "id": 9876,
@@ -474,6 +468,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Brandon Nimmo goes 4-for-4, homers in victory",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/brandon-nimmo-goes-4-for-4-homers-in-victory",
+          "fetchedAt": 1784798454210
+        },
         {
           "t": "Brandon Nimmo fans three times in rough game",
           "date": "2026-07-21",
@@ -579,14 +579,7 @@
           "fetchedAt": 1784797432093
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan surrenders six homers to tie MLB record",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/joe-ryan-surrenders-six-homers-to-tie-mlb-record",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -692,14 +685,7 @@
           "fetchedAt": 1784754282380
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Aschraft melts down in loss to Yankees",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/braxton-aschraft-melts-down-in-loss-to-yankees",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -732,14 +718,7 @@
           "fetchedAt": 1784754223720
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan allows six runs in loss to Phillies",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/emmet-sheehan-allows-six-runs-in-loss-to-phillies",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -756,14 +735,7 @@
           "fetchedAt": 1784754175054
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Kilian takes loss against Royals Monday",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/caleb-kilian-takes-loss-against-royals-monday",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -796,7 +768,14 @@
           "fetchedAt": 1784667833689
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker quiets Blue Jays to notch 26th save",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/bryan-baker-quiets-blue-jays-to-notch-26th-save",
+          "fetchedAt": 1784798454210
+        }
+      ]
     },
     {
       "id": 10214,
@@ -829,14 +808,7 @@
           "fetchedAt": 1784797421642
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (elbow) could return this week vs. Mets",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/edwin-diaz-elbow-could-return-this-week-vs-mets",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -909,14 +881,7 @@
           "fetchedAt": 1784754288758
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers struggles in no-decision vs. Pirates",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/ryan-weathers-struggles-in-no-decision-vs-pirates",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -974,14 +939,7 @@
           "fetchedAt": 1784754308892
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin powers Red Sox to 14th straight win",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/caleb-durbin-powers-red-sox-to-14th-straight-win",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -1003,12 +961,6 @@
           "t": "Otto Lopez (finger) back after two-game absence",
           "date": "2026-07-21",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/otto-lopez-finger-returns-after-two-game-absence",
-          "fetchedAt": 1784755265115
-        },
-        {
-          "t": "Otto Lopez (finger) out second straight contest",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/otto-lopez-finger-out-second-straight-contest",
           "fetchedAt": 1784755265115
         }
       ]
@@ -1124,7 +1076,14 @@
           "fetchedAt": 1784754259320
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill hits long homer in loss to Braves",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jackson-merrill-hits-long-homer-in-loss-to-braves",
+          "fetchedAt": 1784798454210
+        }
+      ]
     },
     {
       "id": 10504,
@@ -1263,20 +1222,7 @@
           "fetchedAt": 1784711073703
         }
       ],
-      "nbcNews": [
-        {
-          "t": "J.P. Crawford scratched from Monday’s lineup",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/j-p-crawford-scratched-from-mondays-lineup",
-          "fetchedAt": 1784668850432
-        },
-        {
-          "t": "Colt Emerson takes a seat on Monday vs. Reds",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/colt-emerson-takes-a-seat-on-monday-vs-reds",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -1387,20 +1333,7 @@
           "fetchedAt": 1784754313717
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña launches grand slam versus Marlins",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jeremy-pena-launches-grand-slam-versus-marlins",
-          "fetchedAt": 1784668850432
-        },
-        {
-          "t": "Jeremy Peña (hamstring) back in Monday’s lineup",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jeremy-pena-hamstring-back-in-mondays-lineup",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1541,10 +1474,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Jacob deGrom (glute) to start Monday vs. White Sox",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/jacob-degrom-glute-to-start-monday-vs-white-sox",
-          "fetchedAt": 1784582551972
+          "t": "Jacob deGrom surrenders five runs in loss",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/jacob-degrom-surrenders-five-runs-in-loss",
+          "fetchedAt": 1784798454210
         }
       ]
     },
@@ -1563,14 +1496,7 @@
           "fetchedAt": 1784754290899
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease lit up for five runs in loss to Rays",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/dylan-cease-lit-up-for-five-runs-in-loss-to-rays",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1611,14 +1537,7 @@
           "fetchedAt": 1784797426115
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez strikes out seven in win Monday",
-          "date": "2026-07-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-20/cristopher-sanchez-strikes-out-seven-in-win-monday",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
