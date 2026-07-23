@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-23T21:04:37.589Z",
+  "lastUpdatedNews": "2026-07-23T21:21:41.503Z",
   "players": [
     {
       "id": 11928,
@@ -481,7 +481,14 @@
           "fetchedAt": 1784797434291
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "‘Aggressive’ Brewers have touched base on Skubal",
+          "date": "2026-07-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/aggressive-brewers-have-touched-base-on-skubal",
+          "fetchedAt": 1784841701503
+        }
+      ]
     },
     {
       "id": 11847,
@@ -514,7 +521,14 @@
           "fetchedAt": 1784797432093
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan’s next start pushed back a day",
+          "date": "2026-07-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/ryans-next-start-pushed-back-a-day",
+          "fetchedAt": 1784841701503
+        }
+      ]
     },
     {
       "id": 10940,
@@ -735,7 +749,14 @@
           "fetchedAt": 1784797421642
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) fans two in rehab appearance",
+          "date": "2026-07-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/edwin-diaz-elbow-fans-two-in-rehab-appearance",
+          "fetchedAt": 1784841701503
+        }
+      ]
     },
     {
       "id": 10592,
@@ -1099,7 +1120,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "J.P. Crawford (wrist) out Tuesday against Reds",
+          "date": "2026-07-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/j-p-crawford-wrist-out-tuesday-against-reds",
+          "fetchedAt": 1784841701503
+        }
+      ]
     },
     {
       "id": 8996,
