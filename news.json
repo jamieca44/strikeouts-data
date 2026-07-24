@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-24T09:04:54.257Z",
+  "lastUpdatedNews": "2026-07-24T09:20:48.558Z",
   "players": [
     {
       "id": 11928,
@@ -39,12 +39,6 @@
           "date": "2026-07-22",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/dillon-dingler-homers-doubles-in-loss-to-cubs",
           "fetchedAt": 1784798454210
-        },
-        {
-          "t": "Dillon Dingler has four hits, two homers in win",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/dillon-dingler-has-four-hits-two-homers-in-win",
-          "fetchedAt": 1784625666267
         }
       ]
     },
@@ -79,14 +73,7 @@
           "fetchedAt": 1784883878542
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ernie Clement hits third against Rays",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/ernie-clement-hits-third-against-rays",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -208,14 +195,7 @@
           "fetchedAt": 1784883881368
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. hits third homer in four games",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/fernando-tatis-jr-hits-third-homer-in-four-games",
-          "fetchedAt": 1784755265115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -432,12 +412,6 @@
           "date": "2026-07-22",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/brandon-nimmo-goes-4-for-4-homers-in-victory",
           "fetchedAt": 1784798454210
-        },
-        {
-          "t": "Brandon Nimmo fans three times in rough game",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/brandon-nimmo-fans-three-times-in-rough-game",
-          "fetchedAt": 1784625666267
         }
       ]
     },
@@ -797,14 +771,7 @@
           "fetchedAt": 1784754286890
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jack Flaherty allows three runs in no-decision",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/jack-flaherty-allows-three-runs-in-no-decision",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11379,
@@ -912,14 +879,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Otto Lopez (finger) back after two-game absence",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/otto-lopez-finger-returns-after-two-game-absence",
-          "fetchedAt": 1784755265115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -1040,14 +1000,7 @@
           "fetchedAt": 1784883834205
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene crushes 15th home run in win Monday",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/riley-greene-crushes-15th-home-run-in-win-monday",
-          "fetchedAt": 1784625666267
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -1105,14 +1058,7 @@
           "fetchedAt": 1784883839627
         }
       ],
-      "nbcNews": [
-        {
-          "t": "J.P. Crawford (wrist) out Tuesday against Reds",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/j-p-crawford-wrist-out-tuesday-against-reds",
-          "fetchedAt": 1784841701503
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -1166,14 +1112,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Spencer Steer (ribs) absent from Tuesday’s lineup",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/spencer-steer-ribs-absent-from-tuesdays-lineup",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60580,
@@ -1231,14 +1170,7 @@
           "fetchedAt": 1784883866768
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mayer (forearm) has been cleared to start hitting",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/mayer-forearm-has-been-cleared-to-start-hitting",
-          "fetchedAt": 1784668850432
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62984,
@@ -1263,7 +1195,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Red Sox promoting Franklin Arias to Triple-A",
+          "date": "2026-07-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/red-sox-promoting-franklin-arias-to-triple-a",
+          "fetchedAt": 1784884848558
+        }
+      ]
     },
     {
       "id": 64967,
@@ -1313,14 +1252,7 @@
           "fetchedAt": 1784754239194
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom surrenders five runs in loss",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/jacob-degrom-surrenders-five-runs-in-loss",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1411,14 +1343,7 @@
           "fetchedAt": 1784883876606
         }
       ],
-      "nbcNews": [
-        {
-          "t": "O’s vs. Red Sox postponed Monday due to rain",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/os-vs-red-sox-postponed-monday-due-to-rain",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -1483,14 +1408,7 @@
           "fetchedAt": 1784754316571
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta torched for seven runs in loss",
-          "date": "2026-07-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-21/freddy-peralta-torched-for-seven-runs-in-loss",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
