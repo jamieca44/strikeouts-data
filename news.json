@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-24T21:05:06.197Z",
+  "lastUpdatedNews": "2026-07-24T21:20:46.505Z",
   "players": [
     {
       "id": 11928,
@@ -121,7 +121,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kody Clemens sits against left-hander on Friday",
+          "date": "2026-07-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/kody-clemens-sits-against-left-hander-on-friday",
+          "fetchedAt": 1784928046505
+        }
+      ]
     },
     {
       "id": 12550,
@@ -1063,7 +1070,14 @@
           "fetchedAt": 1784883846982
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Matt Shaw (hand) won’t return prior to August",
+          "date": "2026-07-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/matt-shaw-hand-wont-return-prior-to-august",
+          "fetchedAt": 1784928046505
+        }
+      ]
     },
     {
       "id": 63537,
