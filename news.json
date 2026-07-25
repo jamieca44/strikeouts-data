@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-25T09:03:54.679Z",
+  "lastUpdatedNews": "2026-07-25T09:20:28.313Z",
   "players": [
     {
       "id": 11928,
@@ -33,14 +33,7 @@
           "fetchedAt": 1784927076984
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler homers, doubles in loss to Cubs",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/dillon-dingler-homers-doubles-in-loss-to-cubs",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -106,14 +99,7 @@
           "fetchedAt": 1784883870209
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. hits 21st homer against Rockies",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/luis-garcia-jr-hits-21st-homer-against-rockies",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -136,14 +122,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson collects three hits in loss",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/alec-burleson-collects-three-hits-in-loss",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -292,14 +271,7 @@
           "fetchedAt": 1784840658676
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz blasts 17th homer in victory",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/elly-de-la-cruz-blasts-17th-homer-in-victory",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -332,14 +304,7 @@
           "fetchedAt": 1784927016855
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Guardians activate José Ramírez from injured list",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jose-ramirez-is-back-off-the-injured-list",
-          "fetchedAt": 1784755265115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -347,14 +312,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Reynolds finishes doubleheader 0-for-9",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/bryan-reynolds-finishes-doubleheader-0-for-9",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9876,
@@ -379,14 +337,7 @@
           "fetchedAt": 1784927019124
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo goes 4-for-4, homers in victory",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/brandon-nimmo-goes-4-for-4-homers-in-victory",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -394,7 +345,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Latz picks up 20th save of season vs Mariners",
+          "date": "2026-07-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/latz-picks-up-20th-save-of-season-vs-mariners",
+          "fetchedAt": 1784971228313
+        }
+      ]
     },
     {
       "id": 11763,
@@ -491,7 +449,14 @@
           "fetchedAt": 1784927005868
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gore strikes out five in win over Mariners",
+          "date": "2026-07-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/gore-strikes-out-five-in-win-over-mariners",
+          "fetchedAt": 1784971228313
+        }
+      ]
     },
     {
       "id": 64316,
@@ -508,14 +473,7 @@
           "fetchedAt": 1784927091878
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns fans six over five scoreless in win",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/chase-burns-fans-six-over-five-scoreless-in-win",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -581,7 +539,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Kilian picks up victory against Angels",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/caleb-kilian-picks-up-victory-against-angels",
+          "fetchedAt": 1784971228313
+        }
+      ]
     },
     {
       "id": 11998,
@@ -598,14 +563,7 @@
           "fetchedAt": 1784883872070
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker quiets Blue Jays to notch 26th save",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/bryan-baker-quiets-blue-jays-to-notch-26th-save",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -638,14 +596,7 @@
           "fetchedAt": 1784927034602
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (elbow) fans two in rehab appearance",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/edwin-diaz-elbow-fans-two-in-rehab-appearance",
-          "fetchedAt": 1784841701503
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -835,14 +786,7 @@
           "fetchedAt": 1784970206618
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson scores three times against Tigers",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/dansby-swanson-scores-three-times-against-tigers",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -875,14 +819,7 @@
           "fetchedAt": 1784840671084
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong reaches five times in victory",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/pete-crow-armstrong-reaches-five-times-in-victory",
-          "fetchedAt": 1784712068335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -899,14 +836,7 @@
           "fetchedAt": 1784883874966
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill hits long homer in loss to Braves",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jackson-merrill-hits-long-homer-in-loss-to-braves",
-          "fetchedAt": 1784798454210
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -980,7 +910,14 @@
           "fetchedAt": 1784970192380
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smith blasts go-ahead homer in win",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/cam-smith-blasts-go-ahead-homer-in-win",
+          "fetchedAt": 1784971228313
+        }
+      ]
     },
     {
       "id": 62954,
@@ -1022,20 +959,7 @@
           "fetchedAt": 1784927096751
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve receives rare day off vs. Marlins",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jose-altuve-receives-rare-day-off-vs-marlins",
-          "fetchedAt": 1784755265115
-        },
-        {
-          "t": "Jose Altuve makes seven outs against Marlins",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/jose-altuve-makes-seven-outs-against-marlins",
-          "fetchedAt": 1784755265115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -1338,14 +1262,7 @@
           "fetchedAt": 1784927099852
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole fans 11 through seven against Pirates",
-          "date": "2026-07-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-22/gerrit-cole-fans-11-through-seven-against-pirates",
-          "fetchedAt": 1784755265115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
