@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-24T21:20:46.505Z",
+  "lastUpdatedNews": "2026-07-25T09:03:54.679Z",
   "players": [
     {
       "id": 11928,
@@ -82,6 +82,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [
         {
+          "t": "Nationals Star Foster Griffin Predicted To Be Traded, Why That Likely Will Happen",
+          "s": "Foster Griffin was predicted to be traded by the Washington Nationals ahead of the trade deadline, and there's a good chance that happens.",
+          "by": "Brad Wakai",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/nationals-star-foster-griffin-predicted-165544292.html",
+          "fetchedAt": 1784970227362
+        },
+        {
           "t": "Latest Intel Suggest Nationals 'Are Listening' to Offers on Top Veterans",
           "s": "With the trade deadline around the corner, the Washington Nationals reportedly have started to listen to some offers.",
           "by": "Brad Wakai",
@@ -95,14 +103,6 @@
           "by": "Ahmed Ghafir",
           "when": "23h ago",
           "href": "https://sports.yahoo.com/articles/washington-nationals-exec-notes-trade-100024717.html",
-          "fetchedAt": 1784883870209
-        },
-        {
-          "t": "Nationals record eight runs in shutout win",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/nationals-record-eight-runs-shutout-231850774.html",
           "fetchedAt": 1784883870209
         }
       ],
@@ -150,7 +150,16 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dillon Dingler's Timely Hitting Is Fueling the Tigers' Success",
+          "s": "This is how Dillon Dingler is fueling the Tigers success",
+          "by": "Dominic Minchella",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/dillon-dinglers-timely-hitting-fueling-170007748.html",
+          "fetchedAt": 1784970172882
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -193,20 +202,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
       "yahooNews": [
         {
-          "t": "This Brewers Development Is Reason For Dodgers To Worry",
-          "s": "The Milwaukee Brewers and Los Angeles Dodgers are the only teams in baseball with at least 60 wins",
-          "by": "Aaliyan Mohammed",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/brewers-development-reason-dodgers-worry-134211989.html",
-          "fetchedAt": 1784840672940
+          "t": "Three Takeaways From Rockies' Big Win",
+          "s": "In an impressive win on Friday afternoon, the Colorado Rockies found a way to defeat the National League Central Division-leading Milwaukee Brewers.",
+          "by": "Joe Rutland",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/three-takeaways-rockies-big-win-021727312.html",
+          "fetchedAt": 1784970215501
         },
         {
-          "t": "How ‘Third Base Joey’ found his swing again for the Milwaukee Brewers",
-          "s": "Over the past month since sliding over to third base, Milwaukee Brewers infielder Joey Ortiz has been a difference-maker with the bat.",
-          "by": "Curt Hogg, Milwaukee Journal Sentinel",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/third-joey-found-swing-again-234812862.html",
-          "fetchedAt": 1784840672940
+          "t": "Sugano, Carrigg lead the Rockies past the Brewers",
+          "s": "Tomoyuki Sugano strikes out five and Cole Carrigg hits an RBI double to lead the Rockies to a 5-2 win over the Brewers",
+          "by": "",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/videos/sugano-carrigg-lead-rockies-past-001959298.html",
+          "fetchedAt": 1784970215501
+        },
+        {
+          "t": "Rockies play the Brewers’ game in 5-2 series-opening win",
+          "s": "Tomoyuki Sugano earns his 10th win as Colorado pairs hard contact with pressure, execution and 3.2 scoreless innings from the bullpen.",
+          "by": "James Riggenbach",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/rockies-play-brewers-game-5-233640211.html",
+          "fetchedAt": 1784970215501
         }
       ],
       "nbcNews": []
@@ -240,14 +257,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/dodgers-notes-la-officially-releases-163014659.html",
           "fetchedAt": 1784927081100
-        },
-        {
-          "t": "Dodgers star Mookie Betts avoids disastrous moment in on-deck circle",
-          "s": "The Dodgers narrowly avoided a disastrous moment Wednesday, when Mookie Betts took a glancing blow off his head from a foul ball in the on-deck circle.",
-          "by": "Jack Harris",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-star-mookie-betts-avoids-002804276.html",
-          "fetchedAt": 1784797450810
         }
       ],
       "nbcNews": []
@@ -703,12 +712,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Dodgers Star Says He Wants Contract Extension to Finish Career in LA",
-          "s": "One of the stars of the Los Angeles Dodgers is hoping for a contract extension to end his career with the team.",
-          "by": "Matt Levine",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-star-says-wants-contract-203001348.html",
-          "fetchedAt": 1784883831568
+          "t": "Freddie Freeman scores on Miguel Rojas' sac fly",
+          "s": "",
+          "by": "",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/videos/freddie-freeman-scores-miguel-rojas-000027002.html",
+          "fetchedAt": 1784970217418
+        },
+        {
+          "t": "Los Angeles Dodgers Announce Freddie Freeman Decision Before Mets Series",
+          "s": "On Friday night, the Los Angeles Dodgers will open up a series with the New York Mets at Citi Field.They are coming off a series where they won two out of three games against the Philadelphia Phillies.Most recently, the Dodgers won by a score of 9-5 on Wednesday.Freddie Freeman (who batted 3rd) finished with three […] The post Los Angeles Dodgers Announce Freddie Freeman Decision Before Mets Series appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-freddie-232252507.html",
+          "fetchedAt": 1784970217418
+        },
+        {
+          "t": "New York Mets Announce Juan Soto Decision Before Dodgers Series",
+          "s": "The New York Mets are set to begin an anticipated series with the Los Angeles Dodgers. It hasn’t been the season the Mets have hoped for, as they are 43-60, and sit in last place in the NL East. However, the schedule must roll along, and MLB’s top team, the Dodgers, are coming to Citi […] The post New York Mets Announce Juan Soto Decision Before Dodgers Series appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/york-mets-announce-juan-soto-223143778.html",
+          "fetchedAt": 1784970217418
         }
       ],
       "nbcNews": []
@@ -786,12 +811,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [
         {
-          "t": "Chicago Cubs Announce Dansby Swanson Change During Tigers Series",
-          "s": "On Wednesday night, the Chicago Cubs will finish their series with the Detroit Tigers at Wrigley Field.The two teams are tied up at 1-1, so whoever wins on Wednesday will take the series.Most recently, the Cubs won Tuesday’s game by a score of 11-2.Dansby Swanson (who batted 8th) finished with two hits, one walk, three […] The post Chicago Cubs Announce Dansby Swanson Change During Tigers Series appeared first on HEAVY.",
-          "by": "Ben Stinar",
+          "t": "Dansby Swanson's go-ahead single",
+          "s": "",
+          "by": "",
           "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-014629223.html",
-          "fetchedAt": 1784797408808
+          "href": "https://sports.yahoo.com/videos/dansby-swansons-ahead-rbi-single-010809750.html",
+          "fetchedAt": 1784970206618
+        },
+        {
+          "t": "Pirates offense squanders chances in 3-2 loss to Cubs",
+          "s": "The Pittsburgh Pirates had their chances, but ultimately squandered them in a painful 3-2 extra-inning loss to the Chicago Cubs at PNC Park Friday night.",
+          "by": "Joe Smeltzer",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-offense-squanders-chances-3-014033938.html",
+          "fetchedAt": 1784970206618
+        },
+        {
+          "t": "Pirates Offense Squanders Chances in 3-2 Loss to Cubs",
+          "s": "The Pittsburgh Pirates had their chances, but ultimately squandered them in a painful 3-2 extra-inning loss to the Chicago Cubs […] The post Pirates Offense Squanders Chances in 3-2 Loss to Cubs appeared first on Pittsburgh Baseball Now.",
+          "by": "Joe Smeltzer",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-offense-squanders-chances-3-012725232.html",
+          "fetchedAt": 1784970206618
         }
       ],
       "nbcNews": [
@@ -810,19 +851,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
+          "t": "Pete Crow-Armstrong's solo home run (22)",
+          "s": "",
+          "by": "",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/videos/pete-crow-armstrongs-solo-home-235912796.html",
+          "fetchedAt": 1784970213383
+        },
+        {
+          "t": "Pete Crow-Armstrong again projected to get most from pre-arbitration bonus pool based on stats",
+          "s": "Chicago Cubs center fielder Pete Crow-Armstrong is again projected to receive the largest amount from the $50 million pre-arbitration bonus pool based on his regular-season statistics. Crow-Armstrong is on track to receive $1,179,587 according to WAR calculations through July 6 that Major League Baseball sent to teams, players and agents in a memo obtained by The Associated Press. Miami shortstop Otto Lopez is second at $910,239, followed Milwaukee right-hander Jacob Misiorowski ($896,407), St. Louis second baseman JJ Wetherholt ($879,874), Detroit catcher Dillon Dingler ($797,802), Tigers infielder Kevin McGonigle ($786,326), Washington outfielder James Wood ($711,330), Athletics first baseman Nick Kurtz ($639,780), New York Yankees right-hander Cam Schlittler ($637,145) and Chicago White Sox infielder Miguel Vargas ($635,299).",
+          "by": "RONALD BLUM",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/pete-crow-armstrong-again-projected-153417512.html",
+          "fetchedAt": 1784970213383
+        },
+        {
           "t": "2026 MLB Awards Tracker: Power Rankings, betting odds for MVP, Cy Young: Cease, Crow-Armstrong heating up",
           "s": "Vaughn Dalzell breaks down the MLB's MVP and Cy Young rankings as Dylan Cease and Pete Crow-Armstrong heat up the race!",
           "by": "Vaughn Dalzell",
           "when": "6h ago",
           "href": "https://sports.yahoo.com/articles/2026-mlb-awards-tracker-power-141152484.html",
-          "fetchedAt": 1784840671084
-        },
-        {
-          "t": "2026 Cubs Heroes and Goats: Ian Happ is the Superhero vs. the Tigers",
-          "s": "The Cubs bats were silent in a 5-1 loss to the Tigers Wednesday night.",
-          "by": "Thomas Smith",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-ian-150000773.html",
           "fetchedAt": 1784840671084
         }
       ],
@@ -872,16 +921,7 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [
-        {
-          "t": "Three Stars From Detroit Tigers' Series-Clinching Win Over the Chicago Cubs",
-          "s": "Spencer Torkelson’s power and Keider Montero’s dominant recovery propelled Detroit to a crucial road series victory as the surging Tigers navigate trade rumors and a tightening postseason race.",
-          "by": "Nick Faber",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/three-stars-detroit-tigers-series-024753758.html",
-          "fetchedAt": 1784883834205
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -914,7 +954,32 @@
       "name": "Cam Smith",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Astros mark eight runs in comeback win vs. White Sox",
+          "s": "",
+          "by": "",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/videos/astros-mark-eight-runs-comeback-041216027.html",
+          "fetchedAt": 1784970192380
+        },
+        {
+          "t": "Walker, Smith spark the Astros' 8-run 6th inning in an 9-5 win over the White Sox",
+          "s": "Christian Walker hit a three-run double, Cam Smith added a two-run homer in Houston's eight-run sixth inning and the Astros overcame a five-run deficit to beat the Chicago White Sox 9-5 on Friday night. Jeremy Peña and Jose Altuve had three hits apiece for Houston. Houston starter Spencer Arrighetti left the mound during his warmup pitches and was relieved by AJ Blubaugh to begin the second inning.",
+          "by": "",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/walker-smith-spark-astros-8-031503192.html",
+          "fetchedAt": 1784970192380
+        },
+        {
+          "t": "8-Run 6th Inning Carries Astros to 4th Straight Win, 9-5 Over White Sox",
+          "s": "Cheers at Rate Field turned to boos and a stunned crowd of 28,657 could only shake their collective heads in disbelief as the Astros would erase a five-run deficit in defeating the White Sox by a score of 9-5. The night began inauspiciously enough. The White Sox would send all nine men to the plate […]",
+          "by": "Craig Larson Jr.",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/8-run-6th-inning-carries-031538322.html",
+          "fetchedAt": 1784970192380
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -923,6 +988,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [
+        {
+          "t": "Dominic Canzone's two-run double",
+          "s": "",
+          "by": "",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/videos/dominic-canzones-two-run-double-013023515.html",
+          "fetchedAt": 1784970221297
+        },
         {
           "t": "Colt Emerson Is the Mariners' Future, but Not Their Answer Right Now",
           "s": "The Mariners cannot develop Colt Emerson indefinitely while claiming 2026 is a championship season. Seattle must finally choose a direction.",
@@ -947,22 +1020,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/why-2026-class-helps-jose-180503208.html",
           "fetchedAt": 1784927096751
-        },
-        {
-          "t": "Houston Astros Announce Jose Altuve Change During Marlins Series",
-          "s": "On Wednesday, the Houston Astros will finish their series with the Miami Marlins in Texas.They are coming off a 5-3 win on Tuesday.Jose Altuve finished with no hits in four at-bats.Houston Astros Announce Jose Altuve ChangeFor Wednesday’s game, the Astros have announced their starting lineup.Via Underdog MLB: “Astros 7/22 J. Peña SS Y. Alvarez LF […] The post Houston Astros Announce Jose Altuve Change During Marlins Series appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-233954011.html",
-          "fetchedAt": 1784840663096
-        },
-        {
-          "t": "What the Astros Can Learn From a Decade-Old Trade Deadline Decision",
-          "s": "The Houston Astros face a dilemma of what to do at the August 3rd trade deadline. They currently sit at 48-54 and are 3.5 games out of first place in the AL Wes",
-          "by": "Thomas Heiberger",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/astros-learn-decade-old-trade-000004880.html",
-          "fetchedAt": 1784840663096
         }
       ],
       "nbcNews": [
@@ -1045,6 +1102,22 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [
         {
+          "t": "Red Sox Reportedly Have Eyes On Two-Time All-Star Shortstop At Trade Deadline",
+          "s": "The Boston Red Sox are suddenly expected to be buyers at the trade deadline",
+          "by": "Aaliyan Mohammed",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-reportedly-eyes-two-143742822.html",
+          "fetchedAt": 1784970225291
+        },
+        {
+          "t": "Giants' 4X All-Star is 'perfect' trade fit for Red Sox",
+          "s": "Boston could use an upgrade in its infield.",
+          "by": "Conor Liguori",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/giants-4x-star-perfect-trade-134647037.html",
+          "fetchedAt": 1784970225291
+        },
+        {
           "t": "How Aggressive Will Boston Red Sox Be at Trade Deadline?",
           "s": "Red Sox Chief Baseball Officer has the assets necessary to make a major splash ahead of the trade deadline.",
           "by": "",
@@ -1061,6 +1134,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [
+        {
+          "t": "Royals Reacts Survey – Let’s make a deal",
+          "s": "‘Tis the season for pretending we know better than all the GMs in baseball",
+          "by": "Jeremy Greco",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/royals-reacts-survey-let-deal-142818154.html",
+          "fetchedAt": 1784970223134
+        },
         {
           "t": "Report: Cubs Could Trade From MLB Roster to Land Starting Pitcher",
           "s": "The Chicago Cubs could use an established MLB bat to land a controllable starting pitcher from the Seattle Mariners ahead of the trade deadline.",
@@ -1132,7 +1213,32 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Seigler leads Red Sox against the Blue Jays following 4-hit game",
+          "s": "Toronto Blue Jays (47-57, fifth in the AL East) vs. Boston Red Sox (53-49, third in the AL East) Boston; Saturday, 4:10 p.m. EDT PITCHING PROBABLES: Blue Jays: Dylan Cease (6-5, 2.67 ERA, 1.14 WHIP, 155 strikeouts); Red Sox: Sonny Gray (12-1, 2.48 ERA, 1.12 WHIP, 90 strikeouts) LINE: Red Sox -120, Blue Jays -102; over/under is 7 1/2 runs BOTTOM LINE: The Boston Red Sox take on the Toronto Blue Jays after Anthony Seigler had four hits against the Blue Jays on Friday. Boston is 53-49 overall and 24-28 at home.",
+          "by": "The Associated Press",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/seigler-leads-red-sox-against-075602041.html",
+          "fetchedAt": 1784970202287
+        },
+        {
+          "t": "Seigler has first career 4-hit game to help the Red Sox beat the Blue Jays",
+          "s": "Anthony Seigler led off with a homer and had his first four-hit game in the majors, Romy Gonzalez broke an eighth-inning tie with an RBI double and the Boston Red Sox beat the Toronto Blue Jays 6-4 on Friday night. Boston rebounded from a loss Wednesday night in the second game of a doubleheader against Baltimore that ended a 15-game winning streak. The Red Sox are 24-6 in their last 30 games.",
+          "by": "",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/seigler-first-career-4-hit-025223416.html",
+          "fetchedAt": 1784970202287
+        },
+        {
+          "t": "Red Sox Announce Anthony Seigler Decision Before Blue Jays Series Opener",
+          "s": "The Boston Red Sox announced a lineup decision involving Anthony Seigler ahead of their series opener against the Blue Jays. The post Red Sox Announce Anthony Seigler Decision Before Blue Jays Series Opener appeared first on HEAVY.",
+          "by": "Jonathan Vankin",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-announce-anthony-seigler-231357016.html",
+          "fetchedAt": 1784970202287
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1164,14 +1270,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/2025-cy-young-odds-skubal-140900897.html",
           "fetchedAt": 1784927036608
-        },
-        {
-          "t": "Phillies Prioritize Zack Wheeler's Rest Over Saturday Start After Dodgers Loss",
-          "s": "The Phillies are making a rotation decision involving Zack Wheeler on Wednesday.",
-          "by": "Xavier Constantino",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-prioritize-zack-wheelers-rest-224449350.html",
-          "fetchedAt": 1784797426115
         }
       ],
       "nbcNews": []
