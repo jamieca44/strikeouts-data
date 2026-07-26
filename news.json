@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-26T21:04:22.554Z",
+  "lastUpdatedNews": "2026-07-26T21:20:42.191Z",
   "players": [
     {
       "id": 11928,
@@ -379,7 +379,14 @@
           "fetchedAt": 1785056640227
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Skubal masterful, strikes out 12 Royals in win",
+          "date": "2026-07-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/skubal-masterful-strikes-out-12-royals-in-win",
+          "fetchedAt": 1785100842191
+        }
+      ]
     },
     {
       "id": 11847,
@@ -412,7 +419,14 @@
           "fetchedAt": 1785056637627
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan scratched from start with arm fatigue",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/joe-ryan-scratched-from-start-with-arm-fatigue",
+          "fetchedAt": 1785100842191
+        }
+      ]
     },
     {
       "id": 10940,
@@ -469,7 +483,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft struggles again, earns 10th win",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/braxton-ashcraft-struggles-again-earns-10th-win",
+          "fetchedAt": 1785100842191
+        }
+      ]
     },
     {
       "id": 60238,
@@ -801,7 +822,20 @@
           "fetchedAt": 1785013405125
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill blasts 15th home run in win Sunday",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jackson-merrill-blasts-15th-home-run-in-win-sunday",
+          "fetchedAt": 1785100842191
+        },
+        {
+          "t": "Jackson Merrill collects three hits in victory",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/jackson-merrill-collects-three-hits-in-victory",
+          "fetchedAt": 1785100842191
+        }
+      ]
     },
     {
       "id": 10504,
