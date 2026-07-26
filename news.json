@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-26T09:04:08.090Z",
+  "lastUpdatedNews": "2026-07-26T09:20:44.289Z",
   "players": [
     {
       "id": 11928,
@@ -65,7 +65,14 @@
           "fetchedAt": 1785013409868
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. collects three hits in win",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/vladimir-guerrero-jr-collects-three-hits-in-win",
+          "fetchedAt": 1785057644289
+        }
+      ]
     },
     {
       "id": 10964,
@@ -398,14 +405,7 @@
           "fetchedAt": 1785056640227
         }
       ],
-      "nbcNews": [
-        {
-          "t": "‘Aggressive’ Brewers have touched base on Skubal",
-          "date": "2026-07-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/aggressive-brewers-have-touched-base-on-skubal",
-          "fetchedAt": 1784841701503
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -438,14 +438,7 @@
           "fetchedAt": 1785056637627
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan’s next start pushed back a day",
-          "date": "2026-07-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/ryans-next-start-pushed-back-a-day",
-          "fetchedAt": 1784841701503
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -600,7 +593,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker secures 27th save against Guardians",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/bryan-baker-secures-27th-save-against-guardians",
+          "fetchedAt": 1785057644289
+        }
+      ]
     },
     {
       "id": 10214,
@@ -681,7 +681,14 @@
           "fetchedAt": 1784927012903
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers strikes out seven in win over Phils",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/ryan-weathers-strikes-out-seven-in-win-over-phils",
+          "fetchedAt": 1785057644289
+        }
+      ]
     },
     {
       "id": 8658,
@@ -861,14 +868,7 @@
           "fetchedAt": 1785013405125
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill takes seat against Chris Sale",
-          "date": "2026-07-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/jackson-merrill-takes-seat-against-chris-sale",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -901,7 +901,20 @@
           "fetchedAt": 1785056609749
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger to undergo tests on hamstring",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/cody-bellinger-to-undergo-tests-on-hamstring",
+          "fetchedAt": 1785057644289
+        },
+        {
+          "t": "Cody Bellinger leaves with apparent leg injury",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/cody-bellinger-leaves-with-apparent-leg-injury",
+          "fetchedAt": 1785057644289
+        }
+      ]
     },
     {
       "id": 11760,
@@ -1024,7 +1037,14 @@
           "fetchedAt": 1784926991745
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Noelvi Marte goes 0-for-4 against Cardinals",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/noelvi-marte-goes-0-for-4-against-cardinals",
+          "fetchedAt": 1785057644289
+        }
+      ]
     },
     {
       "id": 60580,
@@ -1122,14 +1142,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Red Sox promoting Franklin Arias to Triple-A",
-          "date": "2026-07-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-23/red-sox-promoting-franklin-arias-to-triple-a",
-          "fetchedAt": 1784884848558
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64967,
