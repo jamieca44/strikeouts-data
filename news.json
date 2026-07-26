@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-26T09:20:44.289Z",
+  "lastUpdatedNews": "2026-07-26T21:04:22.554Z",
   "players": [
     {
       "id": 11928,
@@ -47,22 +47,6 @@
           "when": "18m ago",
           "href": "https://sports.yahoo.com/videos/vladimir-guerrero-jr-rbi-single-204501160.html",
           "fetchedAt": 1785013409868
-        },
-        {
-          "t": "Red Sox to See Very Different Vladimir Guerrero Jr. — but Fenway Park History Matters",
-          "s": "Boston is going to take on the Blue Jays this weekend.",
-          "by": "Billy Heyen",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-see-very-different-141410537.html",
-          "fetchedAt": 1785013409868
-        },
-        {
-          "t": "Red Sox host the Blue Jays to begin 3-game series",
-          "s": "Toronto Blue Jays (47-56, fifth in the AL East) vs. Boston Red Sox (52-49, third in the AL East) Boston; Friday, 7:15 p.m. EDT PITCHING PROBABLES: Blue Jays: Trey Yesavage (4-5, 3.78 ERA, 1.16 WHIP, 78 strikeouts); Red Sox: Patrick Sandoval (0-0, 4.82 ERA, 1.71 WHIP, 10 strikeouts) LINE: Red Sox -128, Blue Jays +106; over/under is 8 1/2 runs BOTTOM LINE: The Boston Red Sox host the Toronto Blue Jays on Friday to open a three-game series. Boston has a 52-49 record overall and a 23-28 record at home.",
-          "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-host-blue-jays-075550663.html",
-          "fetchedAt": 1785013409868
         }
       ],
       "nbcNews": [
@@ -79,16 +63,7 @@
       "name": "Luis García Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
-      "yahooNews": [
-        {
-          "t": "Nationals Star Foster Griffin Predicted To Be Traded, Why That Likely Will Happen",
-          "s": "Foster Griffin was predicted to be traded by the Washington Nationals ahead of the trade deadline, and there's a good chance that happens.",
-          "by": "Brad Wakai",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/nationals-star-foster-griffin-predicted-165544292.html",
-          "fetchedAt": 1784970227362
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Luis García Jr. absent from Saturday’s lineup",
@@ -137,12 +112,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
       "yahooNews": [
         {
-          "t": "Dillon Dingler's Timely Hitting Is Fueling the Tigers' Success",
-          "s": "This is how Dillon Dingler is fueling the Tigers success",
-          "by": "Dominic Minchella",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/dillon-dinglers-timely-hitting-fueling-170007748.html",
-          "fetchedAt": 1784970172882
+          "t": "Nick Kurtz's three-run homer (21)",
+          "s": "",
+          "by": "",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/videos/nick-kurtzs-three-run-homer-195825990.html",
+          "fetchedAt": 1785099846130
+        },
+        {
+          "t": "A's Drop Game 2 as Offense Fails Patchwork Pitching",
+          "s": "After winning the series opener on Friday, the Athletics would stumble big time, forcing a series decider on Sunday.",
+          "by": "Andrew L. Ferguson Jr",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/drop-game-2-offense-fails-120008385.html",
+          "fetchedAt": 1785099846130
+        },
+        {
+          "t": "Athletics Announce Nick Kurtz News During Twins Series",
+          "s": "The Athletics secured a 2-0 victory over the Minnesota Twins on Friday night in the series opener.Entering July, the Athletics were still in the mix in the AL West. However, they have gone 3-14 throughout the month and now sit 15 games below .500.Despite their struggles, the team received some positive news Saturday afternoon regarding […] The post Athletics Announce Nick Kurtz News During Twins Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/athletics-announce-nick-kurtz-news-215821483.html",
+          "fetchedAt": 1785099846130
         }
       ],
       "nbcNews": [
@@ -178,6 +169,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
       "yahooNews": [
         {
+          "t": "Tomoyuki Sugano earns his 10th win as Rockies defeat Brewers 5-2",
+          "s": "Tomoyuki Sugano picked up his 10th win and Kyle Karros and TJ Rumfield each had two hits as the Colorado Rockies capitalized on a fast start to beat the Milwaukee Brewers 5-2 on Friday. Sugano (10-4) struck out five over 5 1/3 innings and allowed two runs on a pair of homers — Christian Yelich's 413-foot leadoff drive in the first inning and Brice Turang's 434-foot blast in the sixth.",
+          "by": "STEVE MEGARGEE",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/tomoyuki-sugano-earns-10th-win-231050054.html",
+          "fetchedAt": 1785099858583
+        },
+        {
           "t": "Three Takeaways From Rockies' Big Win",
           "s": "In an impressive win on Friday afternoon, the Colorado Rockies found a way to defeat the National League Central Division-leading Milwaukee Brewers.",
           "by": "Joe Rutland",
@@ -191,14 +190,6 @@
           "by": "",
           "when": "8h ago",
           "href": "https://sports.yahoo.com/videos/sugano-carrigg-lead-rockies-past-001959298.html",
-          "fetchedAt": 1784970215501
-        },
-        {
-          "t": "Rockies play the Brewers’ game in 5-2 series-opening win",
-          "s": "Tomoyuki Sugano earns his 10th win as Colorado pairs hard contact with pressure, execution and 3.2 scoreless innings from the bullpen.",
-          "by": "James Riggenbach",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/rockies-play-brewers-game-5-233640211.html",
           "fetchedAt": 1784970215501
         }
       ],
@@ -252,12 +243,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [
         {
-          "t": "Why Sal Stewart Has a Strong Case Over JJ Wetherholt for NL Rookie of the Year",
-          "s": "By the numbers, Sal Stewart is having a better year than JJ Wetherholt.",
-          "by": "Keegan Nickoson",
-          "when": "36m ago",
-          "href": "https://sports.yahoo.com/articles/why-sal-stewart-strong-case-202809267.html",
-          "fetchedAt": 1784927093853
+          "t": "Elly De La Cruz's solo home run (18)",
+          "s": "",
+          "by": "",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/videos/elly-la-cruzs-solo-home-185708361.html",
+          "fetchedAt": 1785099840097
+        },
+        {
+          "t": "Elly De La Cruz singles in the 3rd",
+          "s": "",
+          "by": "",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/videos/elly-la-cruz-singles-3rd-234648657.html",
+          "fetchedAt": 1785099840097
         }
       ],
       "nbcNews": [
@@ -274,32 +273,7 @@
       "name": "José Ramírez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
-      "yahooNews": [
-        {
-          "t": "Guardians get massive boost for Rays series",
-          "s": "The Guardians activated outfielder/infielder Angel Martínez and reliever Tim Herrin from the IL ahead of their series against the Rays.",
-          "by": "Abdullah Imran, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-massive-boost-rays-series-204910930.html",
-          "fetchedAt": 1785013429247
-        },
-        {
-          "t": "The Guardians ‘Will Try’ to Improve Roster Ahead of Trade Deadline",
-          "s": "The Cleveland Guardians will look to improve the roster ahead of the MLB trade deadline, but that doesn't guarantee a deal will get done.",
-          "by": "Tommy Wild",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-try-improve-roster-ahead-145537427.html",
-          "fetchedAt": 1784927016855
-        },
-        {
-          "t": "Guardians News: We Stink Again",
-          "s": "News and Notes for Friday, July 24th, 2026",
-          "by": "Quincy Wheeler",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-news-stink-again-120400642.html",
-          "fetchedAt": 1784927016855
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "José Ramírez getting breather on Friday",
@@ -453,22 +427,6 @@
           "when": "22h ago",
           "href": "https://sports.yahoo.com/articles/mariners-game-104-preview-discussion-230300650.html",
           "fetchedAt": 1785013425071
-        },
-        {
-          "t": "Texas Rangers favored over Seattle Mariners as Bryce Miller's road struggles continue in AL West",
-          "s": "Bryce Miller's road struggles and MacKenzie Gore's home dominance shape this American League West betting matchup between Seattle and Texas.",
-          "by": "David Troy",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-favored-over-seattle-153529366.html",
-          "fetchedAt": 1785013425071
-        },
-        {
-          "t": "Predictions for Seattle vs. Texas MLB Game With Bryce Miller",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/predictions-seattle-vs-texas-mlb-184622437.html",
-          "fetchedAt": 1785013425071
         }
       ],
       "nbcNews": [
@@ -487,12 +445,12 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Cincinnati Reds: Eugenio Suárez relishes return to Seattle",
-          "s": "SEATTLE — Before Eugenio Suárez stepped up to the plate, the scoreboard at T-Mobile Park in Seattle showed one of the best moments of Suárez’s career. The action stopped. Mariners catcher Cal Raleigh gave Suárez a hug. It was Suárez’s first time in this ballpark since he hit the decisive grand slam in a Game 5 ALCS win over the Blue Jays in 2025. While Toronto rallied to win that series, ...",
-          "by": "Lindsey Wasson / AP, Journal-News, Hamilton, Ohio",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-eugenio-su-rez-183700434.html",
-          "fetchedAt": 1784927091878
+          "t": "Two-start pitchers: Chris Sale headlines an outstanding group of options as we flip the calendar to August",
+          "s": "Kyle Bradish, Christian Scott and Zack Wheeler are among the projected two-start pitchers for the upcoming week.",
+          "by": "David Shovein",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/two-start-pitchers-chris-sale-150212862.html",
+          "fetchedAt": 1785099838219
         }
       ],
       "nbcNews": []
@@ -510,24 +468,7 @@
       "name": "Braxton Ashcraft",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
-      "yahooNews": [
-        {
-          "t": "Jones, Skenes, Ashcraft: Pirates Star Pitchers Lined Up for Massive Series Against Cubs",
-          "s": "With the Cubs, the NL wild card leaders, coming to PNC Park, three of Pittsburgh's top pitchers will take the mound.",
-          "by": "Jake Mozarsky",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/jones-skenes-ashcraft-pirates-star-164425185.html",
-          "fetchedAt": 1785013416905
-        },
-        {
-          "t": "On The Horizon: Cubs vs. Pirates series preview",
-          "s": "The Cubs visit PNC Park.",
-          "by": "Al Yellon",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/horizon-cubs-vs-pirates-series-183000669.html",
-          "fetchedAt": 1785013416905
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -537,28 +478,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [
         {
-          "t": "Dodgers back in New York, to face Mets",
-          "s": "After an off day, the Dodgers are back in New York City, this time to face the Mets. They have taken the first two series in this road trip, from the Yankees and then from the Philadelphia Phillies. Roki Sasaki will take the mound for his second start of the second half. He had a […]",
-          "by": "Andy Lane Chapman",
+          "t": "Dodgers vs. Mets game chat",
+          "s": "The Dodgers end their nine-game road trip looking to sweep the New York Mets on Sunday. Emmet Sheehan faces Freddy Peralta. SUNDAY GAME INFO",
+          "by": "Jacob Macofsky",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-vs-mets-game-chat-172600129.html",
+          "fetchedAt": 1785099843794
+        },
+        {
+          "t": "Mets vs Dodgers, 7/26/26: Peralta vs Sheehan",
+          "s": "Mets will try to salvage one today",
+          "by": "Micah Noe",
           "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-back-york-face-mets-164700242.html",
-          "fetchedAt": 1784927104137
+          "href": "https://sports.yahoo.com/articles/mets-vs-dodgers-7-26-164000153.html",
+          "fetchedAt": 1785099843794
         },
         {
-          "t": "Dodgers vs. Mets Preview: End of a Nine-Game Road Stretch",
-          "s": "Riding momentum from series wins in New York and Philly, the Los Angeles Dodgers look to bury the struggling New York Mets to cap off a nine-game road trip.",
-          "by": "Jordon Lawrenz",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-vs-mets-preview-end-160246241.html",
-          "fetchedAt": 1784927104137
-        },
-        {
-          "t": "Dodgers Notes: Emmet Sheehan Trade Candidate, Freddie Freeman Wants New Contract, Kevin Gausman to LA?",
-          "s": "The Los Angeles Dodgers may include Emmet Sheehan in a trade package, Freddie Freeman wants a new contract and Kevin Gausman was linked to LA.",
-          "by": "Gabe Smallson",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-notes-emmet-sheehan-trade-125900819.html",
-          "fetchedAt": 1784927104137
+          "t": "Mets head into matchup with the Dodgers on losing streak",
+          "s": "Los Angeles Dodgers (67-38, first in the NL West) vs. New York Mets (43-62, fifth in the NL East) New York; Sunday, 1:40 p.m. EDT PITCHING PROBABLES: Dodgers: Emmet Sheehan (4-7, 5.13 ERA, 1.27 WHIP, 99 strikeouts); Mets: Freddy Peralta (5-9, 5.01 ERA, 1.46 WHIP, 110 strikeouts) LINE: Dodgers -163, Mets +134; over/under is 9 1/2 runs BOTTOM LINE: The New York Mets look to end a three-game losing streak when they play the Los Angeles Dodgers. New York is 43-62 overall and 21-30 at home.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/mets-head-matchup-dodgers-losing-075600490.html",
+          "fetchedAt": 1785099843794
         }
       ],
       "nbcNews": []
@@ -663,22 +604,6 @@
           "when": "13h ago",
           "href": "https://sports.yahoo.com/articles/yankees-visit-phillies-5-game-075557438.html",
           "fetchedAt": 1785013427622
-        },
-        {
-          "t": "Yankees visit the Phillies to begin 3-game series",
-          "s": "New York Yankees (57-45, second in the AL East) vs. Philadelphia Phillies (56-47, second in the NL East) Philadelphia; Friday, 6:45 p.m. EDT PITCHING PROBABLES: Yankees: Will Warren (7-4, 4.00 ERA, 1.37 WHIP, 97 strikeouts); Phillies: Jesus Luzardo (9-4, 3.43 ERA, 1.21 WHIP, 143 strikeouts) LINE: Phillies -134, Yankees +111; over/under is 8 runs BOTTOM LINE: The Philadelphia Phillies host the New York Yankees to open a three-game series. Philadelphia has a 56-47 record overall and a 27-25 record at home.",
-          "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-visit-phillies-begin-3-075556536.html",
-          "fetchedAt": 1785013427622
-        },
-        {
-          "t": "Tarik Skubal Breaks Silence, Sends Clear Message on Future Amid Dodgers, Yankees Trade Rumors",
-          "s": "With the trade deadline just days away, no pitcher has generated more buzz than Tarik Skubal. The Detroit Tigers are hovering outside the American League playoff picture, and the two-time Cy Young Award winner is set to become a free agent after the season.",
-          "by": "Ritabrata Chakrabarti",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-breaks-silence-sends-114554786.html",
-          "fetchedAt": 1784927012903
         }
       ],
       "nbcNews": [
@@ -697,28 +622,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Freddie Freeman scores on Miguel Rojas' sac fly",
+          "t": "Freddie Freeman's RBI double",
           "s": "",
           "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/freddie-freeman-scores-miguel-rojas-000027002.html",
-          "fetchedAt": 1784970217418
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/videos/freddie-freemans-rbi-double-183330950.html",
+          "fetchedAt": 1785099860672
         },
         {
-          "t": "Los Angeles Dodgers Announce Freddie Freeman Decision Before Mets Series",
-          "s": "On Friday night, the Los Angeles Dodgers will open up a series with the New York Mets at Citi Field.They are coming off a series where they won two out of three games against the Philadelphia Phillies.Most recently, the Dodgers won by a score of 9-5 on Wednesday.Freddie Freeman (who batted 3rd) finished with three […] The post Los Angeles Dodgers Announce Freddie Freeman Decision Before Mets Series appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-freddie-232252507.html",
-          "fetchedAt": 1784970217418
+          "t": "Freeman Wants to End Career With Dodgers, But How Will it Happen?",
+          "s": "The Los Angeles Dodgers must decide if it's worth signing first baseman Freddie Freeman to an extension.",
+          "by": "Cameron Belcher",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/freeman-wants-end-career-dodgers-230008367.html",
+          "fetchedAt": 1785099860672
         },
         {
-          "t": "New York Mets Announce Juan Soto Decision Before Dodgers Series",
-          "s": "The New York Mets are set to begin an anticipated series with the Los Angeles Dodgers. It hasn’t been the season the Mets have hoped for, as they are 43-60, and sit in last place in the NL East. However, the schedule must roll along, and MLB’s top team, the Dodgers, are coming to Citi […] The post New York Mets Announce Juan Soto Decision Before Dodgers Series appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/york-mets-announce-juan-soto-223143778.html",
-          "fetchedAt": 1784970217418
+          "t": "Dodgers at Mets game chat",
+          "s": "Dodgers try for their fifth win in as many tries against the Mets this season, with ace Yoshinobu Yamamoto on the mound in Queens. Saturday game info",
+          "by": "Eric Stephen",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-mets-game-chat-230100621.html",
+          "fetchedAt": 1785099860672
         }
       ],
       "nbcNews": []
@@ -795,28 +720,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [
         {
-          "t": "Dansby Swanson's go-ahead single",
+          "t": "Chicago Cubs Announce Dansby Swanson Change Before Pirates Series Finale",
+          "s": "On Sunday, the Chicago Cubs will conclude their series with the Pirates at PNC Park in Pittsburgh. The Cubs are coming off an 11-0 win on Saturday. Dansby Swanson (who batted 8th) finished with two hits, one walk, one strikeout, one RBI and two runs. Chicago Cubs Announce Dansby Swanson Change For Sunday’s game, the […] The post Chicago Cubs Announce Dansby Swanson Change Before Pirates Series Finale appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-191022471.html",
+          "fetchedAt": 1785099853460
+        },
+        {
+          "t": "Dansby Swanson's RBI single",
           "s": "",
           "by": "",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/videos/dansby-swansons-ahead-rbi-single-010809750.html",
-          "fetchedAt": 1784970206618
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/dansby-swansons-rbi-single-180231241.html",
+          "fetchedAt": 1785099853460
         },
         {
-          "t": "Pirates offense squanders chances in 3-2 loss to Cubs",
-          "s": "The Pittsburgh Pirates had their chances, but ultimately squandered them in a painful 3-2 extra-inning loss to the Chicago Cubs at PNC Park Friday night.",
+          "t": "Pirates Trounched by Cubs in Front of Sellout Crowd",
+          "s": "The Pittsburgh Pirates started a crucial homestand with the Chicago Cubs by losing a game they should have won. Nobody […] The post Pirates Trounched by Cubs in Front of Sellout Crowd appeared first on Pittsburgh Baseball Now.",
           "by": "Joe Smeltzer",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-offense-squanders-chances-3-014033938.html",
-          "fetchedAt": 1784970206618
-        },
-        {
-          "t": "Pirates Offense Squanders Chances in 3-2 Loss to Cubs",
-          "s": "The Pittsburgh Pirates had their chances, but ultimately squandered them in a painful 3-2 extra-inning loss to the Chicago Cubs […] The post Pirates Offense Squanders Chances in 3-2 Loss to Cubs appeared first on Pittsburgh Baseball Now.",
-          "by": "Joe Smeltzer",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-offense-squanders-chances-3-012725232.html",
-          "fetchedAt": 1784970206618
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-trounched-cubs-front-sellout-013110029.html",
+          "fetchedAt": 1785099853460
         }
       ],
       "nbcNews": []
@@ -828,20 +753,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "Pete Crow-Armstrong's solo home run (22)",
-          "s": "",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/pete-crow-armstrongs-solo-home-235912796.html",
-          "fetchedAt": 1784970213383
+          "t": "How to live stream Cubs vs Pirates: MLB, TV channel",
+          "s": "The Chicago Cubs (59-45) look to close out a three-game sweep of the Pittsburgh Pirates (53-52) on Sunday at PNC Park in Pittsburgh. How to Watch Chicago Cubs vs Pittsburgh Pirates Pete Crow-Armstrong powered Chicago to an 11-0 rout on…",
+          "by": "Ben Verbrugge",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/live-stream-cubs-vs-pirates-160000669.html",
+          "fetchedAt": 1785099855792
         },
         {
-          "t": "Pete Crow-Armstrong again projected to get most from pre-arbitration bonus pool based on stats",
-          "s": "Chicago Cubs center fielder Pete Crow-Armstrong is again projected to receive the largest amount from the $50 million pre-arbitration bonus pool based on his regular-season statistics. Crow-Armstrong is on track to receive $1,179,587 according to WAR calculations through July 6 that Major League Baseball sent to teams, players and agents in a memo obtained by The Associated Press. Miami shortstop Otto Lopez is second at $910,239, followed Milwaukee right-hander Jacob Misiorowski ($896,407), St. Louis second baseman JJ Wetherholt ($879,874), Detroit catcher Dillon Dingler ($797,802), Tigers infielder Kevin McGonigle ($786,326), Washington outfielder James Wood ($711,330), Athletics first baseman Nick Kurtz ($639,780), New York Yankees right-hander Cam Schlittler ($637,145) and Chicago White Sox infielder Miguel Vargas ($635,299).",
-          "by": "RONALD BLUM",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/pete-crow-armstrong-again-projected-153417512.html",
-          "fetchedAt": 1784970213383
+          "t": "Cubs star Pete Crow-Armstrong's MVP case is starting to eclipse Shohei Ohtani's",
+          "s": "Could Chicago Cubs All-Star outfielder Pete Crow-Armstrong snag the NL MVP from Los Angeles Dodgers two-way superstar Shohei Ohtani? PCA's narrative speaks for itself.",
+          "by": "Jake Elman",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-star-pete-crow-armstrongs-145516641.html",
+          "fetchedAt": 1785099855792
+        },
+        {
+          "t": "“If Shohei Ohtani Doesn’t Pitch Again, Pete Crow-Armstrong Owns Him” – Fans React After Dodgers Skipper Makes MVP Claim",
+          "s": "Chicago Cubs center fielder Pete Crow-Armstrong has put himself in the conversation to win the NL MVP award with a string of exemplary performances this season. While beating LA Dodgers phenom Shohei Ohtani will not be easy, the Japanese star’s delayed return to the mound could work in Crow-Armstrong’s favor.",
+          "by": "Karan Tyagi",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/shohei-ohtani-doesn-t-pitch-143027500.html",
+          "fetchedAt": 1785099855792
         }
       ],
       "nbcNews": [
@@ -921,7 +854,16 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tigers score two runs on fielding error",
+          "s": "",
+          "by": "",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/videos/tigers-score-two-runs-fielding-192351114.html",
+          "fetchedAt": 1785099814335
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -929,32 +871,7 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [
-        {
-          "t": "Orioles' 80-walk outfielder is 'safer bet' to be traded than Adley Rutschman",
-          "s": "This Orioles outfielder is a much \\\"safer bet\\\" to be traded than Adley Rutschman.",
-          "by": "Matt Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/orioles-80-walk-outfielder-safer-203834829.html",
-          "fetchedAt": 1785013415517
-        },
-        {
-          "t": "Phillies are a 'strong fit' for Orioles .746 OPS outfielder, per rival MLB execs",
-          "s": "This Orioles OF would be a 'strong fit' for the Phillies at the MLB trade deadline.",
-          "by": "Matt Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/phillies-strong-fit-orioles-746-184559636.html",
-          "fetchedAt": 1785013415517
-        },
-        {
-          "t": "Latest Orioles rumors make Adley Rutschman's fate even more confusing",
-          "s": "The Baltimore Orioles have less than two weeks to determine whether they will trade franchise catcher Adley Rutschman.",
-          "by": "Jake Elman",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/latest-orioles-rumors-adley-rutschmans-192219667.html",
-          "fetchedAt": 1785013415517
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -964,28 +881,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [
         {
-          "t": "Astros mark eight runs in comeback win vs. White Sox",
+          "t": "Isaac Paredes' two-run single",
           "s": "",
           "by": "",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/astros-mark-eight-runs-comeback-041216027.html",
-          "fetchedAt": 1784970192380
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/isaac-paredes-two-run-single-003439025.html",
+          "fetchedAt": 1785099848554
         },
         {
-          "t": "Walker, Smith spark the Astros' 8-run 6th inning in an 9-5 win over the White Sox",
-          "s": "Christian Walker hit a three-run double, Cam Smith added a two-run homer in Houston's eight-run sixth inning and the Astros overcame a five-run deficit to beat the Chicago White Sox 9-5 on Friday night. Jeremy Peña and Jose Altuve had three hits apiece for Houston. Houston starter Spencer Arrighetti left the mound during his warmup pitches and was relieved by AJ Blubaugh to begin the second inning.",
+          "t": "Cam Smith's two-run homer (13)",
+          "s": "",
           "by": "",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/walker-smith-spark-astros-8-031503192.html",
-          "fetchedAt": 1784970192380
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/cam-smiths-two-run-homer-014243904.html",
+          "fetchedAt": 1785099848554
         },
         {
-          "t": "8-Run 6th Inning Carries Astros to 4th Straight Win, 9-5 Over White Sox",
-          "s": "Cheers at Rate Field turned to boos and a stunned crowd of 28,657 could only shake their collective heads in disbelief as the Astros would erase a five-run deficit in defeating the White Sox by a score of 9-5. The night began inauspiciously enough. The White Sox would send all nine men to the plate […]",
-          "by": "Craig Larson Jr.",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/8-run-6th-inning-carries-031538322.html",
-          "fetchedAt": 1784970192380
+          "t": "Astros Defeat the White Sox 9-5 in a Wild Comeback Win",
+          "s": "The winning streak continues for the Houston Astros. Although the first game of the series didn't look like it was going to go in the Astros' favor, they were able to make a serious comeback, defeating the White Sox 9-5, per ESPN.",
+          "by": "Sydney Cruse",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/astros-defeat-white-sox-9-210026479.html",
+          "fetchedAt": 1785099848554
         }
       ],
       "nbcNews": [
@@ -1019,7 +936,32 @@
       "name": "Jose Altuve",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Astros mark eight runs in comeback win vs. White Sox",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/astros-mark-eight-runs-comeback-041216027.html",
+          "fetchedAt": 1785099816513
+        },
+        {
+          "t": "Walker, Smith spark the Astros' 8-run 6th inning in an 9-5 win over the White Sox",
+          "s": "Christian Walker hit a three-run double, Cam Smith added a two-run homer in Houston's eight-run sixth inning and the Astros overcame a five-run deficit to beat the Chicago White Sox 9-5 on Friday night. Jeremy Peña and Jose Altuve had three hits apiece for Houston. Houston starter Spencer Arrighetti left the mound during his warmup pitches and was relieved by AJ Blubaugh to begin the second inning.",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/walker-smith-spark-astros-8-031503192.html",
+          "fetchedAt": 1785099816513
+        },
+        {
+          "t": "8-Run 6th Inning Carries Astros to 4th Straight Win, 9-5 Over White Sox",
+          "s": "Cheers at Rate Field turned to boos and a stunned crowd of 28,657 could only shake their collective heads in disbelief as the Astros would erase a five-run deficit in defeating the White Sox by a score of 9-5. The night began inauspiciously enough. The White Sox would send all nine men to the plate […]",
+          "by": "Craig Larson Jr.",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/8-run-6th-inning-carries-031538322.html",
+          "fetchedAt": 1785099816513
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1027,16 +969,7 @@
       "name": "Noelvi Marte",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
-      "yahooNews": [
-        {
-          "t": "Fantasy baseball waiver wire: Grant Taylor, Victor Mesa. Jr and others who should be rostered more",
-          "s": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
-          "by": "Eric Samulski, James Schiano",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-grant-175705177.html",
-          "fetchedAt": 1784926991745
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Noelvi Marte goes 0-for-4 against Cardinals",
@@ -1075,14 +1008,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/red-sox-eye-star-shortstop-150053552.html",
           "fetchedAt": 1785056629554
-        },
-        {
-          "t": "Red Sox reportedly eyeing CJ Abrams, Zach Neto as trade deadline targets to boost lineup",
-          "s": "Either one of these guys could bring the pop Boston needs from the middle infield.",
-          "by": "TJ Morin",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-reportedly-eyeing-cj-195833806.html",
-          "fetchedAt": 1784927024388
         }
       ],
       "nbcNews": []
@@ -1092,24 +1017,7 @@
       "name": "Marcelo Mayer",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
-      "yahooNews": [
-        {
-          "t": "Red Sox Reportedly Have Eyes On Two-Time All-Star Shortstop At Trade Deadline",
-          "s": "The Boston Red Sox are suddenly expected to be buyers at the trade deadline",
-          "by": "Aaliyan Mohammed",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-reportedly-eyes-two-143742822.html",
-          "fetchedAt": 1784970225291
-        },
-        {
-          "t": "Giants' 4X All-Star is 'perfect' trade fit for Red Sox",
-          "s": "Boston could use an upgrade in its infield.",
-          "by": "Conor Liguori",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/giants-4x-star-perfect-trade-134647037.html",
-          "fetchedAt": 1784970225291
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1117,16 +1025,7 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [
-        {
-          "t": "Royals Reacts Survey – Let’s make a deal",
-          "s": "‘Tis the season for pretending we know better than all the GMs in baseball",
-          "by": "Jeremy Greco",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/royals-reacts-survey-let-deal-142818154.html",
-          "fetchedAt": 1784970223134
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Matt Shaw (hand) won’t return prior to August",
@@ -1149,7 +1048,16 @@
       "name": "Eduardo Quintero",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Four Dodgers Players Who Should Be Untouchable at Trade Deadline",
+          "s": "The Los Angeles Dodgers are no doubt in win-now mode, but they are known for their reluctance to let their true gems leave the facility.",
+          "by": "Nelson Espinal",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/four-dodgers-players-untouchable-trade-160000041.html",
+          "fetchedAt": 1785099823864
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1165,7 +1073,32 @@
       "name": "Jacob deGrom",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Game 105 Game Day Thread – Seattle Mariners @ Texas Rangers",
+          "s": "Rangers try to lock up a series win on deGrom day",
+          "by": "ghostofErikThompson",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/game-105-game-day-thread-173500947.html",
+          "fetchedAt": 1785099827029
+        },
+        {
+          "t": "Mariners Game #106 Preview and Discussion: 7/26/26, Mariners at Texas",
+          "s": "Once more without feeling",
+          "by": "Zach Mason",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-game-106-preview-discussion-173500342.html",
+          "fetchedAt": 1785099827029
+        },
+        {
+          "t": "Game 104 Game Day Thread – Seattle Mariners @ Texas Rangers",
+          "s": "Now would be a good time to be nasty, Nate",
+          "by": "ghostofErikThompson",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/game-104-game-day-thread-221500288.html",
+          "fetchedAt": 1785099827029
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1175,28 +1108,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "Seigler leads Red Sox against the Blue Jays following 4-hit game",
-          "s": "Toronto Blue Jays (47-57, fifth in the AL East) vs. Boston Red Sox (53-49, third in the AL East) Boston; Saturday, 4:10 p.m. EDT PITCHING PROBABLES: Blue Jays: Dylan Cease (6-5, 2.67 ERA, 1.14 WHIP, 155 strikeouts); Red Sox: Sonny Gray (12-1, 2.48 ERA, 1.12 WHIP, 90 strikeouts) LINE: Red Sox -120, Blue Jays -102; over/under is 7 1/2 runs BOTTOM LINE: The Boston Red Sox take on the Toronto Blue Jays after Anthony Seigler had four hits against the Blue Jays on Friday. Boston is 53-49 overall and 24-28 at home.",
-          "by": "The Associated Press",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/seigler-leads-red-sox-against-075602041.html",
-          "fetchedAt": 1784970202287
+          "t": "Yankees Rivalry Roundup: Dylan Cease pitches one-hitter against Red Sox",
+          "s": "Toronto’s ace stepped up big time to halt Boston’s momentum on Saturday.",
+          "by": "Madison Pavich",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-dylan-cease-140000458.html",
+          "fetchedAt": 1785099851004
         },
         {
-          "t": "Seigler has first career 4-hit game to help the Red Sox beat the Blue Jays",
-          "s": "Anthony Seigler led off with a homer and had his first four-hit game in the majors, Romy Gonzalez broke an eighth-inning tie with an RBI double and the Boston Red Sox beat the Toronto Blue Jays 6-4 on Friday night. Boston rebounded from a loss Wednesday night in the second game of a doubleheader against Baltimore that ended a 15-game winning streak. The Red Sox are 24-6 in their last 30 games.",
-          "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/seigler-first-career-4-hit-025223416.html",
-          "fetchedAt": 1784970202287
+          "t": "Blue Jays' Dylan Cease makes baseball history only done before by Nolan Ryan",
+          "s": "It's hard to do better than this.",
+          "by": "Billy Heyen",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-dylan-cease-makes-134905460.html",
+          "fetchedAt": 1785099851004
         },
         {
-          "t": "Red Sox Announce Anthony Seigler Decision Before Blue Jays Series Opener",
-          "s": "The Boston Red Sox announced a lineup decision involving Anthony Seigler ahead of their series opener against the Blue Jays. The post Red Sox Announce Anthony Seigler Decision Before Blue Jays Series Opener appeared first on HEAVY.",
-          "by": "Jonathan Vankin",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-announce-anthony-seigler-231357016.html",
-          "fetchedAt": 1784970202287
+          "t": "Red Sox Trade Connelly Early After Loss to Blue Jays",
+          "s": "The Boston Red Sox traded one of its top rookie prospects after losing to the Toronto Blue Jays.",
+          "by": "Ayomide Adeduyite",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-trade-connelly-early-121200199.html",
+          "fetchedAt": 1785099851004
         }
       ],
       "nbcNews": []
@@ -1223,7 +1156,32 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "2026 Cy Young Odds: Misiorowski Dials It Up a Notch",
+          "s": "MLB Cy Young odds for 2026, featuring Jacob Misiorowski, Cam Schlittler, and Dylan Cease.",
+          "by": "Jason Wilson",
+          "when": "47m ago",
+          "href": "https://sports.yahoo.com/articles/2025-cy-young-odds-skubal-140900897.html",
+          "fetchedAt": 1785099829104
+        },
+        {
+          "t": "Realmuto reveals what makes Sánchez so effective",
+          "s": "",
+          "by": "",
+          "when": "58m ago",
+          "href": "https://sports.yahoo.com/videos/realmuto-reveals-makes-nchez-effective-200513159.html",
+          "fetchedAt": 1785099829104
+        },
+        {
+          "t": "TST Best Bets: July 26, 2027",
+          "s": "Sunday’s MLB slate concludes with one of the weekend’s most compelling matchups, as the New York Yankees and Philadelphia Phillies meet under the lights.The Phillies are heavy favorites to salvage the series finale after dropping the first two games and extending their losing streak to four.Offense has been difficult to come by for Philadelphia, which is just 2-6 since the All-Star break, but it holds a clear advantage in tonight’s pitching matchup between Will Warren and Cristopher Sánchez.For",
+          "by": "Timothy Hessen",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/tst-best-bets-july-26-182217099.html",
+          "fetchedAt": 1785099829104
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1264,7 +1222,32 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Yankees' Pitching Shines, But Can They Hit for Success?",
+          "s": "",
+          "by": "",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/videos/yankees-pitching-shines-hit-success-110842264.html",
+          "fetchedAt": 1785099830760
+        },
+        {
+          "t": "“That's a Horrible Call”: Yankees Broadcaster Stunned as Jose Caballero Continues to Face Controversial Umpiring Decisions",
+          "s": "José Caballero has already become a familiar face in the league’s pitch-clock debates, and the controversy followed him again in Pittsburgh earlier this week, where his routine helped spark a bench-clearing scene. At Citizens Bank Park, the Yankees shortstop found himself in the middle of another disputed ruling, and this time he could only stand there, shaking his head in disbelief.",
+          "by": "Ritabrata Chakrabarti",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/thats-horrible-call-yankees-broadcaster-085527822.html",
+          "fetchedAt": 1785099830760
+        },
+        {
+          "t": "Jose Caballero’s pitch clock reality setting in as search for clarity stalls: ‘Ain’t figuring this out’",
+          "s": "José Caballero insists he is not mad.",
+          "by": "Greg Joyce",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/jose-caballero-pitch-clock-reality-235645373.html",
+          "fetchedAt": 1785099830760
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1340,28 +1323,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [
         {
-          "t": "Giants' 5.31 ERA starter could be 'decent gamble' at trade deadline",
-          "s": "San Francisco is in full sell mode as the deadline approaches.",
-          "by": "Conor Liguori",
-          "when": "27m ago",
-          "href": "https://sports.yahoo.com/articles/giants-5-31-era-starter-203733874.html",
-          "fetchedAt": 1784927101873
+          "t": "Robbie Ray Makes Honest Statement About San Francisco Giants Future",
+          "s": "On Sunday, the San Francisco Giants will look to sweep the Los Angeles Angels at Oracle Park.They have won each of the first two games in the series.Most recently, the Giants won by a score of 9-2 on Saturday.Robbie Ray Makes Honest Statement About Giants FutureRobbie Ray had a strong showing on Saturday, as he […] The post Robbie Ray Makes Honest Statement About San Francisco Giants Future appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/robbie-ray-makes-honest-statement-171452643.html",
+          "fetchedAt": 1785099841950
         },
         {
-          "t": "Cubs linked to Giants 3.33 ERA lefty as 'perfect' trade target by ex-MLB GM",
-          "s": "The Cubs' \\\"perfect\\\" option to upgrade the rotation could be a 3.33 ERA Giants lefty.",
-          "by": "Matt Sullivan",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-linked-giants-3-33-195240755.html",
-          "fetchedAt": 1784927101873
-        },
-        {
-          "t": "MLB rumors: Why Rays are better fit for Luis Arraez than Yankees, Dodgers, per insider",
-          "s": "One MLB insider believes the Rays would be a better fit for Luis Arraez than the Yankees or Dodgers if he gets traded.",
-          "by": "RB Hayek, ClutchPoints",
+          "t": "Giants Positioned to Get Maximum Trade Deadline Return for Rotation Star",
+          "s": "The San Francisco Giants are going to have to move some players before ethe trade deadline and this pitcher has positioned himself as a key to that strategy.",
+          "by": "Matt Postins",
           "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rumors-why-rays-better-140619473.html",
-          "fetchedAt": 1784927101873
+          "href": "https://sports.yahoo.com/articles/giants-positioned-maximum-trade-deadline-150004422.html",
+          "fetchedAt": 1785099841950
+        },
+        {
+          "t": "Giants reveal trade plans for .738 OPS outfielder that's big news for Phillies, Braves",
+          "s": "This trade plan for a .738 OPS outfielder is a big one for the Giants.",
+          "by": "Matt Sullivan",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/giants-reveal-trade-plans-738-145257972.html",
+          "fetchedAt": 1785099841950
         }
       ],
       "nbcNews": []
