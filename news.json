@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-27T21:04:45.676Z",
+  "lastUpdatedNews": "2026-07-27T21:21:17.560Z",
   "players": [
     {
       "id": 11928,
@@ -121,7 +121,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis swipes two bags in loss",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/royce-lewis-swipes-two-bags-in-loss",
+          "fetchedAt": 1785187277560
+        }
+      ]
     },
     {
       "id": 12550,
@@ -608,7 +615,14 @@
           "fetchedAt": 1785186272008
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (elbow) slated to return on Wednesday",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/edwin-diaz-elbow-slated-to-return-on-wednesday",
+          "fetchedAt": 1785187277560
+        }
+      ]
     },
     {
       "id": 10592,
@@ -836,7 +850,14 @@
           "fetchedAt": 1785099855792
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong has monster night vs. Pirates",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/pete-crow-armstrong-has-monster-night-vs-pirates",
+          "fetchedAt": 1785187277560
+        }
+      ]
     },
     {
       "id": 12522,
