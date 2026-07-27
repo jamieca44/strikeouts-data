@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-26T21:20:42.191Z",
+  "lastUpdatedNews": "2026-07-27T09:05:41.283Z",
   "players": [
     {
       "id": 11928,
@@ -14,14 +14,6 @@
           "by": "Ben Stinar",
           "when": "14h ago",
           "href": "https://sports.yahoo.com/articles/detroit-tigers-announce-dillon-dingler-181506953.html",
-          "fetchedAt": 1785056642176
-        },
-        {
-          "t": "Dillon Dingler's Timely Hitting Is Fueling the Tigers' Success",
-          "s": "This is how Dillon Dingler is fueling the Tigers success",
-          "by": "Dominic Minchella",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dillon-dinglers-timely-hitting-fueling-170007748.html",
           "fetchedAt": 1785056642176
         }
       ],
@@ -41,12 +33,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [
         {
-          "t": "Vladimir Guerrero Jr.'s RBI single",
-          "s": "",
-          "by": "",
-          "when": "18m ago",
-          "href": "https://sports.yahoo.com/videos/vladimir-guerrero-jr-rbi-single-204501160.html",
-          "fetchedAt": 1785013409868
+          "t": "Ranger Suarez Returns For Red Sox Series Finale Versus Blue Jays",
+          "s": "The home stand comes to an end",
+          "by": "Jacob Roy",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/ranger-suarez-returns-red-sox-170000037.html",
+          "fetchedAt": 1785143128499
+        },
+        {
+          "t": "Blue Jays' Awful Analytic Exposes an Offense Without a Focal Point",
+          "s": "Toronto's lowest team mark in a 14-season comparison helps explain why the defending American League champions have fallen out of contention.",
+          "by": "Wesley Dixon",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-awful-analytic-exposes-170004554.html",
+          "fetchedAt": 1785143128499
+        },
+        {
+          "t": "Toronto Blue Jays Star Vladimir Guerrero Jr. Drops Honest Quote During Red Sox Series",
+          "s": "Toronto Blue Jays star Vladimir Guerrero Jr. shared an honest message after the team's game during its series against the Boston Red Sox. The post Toronto Blue Jays Star Vladimir Guerrero Jr. Drops Honest Quote During Red Sox Series appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/toronto-blue-jays-star-vladimir-214350217.html",
+          "fetchedAt": 1785143128499
         }
       ],
       "nbcNews": [
@@ -63,7 +71,32 @@
       "name": "Luis García Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Washington Nationals vs Arizona Diamondbacks Game Thread",
+          "s": "Follow along as the Nats square off against the D-Backs in a massively important rubber match",
+          "by": "Sam Sallick",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/washington-nationals-vs-arizona-diamondbacks-170500863.html",
+          "fetchedAt": 1785143074446
+        },
+        {
+          "t": "Will Washington Nationals Be Aggressive at Trade Deadline?",
+          "s": "After pulling the trigger on one trade on Saturday, will the Washington Nationals still be aggressive in the trade market?",
+          "by": "Ahmed Ghafir",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/washington-nationals-aggressive-trade-deadline-100030135.html",
+          "fetchedAt": 1785143074446
+        },
+        {
+          "t": "Nationals and Diamondbacks meet with series tied 1-1",
+          "s": "Arizona Diamondbacks (55-50, second in the NL West) vs. Washington Nationals (53-52, third in the NL East) Washington; Sunday, 1:35 p.m. EDT PITCHING PROBABLES: Diamondbacks: Kohl Drake (0-0, 1.80 ERA, 1.20 WHIP, five strikeouts); Nationals: Miles Mikolas (3-7, 5.60 ERA, 1.34 WHIP, 51 strikeouts) LINE: Diamondbacks -121, Nationals -101; over/under is 10 1/2 runs BOTTOM LINE: Both the Washington Nationals and the Arizona Diamondbacks are looking for a series win with a victory on Sunday. Washington has gone 21-32 in home games and 53-52 overall.",
+          "by": "The Associated Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/nationals-diamondbacks-meet-series-tied-075545949.html",
+          "fetchedAt": 1785143074446
+        }
+      ],
       "nbcNews": [
         {
           "t": "Luis García Jr. absent from Saturday’s lineup",
@@ -152,12 +185,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [
         {
-          "t": "San Diego Padres Struggle: Over $170M Spent With Low Returns",
+          "t": "Padres Notes: Fernando Tatis Sends Message to Front Office, Ethan Salas Trade Latest, Stars Linked to SD",
+          "s": "Padres star Fernando Tatis Jr. sent a message to the front office, Ethan Salas' trade chances are discussed and two All-Star pitchers are linked to the Friars.",
+          "by": "Gabe Smallson",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/padres-notes-fernando-tatis-sends-125900209.html",
+          "fetchedAt": 1785143132026
+        },
+        {
+          "t": "Tatis Jr. Shines Amid Padres' Struggles in MLB Update",
           "s": "",
           "by": "",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/videos/san-diego-padres-struggle-over-135404803.html",
-          "fetchedAt": 1785013412518
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/videos/tatis-jr-shines-amid-padres-104519736.html",
+          "fetchedAt": 1785143132026
+        },
+        {
+          "t": "San Diego Padres Announce Fernando Tatis Jr. Decision During Marlins Series",
+          "s": "The San Diego Padres secured a 4-2 victory over the Miami Marlins on Friday night to improve to 51-53 on the season and extend the Marlins’ losing streak to 10 games. Padres star Fernando Tatis Jr. went 0-for-4 with two strikeouts in the series opener while starting in right field. For Saturday’s matchup, the Padres […] The post San Diego Padres Announce Fernando Tatis Jr. Decision During Marlins Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/san-diego-padres-announce-fernando-210531291.html",
+          "fetchedAt": 1785143132026
         }
       ],
       "nbcNews": []
@@ -175,22 +224,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/tomoyuki-sugano-earns-10th-win-231050054.html",
           "fetchedAt": 1785099858583
-        },
-        {
-          "t": "Three Takeaways From Rockies' Big Win",
-          "s": "In an impressive win on Friday afternoon, the Colorado Rockies found a way to defeat the National League Central Division-leading Milwaukee Brewers.",
-          "by": "Joe Rutland",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/three-takeaways-rockies-big-win-021727312.html",
-          "fetchedAt": 1784970215501
-        },
-        {
-          "t": "Sugano, Carrigg lead the Rockies past the Brewers",
-          "s": "Tomoyuki Sugano strikes out five and Cole Carrigg hits an RBI double to lead the Rockies to a 5-2 win over the Brewers",
-          "by": "",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/videos/sugano-carrigg-lead-rockies-past-001959298.html",
-          "fetchedAt": 1784970215501
         }
       ],
       "nbcNews": []
@@ -208,32 +241,7 @@
       "name": "Mookie Betts",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
-      "yahooNews": [
-        {
-          "t": "Los Angeles Dodgers Mookie Betts Shares Truth About White House Decision",
-          "s": "Los Angeles Dodgers shortstop Mookie Betts explains his decision regarding visiting Donald Trump at the White House. The post Los Angeles Dodgers Mookie Betts Shares Truth About White House Decision appeared first on HEAVY.",
-          "by": "Caleb Kerney",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-mookie-betts-221241289.html",
-          "fetchedAt": 1785056643773
-        },
-        {
-          "t": "White House shares surreal Shohei Ohtani-Donald Trump Oval Office photo",
-          "s": "The Dodgers visited the White House to celebrate their World Series title, where Shohei Ohtani shared a surreal moment with Donald Trump.",
-          "by": "Abdullah Imran, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/white-house-shares-surreal-shohei-100834002.html",
-          "fetchedAt": 1785056643773
-        },
-        {
-          "t": "Dodgers visit President Trump at the White House",
-          "s": "While the Dodgers were off on Thursday, they made the decision to do what all reigning champions do before they head up to Queens for the weekend. The Dodgers traveled south from Philadelphia to our nation’s capitol, where the team met with current President Donald Trump at the White House, where the team gifted the […]",
-          "by": "Jacob Macofsky",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-visit-president-trump-white-120300878.html",
-          "fetchedAt": 1785056643773
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -273,7 +281,24 @@
       "name": "José Ramírez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Should the Guardians Sell at the Trade Deadline?",
+          "s": "Facing some hard truths",
+          "by": "Quincy Wheeler",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-sell-trade-deadline-020808841.html",
+          "fetchedAt": 1785143080630
+        },
+        {
+          "t": "Guardians losing reliever to IL could impact trade deadline plans",
+          "s": "Will the Guardians be motivated to get another relief pitcher after losing one of their innings eaters on Saturday?",
+          "by": "Alex House, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-losing-reliever-il-could-232705107.html",
+          "fetchedAt": 1785143080630
+        }
+      ],
       "nbcNews": [
         {
           "t": "José Ramírez getting breather on Friday",
@@ -433,16 +458,7 @@
       "name": "MacKenzie Gore",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
-      "yahooNews": [
-        {
-          "t": "Mariners Game #104 Preview and Discussion: 7/24, SEA at TEX",
-          "s": "Big Tex gets a chance to be bigger than Texas tonight. Bryce Miller, owner of the nickname, will face off against the Rangers in Arlington at 5:05 PT. Since coming back from an oblique strain that cost him the first quarter of the season, Miller has been having the best year of his career. He’s […]",
-          "by": "Zach Mason",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-game-104-preview-discussion-230300650.html",
-          "fetchedAt": 1785013425071
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Gore strikes out five in win over Mariners",
@@ -482,7 +498,16 @@
       "name": "Braxton Ashcraft",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Chicago Cubs vs. Pittsburgh Pirates: Jameson Taillon vs. Braxton Ashcraft",
+          "s": "The Pirates are at PNC Park looking to grab a win today.",
+          "by": "Jeremy Brener",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-vs-pittsburgh-pirates-164000596.html",
+          "fetchedAt": 1785143086940
+        }
+      ],
       "nbcNews": [
         {
           "t": "Braxton Ashcraft struggles again, earns 10th win",
@@ -585,14 +610,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/mlb/article/dodgers-to-activate-closer-edwin-diaz-from-il-on-wednesday-after-3-months-out-010436429.html",
           "fetchedAt": 1785056633617
-        },
-        {
-          "t": "Dodgers Make Final Edwin Diaz Decision for Mets Series, Set Return Plan",
-          "s": "Los Angeles Dodgers manager Dave Roberts relayed when Edwin Diaz will return now that his rehabilitation assignment is winding down.",
-          "by": "Nelson Espinal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-final-edwin-diaz-decision-221300955.html",
-          "fetchedAt": 1785056633617
         }
       ],
       "nbcNews": [
@@ -619,12 +636,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [
         {
-          "t": "Yankees visit the Phillies on 5-game road win streak",
-          "s": "New York Yankees (58-45, second in the AL East) vs. Philadelphia Phillies (56-48, second in the NL East) Philadelphia; Saturday, 6:05 p.m. EDT PITCHING PROBABLES: Yankees: Ryan Weathers (0-0); Phillies: TBD LINE: Yankees -121, Phillies -102; over/under is 8 1/2 runs BOTTOM LINE: The New York Yankees visit the Philadelphia Phillies aiming to extend a five-game road winning streak. Philadelphia has a 56-48 record overall and a 27-26 record at home.",
-          "by": "The Associated Press",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-visit-phillies-5-game-075557438.html",
-          "fetchedAt": 1785013427622
+          "t": "Yankees vs Phillies Prop Picks for Sunday Night Baseball",
+          "s": "Our Yankees vs. Phillies prop picks for Sunday Night Baseball on July 26 are headlined by Bryce Harper, Cristopher Sanchez, and Kyle Schwarber.",
+          "by": "Todd Cordell",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-vs-phillies-prop-picks-140400660.html",
+          "fetchedAt": 1785143138962
+        },
+        {
+          "t": "How to live stream Yankees vs Phillies: MLB, TV channel",
+          "s": "The New York Yankees go for a three-game sweep of the Philadelphia Phillies when the clubs wrap up their weekend series Sunday night at Citizens Bank Park. How to Watch Yankees vs Phillies New York has controlled the series behind…",
+          "by": "Ben Verbrugge",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/live-stream-yankees-vs-phillies-220000516.html",
+          "fetchedAt": 1785143138962
+        },
+        {
+          "t": "What channel are the Phillies on tonight? What channel are the Yankees on?",
+          "s": "The Philadelphia Phillies face the New York Yankees tonight. Here's how to watch.",
+          "by": "APP.com Digital Desk, Asbury Park Press",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/channel-phillies-tonight-channel-yankees-220022188.html",
+          "fetchedAt": 1785143138962
         }
       ],
       "nbcNews": [
@@ -705,14 +738,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/red-soxs-caleb-durbin-hints-011549183.html",
           "fetchedAt": 1785056607479
-        },
-        {
-          "t": "Caleb Durbin's Bounce-Back Blueprint: How to Spot Fantasy Baseball's Next Hot Streak Before Everyone Else",
-          "s": "If fantasy baseball has a Dr. Jekyll/Mr. Hyde in 2026, it is definitely Caleb Durbin. Durbin's go-ahead homer in Boston's 14th straight win was the moment his turnaround went from a stat-page curiosity to a story every Red Sox fan already knew. Durbin spent the first two months of the season looking like one of the most droppable everyday players in baseball, then spent the next two playing like one of the best hitters on a team that will not stop winning.",
-          "by": "Tom McFeeley",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/caleb-durbins-bounce-back-blueprint-190102730.html",
-          "fetchedAt": 1785056607479
         }
       ],
       "nbcNews": []
@@ -724,12 +749,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [
         {
-          "t": "Miami Marlins' Mid-Season Misfortune is a Tale of Two Months",
-          "s": "You couldn't have written a better fairy tale for the Fish in June, but July has turned into a tragedy for the young team, as they deal with a dramatic turn of events",
-          "by": "Ryan Boman",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/miami-marlins-mid-season-misfortune-120004920.html",
-          "fetchedAt": 1785013383384
+          "t": "Otto López Vows to Play Through Pain Despite Finger Injury as Marlins Struggle",
+          "s": "Marlins' All-Star Shortstop Otto Lopez had a bold statement following injury concern.",
+          "by": "Nicholas Covone",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/otto-l-pez-vows-play-173903669.html",
+          "fetchedAt": 1785143117374
+        },
+        {
+          "t": "Which Miami Marlins Breakout Star Was Most Surprising This Season?",
+          "s": "These are the top three most surprising Miami Marlins performers this year",
+          "by": "Jeffrey Robinson",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/miami-marlins-breakout-star-most-120005582.html",
+          "fetchedAt": 1785143117374
+        },
+        {
+          "t": "The Marlins Are Bringing Baseball's Triple Back to Life",
+          "s": "The Marlins have turned triples into an offensive identity, combining aggressive baserunning with an outfield that rewards balls driven into the gaps.",
+          "by": "Wesley Dixon",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/marlins-bringing-baseballs-triple-back-230002300.html",
+          "fetchedAt": 1785143117374
         }
       ],
       "nbcNews": []
@@ -814,12 +855,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [
         {
-          "t": "San Diego Padres Struggle: Over $170M Spent With Low Returns",
+          "t": "Machado, Merrill power Padres to series sweep over Marlins",
+          "s": "The San Diego Padres rallied in the eighth with home runs from Manny Machado and Jackson Merrill to defeat the Marlins 5-3 and complete a three-game sweep at loanDepot park on Sunday afternoon, handing Miami a franchise-record 12th straight loss.",
+          "by": "Brady Charette",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/machado-merrill-power-padres-series-224500100.html",
+          "fetchedAt": 1785143124361
+        },
+        {
+          "t": "Machado and Merrill homer in Padres' comeback win",
           "s": "",
           "by": "",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/videos/san-diego-padres-struggle-over-135404803.html",
-          "fetchedAt": 1785013405125
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/videos/machado-merrill-homer-padres-comeback-215906016.html",
+          "fetchedAt": 1785143124361
+        },
+        {
+          "t": "Marlins' losing streak hits franchise-record 12 games with 5-3 loss to Padres",
+          "s": "Manny Machado and Jackson Merrill homered in the eighth inning and the San Diego Padres overcame an early three-run deficit to beat Miami 5-3 on Sunday, extending the Marlins’ losing streak to a franchise-record 12. Machado also doubled in a run, while Luis Rengifo doubled and singled and Ty France had two singles for the Padres.",
+          "by": "",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/marlins-losing-streak-hits-franchise-203823500.html",
+          "fetchedAt": 1785143124361
         }
       ],
       "nbcNews": [
@@ -953,16 +1010,7 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [
-        {
-          "t": "Dominic Canzone's two-run double",
-          "s": "",
-          "by": "",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/videos/dominic-canzones-two-run-double-013023515.html",
-          "fetchedAt": 1784970221297
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1003,7 +1051,16 @@
       "name": "Noelvi Marte",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Fantasy baseball waiver wire: Roki Sasaki finding groove, Heriberto Hernandez on fire",
+          "s": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
+          "by": "Eric Samulski, James Schiano",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-grant-175705177.html",
+          "fetchedAt": 1785143097384
+        }
+      ],
       "nbcNews": [
         {
           "t": "Noelvi Marte goes 0-for-4 against Cardinals",
@@ -1018,7 +1075,16 @@
       "name": "Cole Young",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "A connections word puzzle about the Mariners’ 6-4 victory over the Rangers",
+          "s": "A little treat for those of you suffering through continued engagement with this team",
+          "by": "Zach Mason",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/connections-word-puzzle-mariners-6-230342312.html",
+          "fetchedAt": 1785143100057
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1034,14 +1100,6 @@
           "when": "18h ago",
           "href": "https://sports.yahoo.com/articles/hard-conversations-astros-trade-jeremy-144615322.html",
           "fetchedAt": 1785056629554
-        },
-        {
-          "t": "Red Sox Eye All-Star Shortstop CJ Abrams for Trade Before Deadline",
-          "s": "The Boston Red Sox are 52-49 and hold one of the American League wild card spots. Currently 9-1 in their last 10 games, they are also just 6.5 games back from the Tampa Bay Rays for the lead in the AL East. While they began the season slowly, which led to the firing of manager Alex Cora, the Red Sox have turned things around and become serious postseason contenders.",
-          "by": "Nate Lunak",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-eye-star-shortstop-150053552.html",
-          "fetchedAt": 1785056629554
         }
       ],
       "nbcNews": []
@@ -1051,7 +1109,32 @@
       "name": "Marcelo Mayer",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Curtis Mead trade deadline surprise means these Red Sox are cooked",
+          "s": "Craig Breslow isn't messing around, and he's far from done with the trade deadline still a week away.",
+          "by": "Chris Landers",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/curtis-mead-trade-deadline-surprise-194847910.html",
+          "fetchedAt": 1785143101929
+        },
+        {
+          "t": "Boston Red Sox Announce Marcelo Mayer News During Blue Jays Series",
+          "s": "On Sunday, the Boston Red Sox will finish their series with the Toronto Blue Jays at Fenway Park. The two teams are tied up at 1-1, so whoever wins on Sunday will take the series. Most recently, the Red Sox lost by a score of 6-0 on Saturday. Boston Red Sox Announce Marcelo Mayer News […] The post Boston Red Sox Announce Marcelo Mayer News During Blue Jays Series appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/boston-red-sox-announce-marcelo-162353353.html",
+          "fetchedAt": 1785143101929
+        },
+        {
+          "t": "Does Boston Red Sox Rookie Shortstop Need Change of Scenery?",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/does-boston-red-sox-rookie-185205645.html",
+          "fetchedAt": 1785143101929
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1059,7 +1142,32 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Cubs Matt Shaw Injury Update Affects Infielder’s Trade Status",
+          "s": "With the Major League Baseball trade deadline just eight days away, rumors and speculation across the league are really starting to materialize. For the Chicago Cubs, their top need remains starting pitching, and they continue to be linked to all the top trade candidates. Reports surfaced around a month ago that the Cubs may be […] The post Cubs Matt Shaw Injury Update Affects Infielder’s Trade Status appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-matt-shaw-injury-affects-192520586.html",
+          "fetchedAt": 1785143104020
+        },
+        {
+          "t": "Chicago Cubs Announced Matt Shaw News During Pirates Series",
+          "s": "On Saturday, the Chicago Cubs will continue their series with the Pittsburgh Pirates at PNC Park.The Cubs are coming off a 3-2 win on Friday.Chicago Cubs Announced Matt Shaw NewsDuring their series with the Pirates, the Cubs announced the latest news on Matt Shaw.He has been out of action since June 28.MLB.com wrote (on July […] The post Chicago Cubs Announced Matt Shaw News During Pirates Series appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announced-matt-shaw-195411049.html",
+          "fetchedAt": 1785143104020
+        },
+        {
+          "t": "Royals Reacts Results: Royals fans believe Wacha to the Cubs makes sense",
+          "s": "Maybe it really IS too early to judge.",
+          "by": "Jeremy Greco",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/royals-reacts-results-royals-fans-160000088.html",
+          "fetchedAt": 1785143104020
+        }
+      ],
       "nbcNews": [
         {
           "t": "Matt Shaw (hand) won’t return prior to August",
@@ -1174,6 +1282,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [
+        {
+          "t": "Closer Confidential: Baltimore Blows Up Again, and Three Committees Are Actually Deciding Something",
+          "s": "Kenley Jansen went from a roster-stash afterthought to a working closer again in the span of seven days, and the reason is almost funny... Pittsburgh still has not picked a lane, and calling it settled last week was premature... Edwin Diaz is close enough to activation now that Tanner Scott owners should be watching a calendar, not a box score... and Paul Sewald's leash in Arizona just got noticeably shorter. The ninth inning is, or should be, in doubt.",
+          "by": "Tom McFeeley",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/closer-confidential-baltimore-blows-again-171249788.html",
+          "fetchedAt": 1785143119867
+        },
         {
           "t": "Re-Evaluating the Mets' 2025 Trade Deadline Moves and Their Impact",
           "s": "A year later, we revisit the Mets' 2025 trade deadline, grading every deal and examining how Ryan Helsley, Tyler Rogers, Cedric Mullins, Gregory Soto, and the prospects involved have fared since.",
@@ -1324,28 +1440,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
-          "t": "Jesus Luzardo Admits Phillies' Losses are 'Frustrating' After Stellar Performance",
-          "s": "Phillies star pitcher Jesus Luzardo admitted that the team's losses following the All-Star break have been frustrating, but he also sees a glimmer of hope.",
-          "by": "Robert Marvi",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/jesus-luzardo-admits-phillies-losses-130008025.html",
-          "fetchedAt": 1785013423205
+          "t": "What Yankees pitcher Cam Schlittler said after dominating Phillies in 1st post All-Star start",
+          "s": "New York Yankees pitcher Cam Schlittler explains why Friday’s gem vs. the Phillies meant more after not starting the 2026 MLB All-Star game.",
+          "by": "Josh Davis, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/yankees-pitcher-cam-schlittler-said-153447866.html",
+          "fetchedAt": 1785143134644
         },
         {
-          "t": "New York Yankees @ Philadelphia Phillies: Cam Schlittler vs. Jesús Luzardo",
-          "s": "Schlittler starts scintillating series",
-          "by": "Joshua Diemert",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-philadelphia-phillies-cam-221500456.html",
-          "fetchedAt": 1785013423205
+          "t": "Today on Pinstripe Alley – 7/25/26",
+          "s": "The weekend in Philly rolls on.",
+          "by": "Madison Pavich",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/today-pinstripe-alley-7-25-100000604.html",
+          "fetchedAt": 1785143134644
         },
         {
-          "t": "Gamethread 7/24: Phillies vs Yankees",
-          "s": "The Yankees come to town on Friday night",
-          "by": "Smarty Jones",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/gamethread-7-24-phillies-vs-213000220.html",
-          "fetchedAt": 1785013423205
+          "t": "Yankees’ Aaron Boone Drops Honest Quote After Win Over Phillies",
+          "s": "The New York Yankees have not been able to hit for over a month. The absence of Aaron Judge and Giancarlo Stanton has left the lineup without its two most dangerous bats. The power has dried up. The strikeouts have climbed.And yet the Yankees keep finding ways to win. Friday night’s 1-0 victory over the […] The post Yankees’ Aaron Boone Drops Honest Quote After Win Over Phillies appeared first on HEAVY.",
+          "by": "Keith Watkins",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/yankees-aaron-boone-drops-honest-143826353.html",
+          "fetchedAt": 1785143134644
         }
       ],
       "nbcNews": []
@@ -1413,22 +1529,6 @@
           "when": "1h ago",
           "href": "https://sports.yahoo.com/articles/guardians-look-end-4-game-075545352.html",
           "fetchedAt": 1785056645615
-        },
-        {
-          "t": "Guardians score vs. Rays. Tampa Bay hammers Joey Cantillo in win over Cleveland",
-          "s": "Ryan Vilade and Richie Palacios hit home runs and the Tampa Bay Rays beat the Cleveland Guardians to open a three-game series Friday in St. Petersburg",
-          "by": "Field Level Media, Akron Beacon Journal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-score-vs-rays-tampa-024928988.html",
-          "fetchedAt": 1785056645615
-        },
-        {
-          "t": "Fortes leads Rays against the Guardians after 4-hit game",
-          "s": "Cleveland Guardians (54-51, second in the AL Central) vs. Tampa Bay Rays (60-43, first in the AL East) St. Petersburg, Florida; Saturday, 6:10 p.m. EDT PITCHING PROBABLES: Guardians: Tanner Bibee (4-9, 3.86 ERA, 1.15 WHIP, 92 strikeouts); Rays: Nick Martinez (9-2, 2.59 ERA, 1.12 WHIP, 62 strikeouts) LINE: Rays -136, Guardians +111; over/under is 7 1/2 runs BOTTOM LINE: The Tampa Bay Rays take on the Cleveland Guardians after Nick Fortes had four hits on Friday in an 11-3 win over the Guardians. Tampa Bay has a 60-43 record overall and a 36-15 record at home.",
-          "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/fortes-leads-rays-against-guardians-075552921.html",
-          "fetchedAt": 1785056645615
         }
       ],
       "nbcNews": []
@@ -1438,7 +1538,16 @@
       "name": "Ryan Zeferjahn",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/61375.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The Hidden Gem: Why Ryan Zeferjahn is the Angels Trade Chip Nobody is Talking About",
+          "s": "The Angels are listening to offers on big names, but Ryan Zeferjahn is their secret weapon. Discover why his revamped pitch mix makes him a hidden gem before the 2026 MLB trade deadline.",
+          "by": "Jeff Joiner",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/hidden-gem-why-ryan-zeferjahn-234400268.html",
+          "fetchedAt": 1785143110230
+        }
+      ],
       "nbcNews": []
     },
     {
