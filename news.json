@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-27T09:05:41.283Z",
+  "lastUpdatedNews": "2026-07-27T09:21:57.025Z",
   "players": [
     {
       "id": 11928,
@@ -17,14 +17,7 @@
           "fetchedAt": 1785056642176
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler plates go-ahead run in eighth",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/dillon-dingler-plates-go-ahead-run-in-eighth",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -112,14 +105,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kody Clemens sits against left-hander on Friday",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/kody-clemens-sits-against-left-hander-on-friday",
-          "fetchedAt": 1784928046505
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -136,7 +122,14 @@
           "fetchedAt": 1785056587544
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleston goes 3-for-5 against Reds",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/alec-burleston-goes-3-for-5-against-reds",
+          "fetchedAt": 1785144117025
+        }
+      ]
     },
     {
       "id": 64313,
@@ -299,14 +292,7 @@
           "fetchedAt": 1785143080630
         }
       ],
-      "nbcNews": [
-        {
-          "t": "José Ramírez getting breather on Friday",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/jose-ramirez-getting-breather-on-friday",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -364,14 +350,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Latz picks up 20th save of season vs Mariners",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/latz-picks-up-20th-save-of-season-vs-mariners",
-          "fetchedAt": 1784971228313
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -404,14 +383,7 @@
           "fetchedAt": 1785056640227
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Skubal masterful, strikes out 12 Royals in win",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/skubal-masterful-strikes-out-12-royals-in-win",
-          "fetchedAt": 1785100842191
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -459,14 +431,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gore strikes out five in win over Mariners",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/gore-strikes-out-five-in-win-over-mariners",
-          "fetchedAt": 1784971228313
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -548,7 +513,14 @@
           "fetchedAt": 1785099843794
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan allows one earned in Queens",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/emmet-sheehan-allows-one-earned-in-queens",
+          "fetchedAt": 1785144117025
+        }
+      ]
     },
     {
       "id": 12387,
@@ -612,14 +584,7 @@
           "fetchedAt": 1785056633617
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (elbow) won’t return this weekend",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/edwin-diaz-elbow-wont-return-this-weekend",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -839,14 +804,7 @@
           "fetchedAt": 1785099855792
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Crow-Armstrong homers in win over Pirates",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/crow-armstrong-homers-in-win-over-pirates",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -1102,7 +1060,14 @@
           "fetchedAt": 1785056629554
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña crushes pair of solo home runs Sunday",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jeremy-pena-crushes-pair-of-solo-home-runs-sunday",
+          "fetchedAt": 1785144117025
+        }
+      ]
     },
     {
       "id": 12375,
@@ -1168,14 +1133,7 @@
           "fetchedAt": 1785143104020
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Matt Shaw (hand) won’t return prior to August",
-          "date": "2026-07-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-24/matt-shaw-hand-wont-return-prior-to-august",
-          "fetchedAt": 1784928046505
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -1241,7 +1199,14 @@
           "fetchedAt": 1785099827029
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom holds Mariners to one run over five",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jacob-degrom-holds-mariners-to-one-run-over-five",
+          "fetchedAt": 1785144117025
+        }
+      ]
     },
     {
       "id": 10438,
@@ -1274,7 +1239,14 @@
           "fetchedAt": 1785099851004
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease whiffs 12 in complete-game shutout",
+          "date": "2026-07-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/dylan-cease-whiffs-12-in-complete-game-shutout",
+          "fetchedAt": 1785144117025
+        }
+      ]
     },
     {
       "id": 10946,
@@ -1332,7 +1304,14 @@
           "fetchedAt": 1785099829104
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez beats Yankees for 13th victory",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/cristopher-sanchez-beats-yankees-for-13th-victory",
+          "fetchedAt": 1785144117025
+        }
+      ]
     },
     {
       "id": 12345,
