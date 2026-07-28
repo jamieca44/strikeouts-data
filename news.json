@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-28T21:04:23.034Z",
+  "lastUpdatedNews": "2026-07-28T21:20:31.574Z",
   "players": [
     {
       "id": 11928,
@@ -148,7 +148,20 @@
           "fetchedAt": 1785229513311
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Nick Kurtz not in Monday’s lineup vs. Red Sox",
+          "date": "2026-07-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/nick-kurtz-not-in-mondays-lineup-vs-red-sox",
+          "fetchedAt": 1785273631574
+        },
+        {
+          "t": "Nick Kurtz hits 21st home run in loss to Twins",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/nick-kurtz-hits-21st-home-run-in-loss-to-twins",
+          "fetchedAt": 1785273631574
+        }
+      ]
     },
     {
       "id": 10639,
@@ -215,7 +228,14 @@
           "fetchedAt": 1785229462647
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Donovan (groin) moves rehab to Triple-A",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/donovan-groin-moves-rehab-to-triple-a",
+          "fetchedAt": 1785273631574
+        }
+      ]
     },
     {
       "id": 9552,
@@ -364,7 +384,20 @@
           "fetchedAt": 1785186275965
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Passan: Tigers want to trade Tarik Skubal",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/passan-tigers-want-to-trade-tarik-skubal",
+          "fetchedAt": 1785273631574
+        },
+        {
+          "t": "Murray: Rays interested in Skubal, Neto, Peralta",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/murray-rays-interested-in-skubal-neto-peralta",
+          "fetchedAt": 1785273631574
+        }
+      ]
     },
     {
       "id": 11847,
@@ -542,7 +575,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Giants’ Erik Miller gets third save in 3-0 game",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/giants-erik-miller-gets-third-save-in-3-0-game",
+          "fetchedAt": 1785273631574
+        }
+      ]
     },
     {
       "id": 11998,
@@ -550,7 +590,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker slams door on Guardians on Sunday",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/bryan-baker-slams-door-on-guardians-on-sunday",
+          "fetchedAt": 1785273631574
+        }
+      ]
     },
     {
       "id": 10214,
@@ -852,7 +899,20 @@
           "fetchedAt": 1785186265962
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger (hamstring) to miss 4-6 weeks",
+          "date": "2026-07-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/cody-bellinger-hamstring-to-miss-4-6-weeks",
+          "fetchedAt": 1785273631574
+        },
+        {
+          "t": "Cody Bellinger (hamstring) lands on 10-day IL",
+          "date": "2026-07-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/cody-bellinger-hamstring-lands-on-10-day-il",
+          "fetchedAt": 1785273631574
+        }
+      ]
     },
     {
       "id": 11760,
