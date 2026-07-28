@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-28T09:05:24.804Z",
+  "lastUpdatedNews": "2026-07-28T09:21:17.528Z",
   "players": [
     {
       "id": 11928,
@@ -66,14 +66,7 @@
           "fetchedAt": 1785143128499
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. collects three hits in win",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/vladimir-guerrero-jr-collects-three-hits-in-win",
-          "fetchedAt": 1785057644289
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -98,14 +91,7 @@
           "fetchedAt": 1785143074446
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. absent from Saturday’s lineup",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/luis-garcia-jr-absent-from-saturdays-lineup",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -113,14 +99,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis swipes two bags in loss",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/royce-lewis-swipes-two-bags-in-loss",
-          "fetchedAt": 1785187277560
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -168,14 +147,7 @@
           "fetchedAt": 1785229513311
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Athletics activate Nick Kurtz from injured list",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/athletics-activate-nick-kurtz-from-injured-list",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -292,14 +264,7 @@
           "fetchedAt": 1785229507582
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz swipes two bags in win on Friday",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/elly-de-la-cruz-swipes-two-bags-in-win-on-friday",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -423,14 +388,7 @@
           "fetchedAt": 1785186274122
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan scratched from start with arm fatigue",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/joe-ryan-scratched-from-start-with-arm-fatigue",
-          "fetchedAt": 1785100842191
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -480,7 +438,14 @@
           "fetchedAt": 1785229467085
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Guardians vs. Reds rained out on Monday",
+          "date": "2026-07-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/guardians-vs-reds-rained-out-on-monday",
+          "fetchedAt": 1785230477528
+        }
+      ]
     },
     {
       "id": 11203,
@@ -560,14 +525,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Caleb Kilian picks up victory against Angels",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/caleb-kilian-picks-up-victory-against-angels",
-          "fetchedAt": 1784971228313
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -575,14 +533,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker secures 27th save against Guardians",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/bryan-baker-secures-27th-save-against-guardians",
-          "fetchedAt": 1785057644289
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -663,14 +614,7 @@
           "fetchedAt": 1785143138962
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers strikes out seven in win over Phils",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/ryan-weathers-strikes-out-seven-in-win-over-phils",
-          "fetchedAt": 1785057644289
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -695,14 +639,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Chase DeLauter absent from Saturday’s lineup",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/chase-delauter-absent-from-saturdays-lineup",
-          "fetchedAt": 1785014436452
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -826,14 +763,7 @@
           "fetchedAt": 1785229523005
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong has monster night vs. Pirates",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/pete-crow-armstrong-has-monster-night-vs-pirates",
-          "fetchedAt": 1785187277560
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -872,12 +802,6 @@
           "date": "2026-07-26",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jackson-merrill-blasts-15th-home-run-in-win-sunday",
           "fetchedAt": 1785100842191
-        },
-        {
-          "t": "Jackson Merrill collects three hits in victory",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/jackson-merrill-collects-three-hits-in-victory",
-          "fetchedAt": 1785100842191
         }
       ]
     },
@@ -912,20 +836,7 @@
           "fetchedAt": 1785186265962
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger to undergo tests on hamstring",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/cody-bellinger-to-undergo-tests-on-hamstring",
-          "fetchedAt": 1785057644289
-        },
-        {
-          "t": "Cody Bellinger leaves with apparent leg injury",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/cody-bellinger-leaves-with-apparent-leg-injury",
-          "fetchedAt": 1785057644289
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -976,14 +887,7 @@
           "fetchedAt": 1785229515153
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cam Smith blasts go-ahead homer in win",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/cam-smith-blasts-go-ahead-homer-in-win",
-          "fetchedAt": 1784971228313
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -1008,7 +912,14 @@
           "fetchedAt": 1785229479826
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve goes 0-for-5 against Angels",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/jose-altuve-goes-0-for-5-against-angels",
+          "fetchedAt": 1785230477528
+        }
+      ]
     },
     {
       "id": 11529,
@@ -1025,14 +936,7 @@
           "fetchedAt": 1785143097384
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Noelvi Marte goes 0-for-4 against Cardinals",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/noelvi-marte-goes-0-for-4-against-cardinals",
-          "fetchedAt": 1785057644289
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60580,
@@ -1237,14 +1141,7 @@
           "fetchedAt": 1785229518199
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease whiffs 12 in complete-game shutout",
-          "date": "2026-07-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/dylan-cease-whiffs-12-in-complete-game-shutout",
-          "fetchedAt": 1785144117025
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1334,7 +1231,14 @@
           "fetchedAt": 1785186251821
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish allows five runs in no-decision",
+          "date": "2026-07-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/kyle-bradish-allows-five-runs-in-no-decision",
+          "fetchedAt": 1785230477528
+        }
+      ]
     },
     {
       "id": 9121,
