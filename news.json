@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-29T09:04:41.099Z",
+  "lastUpdatedNews": "2026-07-29T09:20:47.999Z",
   "players": [
     {
       "id": 11928,
@@ -25,7 +25,20 @@
           "fetchedAt": 1785272654349
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. exits with hamstring issue",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/vladimir-guerrero-jr-exits-with-hamstring-issue",
+          "fetchedAt": 1785316847999
+        },
+        {
+          "t": "Vladimir Guerrero Jr. exits early vs. Nationals",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/vladimir-guerrero-jr-exits-early-vs-nationals",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 10964,
@@ -58,7 +71,14 @@
           "fetchedAt": 1785272631309
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. hits two-run homer against Jays",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/luis-garcia-jr-hits-two-run-homer-against-jays",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 10916,
@@ -91,7 +111,14 @@
           "fetchedAt": 1785315815133
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis hits walk-off triple to beat Royals",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/royce-lewis-hits-walk-off-triple-to-beat-royals",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 12550,
@@ -108,14 +135,7 @@
           "fetchedAt": 1785272595999
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleston goes 3-for-5 against Reds",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/alec-burleston-goes-3-for-5-against-reds",
-          "fetchedAt": 1785144117025
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -154,12 +174,6 @@
           "date": "2026-07-27",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/nick-kurtz-not-in-mondays-lineup-vs-red-sox",
           "fetchedAt": 1785273631574
-        },
-        {
-          "t": "Nick Kurtz hits 21st home run in loss to Twins",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/nick-kurtz-hits-21st-home-run-in-loss-to-twins",
-          "fetchedAt": 1785273631574
         }
       ]
     },
@@ -194,7 +208,14 @@
           "fetchedAt": 1785272658338
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. goes 5-for-5 in win vs. Rockies",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/fernando-tatis-jr-goes-5-for-5-in-win-vs-rockies",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 64897,
@@ -351,7 +372,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz picks up 21st save against Rays",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/jacob-latz-picks-up-21st-save-against-rays",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 11763,
@@ -528,14 +556,7 @@
           "fetchedAt": 1785272635793
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft struggles again, earns 10th win",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/braxton-ashcraft-struggles-again-earns-10th-win",
-          "fetchedAt": 1785100842191
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -568,14 +589,7 @@
           "fetchedAt": 1785229511408
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan allows one earned in Queens",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/emmet-sheehan-allows-one-earned-in-queens",
-          "fetchedAt": 1785144117025
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -598,14 +612,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker slams door on Guardians on Sunday",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/bryan-baker-slams-door-on-guardians-on-sunday",
-          "fetchedAt": 1785273631574
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -638,14 +645,7 @@
           "fetchedAt": 1785315874788
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (elbow) slated to return on Wednesday",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/edwin-diaz-elbow-slated-to-return-on-wednesday",
-          "fetchedAt": 1785187277560
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -744,7 +744,14 @@
           "fetchedAt": 1785186263182
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Report: Curtis Mead to IL with fractured wrist",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/report-curtis-mead-to-il-with-fractured-wrist",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 12100,
@@ -851,14 +858,7 @@
           "fetchedAt": 1785272652098
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill blasts 15th home run in win Sunday",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jackson-merrill-blasts-15th-home-run-in-win-sunday",
-          "fetchedAt": 1785100842191
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -896,12 +896,6 @@
           "t": "Cody Bellinger (hamstring) to miss 4-6 weeks",
           "date": "2026-07-27",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/cody-bellinger-hamstring-to-miss-4-6-weeks",
-          "fetchedAt": 1785273631574
-        },
-        {
-          "t": "Cody Bellinger (hamstring) lands on 10-day IL",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/cody-bellinger-hamstring-lands-on-10-day-il",
           "fetchedAt": 1785273631574
         }
       ]
@@ -987,7 +981,14 @@
           "fetchedAt": 1785272616832
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Colt Emerson a late scratch from Tuesday’s lineup",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/colt-emerson-a-late-scratch-from-tuesdays-lineup",
+          "fetchedAt": 1785316847999
+        }
+      ]
     },
     {
       "id": 8996,
@@ -1077,14 +1078,7 @@
           "fetchedAt": 1785315869536
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña crushes pair of solo home runs Sunday",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jeremy-pena-crushes-pair-of-solo-home-runs-sunday",
-          "fetchedAt": 1785144117025
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1200,14 +1194,7 @@
           "fetchedAt": 1785229501787
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom holds Mariners to one run over five",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/jacob-degrom-holds-mariners-to-one-run-over-five",
-          "fetchedAt": 1785144117025
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1281,14 +1268,7 @@
           "fetchedAt": 1785229503922
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez beats Yankees for 13th victory",
-          "date": "2026-07-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-26/cristopher-sanchez-beats-yankees-for-13th-victory",
-          "fetchedAt": 1785144117025
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
