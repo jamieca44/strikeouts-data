@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-30T21:04:34.655Z",
+  "lastUpdatedNews": "2026-07-30T21:20:46.803Z",
   "players": [
     {
       "id": 11928,
@@ -184,7 +184,26 @@
           "fetchedAt": 1785402258857
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Nick Kurtz to undergo MRI on injured forearm",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/nick-kurtz-to-undergo-mri-on-injured-forearm",
+          "fetchedAt": 1785446446803
+        },
+        {
+          "t": "Nick Kurtz exits game with forearm contusion",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/nick-kurtz-exits-game-with-forearm-contusion",
+          "fetchedAt": 1785446446803
+        },
+        {
+          "t": "Nick Kurtz (arm) exits game after hit-by-pitch",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/nick-kurtz-arm-exits-game-after-hit-by-pitch",
+          "fetchedAt": 1785446446803
+        }
+      ]
     },
     {
       "id": 10639,
@@ -537,7 +556,14 @@
           "fetchedAt": 1785359038688
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns surrenders five runs in no-decision",
+          "date": "2026-07-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/chase-burns-surrenders-five-runs-in-no-decision",
+          "fetchedAt": 1785446446803
+        }
+      ]
     },
     {
       "id": 11203,
@@ -803,7 +829,14 @@
           "fetchedAt": 1785359008996
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Red Sox looking to add infielders, targeting Lopez",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/red-sox-looking-to-add-infielders-targeting-lopez",
+          "fetchedAt": 1785446446803
+        }
+      ]
     },
     {
       "id": 10234,
@@ -1007,7 +1040,14 @@
           "fetchedAt": 1785445458801
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Report: Orioles open to trading expiring contracts",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/report-orioles-open-to-trading-expiring-contracts",
+          "fetchedAt": 1785446446803
+        }
+      ]
     },
     {
       "id": 64330,
@@ -1203,7 +1243,14 @@
           "fetchedAt": 1785402242710
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Passan: Mets and Cubs “line up nicely” for trades",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/passan-mets-and-cubs-line-up-nicely-for-trades",
+          "fetchedAt": 1785446446803
+        }
+      ]
     },
     {
       "id": 63537,
