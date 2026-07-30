@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-30T09:04:43.643Z",
+  "lastUpdatedNews": "2026-07-30T09:20:57.899Z",
   "players": [
     {
       "id": 11928,
@@ -168,14 +168,7 @@
           "fetchedAt": 1785402258857
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Nick Kurtz not in Monday’s lineup vs. Red Sox",
-          "date": "2026-07-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/nick-kurtz-not-in-mondays-lineup-vs-red-sox",
-          "fetchedAt": 1785273631574
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -263,7 +256,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers drop struggling Mookie Betts in lineup",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/dodgers-drop-struggling-mookie-betts-in-lineup",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 12393,
@@ -296,7 +296,14 @@
           "fetchedAt": 1785359049270
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz hit-less, struggles in field",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/elly-de-la-cruz-hit-less-struggles-in-field",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 9507,
@@ -449,7 +456,14 @@
           "fetchedAt": 1785315877298
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan not sharp again in loss to Royals",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/joe-ryan-not-sharp-again-in-loss-to-royals",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 10940,
@@ -466,7 +480,14 @@
           "fetchedAt": 1785315853069
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore strikes out nine in loss to Rays",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/mackenzie-gore-strikes-out-nine-in-loss-to-rays",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 64316,
@@ -499,14 +520,7 @@
           "fetchedAt": 1785359038688
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Guardians vs. Reds rained out on Monday",
-          "date": "2026-07-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/guardians-vs-reds-rained-out-on-monday",
-          "fetchedAt": 1785230477528
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -604,7 +618,14 @@
           "fetchedAt": 1785359003201
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker quiets Rangers to notch 29th save",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/bryan-baker-quiets-rangers-to-notch-29th-save",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 10214,
@@ -637,7 +658,20 @@
           "fetchedAt": 1785315874788
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz allows one run, picks up save in return",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/edwin-diaz-allows-one-run-picks-up-save-in-return",
+          "fetchedAt": 1785403257899
+        },
+        {
+          "t": "Dodgers activate closer Edwin Díaz from IL",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/dodgers-activate-closer-edwin-diaz-from-il",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 10592,
@@ -850,7 +884,14 @@
           "fetchedAt": 1785402264288
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong blasts 24th homer vs. Cards",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/pete-crow-armstrong-blasts-24th-homer-vs-cards",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 12522,
@@ -875,7 +916,14 @@
           "fetchedAt": 1785402234593
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill knocks in run in Padres’ 3-1 win",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/jackson-merrill-knocks-in-run-in-padres-3-1-win",
+          "fetchedAt": 1785403257899
+        }
+      ]
     },
     {
       "id": 10504,
@@ -908,14 +956,7 @@
           "fetchedAt": 1785315866350
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger (hamstring) to miss 4-6 weeks",
-          "date": "2026-07-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/cody-bellinger-hamstring-to-miss-4-6-weeks",
-          "fetchedAt": 1785273631574
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -1293,14 +1334,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish allows five runs in no-decision",
-          "date": "2026-07-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-27/kyle-bradish-allows-five-runs-in-no-decision",
-          "fetchedAt": 1785230477528
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
