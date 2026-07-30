@@ -1,22 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-30T09:20:57.899Z",
+  "lastUpdatedNews": "2026-07-30T21:04:34.655Z",
   "players": [
     {
       "id": 11928,
       "name": "Dillon Dingler",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
-      "yahooNews": [
-        {
-          "t": "Ranking the top 10 catchers in MLB ahead of the trade deadline",
-          "s": "The top 10 catchers in MLB before the trade deadline.",
-          "by": "Kyle Amore",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/ranking-top-10-catchers-mlb-115100614.html",
-          "fetchedAt": 1785358991713
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -24,7 +15,32 @@
       "name": "Vladimir Guerrero Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The alarming trend behind Vladimir Guerrero Jr.'s 2026 season",
+          "s": "Vladimir Guerrero Jr. and the Toronto Blue Jays are having a nightmare season, and I'm finally able to tell you why.",
+          "by": "Oliver Fox",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/alarming-trend-behind-vladimir-guerrero-154942303.html",
+          "fetchedAt": 1785445409841
+        },
+        {
+          "t": "Vladimir Guerrero Jr's single",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/vladimir-guerrero-jrs-rbi-single-005008328.html",
+          "fetchedAt": 1785445409841
+        },
+        {
+          "t": "Toronto Blue Jays Manager Announces Vladimir Guerrero Jr. Injury Update",
+          "s": "Toronto Blue Jays manager John Schneider revealed an injury update on first baseman Vladimir Guerrero Jr. before Wednesday's game. The post Toronto Blue Jays Manager Announces Vladimir Guerrero Jr. Injury Update appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/toronto-blue-jays-manager-announces-192259623.html",
+          "fetchedAt": 1785445409841
+        }
+      ],
       "nbcNews": [
         {
           "t": "Vladimir Guerrero Jr. exits with hamstring issue",
@@ -87,28 +103,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [
         {
-          "t": "Royce Lewis hits a walk-off triple in Twins' win",
+          "t": "Royce Lewis' walk-off triple!",
           "s": "",
           "by": "",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/videos/royce-lewis-hits-walk-off-030621164.html",
-          "fetchedAt": 1785315815133
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/royce-lewis-walk-off-triple-021555241.html",
+          "fetchedAt": 1785445452366
         },
         {
-          "t": "Royce Lewis Walks Off Kansas City Royals On Twins' Final Breath",
-          "s": "Down to the Twins' last out, Lewis laced a two-run triple to walk off Tuesday's game, winning 3-2 against the Royals.",
-          "by": "Sergio Gonzalez",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/royce-lewis-walks-off-kansas-034958557.html",
-          "fetchedAt": 1785315815133
+          "t": "Matt Quatraro Has Blunt Message After Walk-Off Loss to Twins",
+          "s": "Kansas City got a strong Seth Lugo start and a stolen run, and still left Target Field on the wrong end of another one-run night.",
+          "by": "Grant Mona",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/matt-quatraro-blunt-message-walk-192509956.html",
+          "fetchedAt": 1785445452366
         },
         {
-          "t": "Royce Lewis hits walk-off triple as Twins rally past Royals 3-2 after Buxton exits with sore hip",
-          "s": "Royce Lewis hit a two-run triple with two outs in the bottom of the ninth inning to give the Minnesota Twins a 3-2 victory over the Kansas City Royals on Tuesday night. Taj Bradley threw six strong innings for the Twins (54-54), who have won three in a row and five of six. Kody Clemens doubled for Minnesota in the fourth and scored on Josh Bell's single.",
-          "by": "",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/royce-lewis-hits-walk-off-031408406.html",
-          "fetchedAt": 1785315815133
+          "t": "Royce Lewis' walk-off fuels Twins' trade deadline push",
+          "s": "Royce Lewis' walk-off triple capped another resilient Twins response, forcing a fresh look at Minnesota's trade deadline outlook after winning five of six.",
+          "by": "Amanda Lucas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/royce-lewis-walk-off-fuels-131501506.html",
+          "fetchedAt": 1785445452366
         }
       ],
       "nbcNews": [
@@ -127,12 +143,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [
         {
-          "t": "Ranking the top 10 first basemen in MLB ahead of the trade deadline",
-          "s": "The top 10 first basemen in MLB right now.",
-          "by": "Kyle Amore",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/ranking-top-10-first-basemen-123800912.html",
-          "fetchedAt": 1785272595999
+          "t": "Guardians Trade Target: Alec Burleson",
+          "s": "This place has more lefties than the West Coast",
+          "by": "Quincy Wheeler",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-trade-target-alec-burleson-193429100.html",
+          "fetchedAt": 1785445442759
         }
       ],
       "nbcNews": []
@@ -177,20 +193,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [
         {
-          "t": "Padres Star Involved in Trade Rumors Sends Clear Message to Front Office",
-          "s": "One of the San Diego Padres stars involved in trade rumors has sent a direct message to the team's front office ahead of the deadline.",
-          "by": "Matt Levine",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/padres-star-involved-trade-rumors-160008080.html",
-          "fetchedAt": 1785272658338
+          "t": "Padres Notes: Friars Cut Ties With 4-Year Veteran, Yankees Want SD All-Star, Ethan Salas 'Not Untouchable'",
+          "s": "The San Diego Padres cut ties with a veteran, the New York Yankees want another Padres All-Star and top prospect Ethan Salas is \\\"not untouchable.\\\"",
+          "by": "Gabe Smallson",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/padres-notes-friars-cut-ties-125900965.html",
+          "fetchedAt": 1785445450547
         },
         {
-          "t": "Guardians Trade Target: Ty France",
-          "s": "Vive le France!",
-          "by": "Quincy Wheeler",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-trade-target-ty-france-153355424.html",
-          "fetchedAt": 1785272658338
+          "t": "Xander Bogaerts walks it off in Padres’ 8-7 win",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/xander-bogaerts-walks-off-padres-060056962.html",
+          "fetchedAt": 1785445450547
+        },
+        {
+          "t": "Fernando Tatis Jr.'s RBI single",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/fernando-tatis-jr-rbi-single-021727209.html",
+          "fetchedAt": 1785445450547
         }
       ],
       "nbcNews": [
@@ -214,22 +238,6 @@
           "by": "Jordon Lawrenz",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/padres-prioritize-outfielders-proposed-brewers-180007916.html",
-          "fetchedAt": 1785359033459
-        },
-        {
-          "t": "2026 Brewers Minor League Roundup: Week 18",
-          "s": "Risers, fallers, and news from MLB Pipeline’s midseason top-30 update",
-          "by": "Adam Zimmer",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/2026-brewers-minor-league-roundup-110000876.html",
-          "fetchedAt": 1785359033459
-        },
-        {
-          "t": "Milwaukee Brewers Fans Get Disappointing Trade Deadline Update, Including on Rumored Mason Miller Deal",
-          "s": "While Milwaukee Brewers fans are holding out hope that their team will be bold and make a blockbuster move before […]",
-          "by": "Jason Burgos",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/milwaukee-brewers-fans-disappointing-trade-144752884.html",
           "fetchedAt": 1785359033459
         }
       ],
@@ -255,7 +263,32 @@
       "name": "Mookie Betts",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Los Angeles Dodgers Make Mookie Betts Change Before Mariners Game",
+          "s": "The Los Angeles Dodgers are currently taking on the Seattle Mariners in a 3-game series this week. After an off day on Monday, the Dodgers dropped the first game of the series against the Mariners on Tuesday. It was a back-and-forth game, but the Mariners scored late in the game to take a one-run lead, […] The post Los Angeles Dodgers Make Mookie Betts Change Before Mariners Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-mookie-betts-021211812.html",
+          "fetchedAt": 1785445413834
+        },
+        {
+          "t": "Dodgers vs. Mariners game chat",
+          "s": "Dodgers try to snap a two-game skid, while Mookie Betts hits sixth, his lowest lineup spot in 11 years. Wednesday game info",
+          "by": "Eric Stephen",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-vs-mariners-game-chat-015200621.html",
+          "fetchedAt": 1785445413834
+        },
+        {
+          "t": "Dodgers Keep Same Players, Change Batting Order in Bounce Back Opportunity",
+          "s": "The Los Angeles Dodgers will keep the same players in the lineup from their 7-6 loss to the Seattle Mariners on Tuesday.",
+          "by": "Aaron Coloma",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-keep-same-players-change-221028157.html",
+          "fetchedAt": 1785445413834
+        }
+      ],
       "nbcNews": [
         {
           "t": "Dodgers drop struggling Mookie Betts in lineup",
@@ -277,22 +310,6 @@
           "by": "Kyle Amore",
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/ranking-top-10-mlb-shortstops-115100904.html",
-          "fetchedAt": 1785359049270
-        },
-        {
-          "t": "Reds Winning 3 Straight Series Doesn't Change What Team Must Do at Trade Deadline",
-          "s": "The Reds winning three straight series out of the All-Star break doesn't change what needs to be done within the franchise.",
-          "by": "Elliot Reiring",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/reds-winning-3-straight-series-160009719.html",
-          "fetchedAt": 1785359049270
-        },
-        {
-          "t": "MLB rumors: Ken Rosenthal makes Reds trade deadline declaration that should open eyes",
-          "s": "The Reds are last in the NL Central, and looking to move pieces ahead of the deadline. Rosenthal is giving his opinion on what will happen.",
-          "by": "Benjamin Adducchio, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rumors-ken-rosenthal-makes-202407546.html",
           "fetchedAt": 1785359049270
         }
       ],
@@ -318,14 +335,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/guardians-jose-ramirez-proves-theres-013111985.html",
           "fetchedAt": 1785402277998
-        },
-        {
-          "t": "Three Point Plan for the Guardians Perfect Trade Deadline",
-          "s": "Here's the perfect three-point plan for the Cleveland Guardians to ace this trade deadline.",
-          "by": "Nick Pedone",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/three-point-plan-guardians-perfect-151354028.html",
-          "fetchedAt": 1785272634024
         }
       ],
       "nbcNews": []
@@ -432,28 +441,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [
         {
-          "t": "Shipley: As deadline approaches, Twins face an inconvenient truth — they’re too good to gut again",
-          "s": "Tom Pohlad might have painted himself into a corner. Against all odds, the team that his general manager put together on the fly after last year’s trade deadline capitulation is within spitting distance of a playoff berth. Now this year’s deadline is less than a week away, and the Twins have six more games to show … what exactly? A look at the standings says the Twins are solidly in “buy” ...",
-          "by": "John Shipley, Pioneer Press",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/shipley-twins-face-inconvenient-truth-195300179.html",
-          "fetchedAt": 1785315877298
+          "t": "Ex-MLB GM reveals Twins trade deadline plan with All-Star SP and OF",
+          "s": "This update on a pair of All-Star Twins trade targets is not a surprise.",
+          "by": "Matt Sullivan",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/ex-mlb-gm-reveals-twins-182249146.html",
+          "fetchedAt": 1785445472615
         },
         {
-          "t": "Twins-Yankees Ryan Jeffers trade pitch from Yankees insider wouldn't be nearly enough",
-          "s": "This proposed return for Ryan Jeffers shouldn't be enough for the Yankees to pry away the star catcher from the Twins.",
-          "by": "Jackson Kruse",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/twins-yankees-ryan-jeffers-trade-160008771.html",
-          "fetchedAt": 1785315877298
+          "t": "Marlins have tough decision with ace pitcher ahead of trade deadline",
+          "s": "The Marlins need to make up their minds fast.",
+          "by": "Ray Kuhn",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/marlins-tough-decision-ace-pitcher-163448236.html",
+          "fetchedAt": 1785445472615
         },
         {
-          "t": "1 trade the Twins can't turn down, 3 reasons they should buy otherwise",
-          "s": "The Twins shouldn't have another fire sale, but there's one player they should consider trading.",
+          "t": "Twins can't ignore Joe Ryan's second-half struggles anymore",
+          "s": "Minnesota Twins right-hander Joe Ryan has been alarmingly bad in the second half throughout his career.",
           "by": "Jackson Kruse",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/1-trade-twins-cant-turn-133001222.html",
-          "fetchedAt": 1785315877298
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/twins-cant-ignore-joe-ryans-160004357.html",
+          "fetchedAt": 1785445472615
         }
       ],
       "nbcNews": [
@@ -472,12 +481,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "Texas Rangers lineup for July 28, 2026",
-          "s": "The Rangers and the Rays, in Tampa",
+          "t": "Game 109 Game Day Thread – Texas Rangers @ Tampa Bay Rays",
+          "s": "It’s Winn Wynns for the Rangers this morning",
+          "by": "ghostofErikThompson",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/game-109-game-day-thread-151000394.html",
+          "fetchedAt": 1785445456881
+        },
+        {
+          "t": "Thoughts on a 3-0 Rangers loss",
+          "s": "Rays 3, Rangers 0",
           "by": "Adam J. Morris",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-july-28-195914266.html",
-          "fetchedAt": 1785315853069
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/thoughts-3-0-rangers-loss-124859843.html",
+          "fetchedAt": 1785445456881
+        },
+        {
+          "t": "55-53 – First inning horrors enough to sink Rangers 3-0",
+          "s": "Rangers outhit Rays 4-3 but two of theirs left the yard",
+          "by": "ghostofErikThompson",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/55-53-first-inning-horrors-010312062.html",
+          "fetchedAt": 1785445456881
         }
       ],
       "nbcNews": [
@@ -510,14 +535,6 @@
           "when": "23h ago",
           "href": "https://sports.yahoo.com/articles/chase-burns-details-outing-vs-220252958.html",
           "fetchedAt": 1785359038688
-        },
-        {
-          "t": "Chase Burns leads Reds into doubleheader vs. Guardians",
-          "s": "It’s a Tuesday full of Ohio Cup baseball!",
-          "by": "Wick Terrell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/chase-burns-leads-reds-doubleheader-150228638.html",
-          "fetchedAt": 1785359038688
         }
       ],
       "nbcNews": []
@@ -543,14 +560,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/pirates-catcher-makes-first-start-213912344.html",
           "fetchedAt": 1785402281117
-        },
-        {
-          "t": "Betting $100 Every Day for a Year: Day 205 (MLB Picks for July 28)",
-          "s": "Iain MacMillan breaks down how he's betting $100 for day 205 of his challenge of betting $100 every day for a year.",
-          "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/videos/betting-100-every-day-day-142410104.html",
-          "fetchedAt": 1785272635793
         }
       ],
       "nbcNews": []
@@ -567,22 +576,6 @@
           "by": "Dan Morrison",
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/dodgers-positive-tigers-sp-tarik-152942972.html",
-          "fetchedAt": 1785359054176
-        },
-        {
-          "t": "Dodgers, Tarik Skubal and the realistic line the Tigers cannot cross",
-          "s": "Los Angeles boasts the prospects and postseason desperation to land Detroit's ace, but the Tigers must weigh a franchise-altering haul against the high cost of losing Skubal.",
-          "by": "Rogelio Castillo",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-realistic-line-165442689.html",
-          "fetchedAt": 1785359054176
-        },
-        {
-          "t": "Tarik Skubal Dodgers Trade 2026: What a Blockbuster Would Mean for LA",
-          "s": "The clock is ticking toward the August 3 deadline, and a Tarik Skubal Dodgers trade in 2026 is the domino the entire sport is watching. The Detroit Tigers ace is the best pitcher on the board, the Los Angeles Dodgers have the deepest farm system in baseball, and the fit is almost too clean to […] The post Tarik Skubal Dodgers Trade 2026: What a Blockbuster Would Mean for LA appeared first on Stadium Rant.",
-          "by": "Steven",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-dodgers-trade-2026-130313622.html",
           "fetchedAt": 1785359054176
         }
       ],
@@ -634,28 +627,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [
         {
-          "t": "Dodgers to Retain Hernández, Díaz From Injured List",
-          "s": "The Los Angeles Dodgers will soon welcome back Kiké Hernández and Edwin Díaz this week.",
-          "by": "Adrian Medina",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-retain-hern-ndez-d-003748569.html",
-          "fetchedAt": 1785315874788
+          "t": "Diaz's rust on display in return from elbow injury",
+          "s": "",
+          "by": "",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/diazs-rust-display-return-elbow-172516729.html",
+          "fetchedAt": 1785445469668
         },
         {
-          "t": "Kiké Hernández is back, Alex Freeland optioned to Triple-A",
-          "s": "Dodgers utility man Kiké Hernández is back, activated off the injured list on Tuesday as expected before the start of a series against the Seattle Mariners at Dodger Stadium. Alex Freeland was the odd man out, optioned to Triple-A Oklahoma City. Hernández’s season now includes two long stints on the injured list. He missed the […]",
-          "by": "Eric Stephen",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/kik-hern-ndez-back-alex-000551703.html",
-          "fetchedAt": 1785315874788
+          "t": "Cue the trumpet: Edwin Diaz returns to earn save for the Dodgers after 85-game absence",
+          "s": "The 32-year-old right-hander came off the injured list after missing 85 games, having had arthroscopic surgery to remove loose bodies in his elbow in April.",
+          "by": "Associated Press",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cue-trumpet-edwin-diaz-returns-152438573.html",
+          "fetchedAt": 1785445469668
         },
         {
-          "t": "Dodgers Demote Infielder, Officially Bring Back Kik Hernandez",
-          "s": "The Los Angeles Dodgers have made a roster move ahead of Tuesday's series opener against the Seattle Mariners.",
-          "by": "Noah Camras",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-demote-infielder-officially-bring-231453863.html",
-          "fetchedAt": 1785315874788
+          "t": "Andy Pages' pair of RBIs leads Dodgers to 4-2 win",
+          "s": "",
+          "by": "",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/videos/andy-pages-pair-rbis-leads-055046227.html",
+          "fetchedAt": 1785445469668
         }
       ],
       "nbcNews": [
@@ -688,28 +681,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [
         {
-          "t": "Yankees expected to call Tigers about Tarik Skubal",
-          "s": "Tarik Skubal has gone from the biggest deadline fantasy to a name the Yankees need to call about. The Tigers […]",
-          "by": "Alexander Wilson",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-expected-call-tigers-tarik-225721689.html",
-          "fetchedAt": 1785315849058
+          "t": "Ryan Weathers strikes out Miguel Vargas",
+          "s": "",
+          "by": "",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/videos/ryan-weathers-strikes-miguel-vargas-190845715.html",
+          "fetchedAt": 1785445454259
         },
         {
-          "t": "Yankees Expected to ‘Inquire’ Alongside Four Other Teams With Tigers on Tarik Skubal Trade",
-          "s": "It should come as little surprise that the New York Yankees are going to be trade deadline buyers this season. But the one thing fans should keep in mind is what the team plans to pursue.",
+          "t": "New York Yankees @ Chicago White Sox: Ryan Weathers vs. Sean Burke",
+          "s": "The Yankees turn to the southpaw Weathers to see if they can shake off an ugly Wednesday and secure the series victory.",
+          "by": "Estevão Maximo",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-chicago-white-sox-174000363.html",
+          "fetchedAt": 1785445454259
+        },
+        {
+          "t": "Why Yankees Are Not a Realistic Landing Spot for Tarik Skubal",
+          "s": "The New York Yankees are typically linked to some of the top trade candidates every season, regardless of position. That's once again the case this year.",
           "by": "Jon Conahan",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-expected-inquire-alongside-four-220006038.html",
-          "fetchedAt": 1785315849058
-        },
-        {
-          "t": "Yankees Reportedly Expected To Be Involved In Potential Tarik Skubal Sweepstakes",
-          "s": "The New York Yankees could be trying to make a huge splash",
-          "by": "Aaliyan Mohammed",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-reportedly-expected-involved-potential-160441647.html",
-          "fetchedAt": 1785315849058
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/why-yankees-not-realistic-landing-130030307.html",
+          "fetchedAt": 1785445454259
         }
       ],
       "nbcNews": []
@@ -735,14 +728,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-demote-24-021104962.html",
           "fetchedAt": 1785402273326
-        },
-        {
-          "t": "Dodger notes – deadline rumors, injury updates",
-          "s": "‘Tis the season. Just one week remains until the 2026 season’s trade deadline, which this year is August 3rd. The Dodgers are expected to be sellers as opposed to buyers, as this year there are more teams still involved in a playoff run. The Dodgers also will have a little trade deadline action of their […]",
-          "by": "Andy Lane Chapman",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/dodger-notes-deadline-rumors-injury-120400549.html",
-          "fetchedAt": 1785272628702
         }
       ],
       "nbcNews": []
@@ -932,28 +917,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [
         {
-          "t": "Cody Bellinger Placed on Ten Day IL: Fantasy Baseball Impact As Trade Deadline Approaches",
-          "s": "Cody Bellinger has been placed on the 10 Day IL after suffering a hamstring strain. The Yankees continue to search for a replacement, as the injuries pile up.",
-          "by": "Samuel Jacovitz",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/cody-bellinger-placed-ten-day-185115428.html",
-          "fetchedAt": 1785315866350
+          "t": "Yankees, Red Sox get 'very unlikely' CJ Abrams trade update",
+          "s": "The Yankees and Red Sox could be in the market for a shortstop.",
+          "by": "Conor Liguori",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-red-sox-very-unlikely-155442973.html",
+          "fetchedAt": 1785445460930
         },
         {
-          "t": "Yankees’ $162.5M investment just took a bad turn",
-          "s": "The Yankees paid Cody Bellinger $162.5 million to be one of the stabilizers in a lineup that has spent too […]",
-          "by": "Alexander Wilson",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-162-5m-investment-just-153424083.html",
-          "fetchedAt": 1785315866350
+          "t": "New York Yankees Receive Bad News Regarding Top Trade Target CJ Abrams",
+          "s": "With the MLB trade deadline just five days away, the New York Yankees figure to be at the forefront of headlines. One of their top *rumored* trade targets is CJ Abrams, or should I say *was* Abrams. However, a recent report from the New York Post’s Jon Heyman may have shut down those trade rumors […] The post New York Yankees Receive Bad News Regarding Top Trade Target CJ Abrams appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-receive-bad-news-001921032.html",
+          "fetchedAt": 1785445460930
         },
         {
-          "t": "Yankees' Cody Bellinger to miss 4 to 6 weeks with a Grade 2 hamstring strain",
-          "s": "The loss of Bellinger is another major injury for a New York team already playing without Aaron Judge, who has been out since May 31 because of a fractured rib, and Giancarlo Stanton, who has been sidelined since April 24 because of a strained right calf.",
-          "by": "Associated Press",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-cody-bellinger-miss-4-145800676.html",
-          "fetchedAt": 1785315866350
+          "t": "New York Yankees Predicted to Enter Bidding War with Red Sox for CJ Abrams",
+          "s": "The MLB trade deadline is just five days away, and the hot stove is starting to heat up with several rumors and speculation across the league.With several reports pointing to both the Yankees and Boston Red Sox targeting infield help in some capacity, there’s a growing belief that both New York and Boston will make […] The post New York Yankees Predicted to Enter Bidding War with Red Sox for CJ Abrams appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-predicted-enter-bidding-225240144.html",
+          "fetchedAt": 1785445460930
         }
       ],
       "nbcNews": []
@@ -963,7 +948,32 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tigers calling up top prospect Clark",
+          "s": "The Tigers are calling up top outfield prospect Max Clark as Tarik Skubal trade rumors have dominated the headlines in Detroit.",
+          "by": "",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/tigers-calling-top-prospect-clark-172517227.html",
+          "fetchedAt": 1785445425081
+        },
+        {
+          "t": "Tigers telegraphed a Tarik Skubal trade all week, including with Max Clark",
+          "s": "The Detroit Tigers have given hints of a Tarik Skubal trade all week long, from promoting Max Clark to DFA'ing Jake Rogers. Scott Harris always knew this was coming.",
+          "by": "Mark Powell",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-telegraphed-tarik-skubal-trade-153322598.html",
+          "fetchedAt": 1785445425081
+        },
+        {
+          "t": "Tigers call up No. 1 prospect right before potential Tarik Skubal trade",
+          "s": "The Detroit Tigers could be making some moves at the MLB trade deadline, and now are calling up a top prospect.",
+          "by": "Bryan Logan, ClutchPoints",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-call-no-1-prospect-141432723.html",
+          "fetchedAt": 1785445425081
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -973,28 +983,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [
         {
-          "t": "Orioles Surprisingly Open to Moving Key Players at Trade Deadline",
-          "s": "The Baltimore Orioles could take a much different approach at the MLB trade deadline than many expected.",
+          "t": "Phillies Emerging as Fit for Several Mets Trade Targets",
+          "s": "The Phillies and Mets make plenty of sense as trade partners, with reported interest already connecting the two clubs ahead of the deadline.",
           "by": "Thomas Kelson",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/orioles-surprisingly-open-moving-key-203000976.html",
-          "fetchedAt": 1785315855186
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-emerging-fit-several-mets-163117694.html",
+          "fetchedAt": 1785445458801
         },
         {
-          "t": "MLB rumors: Phillies will take note of Jeff Passan’s Orioles trade declaration",
-          "s": "The Phillies should want to take note of MLB insider Jeff Passan's latest post regarding the Orioles' plans at the trade deadline.",
-          "by": "Zachary Weinberger, ClutchPoints",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-rumors-phillies-note-jeff-174804165.html",
-          "fetchedAt": 1785315855186
+          "t": "Orioles trade rumors: Team working “both buy and sell” possibilities",
+          "s": "The Orioles could still go either way at the deadline. They might even go both ways at once.",
+          "by": "Mark Brown",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/orioles-trade-rumors-team-working-150000800.html",
+          "fetchedAt": 1785445458801
         },
         {
-          "t": "Baltimore Orioles Face Major MLB Trade Deadline Decision With Trevor Rogers",
-          "s": "As the MLB trade deadline approaches, the Baltimore Orioles continue searching for the best path forward after a disappointing season. […]",
-          "by": "Austin Konenski",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/baltimore-orioles-face-major-mlb-170939271.html",
-          "fetchedAt": 1785315855186
+          "t": "Phillies Get Concerning Update on Trade Odds for .740 OPS Orioles Outfielder",
+          "s": "The Philadelphia Phillies desperately need to upgrade their starting rotation and bullpen this summer at the trade deadline, but the right-handed hitting outfielder need is the most important.",
+          "by": "Jon Conahan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-concerning-trade-odds-740-120005597.html",
+          "fetchedAt": 1785445458801
         }
       ],
       "nbcNews": []
@@ -1037,24 +1047,7 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [
-        {
-          "t": "Seattle Mariners May Have Lost Valuable Trade Target to Injury",
-          "s": "",
-          "by": "",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/videos/seattle-mariners-may-lost-valuable-190029280.html",
-          "fetchedAt": 1785272616832
-        },
-        {
-          "t": "Seattle Mariners May Have Lost Valuable Trade Target to Injury",
-          "s": "After seeing Spencer Steer get injured over the weekend, Casey Schmitt was injured on Monday.",
-          "by": "Brady Farkas",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-may-lost-valuable-190029732.html",
-          "fetchedAt": 1785272616832
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Colt Emerson a late scratch from Tuesday’s lineup",
@@ -1103,12 +1096,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [
         {
-          "t": "Ranking the top 10 second basemen in MLB ahead of the trade deadline",
-          "s": "The top 10 second basemen in MLB right now.",
-          "by": "Kyle Amore",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/ranking-top-10-second-basemen-131200618.html",
-          "fetchedAt": 1785272639894
+          "t": "Cole Young's RBI single",
+          "s": "",
+          "by": "",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/videos/cole-youngs-rbi-single-042542948.html",
+          "fetchedAt": 1785445446650
         }
       ],
       "nbcNews": []
@@ -1120,28 +1113,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [
         {
-          "t": "Braves rumors: 4 pitchers Atlanta could pivot to if Tarik Skubal is traded elsewhere",
-          "s": "Tarik Skubal is the dream trade target for the Braves, but these are the players they can pivot to in case a trade for Skubal is impossible.",
-          "by": "Jedd Pagaduan, ClutchPoints",
+          "t": "Braves Eyed as Top Team in MLB Trade for Projected $317 Million Superstar Amid Rumors",
+          "s": "Braves rumors are heating up that Atlanta could land a big fish at the MLB trade deadline. Could the Braves land Tigers star Tarik Skubal? The post Braves Eyed as Top Team in MLB Trade for Projected $317 Million Superstar Amid Rumors appeared first on HEAVY.",
+          "by": "Jonathan Adams",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/braves-eyed-top-team-mlb-165100953.html",
+          "fetchedAt": 1785445464646
+        },
+        {
+          "t": "Yankees, Red Sox get 'very unlikely' CJ Abrams trade update",
+          "s": "The Yankees and Red Sox could be in the market for a shortstop.",
+          "by": "Conor Liguori",
           "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/braves-rumors-4-pitchers-atlanta-032119472.html",
-          "fetchedAt": 1785315869536
+          "href": "https://sports.yahoo.com/articles/yankees-red-sox-very-unlikely-155442973.html",
+          "fetchedAt": 1785445464646
         },
         {
-          "t": "Braves rumors: Atlanta among multiple teams likely to reach out about Tarik Skubal trade",
-          "s": "The Braves are considered one of the ball clubs that will inquire the Tigers about star pitcher Tarik Skubal.",
-          "by": "Zachary Weinberger, ClutchPoints",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/braves-rumors-atlanta-among-multiple-190050254.html",
-          "fetchedAt": 1785315869536
-        },
-        {
-          "t": "Red Sox pursuing trades for three shortstops from Angels, Astros, Nationals",
-          "s": "These three shortstops would be great upgrades for Boston this summer.",
-          "by": "Matt Sullivan",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-pursuing-trades-three-154208533.html",
-          "fetchedAt": 1785315869536
+          "t": "Insider: Red Sox 'Going Big' At Trade Deadline",
+          "s": "The Boston Red Sox may be lining up to make a big splash at the trade deadline",
+          "by": "Aaliyan Mohammed",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/insider-red-sox-going-big-142531805.html",
+          "fetchedAt": 1785445464646
         }
       ],
       "nbcNews": []
@@ -1153,20 +1146,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [
         {
-          "t": "Red Sox Plans at Trade Deadline Reportedly Include Surprise Position",
-          "s": "The Boston Red Sox have launched themselves from the bottom of the league to playoff contenders. This makes their Trade Deadline all the more interesting.The Red Sox already made an aggressive move to acquire infielder Curtis Mead for starter Connelly Early. They’re reportedly far from done.According to Chris Cotillo and Sean McAdam of MassLive, the […] The post Red Sox Plans at Trade Deadline Reportedly Include Surprise Position appeared first on HEAVY.",
-          "by": "Matthew Singer",
-          "when": "33m ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-plans-trade-deadline-203010446.html",
-          "fetchedAt": 1785272641605
+          "t": "Red Sox Questioned for Trade Strategy Amid Franklin Arias Surge",
+          "s": "The Red Sox have one of the best shortstop prospects in the game at Triple-A. Should they be chasing players at that position now? The post Red Sox Questioned for Trade Strategy Amid Franklin Arias Surge appeared first on HEAVY.",
+          "by": "Sean Deveney",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-questioned-trade-strategy-234150600.html",
+          "fetchedAt": 1785445448516
         },
         {
-          "t": "Latest Red Sox Report Is Very Bad News For Trevor Story, Marcelo Mayer",
-          "s": "The Boston Red Sox are reportedly in the market for a shortstop",
+          "t": "Boston Red Sox Announced Marcelo Mayer Update During Athletics Series",
+          "s": "On Wednesday night, the Boston Red Sox will continue their series with the Athletics in Sacramento.Thy are coming off a 4-3 loss on Tuesday night.Boston Red Sox Announced Marcelo Mayer UpdateDuring their series with the Athletics, the Red Sox announced the latest update on Marcelo Mayer.He has been out since June 25 with an injury.MLB.com […] The post Boston Red Sox Announced Marcelo Mayer Update During Athletics Series appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/boston-red-sox-announced-marcelo-181202887.html",
+          "fetchedAt": 1785445448516
+        },
+        {
+          "t": "Why Red Sox Should Avoid Trading For Shortstop",
+          "s": "The Boston Red Sox are reportedly looking for a shortstop",
           "by": "Aaliyan Mohammed",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/latest-red-sox-report-very-174547384.html",
-          "fetchedAt": 1785272641605
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/why-red-sox-avoid-trading-170908437.html",
+          "fetchedAt": 1785445448516
         }
       ],
       "nbcNews": []
@@ -1233,14 +1234,6 @@
           "when": "15h ago",
           "href": "https://sports.yahoo.com/articles/dodgers-surplus-outfield-prospects-lead-180007495.html",
           "fetchedAt": 1785402271597
-        },
-        {
-          "t": "MLB Trade Deadline: Dodgers not signaling any big moves. History says one could still happen",
-          "s": "It all sounds so familiar.",
-          "by": "Jack Harris",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-trade-deadline-dodgers-not-120000417.html",
-          "fetchedAt": 1785272627155
         }
       ],
       "nbcNews": []
@@ -1316,14 +1309,6 @@
           "when": "20h ago",
           "href": "https://sports.yahoo.com/mlb/article/its-not-just-triple-digit-velocity-jacob-misiorowski-might-be-throwing-the-best-fastball-in-baseball-history-005254246.html",
           "fetchedAt": 1785359044730
-        },
-        {
-          "t": "2026 Cy Young Odds: Misiorowski Dials It Up a Notch",
-          "s": "MLB Cy Young odds for 2026, featuring Jacob Misiorowski, Cam Schlittler, and Dylan Cease.",
-          "by": "Jason Wilson",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/2025-cy-young-odds-skubal-140900897.html",
-          "fetchedAt": 1785359044730
         }
       ],
       "nbcNews": []
@@ -1376,28 +1361,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [
         {
-          "t": "Mets Could Trade More Pitching to Cubs",
-          "s": "The New York Mets have pitching and the Chicago Cubs need pitching. Could they come together for another trade?",
-          "by": "Pat Ragazzo",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/mets-could-trade-more-pitching-030052348.html",
-          "fetchedAt": 1785315872689
+          "t": "Latest Intel Says Mets Will Trade At Least Two Relievers",
+          "s": "The New York Mets will be unloading way more than just two relievers, but ESPN's Jeff Passan guarantees these pitchers will be on the move in the coming days.",
+          "by": "Nick Radosevich",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/latest-intel-says-mets-trade-191430191.html",
+          "fetchedAt": 1785445467173
         },
         {
-          "t": "Brewers Discussing Possibility of Bringing Back Peralta",
-          "s": "Struggling with the New York Mets after an offseason trade, the Milwaukee Brewers' former ace could return home as Pat Murphy's Brewers seek pitching reinforcements.",
-          "by": "Jordon Lawrenz",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/brewers-discussing-possibility-bringing-back-020033754.html",
-          "fetchedAt": 1785315872689
+          "t": "6 REALISTIC Los Angeles Dodgers Pitching Targets Besides Tarik Skubal, Including NY Mets Freddy Peralta",
+          "s": "A couple of weeks ago, the Los Angeles Dodgers making a trade for a starting pitcher was a possibility. However, […]",
+          "by": "Jason Burgos",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/6-realistic-los-angeles-dodgers-184400926.html",
+          "fetchedAt": 1785445467173
         },
         {
-          "t": "Should the Mets trade Freddie Peralta with his value tanking?",
-          "s": "",
+          "t": "White Sox Trade Target Just Cleared A Major Hurdle Before Deadline",
+          "s": "Clay Holmes’ latest rehab start may have given the Chicago White Sox what they needed to see before making a deal.",
           "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/should-the-mets-trade-freddie-peralta-with-his-value-tanking-234412089.html",
-          "fetchedAt": 1785315872689
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/videos/white-sox-trade-target-just-190027000.html",
+          "fetchedAt": 1785445467173
         }
       ],
       "nbcNews": []
@@ -1407,7 +1392,32 @@
       "name": "Jesús Luzardo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Don Mattingly, Jesus Luzardo and Trea Turner speak on being swept by the Marlins",
+          "s": "The Phillies have been spiraling since the All-Star break and were swept by the MarlinsDon Mattingly, Jesus Luzardo and Trea Turner speak on being swept by the Marlins originally appeared on NBC Sports Philadelphia",
+          "by": "",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/don-mattingly-jesus-luzardo-trea-001126177.html",
+          "fetchedAt": 1785445438822
+        },
+        {
+          "t": "Reeling Phillies swept by a team that lost 12 straight entering the series",
+          "s": "The Phillies squander a 6-0 lead, falling 8-6 to the Marlins in Miami.",
+          "by": "Jim Salisbury",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reeling-phillies-swept-team-lost-145251315.html",
+          "fetchedAt": 1785445438822
+        },
+        {
+          "t": "Send Help: Marlins 8, Phillies 6",
+          "s": "It might not matter anymore anyway",
+          "by": "Joe Edinger",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/send-help-marlins-8-phillies-190431998.html",
+          "fetchedAt": 1785445438822
+        }
+      ],
       "nbcNews": []
     },
     {
