@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-31T09:21:44.045Z",
+  "lastUpdatedNews": "2026-07-31T21:04:30.235Z",
   "players": [
     {
       "id": 11928,
@@ -23,22 +23,6 @@
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/alarming-trend-behind-vladimir-guerrero-154942303.html",
           "fetchedAt": 1785445409841
-        },
-        {
-          "t": "Vladimir Guerrero Jr's single",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/vladimir-guerrero-jrs-rbi-single-005008328.html",
-          "fetchedAt": 1785445409841
-        },
-        {
-          "t": "Toronto Blue Jays Manager Announces Vladimir Guerrero Jr. Injury Update",
-          "s": "Toronto Blue Jays manager John Schneider revealed an injury update on first baseman Vladimir Guerrero Jr. before Wednesday's game. The post Toronto Blue Jays Manager Announces Vladimir Guerrero Jr. Injury Update appeared first on HEAVY.",
-          "by": "Jackson Kruse",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/toronto-blue-jays-manager-announces-192259623.html",
-          "fetchedAt": 1785445409841
         }
       ],
       "nbcNews": []
@@ -48,32 +32,7 @@
       "name": "Luis García Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
-      "yahooNews": [
-        {
-          "t": "Luis García Jr.'s RBI single",
-          "s": "",
-          "by": "",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/videos/luis-garc-jr-rbi-single-194404121.html",
-          "fetchedAt": 1785402275209
-        },
-        {
-          "t": "Nationals Reportedly Aren't Entertaining Offers for Their Breakout Slugger",
-          "s": "With the trade deadline looming, the Washington Nationals reportedly are no longer listening to offers for one of their breakout sluggers.",
-          "by": "Brad Wakai",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/nationals-reportedly-arent-entertaining-offers-175821712.html",
-          "fetchedAt": 1785402275209
-        },
-        {
-          "t": "Back-to-back homers lead Nationals' offense in win",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/back-back-homers-lead-nationals-041329411.html",
-          "fetchedAt": 1785402275209
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Luis García Jr. hits two-run homer against Jays",
@@ -88,32 +47,7 @@
       "name": "Royce Lewis",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
-      "yahooNews": [
-        {
-          "t": "Royce Lewis' walk-off triple!",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/royce-lewis-walk-off-triple-021555241.html",
-          "fetchedAt": 1785445452366
-        },
-        {
-          "t": "Matt Quatraro Has Blunt Message After Walk-Off Loss to Twins",
-          "s": "Kansas City got a strong Seth Lugo start and a stolen run, and still left Target Field on the wrong end of another one-run night.",
-          "by": "Grant Mona",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/matt-quatraro-blunt-message-walk-192509956.html",
-          "fetchedAt": 1785445452366
-        },
-        {
-          "t": "Royce Lewis' walk-off fuels Twins' trade deadline push",
-          "s": "Royce Lewis' walk-off triple capped another resilient Twins response, forcing a fresh look at Minnesota's trade deadline outlook after winning five of six.",
-          "by": "Amanda Lucas",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/royce-lewis-walk-off-fuels-131501506.html",
-          "fetchedAt": 1785445452366
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -140,28 +74,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
       "yahooNews": [
         {
-          "t": "Nick Kurtz Injury Update, Jacob Lopez Rediscovering late-2025 Form",
-          "s": "Nick Kurtz is the latest player to leave a game due to injury, while Jacob Lopez is turning a corner on the mound.",
-          "by": "Jason Burke",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/nick-kurtz-injury-jacob-lopez-075542895.html",
-          "fetchedAt": 1785402258857
+          "t": "These Athletics Must Step Up To End Series Losing Streak",
+          "s": "With the Athletics' last series win coming on June 14, these players need to step up big time against the Tigers.",
+          "by": "Andrew L. Ferguson Jr",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/athletics-must-step-end-series-130006576.html",
+          "fetchedAt": 1785531861093
         },
         {
-          "t": "Athletics' 1B Nick Kurtz leaves early after being hit by pitch on wrist in loss to Red Sox",
-          "s": "Nick Kurtz took a pitch directly to his left wrist in the opening inning of Wednesday's contest.",
-          "by": "Ryan Young",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/mlb/breaking-news/article/athletics-1b-nick-kurtz-leaves-early-after-being-hit-in-wrist-by-pitch-in-game-vs-red-sox-023031220.html",
-          "fetchedAt": 1785402258857
-        },
-        {
-          "t": "Athletics' Nick Kurtz leaves game vs. Red Sox with bruised left forearm after HBP, getting MRI",
-          "s": "Athletics first baseman Nick Kurtz will undergo an MRI test after leaving Wednesday night’s game against the Boston Red Sox with a bruised forearm after being hit by a pitch. The 23-year-old All-Star had X-rays taken after being removed from the game but manager Mark Kotsay said the results were inconclusive. “We’re going to have an MRI in the morning so we’ll have a vatter idea of exactly what is going on,” Kotsay told reporters after the A’s 4-2 loss to the Red Sox.",
+          "t": "Athletics' Mark Kotsay assesses Mason Barnett's fifth inning in loss vs. Red Sox",
+          "s": "Athletics manager Mark Kotsay spoke to reporters following the Athletics' 5-4 loss to the Boston Red Sox on Thursday night at Sutter Health Park.Athletics' Mark Kotsay assesses Mason Barnett's fifth inning in loss vs. Red Sox originally appeared on NBC Sports Bay Area",
           "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/athletics-nick-kurtz-leaves-game-030042828.html",
-          "fetchedAt": 1785402258857
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/videos/athletics-mark-kotsay-assesses-mason-120802142.html",
+          "fetchedAt": 1785531861093
+        },
+        {
+          "t": "Mark Kotsay provides Nick Kurtz injury update after star leaves Athletics' loss",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/mark-kotsay-provides-nick-kurtz-122700321.html",
+          "fetchedAt": 1785531861093
         }
       ],
       "nbcNews": [
@@ -198,22 +132,6 @@
           "when": "8h ago",
           "href": "https://sports.yahoo.com/articles/padres-notes-friars-cut-ties-125900965.html",
           "fetchedAt": 1785445450547
-        },
-        {
-          "t": "Xander Bogaerts walks it off in Padres’ 8-7 win",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/xander-bogaerts-walks-off-padres-060056962.html",
-          "fetchedAt": 1785445450547
-        },
-        {
-          "t": "Fernando Tatis Jr.'s RBI single",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/fernando-tatis-jr-rbi-single-021727209.html",
-          "fetchedAt": 1785445450547
         }
       ],
       "nbcNews": [
@@ -246,14 +164,6 @@
           "when": "16h ago",
           "href": "https://sports.yahoo.com/articles/brewers-love-acquire-two-time-160519296.html",
           "fetchedAt": 1785488627725
-        },
-        {
-          "t": "Padres Prioritize Outfielders in Proposed Brewers' Deal for Miller",
-          "s": "The San Diego Padres demand a high-impact haul for closer Mason Miller, eyeing a prospect-heavy package that could strip the Milwaukee Brewers of outfield depth.",
-          "by": "Jordon Lawrenz",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/padres-prioritize-outfielders-proposed-brewers-180007916.html",
-          "fetchedAt": 1785359033459
         }
       ],
       "nbcNews": []
@@ -368,7 +278,16 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Jake Cronenworth And 3 Other Fantasy Baseball Buy-Low Candidates As July Wraps Up",
+          "s": "These four fantasy baseball buy-low candidates could help players bolster lineup production at a team-friendly price.",
+          "by": "Ethen Hutton",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/jake-cronenworth-3-other-fantasy-165949878.html",
+          "fetchedAt": 1785531812175
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -393,16 +312,7 @@
       "name": "Jacob Latz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
-      "yahooNews": [
-        {
-          "t": "Ranking the top 10 MLB relief pitchers ahead of the trade deadline",
-          "s": "These 10 pitchers are who you want on the mound late in games.",
-          "by": "Kyle Amore",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/ranking-top-10-mlb-relief-145400719.html",
-          "fetchedAt": 1785358997169
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -523,7 +433,16 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Two-start pitchers: Cam Schlittler leads a star-studded group of options as we hit the trade deadline",
+          "s": "Chris Sale, Christian Scott and Jared Jones are among the projected two-start pitchers for the upcoming week.",
+          "by": "David Shovein",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/two-start-pitchers-cam-schlittler-193532025.html",
+          "fetchedAt": 1785531815414
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -539,16 +458,7 @@
       "name": "Braxton Ashcraft",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
-      "yahooNews": [
-        {
-          "t": "Pirates Catcher Makes First Start Following Injury Return",
-          "s": "The Pittsburgh Pirates have their best catcher back in the lineup.",
-          "by": "Dominic Campbell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-catcher-makes-first-start-213912344.html",
-          "fetchedAt": 1785402281117
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -612,14 +522,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-edwin-054802011.html",
           "fetchedAt": 1785488616123
-        },
-        {
-          "t": "Ranking the top 10 MLB relief pitchers ahead of the trade deadline",
-          "s": "These 10 pitchers are who you want on the mound late in games.",
-          "by": "Kyle Amore",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/ranking-top-10-mlb-relief-145400719.html",
-          "fetchedAt": 1785359003201
         }
       ],
       "nbcNews": [
@@ -738,14 +640,6 @@
           "when": "5h ago",
           "href": "https://sports.yahoo.com/videos/freddie-freemans-infield-rbi-single-030618630.html",
           "fetchedAt": 1785402273326
-        },
-        {
-          "t": "Los Angeles Dodgers Demote 24-Year-Old Player to Pave Way for Kike Hernandez During Mariners Series",
-          "s": "The Los Angeles Dodgers, after an off-day on Monday, are set to open up a three-game series (at home) against the Seattle Mariners. Before the Mariners series opens up, the Los Angeles Dodgers will activate Kiké Hernández from the IL. The official announcement has not been made by the club yet, but reports from team […] The post Los Angeles Dodgers Demote 24-Year-Old Player to Pave Way for Kike Hernandez During Mariners Series appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-demote-24-021104962.html",
-          "fetchedAt": 1785402273326
         }
       ],
       "nbcNews": []
@@ -762,14 +656,6 @@
           "by": "",
           "when": "8h ago",
           "href": "https://sports.yahoo.com/videos/travis-bazzanas-rbi-single-003253641.html",
-          "fetchedAt": 1785402230728
-        },
-        {
-          "t": "The Biggest Mistake the Guardians Can't Make This Deadline",
-          "s": "The Cleveland Guardians can't ignore this glaring issue with another postseason race on the horizon.",
-          "by": "Nick Pedone",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/biggest-mistake-guardians-cant-deadline-184500950.html",
           "fetchedAt": 1785402230728
         }
       ],
@@ -830,28 +716,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [
         {
-          "t": "Chicago Cubs Announce Dansby Swanson Decision Before Cardinals Game",
-          "s": "The Chicago Cubs series against the St. Louis Cardinals rolls right along for a Wednesday evening showdown. The Cardinals will send Dustin May (5-7, 4.59 ERA, 103 SO) to the mound for Wednesday’s game, while the Cubs are opting to go with Matthew Boyd. Chicago is 61-46, which is good for second place in the […] The post Chicago Cubs Announce Dansby Swanson Decision Before Cardinals Game appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-000409268.html",
-          "fetchedAt": 1785402261285
-        },
-        {
-          "t": "Chicago Cubs Star Dansby Swanson Makes Heartfelt Post After Career News",
-          "s": "On Wednesday night, the Chicago Cubs will continue their series with the St. Louis Cardinals.They are coming off a 10-2 win on Tuesday.Dansby Swanson finished with one hit and two strikeouts.Swanson Makes Heartfelt Post After Career NewsEarlier this week, Swanson hit a major career milestone.He now has 10 years of MLB service time. View this […] The post Chicago Cubs Star Dansby Swanson Makes Heartfelt Post After Career News appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-star-dansby-swanson-232328958.html",
-          "fetchedAt": 1785402261285
-        },
-        {
-          "t": "2026 Cubs Heroes and Goats: Ian Happ is the Superhero vs. the Cardinals",
-          "s": "The Cubs put together a potent offense in taking their second straight in St. Louis.",
+          "t": "2026 Cubs Heroes and Goats: Jacob Webb is the Superhero vs. the Cardinals",
+          "s": "The Cubs had an extra-inning lead, and this time they held it, thanks in part to today’s Superhero.",
           "by": "Al Yellon",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-ian-153000865.html",
-          "fetchedAt": 1785402261285
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-jacob-133000686.html",
+          "fetchedAt": 1785531862881
+        },
+        {
+          "t": "Chicago Cubs Announce Dansby Swanson Change Before Cardinals Game",
+          "s": "It’s getaway day for the Chicago Cubs, who are set to face the St. Louis Cardinals for a fourth time this week. Chicago dropped their Wednesday night contest 3-2, but they still have an advantage in the series after winning on Monday and Tuesday. Thursday will feature an afternoon showdown before the Cubs and Cards, […] The post Chicago Cubs Announce Dansby Swanson Change Before Cardinals Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-184049452.html",
+          "fetchedAt": 1785531862881
+        },
+        {
+          "t": "2026 Cubs Heroes and Goats: Matthew Boyd is the Superhero vs. the Cardinals",
+          "s": "The Cubs had an extra-inning lead, but could not hold it.",
+          "by": "Al Yellon",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-matthew-143000413.html",
+          "fetchedAt": 1785531862881
         }
       ],
       "nbcNews": []
@@ -863,28 +749,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "Cardinals walk off Cubs, spoil Pete Crow-Armstrong's would-be game-winning HR in extras",
-          "s": "Crow-Armstrong celebrated his 10th-inning blast on the road as if it were a game-winner. It was not.",
-          "by": "Jason Owens",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/mlb/breaking-news/article/cardinals-walk-off-cubs-spoil-pete-crow-armstrongs-would-be-game-winning-hr-in-extras-031126932.html",
-          "fetchedAt": 1785402264288
-        },
-        {
-          "t": "Cardinals’ Ivan Herrera ruins Pete Crow-Armstrong heroics with an extra-innings RBI",
-          "s": "The St. Louis Cardinals rallied past the Cubs Wednesday as Ivan Herrera's walk-off two-run double sealed a dramatic 3-2 win in 10 innings.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-ivan-herrera-ruins-pete-034617929.html",
-          "fetchedAt": 1785402264288
-        },
-        {
-          "t": "Cardinals End Slump With 10th-Inning Rally to Beat Cubs in Dustin May's Possible Finale",
-          "s": "After Pete Crow-Armstrong hit a 424-foot homer in the top of the 10th inning, the Cardinals responded with three runs in the bottom of the 10th for a 3-2 defeat of the Cubs at Busch Stadium. Ivan Herrera capped a three-hit night with a two-run, walk-off double.",
+          "t": "Passan talks NYM, Skubal suitors at trade deadline",
+          "s": "",
           "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/videos/cardinals-end-slump-10th-inning-025836704.html",
-          "fetchedAt": 1785402264288
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/videos/passan-talks-nym-skubal-suitors-152503574.html",
+          "fetchedAt": 1785531864968
+        },
+        {
+          "t": "Pete Crow-Armstrong Rookie Cards: The Cubs Star Whose Market Quietly Caught Fire",
+          "s": "This release showcases him as a New York Mets Pete Crow-Armstrong prospect card rather than a Chicago Cubs card. High-grade parallels drive premier valuations across the entire secondary market. Limited production creates massive scarcity among elite sportscard investors.",
+          "by": "Rohit Gupta",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/pete-crow-armstrong-rookie-cards-075851915.html",
+          "fetchedAt": 1785531864968
+        },
+        {
+          "t": "The Cubs turned Pete Crow-Armstrong's heroics into another crushing defeat",
+          "s": "Pete Crow-Armstrong broke a scoreless tie in the 10th inning, but the Cubs could not finish the job as Trent Thornton surrendered three late runs to the Cardinals.",
+          "by": "Casey McAleer",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-turned-pete-crow-armstrongs-230003363.html",
+          "fetchedAt": 1785531864968
         }
       ],
       "nbcNews": [
@@ -1015,14 +901,6 @@
           "when": "6h ago",
           "href": "https://sports.yahoo.com/articles/orioles-trade-rumors-team-working-150000800.html",
           "fetchedAt": 1785445458801
-        },
-        {
-          "t": "Phillies Get Concerning Update on Trade Odds for .740 OPS Orioles Outfielder",
-          "s": "The Philadelphia Phillies desperately need to upgrade their starting rotation and bullpen this summer at the trade deadline, but the right-handed hitting outfielder need is the most important.",
-          "by": "Jon Conahan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/phillies-concerning-trade-odds-740-120005597.html",
-          "fetchedAt": 1785445458801
         }
       ],
       "nbcNews": [
@@ -1041,19 +919,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [
         {
+          "t": "Hayden Wesneski Returns in Style as Astros Continue Momentum",
+          "s": "Houston Astros starter Hayden Wesneski made a great season debut, and his performance powered the Astros back to .500 on the year.",
+          "by": "Maanav Gupta",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/hayden-wesneski-returns-style-astros-000003928.html",
+          "fetchedAt": 1785531850423
+        },
+        {
+          "t": "Astros Complete Sweep of Angels, Reach .500 for First Time Since April",
+          "s": "The Astros completed a three-game sweep of the Los Angeles Angels Wednesday night, winning 7-4. Hayden Wesneski made his first start since undergoing Tommy John surgery in May 2025, his first start in 449 days.",
+          "by": "Sydney Cruse",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/astros-complete-sweep-angels-reach-221834656.html",
+          "fetchedAt": 1785531850423
+        },
+        {
           "t": "Astros Finally Back to .500 with 7-4 Victory, Sweep of Angels",
           "s": "It took 110 games, but the Astros have finally returned to the .500 mark. Astros 7 Angels. 4. The victory would represent a sweep in Anaheim, while securing a 5-1 road trip. The Astros (55-55) have now won 8 of their last 9. In contrast, after suffering the loss, the Angels […]",
           "by": "Craig Larson Jr.",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/astros-finally-back-500-7-051420457.html",
-          "fetchedAt": 1785402238385
-        },
-        {
-          "t": "Astros beat Angels 7-4 for a 3-game sweep",
-          "s": "Cam Smith gave Houston the lead with a two-run double in the sixth inning, Yainer Diaz and Jeremy Peña hit solo homers and the Astros beat the Los Angeles Angels 7-4 on Wednesday night for a three-game sweep. Houston right-hander Hayden Wesneski, making his first start in almost 15 months after undergoing Tommy John surgery in May 2025, allowed three runs and seven hits in 5 2/3 innings, striking out four and walking two, to earn the win. Bryan Abreu got the final four outs for his seventh save.",
-          "by": "MIKE DiGIOVANNA",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/astros-beat-angels-7-4-044109523.html",
           "fetchedAt": 1785402238385
         }
       ],
@@ -1082,12 +968,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [
         {
-          "t": "Noelvi Marte's RBI single",
-          "s": "",
-          "by": "",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/videos/noelvi-martes-rbi-single-010930609.html",
-          "fetchedAt": 1785402240236
+          "t": "Why the under on runs looks like the smart baseball play when Pirates visit the Reds tonight",
+          "s": "Paul Skenes and Hunter Greene face off as the Pittsburgh Pirates visit the Cincinnati Reds, with the under eight runs emerging as the smart play.",
+          "by": "David Troy",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/why-under-runs-looks-smart-144842220.html",
+          "fetchedAt": 1785531852287
+        },
+        {
+          "t": "Reds Look to Get Back on Track in Four-Game Series vs. Pittsburgh Pirates",
+          "s": "The Reds will need to put losing The Ohio Cup in the rearview mirror with the Pirates coming to town.",
+          "by": "Tyler Reed",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reds-look-back-track-four-143058674.html",
+          "fetchedAt": 1785531852287
+        },
+        {
+          "t": "Pirates Make Starting Pitchers Change vs. Reds",
+          "s": "The Pittsburgh Pirates will have a different rotation schedule for this series.",
+          "by": "Dominic Campbell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-starting-pitchers-change-vs-110010976.html",
+          "fetchedAt": 1785531852287
         }
       ],
       "nbcNews": []
@@ -1155,22 +1057,6 @@
           "when": "21h ago",
           "href": "https://sports.yahoo.com/articles/red-sox-questioned-trade-strategy-234150600.html",
           "fetchedAt": 1785445448516
-        },
-        {
-          "t": "Boston Red Sox Announced Marcelo Mayer Update During Athletics Series",
-          "s": "On Wednesday night, the Boston Red Sox will continue their series with the Athletics in Sacramento.Thy are coming off a 4-3 loss on Tuesday night.Boston Red Sox Announced Marcelo Mayer UpdateDuring their series with the Athletics, the Red Sox announced the latest update on Marcelo Mayer.He has been out since June 25 with an injury.MLB.com […] The post Boston Red Sox Announced Marcelo Mayer Update During Athletics Series appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/boston-red-sox-announced-marcelo-181202887.html",
-          "fetchedAt": 1785445448516
-        },
-        {
-          "t": "Why Red Sox Should Avoid Trading For Shortstop",
-          "s": "The Boston Red Sox are reportedly looking for a shortstop",
-          "by": "Aaliyan Mohammed",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/why-red-sox-avoid-trading-170908437.html",
-          "fetchedAt": 1785445448516
         }
       ],
       "nbcNews": []
@@ -1182,20 +1068,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [
         {
-          "t": "Cubs Have Perfect Trade Package For Mariners Right-Hander Emerson Hancock",
-          "s": "Surging toward the postseason, Chicago could solidify its rotation by flipping high-upside infielders for Seattle's controllable breakout starter to anchor a deep October run.",
-          "by": "Joey Pollizze",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-perfect-trade-package-mariners-202011781.html",
-          "fetchedAt": 1785402242710
+          "t": "Cubs believed to have 'best shot' of trading for Mariners' 3.26 ERA ace-level pitcher",
+          "s": "This 3.26 ERA starter would be great for the Cubs, but very costly.",
+          "by": "Matt Sullivan",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-believed-best-shot-trading-183547826.html",
+          "fetchedAt": 1785531854587
         },
         {
-          "t": "Cubs Have Perfect Trade Package For Mariners Right-Hander Emerson Hancock",
-          "s": "Surging toward the postseason, Chicago could solidify its rotation by flipping high-upside infielders for Seattle's controllable breakout starter to anchor a deep October run.",
-          "by": "",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/videos/cubs-perfect-trade-package-mariners-202011832.html",
-          "fetchedAt": 1785402242710
+          "t": "This Mariners-Cubs Trade Could Fix Seattle's Offense Without Gutting the Farm",
+          "s": "Emerson Hancock has never been more valuable, and the Mariners may never find a better opportunity to turn him into needed offense.",
+          "by": "Tremayne Person",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-cubs-trade-could-fix-011501510.html",
+          "fetchedAt": 1785531854587
+        },
+        {
+          "t": "MLB Insider Paints Disappointing Picture on Possible Emerson Hancock Trade",
+          "s": "If the Mariners do trade the right-hander, it doesn't sound like it will yield what the fanbase wants in return.",
+          "by": "Brady Farkas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-insider-paints-disappointing-picture-170034650.html",
+          "fetchedAt": 1785531854587
         }
       ],
       "nbcNews": [
@@ -1222,20 +1116,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Dodgers Have 'Increased' Interest in Tarik Skubal, Unlikely to Trade One Specific Prospect",
-          "s": "The Los Angeles Dodgers have reportedly increased their pursuit of a Tarik Skubal trade, but are looking to keep one top prospect.",
-          "by": "Noah Camras",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-increased-interest-tarik-skubal-195311850.html",
-          "fetchedAt": 1785402271597
+          "t": "Dodgers Not Interested In Parting Ways With These Two Prospects Amid Tarik Skubal Rumors",
+          "s": "The Los Angeles Dodgers are in the mix to land Tarik Skubal",
+          "by": "Aaliyan Mohammed",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-not-interested-parting-ways-190212465.html",
+          "fetchedAt": 1785531866695
         },
         {
-          "t": "Dodgers' Surplus of Outfield Prospects Will Lead Them to Skubal",
-          "s": "Boasting a wealth of elite minor-league talent, the Los Angeles Dodgers could aggressively trade prized outfield depth to land Detroit Tigers' Tarik Skubal.",
-          "by": "Jordon Lawrenz",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-surplus-outfield-prospects-lead-180007495.html",
-          "fetchedAt": 1785402271597
+          "t": "Los Angeles Dodgers’ Potential Trade Package for Tarik Skubal Revealed",
+          "s": "As the 2026 MLB trade deadline approaches, the Los Angeles Dodgers continue to be one of the most logical landing […]",
+          "by": "Austin Konenski",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-potential-trade-164642589.html",
+          "fetchedAt": 1785531866695
+        },
+        {
+          "t": "Dodgers rumors: LA may have hidden motive behind Tarik Skubal pursuit",
+          "s": "The Dodgers could choose to be very greedy and trade for Tarik Skubal if it ends up benefitting their World Series hopes in the long run.",
+          "by": "Jedd Pagaduan, ClutchPoints",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-rumors-la-may-hidden-035553397.html",
+          "fetchedAt": 1785531866695
         }
       ],
       "nbcNews": []
@@ -1245,7 +1147,16 @@
       "name": "Walker Jenkins",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "4 Twins prospects who should be untouchable at the trade deadline",
+          "s": "There are several prospects whom the Minnesota Twins shouldn't even consider trading.",
+          "by": "Jackson Kruse",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/4-twins-prospects-untouchable-trade-110009243.html",
+          "fetchedAt": 1785531830866
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1272,12 +1183,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "Curtis Mead injury deals Red Sox setback immediately after questionable trade",
-          "s": "Boston made a questionable trade for an infielder with a short track record of success; one day later, he's hurt.",
-          "by": "J.P. Hoornstra",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/curtis-mead-injury-deals-red-215632346.html",
-          "fetchedAt": 1785402251050
+          "t": "St. Louis Cardinals vs Toronto Blue Jays Series Preview",
+          "s": "O, Canada. The St. Louis Cardinals have crossed the border in search of some badly-needed momentum and Toronto just might be a great place to find it as the Blue Jays are reeling. But, if you look at both teams on paper, the Cardinals will need to find their A-game to win the series against […]",
+          "by": "Doc Holliday",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-toronto-171321827.html",
+          "fetchedAt": 1785531859050
+        },
+        {
+          "t": "Cardinals vs. Blue Jays prediction: Odds, recent stats, trends, and best bets for July 31",
+          "s": "St. Louis Cardinals vs. Toronto Blue Jays Betting Preview for July 31",
+          "by": "Rotoworld Bet Staff",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/cardinals-vs-blue-jays-prediction-145734733.html",
+          "fetchedAt": 1785531859050
+        },
+        {
+          "t": "Blue Jays take on the Cardinals in first of 3-game series",
+          "s": "St. Louis Cardinals (54-55, fourth in the NL Central) vs. Toronto Blue Jays (50-59, fifth in the AL East) Toronto; Friday, 7:07 p.m. EDT PITCHING PROBABLES: Cardinals: Kyle Leahy (7-4, 3.55 ERA, 1.34 WHIP, 88 strikeouts); Blue Jays: Dylan Cease (7-5, 2.46 ERA, 1.08 WHIP, 167 strikeouts) LINE: Blue Jays -175, Cardinals +143; over/under is 7 1/2 runs BOTTOM LINE: The Toronto Blue Jays host the St. Louis Cardinals on Friday to start a three-game series.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-cardinals-first-3-075600640.html",
+          "fetchedAt": 1785531859050
         }
       ],
       "nbcNews": []
@@ -1297,12 +1224,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [
         {
-          "t": "Zack Wheeler Downplays Health Concerns After Struggles Against Marlins",
-          "s": "Zack Wheeler may not have been feeling well on Monday when he struggled in the Philadelphia Phillies' loss to the Miami Marlins, but he said his health had nothing to do with how he played.",
-          "by": "Robert Marvi",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/zack-wheeler-downplays-health-concerns-140005837.html",
-          "fetchedAt": 1785359044730
+          "t": "New York Yankees @ Chicago Cubs: Will Warren vs. Shota Imanaga",
+          "s": "The Yankees finish their road trip with three games at Wrigley.",
+          "by": "Peter Brody",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-chicago-cubs-warren-175000216.html",
+          "fetchedAt": 1785531842045
         }
       ],
       "nbcNews": []
@@ -1312,7 +1239,16 @@
       "name": "Kyle Bradish",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Two-start pitchers: Cam Schlittler leads a star-studded group of options as we hit the trade deadline",
+          "s": "Chris Sale, Christian Scott and Jared Jones are among the projected two-start pitchers for the upcoming week.",
+          "by": "David Shovein",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/two-start-pitchers-cam-schlittler-193532025.html",
+          "fetchedAt": 1785531835417
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1377,22 +1313,6 @@
           "by": "",
           "when": "20h ago",
           "href": "https://sports.yahoo.com/videos/don-mattingly-jesus-luzardo-trea-001126177.html",
-          "fetchedAt": 1785445438822
-        },
-        {
-          "t": "Reeling Phillies swept by a team that lost 12 straight entering the series",
-          "s": "The Phillies squander a 6-0 lead, falling 8-6 to the Marlins in Miami.",
-          "by": "Jim Salisbury",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/reeling-phillies-swept-team-lost-145251315.html",
-          "fetchedAt": 1785445438822
-        },
-        {
-          "t": "Send Help: Marlins 8, Phillies 6",
-          "s": "It might not matter anymore anyway",
-          "by": "Joe Edinger",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/send-help-marlins-8-phillies-190431998.html",
           "fetchedAt": 1785445438822
         }
       ],
