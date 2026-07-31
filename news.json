@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-31T21:04:30.235Z",
+  "lastUpdatedNews": "2026-07-31T21:20:54.791Z",
   "players": [
     {
       "id": 11928,
@@ -25,7 +25,20 @@
           "fetchedAt": 1785445409841
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. (hamstring) returns to lineup",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/vladimir-guerrero-jr-hamstring-returns-to-lineup",
+          "fetchedAt": 1785532854791
+        },
+        {
+          "t": "Vlad Jr. (hamstring) out of lineup, could pinch hit",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/vlad-jr-hamstring-out-of-lineup-could-pinch-hit",
+          "fetchedAt": 1785532854791
+        }
+      ]
     },
     {
       "id": 10964,
@@ -174,7 +187,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Donovan (groin) homers in rehab game",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/donovan-groin-homers-in-rehab-game",
+          "fetchedAt": 1785532854791
+        }
+      ]
     },
     {
       "id": 9552,
@@ -346,7 +366,26 @@
           "fetchedAt": 1785488612050
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Passan: Dodgers are the favorite for Skubal",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/passan-dodgers-are-the-favorite-for-skubal",
+          "fetchedAt": 1785532854791
+        },
+        {
+          "t": "Passan: Tigers are going to trade Tarik Skubal",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/passan-tigers-are-going-to-trade-tarik-skubal",
+          "fetchedAt": 1785532854791
+        },
+        {
+          "t": "Tarik Skubal records 1,000th career strikeout",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/tarik-skubal-records-1-000th-career-strikeout",
+          "fetchedAt": 1785532854791
+        }
+      ]
     },
     {
       "id": 11847,
@@ -951,7 +990,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Colt Emerson returns after one-game hiatus",
+          "date": "2026-07-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/colt-emerson-returns-after-one-game-hiatus",
+          "fetchedAt": 1785532854791
+        }
+      ]
     },
     {
       "id": 8996,
@@ -992,7 +1038,14 @@
           "fetchedAt": 1785531852287
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "TJ Friedl sits once again on Friday evening",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/tj-friedl-sits-once-again-on-friday-evening",
+          "fetchedAt": 1785532854791
+        }
+      ]
     },
     {
       "id": 60580,
