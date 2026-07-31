@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-07-31T09:04:07.418Z",
+  "lastUpdatedNews": "2026-07-31T09:21:44.045Z",
   "players": [
     {
       "id": 11928,
@@ -41,20 +41,7 @@
           "fetchedAt": 1785445409841
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. exits with hamstring issue",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/vladimir-guerrero-jr-exits-with-hamstring-issue",
-          "fetchedAt": 1785316847999
-        },
-        {
-          "t": "Vladimir Guerrero Jr. exits early vs. Nationals",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/vladimir-guerrero-jr-exits-early-vs-nationals",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -127,14 +114,7 @@
           "fetchedAt": 1785445452366
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis hits walk-off triple to beat Royals",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/royce-lewis-hits-walk-off-triple-to-beat-royals",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -284,14 +264,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Donovan (groin) moves rehab to Triple-A",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/donovan-groin-moves-rehab-to-triple-a",
-          "fetchedAt": 1785273631574
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -430,14 +403,7 @@
           "fetchedAt": 1785358997169
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz picks up 21st save against Rays",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/jacob-latz-picks-up-21st-save-against-rays",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -470,20 +436,7 @@
           "fetchedAt": 1785488612050
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Passan: Tigers want to trade Tarik Skubal",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/passan-tigers-want-to-trade-tarik-skubal",
-          "fetchedAt": 1785273631574
-        },
-        {
-          "t": "Murray: Rays interested in Skubal, Neto, Peralta",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/murray-rays-interested-in-skubal-neto-peralta",
-          "fetchedAt": 1785273631574
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -571,14 +524,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Chase Burns surrenders five runs in no-decision",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/chase-burns-surrenders-five-runs-in-no-decision",
-          "fetchedAt": 1785446446803
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -636,7 +582,14 @@
           "fetchedAt": 1785488640768
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers to go with bullpen game versus Red Sox",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/dodgers-to-go-with-bullpen-game-versus-red-sox",
+          "fetchedAt": 1785489704045
+        }
+      ]
     },
     {
       "id": 12387,
@@ -644,14 +597,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Giants’ Erik Miller gets third save in 3-0 game",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/giants-erik-miller-gets-third-save-in-3-0-game",
-          "fetchedAt": 1785273631574
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -770,7 +716,14 @@
           "fetchedAt": 1785445454259
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers holds White Sox scoreless for seven",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/ryan-weathers-holds-white-sox-scoreless-for-seven",
+          "fetchedAt": 1785489704045
+        }
+      ]
     },
     {
       "id": 8658,
@@ -828,14 +781,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Report: Curtis Mead to IL with fractured wrist",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/report-curtis-mead-to-il-with-fractured-wrist",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -1119,14 +1065,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Colt Emerson a late scratch from Tuesday’s lineup",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/colt-emerson-a-late-scratch-from-tuesdays-lineup",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -1134,14 +1073,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve goes 0-for-5 against Angels",
-          "date": "2026-07-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/jose-altuve-goes-0-for-5-against-angels",
-          "fetchedAt": 1785230477528
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
