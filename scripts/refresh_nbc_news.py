@@ -22,7 +22,7 @@ Two things happen every run, but at different scopes:
    first) get their NBC Sports page fetched and parsed for new headlines.
    This is the expensive, rate-limit-sensitive part, so it's capped per
    run. With the roster at ~58 players and this routine run twice daily, a
-   batch of 30 covers the full roster at least once per day -- if the
+   batch of 40 covers the full roster at least once per day -- if the
    roster grows enough that stops being true, the summary says so.
 
 3. Prune + cap (ALL players, every run): independent of the batch above,
@@ -50,7 +50,7 @@ ROSTER_PATH = REPO_ROOT / "roster-stats.json"
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsRefreshBot/1.0)"}
 TIMEOUT = 20
-BATCH_SIZE = 30
+BATCH_SIZE = 40
 STALE_DAYS = 2
 MAX_ITEMS = 3
 DEFAULT_IMG = "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png"
