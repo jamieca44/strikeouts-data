@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-01T21:04:18.576Z",
+  "lastUpdatedNews": "2026-08-01T21:20:46.284Z",
   "players": [
     {
       "id": 11928,
@@ -113,7 +113,20 @@
           "fetchedAt": 1785574986068
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. exits with mild knee soreness",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/luis-garcia-jr-exits-with-mild-knee-soreness",
+          "fetchedAt": 1785619246284
+        },
+        {
+          "t": "Luis Garcia Jr. has three hits, homer in loss",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/luis-garcia-jr-has-three-hits-homer-in-loss",
+          "fetchedAt": 1785619246284
+        }
+      ]
     },
     {
       "id": 10916,
@@ -269,7 +282,14 @@
           "fetchedAt": 1785618251817
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Made tallies five hits, two homers at AA",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/jesus-made-posts-five-hits-two-homers-at-double-a",
+          "fetchedAt": 1785619246284
+        }
+      ]
     },
     {
       "id": 12351,
@@ -302,7 +322,14 @@
           "fetchedAt": 1785574990565
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brendan Donovan (groin) to return next week",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/brendan-donovan-groin-to-return-next-week",
+          "fetchedAt": 1785619246284
+        }
+      ]
     },
     {
       "id": 9552,
@@ -360,7 +387,14 @@
           "fetchedAt": 1785618253818
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz has three doubles, two swipes in win",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/elly-de-la-cruz-has-three-doubles-two-swipes-in-win",
+          "fetchedAt": 1785619246284
+        }
+      ]
     },
     {
       "id": 9507,
@@ -581,7 +615,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker saves 30th game of season vs. TEX",
+          "date": "2026-07-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/bryan-baker-saves-30th-game-of-season-vs-tex",
+          "fetchedAt": 1785619246284
+        }
+      ]
     },
     {
       "id": 10214,
@@ -955,7 +996,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Colt Emerson goes 0-for-4, fans three times",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/colt-emerson-goes-0-for-4-fans-three-times",
+          "fetchedAt": 1785619246284
+        }
+      ]
     },
     {
       "id": 8996,
