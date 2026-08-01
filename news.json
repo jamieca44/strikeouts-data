@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-01T09:04:05.924Z",
+  "lastUpdatedNews": "2026-08-01T09:21:22.149Z",
   "players": [
     {
       "id": 11928,
@@ -33,7 +33,14 @@
           "fetchedAt": 1785574983490
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler blasts grand slam in rout of A’s",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/dillon-dingler-blasts-grand-slam-in-rout-of-as",
+          "fetchedAt": 1785576082149
+        }
+      ]
     },
     {
       "id": 10621,
@@ -72,12 +79,6 @@
           "date": "2026-07-31",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/vladimir-guerrero-jr-hamstring-returns-to-lineup",
           "fetchedAt": 1785532854791
-        },
-        {
-          "t": "Vlad Jr. (hamstring) out of lineup, could pinch hit",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/vlad-jr-hamstring-out-of-lineup-could-pinch-hit",
-          "fetchedAt": 1785532854791
         }
       ]
     },
@@ -112,14 +113,7 @@
           "fetchedAt": 1785574986068
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. hits two-run homer against Jays",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/luis-garcia-jr-hits-two-run-homer-against-jays",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -216,18 +210,6 @@
           "date": "2026-07-30",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/nick-kurtz-to-undergo-mri-on-injured-forearm",
           "fetchedAt": 1785446446803
-        },
-        {
-          "t": "Nick Kurtz exits game with forearm contusion",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/nick-kurtz-exits-game-with-forearm-contusion",
-          "fetchedAt": 1785446446803
-        },
-        {
-          "t": "Nick Kurtz (arm) exits game after hit-by-pitch",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/nick-kurtz-arm-exits-game-after-hit-by-pitch",
-          "fetchedAt": 1785446446803
         }
       ]
     },
@@ -262,14 +244,7 @@
           "fetchedAt": 1785575042281
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. goes 5-for-5 in win vs. Rockies",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/fernando-tatis-jr-goes-5-for-5-in-win-vs-rockies",
-          "fetchedAt": 1785316847999
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -327,14 +302,7 @@
           "fetchedAt": 1785574990565
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Donovan (groin) homers in rehab game",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/donovan-groin-homers-in-rehab-game",
-          "fetchedAt": 1785532854791
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -359,14 +327,7 @@
           "fetchedAt": 1785575029969
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dodgers drop struggling Mookie Betts in lineup",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/dodgers-drop-struggling-mookie-betts-in-lineup",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -399,14 +360,7 @@
           "fetchedAt": 1785488636238
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz hit-less, struggles in field",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/elly-de-la-cruz-hit-less-struggles-in-field",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -486,18 +440,6 @@
           "date": "2026-07-30",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/passan-dodgers-are-the-favorite-for-skubal",
           "fetchedAt": 1785532854791
-        },
-        {
-          "t": "Passan: Tigers are going to trade Tarik Skubal",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/passan-tigers-are-going-to-trade-tarik-skubal",
-          "fetchedAt": 1785532854791
-        },
-        {
-          "t": "Tarik Skubal records 1,000th career strikeout",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/tarik-skubal-records-1-000th-career-strikeout",
-          "fetchedAt": 1785532854791
         }
       ]
     },
@@ -532,14 +474,7 @@
           "fetchedAt": 1785445472615
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan not sharp again in loss to Royals",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/joe-ryan-not-sharp-again-in-loss-to-royals",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -564,14 +499,7 @@
           "fetchedAt": 1785445456881
         }
       ],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore strikes out nine in loss to Rays",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/mackenzie-gore-strikes-out-nine-in-loss-to-rays",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -685,14 +613,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker quiets Rangers to notch 29th save",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/bryan-baker-quiets-rangers-to-notch-29th-save",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -722,12 +643,6 @@
           "t": "Edwin Díaz allows one run, picks up save in return",
           "date": "2026-07-30",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/edwin-diaz-allows-one-run-picks-up-save-in-return",
-          "fetchedAt": 1785403257899
-        },
-        {
-          "t": "Dodgers activate closer Edwin Díaz from IL",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/dodgers-activate-closer-edwin-diaz-from-il",
           "fetchedAt": 1785403257899
         }
       ]
@@ -933,14 +848,7 @@
           "fetchedAt": 1785531864968
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong blasts 24th homer vs. Cards",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/pete-crow-armstrong-blasts-24th-homer-vs-cards",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -948,14 +856,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill knocks in run in Padres’ 3-1 win",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/jackson-merrill-knocks-in-run-in-padres-3-1-win",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -1070,14 +971,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Colt Emerson returns after one-game hiatus",
-          "date": "2026-07-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/colt-emerson-returns-after-one-game-hiatus",
-          "fetchedAt": 1785532854791
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -1364,7 +1258,14 @@
           "fetchedAt": 1785531859050
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cease strikes out seven in no-decision vs. Cards",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/cease-strikes-out-seven-in-no-decision-vs-cards",
+          "fetchedAt": 1785576082149
+        }
+      ]
     },
     {
       "id": 10946,
