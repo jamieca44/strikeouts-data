@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-02T21:04:55.546Z",
+  "lastUpdatedNews": "2026-08-02T21:20:42.709Z",
   "players": [
     {
       "id": 11928,
@@ -185,7 +185,26 @@
           "fetchedAt": 1785661423452
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Nick Kurtz (thumb) remains out of action on Sunday",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/nick-kurtz-thumb-remains-out-of-action-on-sunday",
+          "fetchedAt": 1785705642709
+        },
+        {
+          "t": "Nick Kurtz (thumb) gets night off versus lefty",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/nick-kurtz-thumb-gets-night-off-versus-lefty",
+          "fetchedAt": 1785705642709
+        },
+        {
+          "t": "Nick Kurtz (forearm) reaches twice in blowout",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/nick-kurtz-forearm-reaches-twice-in-blowout",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 10639,
@@ -202,7 +221,14 @@
           "fetchedAt": 1785575042281
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. sits against Giants on Sunday",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/fernando-tatis-jr-sits-against-giants-on-sunday",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 64897,
@@ -397,7 +423,26 @@
           "fetchedAt": 1785618240967
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal to make debut for Dodgers on Tuesday",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/tarik-skubal-to-make-debut-for-dodgers-on-tuesday",
+          "fetchedAt": 1785705642709
+        },
+        {
+          "t": "Dodgers officially land Tarik Skubal from Tigers",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/dodgers-officially-land-tarik-skubal-from-tigers",
+          "fetchedAt": 1785705642709
+        },
+        {
+          "t": "Report: Dodgers acquire Tarik Skubal from Tigers",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-dodgers-making-progress-on-tarik-skubal-deal",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 11847,
@@ -560,7 +605,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker needs just six pitches for 31st save",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/bryan-baker-needs-just-six-pitches-for-31st-save",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 10214,
@@ -577,7 +629,14 @@
           "fetchedAt": 1785618236484
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz finishes off four-run lead for Dodgers",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/edwin-diaz-finishes-off-four-run-lead-for-dodgers",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 10592,
@@ -684,7 +743,14 @@
           "fetchedAt": 1785618243009
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Report: Otto Lopez to Red Sox talks ‘dead’",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-otto-lopez-to-red-sox-talks-dead",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 10234,
@@ -792,7 +858,14 @@
           "fetchedAt": 1785704683718
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene sits against left-hander on Sunday",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/riley-greene-sits-against-left-hander-on-sunday",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 10496,
@@ -825,7 +898,14 @@
           "fetchedAt": 1785618225589
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Coby Mayo hitting leadoff Saturday vs. Phillies",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/coby-mayo-hitting-leadoff-saturday-vs-phillies",
+          "fetchedAt": 1785705642709
+        }
+      ]
     },
     {
       "id": 64330,
