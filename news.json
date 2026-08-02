@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-01T21:20:46.284Z",
+  "lastUpdatedNews": "2026-08-02T09:03:52.760Z",
   "players": [
     {
       "id": 11928,
@@ -185,6 +185,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
       "yahooNews": [
         {
+          "t": "Athletics Mauled: Top Takeaways From Ugly Loss to Detroit",
+          "s": "After a decent series against the Red Sox, the Athletics would get pummeled by the Tigers.",
+          "by": "Andrew L. Ferguson Jr",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/athletics-mauled-top-takeaways-ugly-100004206.html",
+          "fetchedAt": 1785661423452
+        },
+        {
           "t": "These Athletics Must Step Up To End Series Losing Streak",
           "s": "With the Athletics' last series win coming on June 14, these players need to step up big time against the Tigers.",
           "by": "Andrew L. Ferguson Jr",
@@ -198,14 +206,6 @@
           "by": "",
           "when": "8h ago",
           "href": "https://sports.yahoo.com/videos/athletics-mark-kotsay-assesses-mason-120802142.html",
-          "fetchedAt": 1785531861093
-        },
-        {
-          "t": "Mark Kotsay provides Nick Kurtz injury update after star leaves Athletics' loss",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/mark-kotsay-provides-nick-kurtz-122700321.html",
           "fetchedAt": 1785531861093
         }
       ],
@@ -336,24 +336,7 @@
       "name": "Mookie Betts",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
-      "yahooNews": [
-        {
-          "t": "Mookie Betts's two-run double",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/mookie-bettss-two-run-double-023654977.html",
-          "fetchedAt": 1785575029969
-        },
-        {
-          "t": "Los Angeles Dodgers Announce Teoscar Hernandez Change During Mariners Series",
-          "s": "The Los Angeles Dodgers and Seattle Mariners have split the first two games of the series, setting up a decisive finale on Thursday night.Ahead of the matchup, Dodgers manager Dave Roberts made a few notable lineup changes as Roki Sasaki prepares to face Bryan Woo.Dodgers Announce Teoscar Hernandez ChangeAfter starting the first two games of […] The post Los Angeles Dodgers Announce Teoscar Hernandez Change During Mariners Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-teoscar-032323202.html",
-          "fetchedAt": 1785575029969
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -410,6 +393,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [
+        {
+          "t": "Bryan Reynolds' RBI walk",
+          "s": "",
+          "by": "",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/videos/bryan-reynolds-rbi-walk-231755831.html",
+          "fetchedAt": 1785661402969
+        },
         {
           "t": "Jake Cronenworth And 3 Other Fantasy Baseball Buy-Low Candidates As July Wraps Up",
           "s": "These four fantasy baseball buy-low candidates could help players bolster lineup production at a team-friendly price.",
@@ -526,6 +517,22 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
+          "t": "Reds bring 2-1 series advantage over Pirates into game 4",
+          "s": "Pittsburgh Pirates (56-56, third in the NL Central) vs. Cincinnati Reds (52-58, fifth in the NL Central) Cincinnati; Sunday, 1:40 p.m. EDT PITCHING PROBABLES: Pirates: Mitch Keller (6-7, 4.83 ERA, 1.31 WHIP, 87 strikeouts); Reds: Chase Burns (12-1, 2.40 ERA, 1.12 WHIP, 128 strikeouts) LINE: Reds -154, Pirates +127; over/under is 8 1/2 runs BOTTOM LINE: The Cincinnati Reds play the Pittsburgh Pirates, leading the series 2-1. Cincinnati has a 52-58 record overall and a 25-31 record in home games.",
+          "by": "The Associated Press",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/reds-bring-2-1-series-075528417.html",
+          "fetchedAt": 1785661405054
+        },
+        {
+          "t": "Pirates take 4-game losing streak into matchup with the Reds",
+          "s": "Pittsburgh Pirates (55-56, third in the NL Central) vs. Cincinnati Reds (52-57, fifth in the NL Central) Cincinnati; Saturday, 6:40 p.m. EDT PITCHING PROBABLES: Pirates: Braxton Ashcraft (10-4, 4.05 ERA, 1.19 WHIP, 135 strikeouts); Reds: Andrew Abbott (5-6, 3.85 ERA, 1.39 WHIP, 94 strikeouts) LINE: Pirates -120, Reds +100; over/under is 8 1/2 runs BOTTOM LINE: The Pittsburgh Pirates aim to end a four-game skid with a win over the Cincinnati Reds. Cincinnati is 52-57 overall and 25-30 in home games.",
+          "by": "The Associated Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-4-game-losing-streak-075522688.html",
+          "fetchedAt": 1785661405054
+        },
+        {
           "t": "Two-start pitchers: Cam Schlittler leads a star-studded group of options as we hit the trade deadline",
           "s": "Chris Sale, Christian Scott and Jared Jones are among the projected two-start pitchers for the upcoming week.",
           "by": "David Shovein",
@@ -565,14 +572,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/sal-stewart-hits-2-run-012627008.html",
           "fetchedAt": 1785574997192
-        },
-        {
-          "t": "Pirates bring 3-game losing streak into matchup with the Reds",
-          "s": "The Reds are 24-13 in games when they hit two or more home runs. Pittsburgh is 26-27 in road games and 55-55 overall. The Pirates have a 40-17 record in games when they scored at least five runs.",
-          "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-bring-3-game-losing-075600794.html",
-          "fetchedAt": 1785574997192
         }
       ],
       "nbcNews": []
@@ -584,12 +583,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [
         {
-          "t": "Dodgers rumors: LA may have hidden motive behind Tarik Skubal pursuit",
-          "s": "The Dodgers could choose to be very greedy and trade for Tarik Skubal if it ends up benefitting their World Series hopes in the long run.",
-          "by": "Jedd Pagaduan, ClutchPoints",
+          "t": "Red Sox bring 4-game win streak into matchup with the Dodgers",
+          "s": "Boston Red Sox (59-51, third in the AL East) vs. Los Angeles Dodgers (69-42, first in the NL West) Los Angeles; Sunday, 7:20 p.m. EDT PITCHING PROBABLES: Red Sox: Jake Bennett (6-4, 2.74 ERA, 0.97 WHIP, 46 strikeouts); Dodgers: Emmet Sheehan (4-7, 4.95 ERA, 1.25 WHIP, 104 strikeouts) LINE: Dodgers -191, Red Sox +158; over/under is 7 runs BOTTOM LINE: The Boston Red Sox will attempt to keep their four-game win streak going when they visit the Los Angeles Dodgers. Los Angeles has a 33-22 record in home games and a 69-42 record overall.",
+          "by": "The Associated Press",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-bring-4-game-075537354.html",
+          "fetchedAt": 1785661401113
+        },
+        {
+          "t": "Dodgers acquire Tarik Skubal in blockbuster trade with Tigers",
+          "s": "LOS ANGELES — The Los Angeles Dodgers have made another franchise-altering splash at the trade deadline, acquiring reigning two-time American League Cy Young Award winner Tarik Skubal from the Detroit Tigers in exchange for top outfield prospect Zyhir Hope, right-handed pitcher River Ryan, and right-hander Brady Smith.",
+          "by": "Fredo Cervantes",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-acquire-tarik-skubal-blockbuster-043037600.html",
+          "fetchedAt": 1785661401113
+        },
+        {
+          "t": "Dodgers close to acquiring Tarik Skubal in blockbuster three-player trade",
+          "s": "And this is the trade MLB was waiting for to start the rest of the dominoes.",
+          "by": "Rodney Knuppel",
           "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-rumors-la-may-hidden-035553397.html",
-          "fetchedAt": 1785488640768
+          "href": "https://sports.yahoo.com/articles/dodgers-close-acquiring-tarik-skubal-034530145.html",
+          "fetchedAt": 1785661401113
         }
       ],
       "nbcNews": [
@@ -808,27 +823,19 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [
         {
+          "t": "2026 Cubs Heroes and Goats: Shōta Imanaga is the Superhero vs. the Yankees",
+          "s": "Imanaga had a very good game. The Cubs offense… not so much.",
+          "by": "Al Yellon",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-sh-140000567.html",
+          "fetchedAt": 1785661425580
+        },
+        {
           "t": "2026 Cubs Heroes and Goats: Jacob Webb is the Superhero vs. the Cardinals",
           "s": "The Cubs had an extra-inning lead, and this time they held it, thanks in part to today’s Superhero.",
           "by": "Al Yellon",
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-jacob-133000686.html",
-          "fetchedAt": 1785531862881
-        },
-        {
-          "t": "Chicago Cubs Announce Dansby Swanson Change Before Cardinals Game",
-          "s": "It’s getaway day for the Chicago Cubs, who are set to face the St. Louis Cardinals for a fourth time this week. Chicago dropped their Wednesday night contest 3-2, but they still have an advantage in the series after winning on Monday and Tuesday. Thursday will feature an afternoon showdown before the Cubs and Cards, […] The post Chicago Cubs Announce Dansby Swanson Change Before Cardinals Game appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-184049452.html",
-          "fetchedAt": 1785531862881
-        },
-        {
-          "t": "2026 Cubs Heroes and Goats: Matthew Boyd is the Superhero vs. the Cardinals",
-          "s": "The Cubs had an extra-inning lead, but could not hold it.",
-          "by": "Al Yellon",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-matthew-143000413.html",
           "fetchedAt": 1785531862881
         }
       ],
@@ -841,28 +848,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "Passan talks NYM, Skubal suitors at trade deadline",
+          "t": "Pete Crow-Armstrong hits go-ahead triple in Cubs' win",
           "s": "",
           "by": "",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/videos/passan-talks-nym-skubal-suitors-152503574.html",
-          "fetchedAt": 1785531864968
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/videos/pete-crow-armstrong-hits-ahead-041106592.html",
+          "fetchedAt": 1785661427990
         },
         {
-          "t": "Pete Crow-Armstrong Rookie Cards: The Cubs Star Whose Market Quietly Caught Fire",
-          "s": "This release showcases him as a New York Mets Pete Crow-Armstrong prospect card rather than a Chicago Cubs card. High-grade parallels drive premier valuations across the entire secondary market. Limited production creates massive scarcity among elite sportscard investors.",
-          "by": "Rohit Gupta",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/pete-crow-armstrong-rookie-cards-075851915.html",
-          "fetchedAt": 1785531864968
+          "t": "Why trade to Cubs was a ‘blessing’ for Pete Crow-Armstrong",
+          "s": "Five years after being traded to Chicago, Pete Crow-Armstrong talks about the blessing its been to be a member of the Cubs.",
+          "by": "Matty Breisch, ClutchPoints",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/why-trade-cubs-blessing-pete-043058129.html",
+          "fetchedAt": 1785661427990
         },
         {
-          "t": "The Cubs turned Pete Crow-Armstrong's heroics into another crushing defeat",
-          "s": "Pete Crow-Armstrong broke a scoreless tie in the 10th inning, but the Cubs could not finish the job as Trent Thornton surrendered three late runs to the Cardinals.",
-          "by": "Casey McAleer",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-turned-pete-crow-armstrongs-230003363.html",
-          "fetchedAt": 1785531864968
+          "t": "Cubs rally off Yankees’ bullpen to waste Jones and Fried’s best efforts",
+          "s": "The Cubbies came out on top tonight to even the series.",
+          "by": "Joshua Diemert",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-rally-off-yankees-bullpen-025548610.html",
+          "fetchedAt": 1785661427990
         }
       ],
       "nbcNews": []
@@ -872,7 +879,16 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Jackson Merrill's two-run double",
+          "s": "",
+          "by": "",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/videos/jackson-merrills-two-run-double-010014463.html",
+          "fetchedAt": 1785661387322
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -970,24 +986,7 @@
       "name": "Cam Smith",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
-      "yahooNews": [
-        {
-          "t": "Hayden Wesneski Returns in Style as Astros Continue Momentum",
-          "s": "Houston Astros starter Hayden Wesneski made a great season debut, and his performance powered the Astros back to .500 on the year.",
-          "by": "Maanav Gupta",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/hayden-wesneski-returns-style-astros-000003928.html",
-          "fetchedAt": 1785531850423
-        },
-        {
-          "t": "Astros Complete Sweep of Angels, Reach .500 for First Time Since April",
-          "s": "The Astros completed a three-game sweep of the Los Angeles Angels Wednesday night, winning 7-4. Hayden Wesneski made his first start since undergoing Tommy John surgery in May 2025, his first start in 449 days.",
-          "by": "Sydney Cruse",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/astros-complete-sweep-angels-reach-221834656.html",
-          "fetchedAt": 1785531850423
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1029,12 +1028,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [
         {
-          "t": "Why the under on runs looks like the smart baseball play when Pirates visit the Reds tonight",
-          "s": "Paul Skenes and Hunter Greene face off as the Pittsburgh Pirates visit the Cincinnati Reds, with the under eight runs emerging as the smart play.",
-          "by": "David Troy",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/why-under-runs-looks-smart-144842220.html",
-          "fetchedAt": 1785531852287
+          "t": "Pirates' Paul Skenes Reveals Reason for Struggles Against Reds",
+          "s": "The Pittsburgh Pirates ace discussed his poor outing against Cincinnati.",
+          "by": "Dominic Campbell",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-paul-skenes-reveals-reason-135437606.html",
+          "fetchedAt": 1785661415843
+        },
+        {
+          "t": "Pittsburgh Pirates vs. Cincinnati Reds: Paul Skenes vs. Hunter Greene",
+          "s": "The Pirates are on the road looking to grab a win today.",
+          "by": "Jeremy Brener",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-cincinnati-reds-211000490.html",
+          "fetchedAt": 1785661415843
+        },
+        {
+          "t": "Paul Skenes tagged for 5 runs in second straight start, finishes July with 6.25 ERA in 6 appearances",
+          "s": "Skenes has been nowhere near his Cy Young Award-winning form for the past month.",
+          "by": "Ian Casselberry",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/mlb/article/paul-skenes-tagged-for-5-runs-in-second-straight-start-finishes-july-with-625-era-in-6-appearances-003210081.html",
+          "fetchedAt": 1785661415843
         }
       ],
       "nbcNews": [
@@ -1144,20 +1159,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [
         {
-          "t": "Cubs believed to have 'best shot' of trading for Mariners' 3.26 ERA ace-level pitcher",
-          "s": "This 3.26 ERA starter would be great for the Cubs, but very costly.",
-          "by": "Matt Sullivan",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-believed-best-shot-trading-183547826.html",
-          "fetchedAt": 1785531854587
+          "t": "These Cubs have already played their final game in Chicago ahead of the trade deadline",
+          "s": "If Jed Hoyer swings big, it'll come at the cost of several current Cubs.",
+          "by": "Chris Landers",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-already-played-final-game-235759724.html",
+          "fetchedAt": 1785661418448
         },
         {
-          "t": "This Mariners-Cubs Trade Could Fix Seattle's Offense Without Gutting the Farm",
-          "s": "Emerson Hancock has never been more valuable, and the Mariners may never find a better opportunity to turn him into needed offense.",
-          "by": "Tremayne Person",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-cubs-trade-could-fix-011501510.html",
-          "fetchedAt": 1785531854587
+          "t": "Cubs Make Stance Clear on Potential Seiya Suzuki Trade",
+          "s": "The Cubs are expected to keep Seiya Suzuki and Carson.",
+          "by": "Miracle Dimwesh",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-stance-clear-potential-seiya-202619020.html",
+          "fetchedAt": 1785661418448
+        },
+        {
+          "t": "Report: Cubs \\\"Highly Unlikely\\\" To Trade Seiya Suzuki, Carson Kelly",
+          "s": "Despite swirling rumors and pitching needs, Chicago intends to retain its core veterans for a postseason push, valuing their lineup consistency and defensive expertise over potential trade returns.",
+          "by": "Joey Pollizze",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/report-cubs-highly-unlikely-trade-175238930.html",
+          "fetchedAt": 1785661418448
         }
       ],
       "nbcNews": [
@@ -1184,28 +1207,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Dodgers Not Interested In Parting Ways With These Two Prospects Amid Tarik Skubal Rumors",
-          "s": "The Los Angeles Dodgers are in the mix to land Tarik Skubal",
-          "by": "Aaliyan Mohammed",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-not-interested-parting-ways-190212465.html",
-          "fetchedAt": 1785531866695
+          "t": "Dodgers Scratch 2 Outfield Prospects From Double-A Lineup Days Before Trade Deadline",
+          "s": "The Dodgers scratched two outfield prospects from their Double-A lineup two days before the trade deadline, suggesting trades are in the near future.",
+          "by": "J.P. Hoornstra",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-scratch-2-outfield-prospects-002138922.html",
+          "fetchedAt": 1785661431077
         },
         {
-          "t": "Los Angeles Dodgers’ Potential Trade Package for Tarik Skubal Revealed",
-          "s": "As the 2026 MLB trade deadline approaches, the Los Angeles Dodgers continue to be one of the most logical landing […]",
-          "by": "Austin Konenski",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-potential-trade-164642589.html",
-          "fetchedAt": 1785531866695
+          "t": "Dodgers scratch 2 prospects at last minute before MLB trade deadline",
+          "s": "The MLB trade deadline is Aug. 3, and the Los Angeles Dodgers are expected to be buyers — potentially big buyers — in pursuit of their third consecutive World Series title. It certainly raised eyebrows, then, when outfield prospects Kendall…",
+          "by": "J.P. Hoornstra",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-scratch-2-prospects-last-005825209.html",
+          "fetchedAt": 1785661431077
         },
         {
-          "t": "Dodgers rumors: LA may have hidden motive behind Tarik Skubal pursuit",
-          "s": "The Dodgers could choose to be very greedy and trade for Tarik Skubal if it ends up benefitting their World Series hopes in the long run.",
-          "by": "Jedd Pagaduan, ClutchPoints",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-rumors-la-may-hidden-035553397.html",
-          "fetchedAt": 1785531866695
+          "t": "Dodgers Have 2 Untouchable Prospects Ahead of Trade Deadline: Report",
+          "s": "The Los Angeles Dodgers reportedly have two prospects who are considered untouchable at the trade deadline.",
+          "by": "Matt Levine",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-2-untouchable-prospects-ahead-224603070.html",
+          "fetchedAt": 1785661431077
         }
       ],
       "nbcNews": []
@@ -1259,27 +1282,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
+          "t": "Dylan Cease Joins Exclusive Blue Jays Pitching History",
+          "s": "Dylan Cease joins some of the better Blue Jays starting pitchers in franchise history.",
+          "by": "Dominic Minchella",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/dylan-cease-joins-exclusive-blue-120005678.html",
+          "fetchedAt": 1785661420727
+        },
+        {
+          "t": "Amid Disappointing Season, Toronto Blue Jays Offseason Signings Provide Hope",
+          "s": "The Blue Jays will likely be sellers at the trade deadline, but their offseason acquisitions offer some semblance of hope for the future.",
+          "by": "Teren Kowatsch",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/amid-disappointing-season-toronto-blue-020858866.html",
+          "fetchedAt": 1785661420727
+        },
+        {
           "t": "St. Louis Cardinals vs Toronto Blue Jays Series Preview",
           "s": "O, Canada. The St. Louis Cardinals have crossed the border in search of some badly-needed momentum and Toronto just might be a great place to find it as the Blue Jays are reeling. But, if you look at both teams on paper, the Cardinals will need to find their A-game to win the series against […]",
           "by": "Doc Holliday",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-toronto-171321827.html",
-          "fetchedAt": 1785531859050
-        },
-        {
-          "t": "Cardinals vs. Blue Jays prediction: Odds, recent stats, trends, and best bets for July 31",
-          "s": "St. Louis Cardinals vs. Toronto Blue Jays Betting Preview for July 31",
-          "by": "Rotoworld Bet Staff",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-vs-blue-jays-prediction-145734733.html",
-          "fetchedAt": 1785531859050
-        },
-        {
-          "t": "Blue Jays take on the Cardinals in first of 3-game series",
-          "s": "St. Louis Cardinals (54-55, fourth in the NL Central) vs. Toronto Blue Jays (50-59, fifth in the AL East) Toronto; Friday, 7:07 p.m. EDT PITCHING PROBABLES: Cardinals: Kyle Leahy (7-4, 3.55 ERA, 1.34 WHIP, 88 strikeouts); Blue Jays: Dylan Cease (7-5, 2.46 ERA, 1.08 WHIP, 167 strikeouts) LINE: Blue Jays -175, Cardinals +143; over/under is 7 1/2 runs BOTTOM LINE: The Toronto Blue Jays host the St. Louis Cardinals on Friday to start a three-game series.",
-          "by": "The Associated Press",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-cardinals-first-3-075600640.html",
           "fetchedAt": 1785531859050
         }
       ],
@@ -1316,12 +1339,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [
         {
-          "t": "New York Yankees @ Chicago Cubs: Will Warren vs. Shota Imanaga",
-          "s": "The Yankees finish their road trip with three games at Wrigley.",
-          "by": "Peter Brody",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-chicago-cubs-warren-175000216.html",
-          "fetchedAt": 1785531842045
+          "t": "Phillies snap losing skid, shutout Orioles behind Sanchez's 11 strikeouts",
+          "s": "",
+          "by": "",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/videos/phillies-snap-losing-skid-shutout-071024759.html",
+          "fetchedAt": 1785661411161
+        },
+        {
+          "t": "PGL on Sanchez ‘battling' against the Orioles in Phillies' shutout win",
+          "s": "",
+          "by": "",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/videos/pgl-sanchez-battling-against-orioles-062131100.html",
+          "fetchedAt": 1785661411161
+        },
+        {
+          "t": "Cristopher Sánchez fans 11 Orioles in shutout win",
+          "s": "",
+          "by": "",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/videos/cristopher-nchez-fans-11-orioles-025448069.html",
+          "fetchedAt": 1785661411161
         }
       ],
       "nbcNews": []
@@ -1333,12 +1372,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [
         {
-          "t": "Two-start pitchers: Cam Schlittler leads a star-studded group of options as we hit the trade deadline",
-          "s": "Chris Sale, Christian Scott and Jared Jones are among the projected two-start pitchers for the upcoming week.",
-          "by": "David Shovein",
+          "t": "Orioles and Phillies meet in series rubber match",
+          "s": "Philadelphia Phillies (58-53, second in the NL East) vs. Baltimore Orioles (54-57, fourth in the AL East) Baltimore; Sunday, 1:35 p.m. EDT PITCHING PROBABLES: Phillies: Zack Wheeler (10-2, 2.53 ERA, 0.92 WHIP, 123 strikeouts); Orioles: Kyle Bradish (7-9, 3.74 ERA, 1.36 WHIP, 114 strikeouts) LINE: Phillies -140, Orioles +118; over/under is 8 runs BOTTOM LINE: Both the Baltimore Orioles and the Philadelphia Phillies are looking for a series win with a victory on Sunday. Baltimore has a 54-57 record overall and a 30-28 record in home games.",
+          "by": "The Associated Press",
           "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/two-start-pitchers-cam-schlittler-193532025.html",
-          "fetchedAt": 1785531835417
+          "href": "https://sports.yahoo.com/articles/orioles-phillies-meet-series-rubber-075502330.html",
+          "fetchedAt": 1785661408987
+        },
+        {
+          "t": "Phillies aim to break losing streak in game against the Orioles",
+          "s": "Philadelphia Phillies (57-53, second in the NL East) vs. Baltimore Orioles (54-56, fourth in the AL East) Baltimore; Saturday, 7:05 p.m. EDT PITCHING PROBABLES: Phillies: Cristopher Sanchez (13-4, 2.73 ERA, 1.20 WHIP, 157 strikeouts); Orioles: Shane Baz (4-9, 3.98 ERA, 1.39 WHIP, 107 strikeouts) LINE: Phillies -143, Orioles +120; over/under is 8 runs BOTTOM LINE: The Philadelphia Phillies are looking to stop a four-game slide with a victory against the Baltimore Orioles. Baltimore has a 54-56 record overall and a 30-27 record in home games.",
+          "by": "The Associated Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-aim-break-losing-streak-075524731.html",
+          "fetchedAt": 1785661408987
+        },
+        {
+          "t": "Orioles-Phillies series preview: Last series before the trade deadline",
+          "s": "The Philles have been on a downward spiral. Will the Orioles keep it going?",
+          "by": "Stacey",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/orioles-phillies-series-preview-last-140000578.html",
+          "fetchedAt": 1785661408987
         }
       ],
       "nbcNews": []
@@ -1439,16 +1494,7 @@
       "name": "Kirby Yates",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
-      "yahooNews": [
-        {
-          "t": "Angels Shopping Pair of Outfielders in Ongoing Trade Talks",
-          "s": "The Angels are in active trade talks with other teams regarding two of their outfielders.",
-          "by": "Joe Najarian",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/angels-shopping-pair-outfielders-ongoing-001707969.html",
-          "fetchedAt": 1785488625357
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1456,7 +1502,16 @@
       "name": "Joey Cantillo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11823.2.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pittsburgh Pirates vs. Cincinnati Reds: Braxton Ashcraft vs. Andrew Abbott",
+          "s": "The Pirates are on the road looking to grab a win today.",
+          "by": "Jeremy Brener",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-cincinnati-reds-214000172.html",
+          "fetchedAt": 1785661394848
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1464,7 +1519,16 @@
       "name": "Ryan Zeferjahn",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/61375.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Angels Relief Pitcher Could Solve Pirates' Bullpen Woes",
+          "s": "The Pittsburgh Pirates bullpen would benefit from this trade addition.",
+          "by": "Dominic Campbell",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/angels-relief-pitcher-could-solve-180946960.html",
+          "fetchedAt": 1785661397248
+        }
+      ],
       "nbcNews": []
     },
     {
