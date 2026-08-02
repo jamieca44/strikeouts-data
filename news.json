@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-02T09:03:52.760Z",
+  "lastUpdatedNews": "2026-08-02T09:20:54.298Z",
   "players": [
     {
       "id": 11928,
@@ -119,12 +119,6 @@
           "date": "2026-07-31",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/luis-garcia-jr-exits-with-mild-knee-soreness",
           "fetchedAt": 1785619246284
-        },
-        {
-          "t": "Luis Garcia Jr. has three hits, homer in loss",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/luis-garcia-jr-has-three-hits-homer-in-loss",
-          "fetchedAt": 1785619246284
         }
       ]
     },
@@ -176,7 +170,14 @@
           "fetchedAt": 1785575035758
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson reaches three times in loss",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/alec-burleson-reaches-three-times-in-loss",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 64313,
@@ -209,14 +210,7 @@
           "fetchedAt": 1785531861093
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Nick Kurtz to undergo MRI on injured forearm",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/nick-kurtz-to-undergo-mri-on-injured-forearm",
-          "fetchedAt": 1785446446803
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -370,14 +364,7 @@
           "fetchedAt": 1785618253818
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz has three doubles, two swipes in win",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/elly-de-la-cruz-has-three-doubles-two-swipes-in-win",
-          "fetchedAt": 1785619246284
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -459,14 +446,7 @@
           "fetchedAt": 1785618240967
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Passan: Dodgers are the favorite for Skubal",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/passan-dodgers-are-the-favorite-for-skubal",
-          "fetchedAt": 1785532854791
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -574,7 +554,14 @@
           "fetchedAt": 1785574997192
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft strikes out five in 11th win",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/braxton-ashcraft-strikes-out-five-in-11th-win",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 60238,
@@ -630,14 +617,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker saves 30th game of season vs. TEX",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/bryan-baker-saves-30th-game-of-season-vs-tex",
-          "fetchedAt": 1785619246284
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -670,14 +650,7 @@
           "fetchedAt": 1785618236484
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz allows one run, picks up save in return",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/edwin-diaz-allows-one-run-picks-up-save-in-return",
-          "fetchedAt": 1785403257899
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -718,14 +691,7 @@
           "fetchedAt": 1785575043988
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers holds White Sox scoreless for seven",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/ryan-weathers-holds-white-sox-scoreless-for-seven",
-          "fetchedAt": 1785489704045
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -807,14 +773,7 @@
           "fetchedAt": 1785618243009
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Red Sox looking to add infielders, targeting Lopez",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/red-sox-looking-to-add-infielders-targeting-lopez",
-          "fetchedAt": 1785446446803
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -972,14 +931,7 @@
           "fetchedAt": 1785618225589
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Report: Orioles open to trading expiring contracts",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/report-orioles-open-to-trading-expiring-contracts",
-          "fetchedAt": 1785446446803
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -1183,14 +1135,7 @@
           "fetchedAt": 1785661418448
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Passan: Mets and Cubs “line up nicely” for trades",
-          "date": "2026-07-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-30/passan-mets-and-cubs-line-up-nicely-for-trades",
-          "fetchedAt": 1785446446803
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -1198,7 +1143,20 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Franklin Arias at second base again at Triple-A",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/franklin-arias-at-second-base-again-at-triple-a",
+          "fetchedAt": 1785662454298
+        },
+        {
+          "t": "Report: Otto Lopez to Red Sox talks ‘dead’",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-otto-lopez-to-red-sox-talks-dead",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 64967,
@@ -1273,7 +1231,14 @@
           "fetchedAt": 1785618214673
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom gives up five runs in loss",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/jacob-degrom-gives-up-five-runs-in-loss",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 10438,
@@ -1363,7 +1328,14 @@
           "fetchedAt": 1785661411161
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez strikes out 11 in win Saturday",
+          "date": "2026-08-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/cristopher-sanchez-strikes-out-11-in-win-saturday",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 12345,
@@ -1437,7 +1409,20 @@
           "fetchedAt": 1785618234322
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mets scratch Freddy Peralta from Friday start",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/mets-scratch-freddy-peralta-from-friday-start",
+          "fetchedAt": 1785662454298
+        },
+        {
+          "t": "Mets asking for T-100 prospect, more for Peralta",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/mets-asking-for-t-100-prospect-more-for-peralta",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 10627,
@@ -1487,7 +1472,14 @@
           "fetchedAt": 1785618256727
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray beats Padres for 10th victory",
+          "date": "2026-07-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-31/robbie-ray-beats-padres-for-10th-victory",
+          "fetchedAt": 1785662454298
+        }
+      ]
     },
     {
       "id": 9727,
