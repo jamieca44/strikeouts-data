@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-03T21:06:06.288Z",
+  "lastUpdatedNews": "2026-08-03T21:21:05.164Z",
   "players": [
     {
       "id": 11928,
@@ -97,7 +97,26 @@
           "fetchedAt": 1785704666838
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. hitting third in Yankees debut",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/luis-garcia-jr-hitting-third-in-yankees-debut",
+          "fetchedAt": 1785792065164
+        },
+        {
+          "t": "Yankees get Luis García Jr. in four-player trade",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/yankees-get-luis-garcia-jr-in-four-player-trade",
+          "fetchedAt": 1785792065164
+        },
+        {
+          "t": "Report: Yankees get Luis García Jr. from Nationals",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/report-yankees-get-luis-garcia-jr-from-nationals",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 10916,
@@ -447,7 +466,14 @@
           "fetchedAt": 1785791104564
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Reports: Rangers weigh selling before deadline",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/reports-rangers-weigh-selling-before-deadline",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 11763,
@@ -565,7 +591,14 @@
           "fetchedAt": 1785791131488
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Reports: Rangers weigh selling before deadline",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/reports-rangers-weigh-selling-before-deadline",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 64316,
@@ -732,7 +765,20 @@
           "fetchedAt": 1785791108910
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Kilian traded to Phillies with Arraez",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/caleb-kilian-traded-to-phillies-with-arraez",
+          "fetchedAt": 1785792065164
+        },
+        {
+          "t": "Report: Luis Arraez traded to the Phillies",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-luis-arraez-traded-to-the-phillies",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 11998,
@@ -1252,7 +1298,14 @@
           "fetchedAt": 1785704693378
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Report: Red Sox, Giants swapping Mayer, Miller",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-red-sox-giants-swapping-mayer-miller",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 62984,
@@ -1565,7 +1618,20 @@
           "fetchedAt": 1785747952059
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Rays land Freddy Peralta, send prospects to Mets",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/rays-land-freddy-peralta-send-prospects-to-mets",
+          "fetchedAt": 1785792065164
+        },
+        {
+          "t": "Rays set to acquire Freddy Peralta from Mets",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/rays-set-to-acquire-freddy-peralta-from-mets",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 10627,
@@ -1606,7 +1672,20 @@
           "fetchedAt": 1785791138778
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Padres send two prospects to Giants for Robbie Ray",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/padres-send-two-prospects-to-giants-for-robbie-ray",
+          "fetchedAt": 1785792065164
+        },
+        {
+          "t": "Report: Padres set to acquire Robbie Ray from Giants",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-padres-set-to-acquire-robbie-ray-from-giants",
+          "fetchedAt": 1785792065164
+        }
+      ]
     },
     {
       "id": 9727,
