@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-03T09:21:29.350Z",
+  "lastUpdatedNews": "2026-08-03T21:06:06.288Z",
   "players": [
     {
       "id": 11928,
@@ -22,14 +22,6 @@
           "by": "Ryan Ford, Detroit Free Press",
           "when": "17h ago",
           "href": "https://sports.yahoo.com/articles/max-clark-detroit-tigers-rookie-031946059.html",
-          "fetchedAt": 1785704664223
-        },
-        {
-          "t": "Epic Max Clark debut sparks Detroit Tigers to road rout of Athletics",
-          "s": "Detroit Tigers score: Max Clark went 3-for-4 in his MLB debut, the fourth-youngest Tiger ever with 3 hits in his debut.",
-          "by": "Shawn Windsor, Detroit Free Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/epic-max-clark-debut-sparks-043238563.html",
           "fetchedAt": 1785704664223
         }
       ],
@@ -62,14 +54,6 @@
           "by": "Doc Holliday",
           "when": "23h ago",
           "href": "https://sports.yahoo.com/articles/blue-jays-spoil-quinn-mathews-215126976.html",
-          "fetchedAt": 1785704681991
-        },
-        {
-          "t": "Blue Jays Manager Praises Vladimir Guerrero Jr.'s Progress After Near Home Run vs. Cardinals",
-          "s": "Vladimir Guerrero Jr. came close to ending his disappointing drought in front of Toronto Blue Jays fans.",
-          "by": "Ayomide Adeduyite",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-manager-praises-vladimir-121800896.html",
           "fetchedAt": 1785704681991
         }
       ],
@@ -160,7 +144,32 @@
       "name": "Alec Burleson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "MLB Insider Tags Cardinals Alec Burleson As Popular Bat",
+          "s": "The St. Louis Cardinals enter the trade deadline with a ton of directions that they can go. Not only can they move on from expiring contracts, but they also have some controllable players who are popular on the market. MLB insider Jon Morosi reported that Alec Burleson is “one of the most popular controllable bats […] The post MLB Insider Tags Cardinals Alec Burleson As Popular Bat appeared first on HEAVY.",
+          "by": "Hunter Mulholland",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-insider-tags-cardinals-alec-184742231.html",
+          "fetchedAt": 1785791098687
+        },
+        {
+          "t": "MLB rumors: Cardinals player named ‘1 of most popular controllable bats’ on trade market at deadline",
+          "s": "According to MLB insider Jon Morosi, first baseman/outfielder Alec Burleson has become one of the most sought-after hitters available.",
+          "by": "Chris Spiering, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-rumors-cardinals-player-named-155948951.html",
+          "fetchedAt": 1785791098687
+        },
+        {
+          "t": "Cardinals May Have a Wild Card in Trade Market with Deadline Close",
+          "s": "The Cardinals are sellers at the trade deadline, but they have somebody who could be a very interesting trade piece.",
+          "by": "Curt Bishop",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cardinals-may-wild-card-trade-152759034.html",
+          "fetchedAt": 1785791098687
+        }
+      ],
       "nbcNews": [
         {
           "t": "Alec Burleson reaches three times in loss",
@@ -175,16 +184,7 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [
-        {
-          "t": "Athletics Mauled: Top Takeaways From Ugly Loss to Detroit",
-          "s": "After a decent series against the Red Sox, the Athletics would get pummeled by the Tigers.",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/athletics-mauled-top-takeaways-ugly-100004206.html",
-          "fetchedAt": 1785661423452
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Nick Kurtz (thumb) remains out of action on Sunday",
@@ -237,28 +237,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
       "yahooNews": [
         {
-          "t": "Brewers' Jesus Made Delivers Jaw-Dropping Performance to End July",
-          "s": "The Milwaukee Brewers' top prospect, infielder Jess Made, had a massive day at the plate in his latest game with the Double-A Biloxi Shuckers.",
-          "by": "Justin Binkowski",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/brewers-jesus-made-delivers-jaw-164505377.html",
-          "fetchedAt": 1785618251817
+          "t": "MLB trade deadline tracker: Live rumors, news, updates before 2026 deadline",
+          "s": "The Sporting News is tracking live news and rumors from the 2026 MLB trade deadline. Follow along for full updates.",
+          "by": "Daniel Chavkin",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-trade-deadline-tracker-live-100001882.html",
+          "fetchedAt": 1785791136250
         },
         {
-          "t": "Final MLB trade deadline predictions for Tarik Skubal, Hunter Greene and more top targets",
-          "s": "Predicted landing spots for the top 10 MLB trade candidates, including Detroit Tigers ace Tarik Skubal and Cincinnati Reds fireballer Hunter Greene.",
-          "by": "Christopher Kline",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/final-mlb-trade-deadline-predictions-151908385.html",
-          "fetchedAt": 1785618251817
-        },
-        {
-          "t": "Milwaukee Brewers’ Potential Trade Package for Tarik Skubal Revealed",
-          "s": "As the 2026 MLB trade deadline approaches, Tarik Skubal continues to be at the center of blockbuster trade speculation. While […]",
-          "by": "Austin Konenski",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/milwaukee-brewers-potential-trade-package-142345256.html",
-          "fetchedAt": 1785618251817
+          "t": "In Brewers minor-league report, Jesús Made homers again in wild week",
+          "s": "Biloxi's offense continued to look like an absolute machine this week ... even though it gave up 70 runs in six games.",
+          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/brewers-minor-league-report-jes-180150853.html",
+          "fetchedAt": 1785791136250
         }
       ],
       "nbcNews": [
@@ -275,16 +267,7 @@
       "name": "Brendan Donovan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yahooNews": [
-        {
-          "t": "Seattle Mariners Manager Discusses Eventful Upcoming Week",
-          "s": "Manager Dan Wilson and the rest of the Mariners will have a nine-game homestand, the trade deadline and several injured players set to make their return in the upcoming week-and-a-half.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/seattle-mariners-manager-discusses-eventful-005142677.html",
-          "fetchedAt": 1785704671601
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Brendan Donovan (groin) to return next week",
@@ -375,6 +358,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [
         {
+          "t": "Bryan Reynolds' RBI single",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/bryan-reynolds-rbi-single-185920176.html",
+          "fetchedAt": 1785791151146
+        },
+        {
           "t": "Bryan Reynolds' RBI walk",
           "s": "",
           "by": "",
@@ -430,7 +421,32 @@
       "name": "Jacob Latz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Red Sox may have one last chance to strengthen bullpen before trade deadline ends",
+          "s": "With just a couple hours until the trade deadline, Boston has a couple options to make their roster the best it can be.",
+          "by": "TJ Morin",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-may-one-last-195409717.html",
+          "fetchedAt": 1785791104564
+        },
+        {
+          "t": "Rangers Take Unexpected Trade Stance on Pair of All-Star Pitchers",
+          "s": "The Texas Rangers could make a surprising decision to move on from these two star pitchers. The post Rangers Take Unexpected Trade Stance on Pair of All-Star Pitchers appeared first on HEAVY.",
+          "by": "Owen Crisafulli",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-unexpected-trade-stance-pair-181037712.html",
+          "fetchedAt": 1785791104564
+        },
+        {
+          "t": "Rangers' MacKenzie Gore Trade Buzz Could Be the Mariners' Green Light to Buy at MLB Trade Deadline",
+          "s": "Seattle does not need to acquire MacKenzie Gore to benefit from the Rangers listening. Texas is blinking, and the Mariners should buy.",
+          "by": "Tremayne Person",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-mackenzie-gore-trade-buzz-160638259.html",
+          "fetchedAt": 1785791104564
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -525,12 +541,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "Texas Rangers lineup for August 1, 2026",
-          "s": "The second of three in Houston",
-          "by": "Adam J. Morris",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-1-195533435.html",
-          "fetchedAt": 1785618222659
+          "t": "Rangers Take Unexpected Trade Stance on Pair of All-Star Pitchers",
+          "s": "The Texas Rangers could make a surprising decision to move on from these two star pitchers. The post Rangers Take Unexpected Trade Stance on Pair of All-Star Pitchers appeared first on HEAVY.",
+          "by": "Owen Crisafulli",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-unexpected-trade-stance-pair-181037712.html",
+          "fetchedAt": 1785791131488
+        },
+        {
+          "t": "Rangers' MacKenzie Gore Trade Buzz Could Be the Mariners' Green Light to Buy at MLB Trade Deadline",
+          "s": "Seattle does not need to acquire MacKenzie Gore to benefit from the Rangers listening. Texas is blinking, and the Mariners should buy.",
+          "by": "Tremayne Person",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-mackenzie-gore-trade-buzz-160638259.html",
+          "fetchedAt": 1785791131488
+        },
+        {
+          "t": "Rangers rumors: MacKenzie Gore, Nathan Eovaldi among 3 highly coveted trade candidates",
+          "s": "The Rangers have three pitchers that are attracting teams ahead of Monday's trade deadline, including MacKenzie Gore and Nathan Eovaldi.",
+          "by": "Zachary Weinberger, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-rumors-mackenzie-gore-nathan-154449181.html",
+          "fetchedAt": 1785791131488
         }
       ],
       "nbcNews": []
@@ -542,12 +574,28 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Reds bring 2-1 series advantage over Pirates into game 4",
-          "s": "Pittsburgh Pirates (56-56, third in the NL Central) vs. Cincinnati Reds (52-58, fifth in the NL Central) Cincinnati; Sunday, 1:40 p.m. EDT PITCHING PROBABLES: Pirates: Mitch Keller (6-7, 4.83 ERA, 1.31 WHIP, 87 strikeouts); Reds: Chase Burns (12-1, 2.40 ERA, 1.12 WHIP, 128 strikeouts) LINE: Reds -154, Pirates +127; over/under is 8 1/2 runs BOTTOM LINE: The Cincinnati Reds play the Pittsburgh Pirates, leading the series 2-1. Cincinnati has a 52-58 record overall and a 25-31 record in home games.",
-          "by": "The Associated Press",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/reds-bring-2-1-series-075528417.html",
-          "fetchedAt": 1785661405054
+          "t": "Reds Trade Deadline: Brady Singer Expected to Stay in Cincinnati",
+          "s": "Despite heavy trade interest and fan pushback, Nick Krall appears set to retain the veteran right-hander, potentially weighing a massive qualifying offer to anchor the 2027 rotation.",
+          "by": "Keegan Nickoson",
+          "when": "57m ago",
+          "href": "https://sports.yahoo.com/articles/reds-trade-deadline-brady-singer-200848139.html",
+          "fetchedAt": 1785791153423
+        },
+        {
+          "t": "New Suitor Emerges for Reds Starter Brady Singer",
+          "s": "New Suitor Emerges for Reds Starter Brady Singer",
+          "by": "Greg Kuffner",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/suitor-emerges-reds-starter-brady-162618876.html",
+          "fetchedAt": 1785791153423
+        },
+        {
+          "t": "Sal Stewart ties Reds rookie home run record in win vs. Pirates",
+          "s": "Reds rookie Sal Stewart tied the franchise's rookie home run record with his 24th homer in a 10-2 win over the Pirates.",
+          "by": "Abdullah Imran, ClutchPoints",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/sal-stewart-ties-reds-rookie-113316224.html",
+          "fetchedAt": 1785791153423
         }
       ],
       "nbcNews": [
@@ -614,28 +662,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [
         {
-          "t": "Red Sox bring 4-game win streak into matchup with the Dodgers",
-          "s": "Boston Red Sox (59-51, third in the AL East) vs. Los Angeles Dodgers (69-42, first in the NL West) Los Angeles; Sunday, 7:20 p.m. EDT PITCHING PROBABLES: Red Sox: Jake Bennett (6-4, 2.74 ERA, 0.97 WHIP, 46 strikeouts); Dodgers: Emmet Sheehan (4-7, 4.95 ERA, 1.25 WHIP, 104 strikeouts) LINE: Dodgers -191, Red Sox +158; over/under is 7 runs BOTTOM LINE: The Boston Red Sox will attempt to keep their four-game win streak going when they visit the Los Angeles Dodgers. Los Angeles has a 33-22 record in home games and a 69-42 record overall.",
-          "by": "The Associated Press",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-bring-4-game-075537354.html",
-          "fetchedAt": 1785661401113
-        },
-        {
-          "t": "Dodgers acquire Tarik Skubal in blockbuster trade with Tigers",
-          "s": "LOS ANGELES — The Los Angeles Dodgers have made another franchise-altering splash at the trade deadline, acquiring reigning two-time American League Cy Young Award winner Tarik Skubal from the Detroit Tigers in exchange for top outfield prospect Zyhir Hope, right-handed pitcher River Ryan, and right-hander Brady Smith.",
-          "by": "Fredo Cervantes",
+          "t": "Dodgers Starter’s Alarming Trend Justified Blockbuster Deadline Move",
+          "s": "Emmet Sheehan’s latest rough start exposed a growing Dodgers rotation concern and showed why trading for Tarik Skubal was more necessity than luxury. The post Dodgers Starter’s Alarming Trend Justified Blockbuster Deadline Move appeared first on HEAVY.",
+          "by": "Alvin Garcia",
           "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-acquire-tarik-skubal-blockbuster-043037600.html",
-          "fetchedAt": 1785661401113
+          "href": "https://sports.yahoo.com/articles/dodgers-starter-alarming-trend-justified-165142436.html",
+          "fetchedAt": 1785791148341
         },
         {
-          "t": "Dodgers close to acquiring Tarik Skubal in blockbuster three-player trade",
-          "s": "And this is the trade MLB was waiting for to start the rest of the dominoes.",
-          "by": "Rodney Knuppel",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-close-acquiring-tarik-skubal-034530145.html",
-          "fetchedAt": 1785661401113
+          "t": "Red-hot Red Sox light up Emmet Sheehan to complete sweep of Dodgers in front of Tarik Skubal",
+          "s": "Sheehan's time in the Dodgers' rotation could be done. The Red Sox, meanwhile, are dreaming of a rematch with the Dodgers in October.",
+          "by": "Jason Owens",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/mlb/breaking-news/article/red-hot-red-sox-light-up-emmet-sheehan-to-complete-sweep-of-dodgers-in-front-of-tarik-skubal-035722313.html",
+          "fetchedAt": 1785791148341
+        },
+        {
+          "t": "Emmet Sheehan struggles as Dodgers swept by Red Sox",
+          "s": "LOS ANGELES — The calendar says August, but Sunday at Uniqlo Field at Dodger Stadium felt more like October anxiety.",
+          "by": "Fredo Cervantes",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/emmet-sheehan-struggles-dodgers-swept-034536066.html",
+          "fetchedAt": 1785791148341
         }
       ],
       "nbcNews": [
@@ -658,7 +706,32 @@
       "name": "Caleb Kilian",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "San Francisco Giants Reportedly Trade 4-Year MLB Player To Phillies",
+          "s": "Caleb Kilian had been in the middle of his first season pitching for the San Francisco Giants.He is currently 3-6 with a 4.26 ERA in 45 games.On Monday morning, Matt Gelb of The Athletic reported that the Giants are trading Luis Arráez to the Philadelphia Phillies.As part of the deal, Kilian is also going to […] The post San Francisco Giants Reportedly Trade 4-Year MLB Player To Phillies appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/san-francisco-giants-reportedly-trade-181411660.html",
+          "fetchedAt": 1785791108910
+        },
+        {
+          "t": "Phillies acquire Luis Arraez, Caleb Kilian in trade with Giants",
+          "s": "",
+          "by": "",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/video/phillies-acquire-luis-arraez-caleb-kilian-in-trade-with-giants-144323081.html",
+          "fetchedAt": 1785791108910
+        },
+        {
+          "t": "Phillies swoop in to steal Luis Arraez from Rays with Giants trade",
+          "s": "The Phillies have made a trade with the Giants to acquire hitter Luis Arraez, though the Rays had previously been considered favorites.",
+          "by": "Zachary Weinberger, ClutchPoints",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-swoop-steal-luis-arraez-140613267.html",
+          "fetchedAt": 1785791108910
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -774,12 +847,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [
         {
-          "t": "Final MLB trade deadline predictions for Tarik Skubal, Hunter Greene and more top targets",
-          "s": "Predicted landing spots for the top 10 MLB trade candidates, including Detroit Tigers ace Tarik Skubal and Cincinnati Reds fireballer Hunter Greene.",
-          "by": "Christopher Kline",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/final-mlb-trade-deadline-predictions-151908385.html",
-          "fetchedAt": 1785618243009
+          "t": "MLB trade deadline tracker: Live rumors, news, updates before 2026 deadline",
+          "s": "The Sporting News is tracking live news and rumors from the 2026 MLB trade deadline. Follow along for full updates.",
+          "by": "Daniel Chavkin",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-trade-deadline-tracker-live-100001882.html",
+          "fetchedAt": 1785791134147
+        },
+        {
+          "t": "Red Sox's Shortstop Trade Buzz Scorching Hot With Deadline Approaching",
+          "s": "With intrigue at an all-time high, the Boston Red Sox have only hours left to make a big trade.",
+          "by": "Jackson Roberts",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/red-soxs-shortstop-trade-buzz-133001010.html",
+          "fetchedAt": 1785791134147
+        },
+        {
+          "t": "Red Sox Have 3 Shortstop Trade Candidates As Deadline Approaches",
+          "s": "The Boston Red Sox are shopping for a shortstop ahead of Monday's 6 p.m. ET trade deadline.",
+          "by": "Mike Rosenstein",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-3-shortstop-trade-113217756.html",
+          "fetchedAt": 1785791134147
         }
       ],
       "nbcNews": [
@@ -796,16 +885,7 @@
       "name": "Dansby Swanson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
-      "yahooNews": [
-        {
-          "t": "2026 Cubs Heroes and Goats: Shōta Imanaga is the Superhero vs. the Yankees",
-          "s": "Imanaga had a very good game. The Cubs offense… not so much.",
-          "by": "Al Yellon",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-sh-140000567.html",
-          "fetchedAt": 1785661425580
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -848,12 +928,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [
         {
-          "t": "Jackson Merrill's two-run double",
+          "t": "Merrill's two-run home run leads Padres' 5-4 win",
           "s": "",
           "by": "",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/videos/jackson-merrills-two-run-double-010014463.html",
-          "fetchedAt": 1785661387322
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/merrills-two-run-home-run-010113937.html",
+          "fetchedAt": 1785791141023
+        },
+        {
+          "t": "Merrill's 2-run homer helps Padres beat Giants 5-4",
+          "s": "Merrill hit a two-run shot to center field and Cronenworth's two-run single put the Padres up 4-0 in the second inning. Adames added an RBI single in the fifth. Reliever Griffin Canning (3-9) pitched two innings, allowing one run on up two hits.",
+          "by": "",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/merrills-2-run-homer-helps-233943654.html",
+          "fetchedAt": 1785791141023
+        },
+        {
+          "t": "Padres Win Another Tight One, 5-4, Against Giants",
+          "s": "The San Diego Padres needed a win to take the series against the Giants, and they came up big yet again.",
+          "by": "Bob McCullough",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/padres-win-another-tight-one-233014933.html",
+          "fetchedAt": 1785791141023
         }
       ],
       "nbcNews": []
@@ -1047,14 +1143,6 @@
           "when": "22h ago",
           "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-224746061.html",
           "fetchedAt": 1785704675988
-        },
-        {
-          "t": "In the lab: A look at the Astros offense",
-          "s": "How does the Astros offense look since May 1st?",
-          "by": "Scott Barzilla",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/lab-look-astros-offense-170700621.html",
-          "fetchedAt": 1785704675988
         }
       ],
       "nbcNews": []
@@ -1064,16 +1152,7 @@
       "name": "Noelvi Marte",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
-      "yahooNews": [
-        {
-          "t": "Pirates' Paul Skenes Reveals Reason for Struggles Against Reds",
-          "s": "The Pittsburgh Pirates ace discussed his poor outing against Cincinnati.",
-          "by": "Dominic Campbell",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-paul-skenes-reveals-reason-135437606.html",
-          "fetchedAt": 1785661415843
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1182,28 +1261,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [
         {
-          "t": "These Cubs have already played their final game in Chicago ahead of the trade deadline",
-          "s": "If Jed Hoyer swings big, it'll come at the cost of several current Cubs.",
-          "by": "Chris Landers",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-already-played-final-game-235759724.html",
-          "fetchedAt": 1785661418448
+          "t": "Mariners rumors: Will George Kirby, Emerson Hancock be traded at deadline after Luis Castillo?",
+          "s": "The Seattle Mariners appear to be walking a fine line between buying for the present and reshaping its roster for the future.",
+          "by": "Chris Spiering, ClutchPoints",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-rumors-george-kirby-emerson-172235649.html",
+          "fetchedAt": 1785791162139
         },
         {
-          "t": "Cubs Make Stance Clear on Potential Seiya Suzuki Trade",
-          "s": "The Cubs are expected to keep Seiya Suzuki and Carson.",
-          "by": "Miracle Dimwesh",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-stance-clear-potential-seiya-202619020.html",
-          "fetchedAt": 1785661418448
+          "t": "Mariners given coin-flip odds to trade 3.26 ERA starting pitcher",
+          "s": "This Mariners SP trade target has a 50-50 chance of being dealt.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mariners-given-coin-flip-odds-214933099.html",
+          "fetchedAt": 1785791162139
         },
         {
-          "t": "Report: Cubs \\\"Highly Unlikely\\\" To Trade Seiya Suzuki, Carson Kelly",
-          "s": "Despite swirling rumors and pitching needs, Chicago intends to retain its core veterans for a postseason push, valuing their lineup consistency and defensive expertise over potential trade returns.",
-          "by": "Joey Pollizze",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/report-cubs-highly-unlikely-trade-175238930.html",
-          "fetchedAt": 1785661418448
+          "t": "Cubs Planning Aggressive Finish to MLB Trade Deadline",
+          "s": "With little time remaining before the MLB trade deadline, the Chicago Cubs appear ready to make several major moves.",
+          "by": "Thomas Kelson",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cubs-planning-aggressive-finish-mlb-154553112.html",
+          "fetchedAt": 1785791162139
         }
       ],
       "nbcNews": []
@@ -1317,12 +1396,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "Dylan Cease Joins Exclusive Blue Jays Pitching History",
-          "s": "Dylan Cease joins some of the better Blue Jays starting pitchers in franchise history.",
-          "by": "Dominic Minchella",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/dylan-cease-joins-exclusive-blue-120005678.html",
-          "fetchedAt": 1785661420727
+          "t": "Toronto Blue Jays Announce Dylan Cease News Before Astros Series",
+          "s": "The Toronto Blue Jays are coming off a 5-1 loss to the St. Louis Cardinals on Sunday, but they still managed to win two of three games in the series.Now, Toronto will begin a three-game series against the Houston Astros on Monday. While Shane Bieber will take the mound for Game 1, the team received […] The post Toronto Blue Jays Announce Dylan Cease News Before Astros Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "41m ago",
+          "href": "https://sports.yahoo.com/articles/toronto-blue-jays-announce-dylan-202448628.html",
+          "fetchedAt": 1785791164479
         }
       ],
       "nbcNews": []
@@ -1342,28 +1421,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [
         {
-          "t": "Phillies snap losing skid, shutout Orioles behind Sanchez's 11 strikeouts",
-          "s": "",
-          "by": "",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/videos/phillies-snap-losing-skid-shutout-071024759.html",
-          "fetchedAt": 1785661411161
+          "t": "Orioles Shutout For Second Straight Game As GM Prepares To Sell At Deadline",
+          "s": "The 2026 Orioles skidded into the trade deadline with a game very befitting their Frankenstein roster, with pieces that don't fit and a promised \\\"liftoff\\\" that",
+          "by": "Jason La Canfora",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/orioles-shutout-second-straight-game-223442793.html",
+          "fetchedAt": 1785791157357
         },
         {
-          "t": "PGL on Sanchez ‘battling' against the Orioles in Phillies' shutout win",
-          "s": "",
-          "by": "",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/videos/pgl-sanchez-battling-against-orioles-062131100.html",
-          "fetchedAt": 1785661411161
+          "t": "Cristopher Sanchez Reveals What Fueled Him Against Orioles",
+          "s": "Philadelphia Phillies starting pitcher Cristopher Sanchez delivered a gem on Saturday against the Baltimore Orioles, and revealed what fueled such a performance.",
+          "by": "Robert Marvi",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cristopher-sanchez-reveals-fueled-him-160004449.html",
+          "fetchedAt": 1785791157357
         },
         {
-          "t": "Cristopher Sánchez fans 11 Orioles in shutout win",
-          "s": "",
-          "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/videos/cristopher-nchez-fans-11-orioles-025448069.html",
-          "fetchedAt": 1785661411161
+          "t": "Phillies’ Cristopher Sanchez ties Philly history with 11k game vs. Orioles",
+          "s": "Phillies southpaw Cristopher Sanchez tied franchise history after striking out 11 in six scoreless innings in a 5-0 win vs. the Orioles.",
+          "by": "Abdullah Imran, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-cristopher-sanchez-ties-philly-105400228.html",
+          "fetchedAt": 1785791157357
         }
       ],
       "nbcNews": [
@@ -1382,12 +1461,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [
         {
-          "t": "Orioles and Phillies meet in series rubber match",
-          "s": "Philadelphia Phillies (58-53, second in the NL East) vs. Baltimore Orioles (54-57, fourth in the AL East) Baltimore; Sunday, 1:35 p.m. EDT PITCHING PROBABLES: Phillies: Zack Wheeler (10-2, 2.53 ERA, 0.92 WHIP, 123 strikeouts); Orioles: Kyle Bradish (7-9, 3.74 ERA, 1.36 WHIP, 114 strikeouts) LINE: Phillies -140, Orioles +118; over/under is 8 runs BOTTOM LINE: Both the Baltimore Orioles and the Philadelphia Phillies are looking for a series win with a victory on Sunday. Baltimore has a 54-57 record overall and a 30-28 record in home games.",
-          "by": "The Associated Press",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/orioles-phillies-meet-series-rubber-075502330.html",
-          "fetchedAt": 1785661408987
+          "t": "Orioles Shutout For Second Straight Game As GM Prepares To Sell At Deadline",
+          "s": "The 2026 Orioles skidded into the trade deadline with a game very befitting their Frankenstein roster, with pieces that don't fit and a promised \\\"liftoff\\\" that",
+          "by": "Jason La Canfora",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/orioles-shutout-second-straight-game-223442793.html",
+          "fetchedAt": 1785791155318
+        },
+        {
+          "t": "Sunday afternoon Orioles game thread: vs. Phillies, 1:35pm ET",
+          "s": "Sitting just 1.5 games back froma Wild Card spot, the O’s look to win an important rubber match vs. the Phillies.",
+          "by": "John Beers",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/sunday-afternoon-orioles-game-thread-170500003.html",
+          "fetchedAt": 1785791155318
+        },
+        {
+          "t": "Gamethread 8/2: Phillies at Orioles",
+          "s": "Zack Wheeler looks to rebound against the Orioles",
+          "by": "Smarty Jones",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/gamethread-8-2-phillies-orioles-155900519.html",
+          "fetchedAt": 1785791155318
         }
       ],
       "nbcNews": [
@@ -1487,12 +1582,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [
         {
-          "t": "1 last-minute trade Braves must make before deadline",
-          "s": "The Atlanta Braves should trade for Robbie Ray to strengthen their rotation and improve their chances of winning the 2026 World Series.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/1-last-minute-trade-braves-145357134.html",
-          "fetchedAt": 1785618256727
+          "t": "Padres acquire former Cy Young winner Robbie Ray from Giants for another playoff push",
+          "s": "The San Diego Padres acquired veteran left-hander Robbie Ray from the San Francisco Giants on Monday in a deadline trade for two prospects. The Padres (58-54) have won eight of nine to move one game back of the final NL wild-card playoff position, and this latest surge in their up-and-down season prompted general manager A.J. Preller to trade yet another chunk of his severely depleted farm system for another chance to win now. San Diego gave up right-hander Miguel Mendez and 17-year-old shortstop Joniel Hernandez for the 34-year-old Ray, a former Cy Young Award winner who will be an unrestricted free agent this winter.",
+          "by": "GREG BEACHAM",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/padres-acquire-former-cy-young-195128235.html",
+          "fetchedAt": 1785791138778
+        },
+        {
+          "t": "Robbie Ray, former Brentwood High star, traded from Giants to Padres in deadline deal",
+          "s": "Robbie Ray, a Brentwood High graduate, was traded from the Giants to the Padres as the MLB trade deadline neared.",
+          "by": "Paul Skrbina, Nashville Tennessean",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/robbie-ray-former-brentwood-high-194933567.html",
+          "fetchedAt": 1785791138778
+        },
+        {
+          "t": "Padres trade for LHP Robbie Ray",
+          "s": "Two prospects go to San Francisco with the trade",
+          "by": "Cheri Bell",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/padres-trade-lhp-robbie-ray-193913481.html",
+          "fetchedAt": 1785791138778
         }
       ],
       "nbcNews": []
@@ -1502,7 +1613,16 @@
       "name": "Kirby Yates",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Angels Reportedly Trade Veteran Hurler To Braves After Brief Stint With Club",
+          "s": "The Los Angeles Angels have reportedly shipped out another arm ahead of Monday's trade deadline.",
+          "by": "Stephen Mottram",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/angels-reportedly-trade-veteran-hurler-160317735.html",
+          "fetchedAt": 1785791129346
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1529,12 +1649,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Angels Relief Pitcher Could Solve Pirates' Bullpen Woes",
-          "s": "The Pittsburgh Pirates bullpen would benefit from this trade addition.",
-          "by": "Dominic Campbell",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/angels-relief-pitcher-could-solve-180946960.html",
-          "fetchedAt": 1785661397248
+          "t": "MLB trade deadline: Chicago Cubs pick up another reliever, acquire Ryan Zeferjahn from the Los Angeles Angels",
+          "s": "A bullpen that needs more high-leverage relievers is bringing in one of the better cost-controllable arms. The Chicago Cubs have traded for Los Angeles Angels reliever Ryan Zeferjahn, a source confirmed to the Tribune on Monday. The move required a hefty return, sending former top prospect Moisès Ballesteros and pitching prospect Mason McGwire to the Angels. Zeferjahn, 28, is under team ...",
+          "by": "Meghan Montemurro, Chicago Tribune",
+          "when": "22m ago",
+          "href": "https://sports.yahoo.com/articles/mlb-trade-deadline-chicago-cubs-204300526.html",
+          "fetchedAt": 1785791146140
+        },
+        {
+          "t": "Cubs Acquire Ryan Zeferjahn, Send Moises Ballesteros To The Angels",
+          "s": "",
+          "by": "",
+          "when": "32m ago",
+          "href": "https://sports.yahoo.com/videos/cubs-acquire-ryan-zeferjahn-send-203325809.html",
+          "fetchedAt": 1785791146140
+        },
+        {
+          "t": "Cubs full trade details for Ryan Zeferjahn deal with Angels reveal unfortunate cost",
+          "s": "The full trade details for the Cubs in this reliever trade is a bit tough.",
+          "by": "Matt Sullivan",
+          "when": "35m ago",
+          "href": "https://sports.yahoo.com/articles/cubs-full-trade-details-ryan-203008863.html",
+          "fetchedAt": 1785791146140
         }
       ],
       "nbcNews": []
