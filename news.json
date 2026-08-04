@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-04T21:07:26.139Z",
+  "lastUpdatedNews": "2026-08-04T21:21:01.784Z",
   "players": [
     {
       "id": 11928,
@@ -223,6 +223,12 @@
       ],
       "nbcNews": [
         {
+          "t": "A’s place Nick Kurtz back on IL due to thumb",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/as-place-nick-kurtz-back-on-il-due-to-thumb",
+          "fetchedAt": 1785878461784
+        },
+        {
           "t": "Nick Kurtz (thumb) remains out of action on Sunday",
           "date": "2026-08-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/nick-kurtz-thumb-remains-out-of-action-on-sunday",
@@ -368,7 +374,14 @@
           "fetchedAt": 1785834286730
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez sits out with wrist inflammation",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jose-ramirez-sits-out-with-wrist-inflammation",
+          "fetchedAt": 1785878461784
+        }
+      ]
     },
     {
       "id": 10577,
@@ -1094,7 +1107,20 @@
           "fetchedAt": 1785877556174
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward officially traded to Mariners",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/taylor-ward-officially-traded-to-mariners",
+          "fetchedAt": 1785878461784
+        },
+        {
+          "t": "Report: Mariners getting Taylor Ward from Orioles",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-mariners-getting-taylor-ward-from-orioles",
+          "fetchedAt": 1785878461784
+        }
+      ]
     },
     {
       "id": 64330,
