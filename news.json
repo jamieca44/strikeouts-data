@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-04T09:05:54.291Z",
+  "lastUpdatedNews": "2026-08-04T09:20:53.735Z",
   "players": [
     {
       "id": 11928,
@@ -33,14 +33,7 @@
           "fetchedAt": 1785834329961
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler blasts grand slam in rout of A’s",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/dillon-dingler-blasts-grand-slam-in-rout-of-as",
-          "fetchedAt": 1785576082149
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -73,14 +66,7 @@
           "fetchedAt": 1785704681991
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. doubles in return to lineup",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/vladimir-guerrero-jr-doubles-in-return-to-lineup",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -207,10 +193,16 @@
       ],
       "nbcNews": [
         {
-          "t": "Alec Burleson reaches three times in loss",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/alec-burleson-reaches-three-times-in-loss",
-          "fetchedAt": 1785662454298
+          "t": "Burleson has first career three HR game",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/burleson-has-first-career-three-hr-game",
+          "fetchedAt": 1785835253735
+        },
+        {
+          "t": "Morosi: Burleson is a popular name on trade market",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/morosi-burleson-is-a-popular-name-on-trade-market",
+          "fetchedAt": 1785835253735
         }
       ]
     },
@@ -250,18 +242,6 @@
           "t": "Nick Kurtz (thumb) remains out of action on Sunday",
           "date": "2026-08-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/nick-kurtz-thumb-remains-out-of-action-on-sunday",
-          "fetchedAt": 1785705642709
-        },
-        {
-          "t": "Nick Kurtz (thumb) gets night off versus lefty",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/nick-kurtz-thumb-gets-night-off-versus-lefty",
-          "fetchedAt": 1785705642709
-        },
-        {
-          "t": "Nick Kurtz (forearm) reaches twice in blowout",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/nick-kurtz-forearm-reaches-twice-in-blowout",
           "fetchedAt": 1785705642709
         }
       ]
@@ -313,14 +293,7 @@
           "fetchedAt": 1785791136250
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jesús Made tallies five hits, two homers at AA",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/jesus-made-posts-five-hits-two-homers-at-double-a",
-          "fetchedAt": 1785619246284
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12351,
@@ -328,14 +301,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Brendan Donovan (groin) to return next week",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/brendan-donovan-groin-to-return-next-week",
-          "fetchedAt": 1785619246284
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -560,12 +526,6 @@
           "date": "2026-08-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/dodgers-officially-land-tarik-skubal-from-tigers",
           "fetchedAt": 1785705642709
-        },
-        {
-          "t": "Report: Dodgers acquire Tarik Skubal from Tigers",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-dodgers-making-progress-on-tarik-skubal-deal",
-          "fetchedAt": 1785705642709
         }
       ]
     },
@@ -759,12 +719,6 @@
           "date": "2026-08-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/emmet-sheehan-pulled-after-allowing-three-homers",
           "fetchedAt": 1785748889350
-        },
-        {
-          "t": "Report: Dodgers acquire Tarik Skubal from Tigers",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-dodgers-making-progress-on-tarik-skubal-deal",
-          "fetchedAt": 1785748889350
         }
       ]
     },
@@ -820,14 +774,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker needs just six pitches for 31st save",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/bryan-baker-needs-just-six-pitches-for-31st-save",
-          "fetchedAt": 1785705642709
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -976,14 +923,7 @@
           "fetchedAt": 1785791134147
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Report: Otto Lopez to Red Sox talks ‘dead’",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-otto-lopez-to-red-sox-talks-dead",
-          "fetchedAt": 1785705642709
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -1164,14 +1104,7 @@
           "fetchedAt": 1785747947357
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Coby Mayo hitting leadoff Saturday vs. Phillies",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/coby-mayo-hitting-leadoff-saturday-vs-phillies",
-          "fetchedAt": 1785705642709
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -1230,10 +1163,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Colt Emerson goes 0-for-4, fans three times",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/colt-emerson-goes-0-for-4-fans-three-times",
-          "fetchedAt": 1785619246284
+          "t": "Colt Emerson notches first career walk-off hit",
+          "date": "2026-08-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/colt-emerson-notches-first-career-walk-off-hit",
+          "fetchedAt": 1785835253735
         }
       ]
     },
@@ -1407,20 +1340,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Franklin Arias at second base again at Triple-A",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/franklin-arias-at-second-base-again-at-triple-a",
-          "fetchedAt": 1785662454298
-        },
-        {
-          "t": "Report: Otto Lopez to Red Sox talks ‘dead’",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/report-otto-lopez-to-red-sox-talks-dead",
-          "fetchedAt": 1785662454298
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64967,
@@ -1496,6 +1416,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Report: Jacob deGrom unwilling to waive no-trade",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-jacob-degrom-unwilling-to-waive-no-trade",
+          "fetchedAt": 1785835253735
+        },
+        {
           "t": "Jacob deGrom gives up five runs in loss",
           "date": "2026-08-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/jacob-degrom-gives-up-five-runs-in-loss",
@@ -1559,14 +1485,7 @@
           "fetchedAt": 1785791157357
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez strikes out 11 in win Saturday",
-          "date": "2026-08-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-01/cristopher-sanchez-strikes-out-11-in-win-saturday",
-          "fetchedAt": 1785662454298
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
@@ -1772,7 +1691,14 @@
           "fetchedAt": 1785791129346
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pirates fortify bullpen with veteran Kirby Yates",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/pirates-fortify-bullpen-with-veteran-kirby-yates",
+          "fetchedAt": 1785835253735
+        }
+      ]
     },
     {
       "id": 11823,
