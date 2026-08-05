@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-05T21:04:48.126Z",
+  "lastUpdatedNews": "2026-08-05T21:20:42.714Z",
   "players": [
     {
       "id": 11928,
@@ -66,7 +66,14 @@
           "fetchedAt": 1785920717191
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vlad Jr. not in the lineup for Toronto on Wednesday",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/vlad-jr-not-in-the-lineup-for-toronto-on-wednesday",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 10964,
@@ -100,6 +107,12 @@
         }
       ],
       "nbcNews": [
+        {
+          "t": "Garcia Jr. homers in first Yankees game",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/garcia-jr-homers-in-first-yankees-game",
+          "fetchedAt": 1785964842714
+        },
         {
           "t": "Luis García Jr. hitting third in Yankees debut",
           "date": "2026-08-03",
@@ -480,6 +493,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Jacob Latz blows save, earns win against Giants",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jacob-latz-blows-save-earns-win-against-giants",
+          "fetchedAt": 1785964842714
+        },
+        {
           "t": "Reports: Rangers weigh selling before deadline",
           "date": "2026-08-03",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/reports-rangers-weigh-selling-before-deadline",
@@ -592,6 +611,18 @@
       ],
       "nbcNews": [
         {
+          "t": "Gore placed on paternity list",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/gore-placed-on-paternity-list",
+          "fetchedAt": 1785964842714
+        },
+        {
+          "t": "MacKenzie Gore holds Giants scoreless over six",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/mackenzie-gore-holds-giants-scoreless-over-six",
+          "fetchedAt": 1785964842714
+        },
+        {
           "t": "Reports: Rangers weigh selling before deadline",
           "date": "2026-08-03",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/reports-rangers-weigh-selling-before-deadline",
@@ -679,7 +710,14 @@
           "fetchedAt": 1785877613893
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers jettison Emmet Sheehan to Triple-A",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/dodgers-jettison-emmet-sheehan-to-triple-a",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 12387,
@@ -870,7 +908,14 @@
           "fetchedAt": 1785920714123
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman makes early exit against Cubs",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/freddie-freeman-makes-early-exit-against-cubs",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 64311,
@@ -1250,7 +1295,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Héctor Rodríguez on the bench following debut",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/hector-rodriguez-on-the-bench-following-debut",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 60580,
@@ -1381,7 +1433,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Franklin Arias playing 2B in Triple-A",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/franklin-arias-playing-2b-in-triple-a",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 64967,
@@ -1422,7 +1481,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jenkins has three hits in Triple-A",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/jenkins-has-three-hits-in-triple-a",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 9701,
@@ -1585,7 +1651,26 @@
           "fetchedAt": 1785963876894
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Report: Peralta initiated sitdown with Soto, Lindor",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/report-peralta-initiated-sitdown-with-soto-lindor",
+          "fetchedAt": 1785964842714
+        },
+        {
+          "t": "Freddy Peralta hit hard in Rays debut vs. Rockies",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/freddy-peralta-hit-hard-in-rays-debut-vs-rockies",
+          "fetchedAt": 1785964842714
+        },
+        {
+          "t": "Freddy Peralta to make Rays debut on Tuesday",
+          "date": "2026-08-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/freddy-peralta-to-make-rays-debut-on-tuesday",
+          "fetchedAt": 1785964842714
+        }
+      ]
     },
     {
       "id": 10627,
