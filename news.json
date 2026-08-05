@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-05T09:05:30.851Z",
+  "lastUpdatedNews": "2026-08-05T09:20:53.750Z",
   "players": [
     {
       "id": 11928,
@@ -105,18 +105,6 @@
           "date": "2026-08-03",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/luis-garcia-jr-hitting-third-in-yankees-debut",
           "fetchedAt": 1785792065164
-        },
-        {
-          "t": "Yankees get Luis García Jr. in four-player trade",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/yankees-get-luis-garcia-jr-in-four-player-trade",
-          "fetchedAt": 1785792065164
-        },
-        {
-          "t": "Report: Yankees get Luis García Jr. from Nationals",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/report-yankees-get-luis-garcia-jr-from-nationals",
-          "fetchedAt": 1785792065164
         }
       ]
     },
@@ -151,14 +139,7 @@
           "fetchedAt": 1785920707925
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis socks three-run homer in loss to SEA",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/royce-lewis-socks-three-run-homer-in-loss-to-sea",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -243,12 +224,6 @@
           "date": "2026-08-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/as-place-nick-kurtz-back-on-il-due-to-thumb",
           "fetchedAt": 1785878461784
-        },
-        {
-          "t": "Nick Kurtz (thumb) remains out of action on Sunday",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/nick-kurtz-thumb-remains-out-of-action-on-sunday",
-          "fetchedAt": 1785705642709
         }
       ]
     },
@@ -267,14 +242,7 @@
           "fetchedAt": 1785877552235
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. sits against Giants on Sunday",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/fernando-tatis-jr-sits-against-giants-on-sunday",
-          "fetchedAt": 1785705642709
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -332,7 +300,14 @@
           "fetchedAt": 1785920661192
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mariners activate Brendan Donovan from injured list",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/mariners-activate-brendan-donovan-from-injured-list",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 9552,
@@ -398,7 +373,14 @@
           "fetchedAt": 1785920727008
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz knocks in two in Reds’ victory",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/elly-de-la-cruz-knocks-in-two-in-reds-victory",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 9507,
@@ -471,14 +453,7 @@
           "fetchedAt": 1785877538223
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo homers, reaches three times in loss",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/brandon-nimmo-homers-reaches-three-times-in-loss",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -553,16 +528,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Tarik Skubal to make debut for Dodgers on Tuesday",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/tarik-skubal-to-make-debut-for-dodgers-on-tuesday",
-          "fetchedAt": 1785705642709
-        },
-        {
-          "t": "Dodgers officially land Tarik Skubal from Tigers",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/dodgers-officially-land-tarik-skubal-from-tigers",
-          "fetchedAt": 1785705642709
+          "t": "Tarik Skubal allows two runs, takes loss in debut",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/tarik-skubal-allows-two-runs-takes-loss-in-debut",
+          "fetchedAt": 1785921653750
         }
       ]
     },
@@ -597,7 +566,14 @@
           "fetchedAt": 1785877563111
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan scuffles again in loss to Royals",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/joe-ryan-scuffles-again-in-loss-to-royals",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 10940,
@@ -670,14 +646,7 @@
           "fetchedAt": 1785877615945
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns strikes out nine in earning 13th win",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/chase-burns-strikes-out-nine-in-earning-13th-win",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -710,14 +679,7 @@
           "fetchedAt": 1785834338107
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft strikes out five in 11th win",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/braxton-ashcraft-strikes-out-five-in-11th-win",
-          "fetchedAt": 1785662454298
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -750,14 +712,7 @@
           "fetchedAt": 1785877613893
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan pulled after allowing three homers",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/emmet-sheehan-pulled-after-allowing-three-homers",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -811,7 +766,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker strikes out two for 32nd save",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/bryan-baker-strikes-out-two-for-32nd-save",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 10214,
@@ -819,7 +781,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz gives up run in eighth inning",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/edwin-diaz-gives-up-run-in-eighth-inning",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 10592,
@@ -885,7 +854,14 @@
           "fetchedAt": 1785877540700
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers blanks Cardinals over six in win",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/ryan-weathers-blanks-cardinals-over-six-in-win",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 8658,
@@ -959,7 +935,14 @@
           "fetchedAt": 1785920673490
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin hits grand slam, steals base in rout",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/caleb-durbin-hits-grand-slam-steals-base-in-rout",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 12100,
@@ -1017,7 +1000,14 @@
           "fetchedAt": 1785834299805
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson homers off Tarik Skubal in win",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/dansby-swanson-homers-off-tarik-skubal-in-win",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 12157,
@@ -1135,10 +1125,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Riley Greene sits against left-hander on Sunday",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/riley-greene-sits-against-left-hander-on-sunday",
-          "fetchedAt": 1785705642709
+          "t": "Riley Greene collects three hits, homers in victory",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/riley-greene-collects-three-hits-homers-in-victory",
+          "fetchedAt": 1785921653750
         }
       ]
     },
@@ -1203,14 +1193,7 @@
           "fetchedAt": 1785834302727
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cam Smith goes 3-for-5 in Astros’ victory",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/cam-smith-goes-3-for-5-in-astros-victory",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -1243,14 +1226,7 @@
           "fetchedAt": 1785877545812
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Colt Emerson notches first career walk-off hit",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/colt-emerson-notches-first-career-walk-off-hit",
-          "fetchedAt": 1785835253735
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -1283,7 +1259,14 @@
           "fetchedAt": 1785920712224
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve collects three hits in win versus Jays",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jose-altuve-collects-three-hits-in-win-versus-jays",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 11529,
@@ -1510,12 +1493,6 @@
           "date": "2026-08-03",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-jacob-degrom-unwilling-to-waive-no-trade",
           "fetchedAt": 1785835253735
-        },
-        {
-          "t": "Jacob deGrom gives up five runs in loss",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/jacob-degrom-gives-up-five-runs-in-loss",
-          "fetchedAt": 1785662454298
         }
       ]
     },
@@ -1534,7 +1511,14 @@
           "fetchedAt": 1785791164479
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jameson Taillon to start Wednesday vs. Astros",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jameson-taillon-to-start-wednesday-vs-astros",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 10946,
@@ -1583,14 +1567,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish departs after three due to rain delay",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/kyle-bradish-departs-after-three-due-to-rain-delay",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -1598,14 +1575,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole holds Cubs to one run in victory",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/gerrit-cole-holds-cubs-to-one-run-in-victory",
-          "fetchedAt": 1785748889350
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -1638,20 +1608,7 @@
           "fetchedAt": 1785877561060
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Rays land Freddy Peralta, send prospects to Mets",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/rays-land-freddy-peralta-send-prospects-to-mets",
-          "fetchedAt": 1785792065164
-        },
-        {
-          "t": "Rays set to acquire Freddy Peralta from Mets",
-          "date": "2026-08-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-02/rays-set-to-acquire-freddy-peralta-from-mets",
-          "fetchedAt": 1785792065164
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -1676,7 +1633,14 @@
           "fetchedAt": 1785834314327
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo goes eight in Phillies’ shutout win",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/jesus-luzardo-goes-eight-in-phillies-shutout-win",
+          "fetchedAt": 1785921653750
+        }
+      ]
     },
     {
       "id": 9691,
