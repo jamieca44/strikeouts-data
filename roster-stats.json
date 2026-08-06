@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdatedRosterStats": "2026-08-01T22:18:06Z",
+  "lastUpdatedRosterStats": "2026-08-06T18:12:01Z",
   "players": [
     {
       "id": 11928,
@@ -9,470 +9,40 @@
       "pos": "C",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "398",
-        "type": "batting",
-        "hab": "6/26",
-        "r": "2",
-        "hr": "1",
-        "rbi": "6",
-        "sb": "0",
-        "k": "7",
-        "tb": "9",
-        "obp": ".259"
-      },
-      "lastMonthStats": {
-        "rank": "266",
-        "type": "batting",
-        "hab": "22/79",
-        "r": "10",
-        "hr": "4",
-        "rbi": "13",
-        "sb": "0",
-        "k": "22",
-        "tb": "38",
-        "obp": ".352"
-      }
-    },
-    {
-      "id": 64313,
-      "name": "Nick Kurtz",
-      "team": "Athletics",
-      "pos": "1B",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "709",
-        "type": "batting",
-        "hab": "1/18",
+        "hab": "2/3",
         "r": "1",
         "hr": "1",
-        "rbi": "3",
-        "sb": "0",
-        "k": "11",
-        "tb": "4",
-        "obp": ".227"
-      },
-      "lastMonthStats": {
-        "rank": "954",
-        "type": "batting",
-        "hab": "3/40",
-        "r": "2",
-        "hr": "2",
-        "rbi": "5",
-        "sb": "0",
-        "k": "22",
-        "tb": "9",
-        "obp": ".178"
-      }
-    },
-    {
-      "id": 10964,
-      "name": "Luis García Jr.",
-      "team": "Washington Nationals",
-      "pos": "1B,2B",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "0/0",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "80",
-        "type": "batting",
-        "hab": "10/28",
-        "r": "2",
-        "hr": "2",
-        "rbi": "6",
-        "sb": "0",
-        "k": "5",
-        "tb": "21",
-        "obp": ".357"
-      },
-      "lastMonthStats": {
-        "rank": "48",
-        "type": "batting",
-        "hab": "25/85",
-        "r": "9",
-        "hr": "7",
-        "rbi": "17",
-        "sb": "2",
-        "k": "18",
-        "tb": "54",
-        "obp": ".326"
-      }
-    },
-    {
-      "id": 9507,
-      "name": "José Ramírez",
-      "team": "Cleveland Guardians",
-      "pos": "3B",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "0/0",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "287",
-        "type": "batting",
-        "hab": "5/25",
-        "r": "4",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "3",
-        "k": "2",
-        "tb": "5",
-        "obp": ".259"
-      },
-      "lastMonthStats": {
-        "rank": "673",
-        "type": "batting",
-        "hab": "7/33",
-        "r": "5",
-        "hr": "0",
         "rbi": "2",
-        "sb": "3",
-        "k": "2",
-        "tb": "7",
-        "obp": ".297"
-      }
-    },
-    {
-      "id": 9552,
-      "name": "Mookie Betts",
-      "team": "Los Angeles Dodgers",
-      "pos": "SS",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "578",
-        "type": "batting",
-        "hab": "6/25",
-        "r": "2",
-        "hr": "0",
-        "rbi": "2",
-        "sb": "0",
-        "k": "4",
-        "tb": "7",
-        "obp": ".240"
-      },
-      "lastMonthStats": {
-        "rank": "533",
-        "type": "batting",
-        "hab": "17/83",
-        "r": "11",
-        "hr": "2",
-        "rbi": "8",
-        "sb": "0",
-        "k": "11",
-        "tb": "26",
-        "obp": ".267"
-      }
-    },
-    {
-      "id": 12393,
-      "name": "Elly De La Cruz",
-      "team": "Cincinnati Reds",
-      "pos": "SS",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "0/0",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "68",
-        "type": "batting",
-        "hab": "9/28",
-        "r": "6",
-        "hr": "1",
-        "rbi": "2",
-        "sb": "2",
-        "k": "10",
-        "tb": "17",
-        "obp": ".424"
-      },
-      "lastMonthStats": {
-        "rank": "5",
-        "type": "batting",
-        "hab": "28/95",
-        "r": "18",
-        "hr": "5",
-        "rbi": "8",
-        "sb": "10",
-        "k": "25",
-        "tb": "53",
-        "obp": ".402"
-      }
-    },
-    {
-      "id": 12550,
-      "name": "Alec Burleson",
-      "team": "St. Louis Cardinals",
-      "pos": "1B,OF",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "2/4",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "2",
-        "obp": ".600"
-      },
-      "lastWeekStats": {
-        "rank": "419",
-        "type": "batting",
-        "hab": "8/26",
-        "r": "3",
-        "hr": "0",
-        "rbi": "2",
-        "sb": "0",
-        "k": "7",
-        "tb": "10",
-        "obp": ".379"
-      },
-      "lastMonthStats": {
-        "rank": "147",
-        "type": "batting",
-        "hab": "31/102",
-        "r": "15",
-        "hr": "2",
-        "rbi": "14",
-        "sb": "1",
-        "k": "21",
-        "tb": "44",
-        "obp": ".349"
-      }
-    },
-    {
-      "id": 10577,
-      "name": "Bryan Reynolds",
-      "team": "Pittsburgh Pirates",
-      "pos": "OF",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "0/0",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "349",
-        "type": "batting",
-        "hab": "6/27",
-        "r": "4",
-        "hr": "1",
-        "rbi": "2",
-        "sb": "0",
-        "k": "7",
-        "tb": "11",
-        "obp": ".300"
-      },
-      "lastMonthStats": {
-        "rank": "248",
-        "type": "batting",
-        "hab": "21/92",
-        "r": "17",
-        "hr": "4",
-        "rbi": "8",
-        "sb": "2",
-        "k": "32",
-        "tb": "39",
-        "obp": ".330"
-      }
-    },
-    {
-      "id": 10639,
-      "name": "Fernando Tatis Jr.",
-      "team": "San Diego Padres",
-      "pos": "2B,OF",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "0/0",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "158",
-        "type": "batting",
-        "hab": "8/24",
-        "r": "4",
-        "hr": "0",
-        "rbi": "2",
-        "sb": "1",
-        "k": "3",
-        "tb": "10",
-        "obp": ".429"
-      },
-      "lastMonthStats": {
-        "rank": "8",
-        "type": "batting",
-        "hab": "30/99",
-        "r": "19",
-        "hr": "3",
-        "rbi": "16",
-        "sb": "7",
-        "k": "22",
-        "tb": "48",
-        "obp": ".400"
-      }
-    },
-    {
-      "id": 9876,
-      "name": "Brandon Nimmo",
-      "team": "Texas Rangers",
-      "pos": "OF",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "0/0",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "0",
-        "k": "0",
-        "tb": "0",
-        "obp": "-"
-      },
-      "lastWeekStats": {
-        "rank": "630",
-        "type": "batting",
-        "hab": "4/25",
-        "r": "2",
-        "hr": "0",
-        "rbi": "0",
-        "sb": "1",
-        "k": "7",
-        "tb": "7",
-        "obp": ".250"
-      },
-      "lastMonthStats": {
-        "rank": "458",
-        "type": "batting",
-        "hab": "22/81",
-        "r": "9",
-        "hr": "2",
-        "rbi": "10",
-        "sb": "2",
-        "k": "23",
-        "tb": "36",
-        "obp": ".322"
-      }
-    },
-    {
-      "id": 10916,
-      "name": "Royce Lewis",
-      "team": "Minnesota Twins",
-      "pos": "1B,2B,3B",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "batting",
-        "hab": "1/3",
-        "r": "0",
-        "hr": "0",
-        "rbi": "0",
         "sb": "0",
         "k": "1",
-        "tb": "2",
-        "obp": ".333"
+        "tb": "5",
+        "obp": ".750"
       },
       "lastWeekStats": {
-        "rank": "168",
+        "rank": "7",
         "type": "batting",
-        "hab": "6/22",
-        "r": "4",
-        "hr": "1",
-        "rbi": "4",
-        "sb": "1",
-        "k": "5",
-        "tb": "12",
-        "obp": ".304"
+        "hab": "9/24",
+        "r": "6",
+        "hr": "3",
+        "rbi": "7",
+        "sb": "0",
+        "k": "6",
+        "tb": "18",
+        "obp": ".423"
       },
       "lastMonthStats": {
-        "rank": "120",
+        "rank": "59",
         "type": "batting",
-        "hab": "18/79",
+        "hab": "26/84",
         "r": "14",
-        "hr": "3",
-        "rbi": "11",
-        "sb": "4",
-        "k": "18",
-        "tb": "34",
-        "obp": ".319"
+        "hr": "6",
+        "rbi": "15",
+        "sb": "0",
+        "k": "25",
+        "tb": "47",
+        "obp": ".383"
       }
     },
     {
@@ -482,40 +52,427 @@
       "pos": "1B",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "batting",
-        "hab": "2/5",
+        "hab": "-/-",
+        "r": "-",
+        "hr": "-",
+        "rbi": "-",
+        "sb": "-",
+        "k": "-",
+        "tb": "-",
+        "obp": "-"
+      },
+      "lastWeekStats": {
+        "rank": "745",
+        "type": "batting",
+        "hab": "3/20",
+        "r": "2",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "5",
+        "tb": "4",
+        "obp": ".190"
+      },
+      "lastMonthStats": {
+        "rank": "523",
+        "type": "batting",
+        "hab": "21/86",
+        "r": "10",
+        "hr": "2",
+        "rbi": "9",
+        "sb": "1",
+        "k": "18",
+        "tb": "31",
+        "obp": ".301"
+      }
+    },
+    {
+      "id": 10964,
+      "name": "Luis García Jr.",
+      "team": "New York Yankees",
+      "pos": "1B,2B",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "0/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "0",
+        "obp": ".250"
+      },
+      "lastWeekStats": {
+        "rank": "108",
+        "type": "batting",
+        "hab": "7/23",
+        "r": "2",
+        "hr": "2",
+        "rbi": "4",
+        "sb": "0",
+        "k": "3",
+        "tb": "17",
+        "obp": ".333"
+      },
+      "lastMonthStats": {
+        "rank": "166",
+        "type": "batting",
+        "hab": "24/83",
+        "r": "6",
+        "hr": "5",
+        "rbi": "13",
+        "sb": "1",
+        "k": "15",
+        "tb": "47",
+        "obp": ".322"
+      }
+    },
+    {
+      "id": 9507,
+      "name": "José Ramírez",
+      "team": "Cleveland Guardians",
+      "pos": "3B",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "0/0",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "0",
+        "obp": "-"
+      },
+      "lastWeekStats": {
+        "rank": "432",
+        "type": "batting",
+        "hab": "1/10",
+        "r": "2",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "1",
+        "k": "0",
+        "tb": "1",
+        "obp": ".308"
+      },
+      "lastMonthStats": {
+        "rank": "687",
+        "type": "batting",
+        "hab": "8/41",
+        "r": "6",
+        "hr": "0",
+        "rbi": "2",
+        "sb": "3",
+        "k": "2",
+        "tb": "8",
+        "obp": ".283"
+      }
+    },
+    {
+      "id": 9552,
+      "name": "Mookie Betts",
+      "team": "Los Angeles Dodgers",
+      "pos": "SS",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "4/5",
         "r": "1",
         "hr": "0",
         "rbi": "0",
         "sb": "0",
         "k": "0",
-        "tb": "2",
-        "obp": ".400"
+        "tb": "4",
+        "obp": ".800"
       },
       "lastWeekStats": {
-        "rank": "369",
+        "rank": "522",
         "type": "batting",
-        "hab": "6/18",
-        "r": "2",
+        "hab": "7/25",
+        "r": "1",
         "hr": "0",
         "rbi": "2",
         "sb": "0",
         "k": "2",
         "tb": "8",
-        "obp": ".368"
+        "obp": ".280"
       },
       "lastMonthStats": {
-        "rank": "435",
+        "rank": "623",
         "type": "batting",
-        "hab": "21/82",
+        "hab": "18/80",
         "r": "9",
         "hr": "2",
-        "rbi": "10",
+        "rbi": "7",
+        "sb": "0",
+        "k": "11",
+        "tb": "25",
+        "obp": ".271"
+      }
+    },
+    {
+      "id": 12393,
+      "name": "Elly De La Cruz",
+      "team": "Cincinnati Reds",
+      "pos": "SS",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "1/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
         "sb": "1",
+        "k": "1",
+        "tb": "1",
+        "obp": ".500"
+      },
+      "lastWeekStats": {
+        "rank": "14",
+        "type": "batting",
+        "hab": "7/21",
+        "r": "5",
+        "hr": "0",
+        "rbi": "5",
+        "sb": "3",
+        "k": "5",
+        "tb": "12",
+        "obp": ".481"
+      },
+      "lastMonthStats": {
+        "rank": "6",
+        "type": "batting",
+        "hab": "27/93",
+        "r": "20",
+        "hr": "5",
+        "rbi": "11",
+        "sb": "8",
+        "k": "23",
+        "tb": "52",
+        "obp": ".400"
+      }
+    },
+    {
+      "id": 12550,
+      "name": "Alec Burleson",
+      "team": "St. Louis Cardinals",
+      "pos": "1B,OF",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "1/4",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "2",
+        "obp": ".250"
+      },
+      "lastWeekStats": {
+        "rank": "10",
+        "type": "batting",
+        "hab": "9/24",
+        "r": "3",
+        "hr": "3",
+        "rbi": "6",
+        "sb": "0",
+        "k": "5",
+        "tb": "20",
+        "obp": ".483"
+      },
+      "lastMonthStats": {
+        "rank": "70",
+        "type": "batting",
+        "hab": "31/100",
+        "r": "14",
+        "hr": "4",
+        "rbi": "14",
+        "sb": "0",
+        "k": "20",
+        "tb": "51",
+        "obp": ".373"
+      }
+    },
+    {
+      "id": 10577,
+      "name": "Bryan Reynolds",
+      "team": "Pittsburgh Pirates",
+      "pos": "OF",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "1/4",
+        "r": "1",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "2",
+        "tb": "1",
+        "obp": ".250"
+      },
+      "lastWeekStats": {
+        "rank": "678",
+        "type": "batting",
+        "hab": "7/29",
+        "r": "3",
+        "hr": "0",
+        "rbi": "2",
+        "sb": "0",
+        "k": "9",
+        "tb": "7",
+        "obp": ".290"
+      },
+      "lastMonthStats": {
+        "rank": "560",
+        "type": "batting",
+        "hab": "20/93",
+        "r": "15",
+        "hr": "2",
+        "rbi": "7",
+        "sb": "1",
+        "k": "33",
+        "tb": "31",
+        "obp": ".324"
+      }
+    },
+    {
+      "id": 10639,
+      "name": "Fernando Tatis Jr.",
+      "team": "San Diego Padres",
+      "pos": "2B,OF",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "1/4",
+        "r": "1",
+        "hr": "1",
+        "rbi": "1",
+        "sb": "0",
+        "k": "0",
+        "tb": "4",
+        "obp": ".250"
+      },
+      "lastWeekStats": {
+        "rank": "225",
+        "type": "batting",
+        "hab": "4/23",
+        "r": "5",
+        "hr": "1",
+        "rbi": "1",
+        "sb": "1",
+        "k": "3",
+        "tb": "9",
+        "obp": ".269"
+      },
+      "lastMonthStats": {
+        "rank": "14",
+        "type": "batting",
+        "hab": "26/95",
+        "r": "18",
+        "hr": "4",
+        "rbi": "16",
+        "sb": "5",
         "k": "18",
-        "tb": "32",
-        "obp": ".330"
+        "tb": "45",
+        "obp": ".373"
+      }
+    },
+    {
+      "id": 9876,
+      "name": "Brandon Nimmo",
+      "team": "Texas Rangers",
+      "pos": "OF",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "2/3",
+        "r": "2",
+        "hr": "1",
+        "rbi": "2",
+        "sb": "0",
+        "k": "0",
+        "tb": "5",
+        "obp": ".750"
+      },
+      "lastWeekStats": {
+        "rank": "9",
+        "type": "batting",
+        "hab": "9/24",
+        "r": "4",
+        "hr": "2",
+        "rbi": "4",
+        "sb": "2",
+        "k": "4",
+        "tb": "16",
+        "obp": ".483"
+      },
+      "lastMonthStats": {
+        "rank": "55",
+        "type": "batting",
+        "hab": "30/91",
+        "r": "13",
+        "hr": "4",
+        "rbi": "13",
+        "sb": "3",
+        "k": "24",
+        "tb": "51",
+        "obp": ".390"
+      }
+    },
+    {
+      "id": 10916,
+      "name": "Royce Lewis",
+      "team": "Minnesota Twins",
+      "pos": "1B,2B,3B",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "1/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "1",
+        "obp": ".333"
+      },
+      "lastWeekStats": {
+        "rank": "70",
+        "type": "batting",
+        "hab": "10/23",
+        "r": "3",
+        "hr": "2",
+        "rbi": "4",
+        "sb": "0",
+        "k": "5",
+        "tb": "18",
+        "obp": ".435"
+      },
+      "lastMonthStats": {
+        "rank": "50",
+        "type": "batting",
+        "hab": "22/81",
+        "r": "14",
+        "hr": "4",
+        "rbi": "12",
+        "sb": "4",
+        "k": "17",
+        "tb": "41",
+        "obp": ".348"
       }
     },
     {
@@ -525,7 +482,7 @@
       "pos": "2B,3B,SS",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -537,7 +494,7 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "1521",
+        "rank": "1,522",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -549,7 +506,7 @@
         "obp": "-"
       },
       "lastMonthStats": {
-        "rank": "1632",
+        "rank": "1,646",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -566,9 +523,52 @@
       "name": "Brendan Donovan",
       "team": "Seattle Mariners",
       "pos": "2B,3B,SS,OF",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "batting",
+        "hab": "1/3",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "0",
+        "tb": "1",
+        "obp": ".333"
+      },
+      "lastWeekStats": {
+        "rank": "694",
+        "type": "batting",
+        "hab": "1/7",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "1",
+        "obp": ".143"
+      },
+      "lastMonthStats": {
+        "rank": "940",
+        "type": "batting",
+        "hab": "1/7",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "1",
+        "tb": "1",
+        "obp": ".143"
+      }
+    },
+    {
+      "id": 64313,
+      "name": "Nick Kurtz",
+      "team": "Athletics",
+      "pos": "1B",
       "ilStatus": "IL10",
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "batting",
         "hab": "-/-",
         "r": "-",
@@ -580,28 +580,28 @@
         "obp": "-"
       },
       "lastWeekStats": {
-        "rank": "845",
+        "rank": "739",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "0/6",
+        "r": "0",
+        "hr": "0",
+        "rbi": "0",
+        "sb": "0",
+        "k": "4",
+        "tb": "0",
+        "obp": ".250"
       },
       "lastMonthStats": {
-        "rank": "999",
+        "rank": "988",
         "type": "batting",
-        "hab": "-/-",
-        "r": "-",
-        "hr": "-",
-        "rbi": "-",
-        "sb": "-",
-        "k": "-",
-        "tb": "-",
-        "obp": "-"
+        "hab": "1/28",
+        "r": "1",
+        "hr": "1",
+        "rbi": "3",
+        "sb": "0",
+        "k": "15",
+        "tb": "4",
+        "obp": ".156"
       }
     },
     {
@@ -611,7 +611,7 @@
       "pos": "SP,RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -623,26 +623,26 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "242",
+        "rank": "276",
         "type": "pitching",
-        "ip": "2.0",
-        "w": "0",
+        "ip": "1.0",
+        "w": "1",
         "l": "0",
-        "sv": "1",
-        "era": "4.50",
-        "whip": "1.00",
+        "sv": "0",
+        "era": "9.00",
+        "whip": "3.00",
         "k9": "9.00",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "94",
+        "rank": "85",
         "type": "pitching",
-        "ip": "8.0",
-        "w": "1",
+        "ip": "9.0",
+        "w": "2",
         "l": "0",
         "sv": "3",
-        "era": "2.25",
-        "whip": "0.88",
+        "era": "3.00",
+        "whip": "1.11",
         "k9": "9.00",
         "qs": "0"
       }
@@ -650,11 +650,11 @@
     {
       "id": 11763,
       "name": "Tarik Skubal",
-      "team": "Detroit Tigers",
+      "team": "Los Angeles Dodgers",
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -666,28 +666,28 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "310",
+        "rank": "546",
         "type": "pitching",
-        "ip": "6.2",
+        "ip": "6.0",
         "w": "0",
-        "l": "0",
+        "l": "1",
         "sv": "0",
-        "era": "4.05",
-        "whip": "0.75",
-        "k9": "8.10",
+        "era": "3.00",
+        "whip": "1.00",
+        "k9": "9.00",
         "qs": "1"
       },
       "lastMonthStats": {
-        "rank": "30",
+        "rank": "47",
         "type": "pitching",
-        "ip": "31.0",
+        "ip": "37.0",
         "w": "3",
-        "l": "1",
+        "l": "2",
         "sv": "0",
-        "era": "2.03",
-        "whip": "0.90",
-        "k9": "11.90",
-        "qs": "3"
+        "era": "2.19",
+        "whip": "0.92",
+        "k9": "11.43",
+        "qs": "4"
       }
     },
     {
@@ -697,7 +697,7 @@
       "pos": "SP,RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -709,27 +709,27 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "395",
+        "rank": "36",
         "type": "pitching",
-        "ip": "5.0",
-        "w": "0",
+        "ip": "6.0",
+        "w": "1",
         "l": "0",
         "sv": "0",
-        "era": "1.80",
-        "whip": "1.40",
-        "k9": "7.20",
-        "qs": "0"
+        "era": "1.50",
+        "whip": "0.67",
+        "k9": "13.50",
+        "qs": "1"
       },
       "lastMonthStats": {
-        "rank": "203",
+        "rank": "98",
         "type": "pitching",
         "ip": "21.0",
         "w": "3",
         "l": "0",
         "sv": "0",
-        "era": "2.57",
-        "whip": "1.29",
-        "k9": "6.86",
+        "era": "2.14",
+        "whip": "1.19",
+        "k9": "9.00",
         "qs": "1"
       }
     },
@@ -740,7 +740,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -752,28 +752,28 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "106",
+        "rank": "24",
         "type": "pitching",
-        "ip": "12.2",
+        "ip": "13.0",
         "w": "1",
         "l": "0",
         "sv": "0",
-        "era": "0.71",
-        "whip": "1.03",
-        "k9": "7.82",
-        "qs": "1"
+        "era": "0.00",
+        "whip": "0.85",
+        "k9": "6.92",
+        "qs": "2"
       },
       "lastMonthStats": {
-        "rank": "593",
+        "rank": "122",
         "type": "pitching",
-        "ip": "26.2",
-        "w": "1",
-        "l": "1",
+        "ip": "28.2",
+        "w": "2",
+        "l": "0",
         "sv": "0",
-        "era": "3.71",
-        "whip": "1.35",
-        "k9": "9.45",
-        "qs": "1"
+        "era": "2.20",
+        "whip": "1.15",
+        "k9": "8.79",
+        "qs": "2"
       }
     },
     {
@@ -783,39 +783,39 @@
       "pos": "SP,RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
-        "ip": "0.0",
-        "w": "0",
-        "l": "0",
-        "sv": "0",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
         "era": "-",
         "whip": "-",
         "k9": "-",
-        "qs": "0"
+        "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "562",
+        "rank": "123",
         "type": "pitching",
-        "ip": "6.0",
+        "ip": "5.0",
         "w": "1",
         "l": "0",
         "sv": "0",
-        "era": "6.00",
-        "whip": "1.50",
-        "k9": "7.50",
+        "era": "1.80",
+        "whip": "0.60",
+        "k9": "9.00",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "887",
+        "rank": "838",
         "type": "pitching",
-        "ip": "19.2",
+        "ip": "19.0",
         "w": "2",
         "l": "1",
         "sv": "0",
-        "era": "7.78",
-        "whip": "1.73",
-        "k9": "9.15",
+        "era": "8.05",
+        "whip": "1.53",
+        "k9": "8.53",
         "qs": "0"
       }
     },
@@ -826,7 +826,7 @@
       "pos": "RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -838,19 +838,19 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "64",
+        "rank": "15",
         "type": "pitching",
-        "ip": "4.0",
+        "ip": "3.0",
         "w": "0",
         "l": "0",
-        "sv": "4",
+        "sv": "3",
         "era": "0.00",
-        "whip": "1.25",
-        "k9": "6.75",
+        "whip": "0.67",
+        "k9": "15.00",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "29",
+        "rank": "30",
         "type": "pitching",
         "ip": "10.0",
         "w": "0",
@@ -858,7 +858,7 @@
         "sv": "9",
         "era": "0.00",
         "whip": "0.90",
-        "k9": "9.00",
+        "k9": "9.90",
         "qs": "0"
       }
     },
@@ -869,7 +869,7 @@
       "pos": "RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -881,27 +881,70 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "285",
+        "rank": "375",
         "type": "pitching",
-        "ip": "2.0",
+        "ip": "1.2",
         "w": "0",
         "l": "0",
-        "sv": "1",
-        "era": "4.50",
-        "whip": "1.50",
-        "k9": "9.00",
+        "sv": "0",
+        "era": "5.40",
+        "whip": "2.40",
+        "k9": "16.20",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "258",
+        "rank": "354",
         "type": "pitching",
-        "ip": "2.0",
+        "ip": "2.2",
         "w": "0",
         "l": "0",
         "sv": "1",
-        "era": "4.50",
+        "era": "6.75",
+        "whip": "2.25",
+        "k9": "10.13",
+        "qs": "0"
+      }
+    },
+    {
+      "id": 61375,
+      "name": "Ryan Zeferjahn",
+      "team": "Chicago Cubs",
+      "pos": "RP",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "pitching",
+        "ip": "0.2",
+        "w": "0",
+        "l": "0",
+        "sv": "0",
+        "era": "13.50",
         "whip": "1.50",
-        "k9": "9.00",
+        "k9": "27.00",
+        "qs": "0"
+      },
+      "lastWeekStats": {
+        "rank": "125",
+        "type": "pitching",
+        "ip": "3.1",
+        "w": "0",
+        "l": "0",
+        "sv": "1",
+        "era": "2.70",
+        "whip": "0.90",
+        "k9": "16.20",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "104",
+        "type": "pitching",
+        "ip": "12.2",
+        "w": "0",
+        "l": "0",
+        "sv": "2",
+        "era": "2.84",
+        "whip": "0.87",
+        "k9": "14.92",
         "qs": "0"
       }
     },
@@ -912,7 +955,7 @@
       "pos": "RP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -924,27 +967,27 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "696",
+        "rank": "322",
         "type": "pitching",
-        "ip": "1.2",
+        "ip": "2.0",
         "w": "0",
-        "l": "1",
-        "sv": "1",
-        "era": "10.80",
-        "whip": "2.40",
-        "k9": "16.20",
+        "l": "0",
+        "sv": "0",
+        "era": "4.50",
+        "whip": "1.50",
+        "k9": "13.50",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "743",
+        "rank": "794",
         "type": "pitching",
-        "ip": "6.1",
+        "ip": "7.1",
         "w": "1",
         "l": "2",
-        "sv": "3",
-        "era": "14.21",
-        "whip": "1.89",
-        "k9": "9.95",
+        "sv": "2",
+        "era": "13.50",
+        "whip": "2.05",
+        "k9": "12.27",
         "qs": "0"
       }
     },
@@ -955,7 +998,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -967,114 +1010,28 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "802",
+        "rank": "814",
         "type": "pitching",
-        "ip": "6.0",
+        "ip": "5.1",
         "w": "0",
         "l": "1",
         "sv": "0",
-        "era": "6.00",
-        "whip": "1.33",
-        "k9": "6.00",
+        "era": "6.75",
+        "whip": "1.69",
+        "k9": "5.06",
         "qs": "0"
       },
       "lastMonthStats": {
-        "rank": "755",
+        "rank": "1,013",
         "type": "pitching",
-        "ip": "23.0",
-        "w": "1",
-        "l": "2",
-        "sv": "0",
-        "era": "5.48",
-        "whip": "1.30",
-        "k9": "8.61",
-        "qs": "2"
-      }
-    },
-    {
-      "id": 61375,
-      "name": "Ryan Zeferjahn",
-      "team": "Los Angeles Angels",
-      "pos": "RP",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "292",
-        "type": "pitching",
-        "ip": "2.0",
+        "ip": "21.1",
         "w": "0",
-        "l": "0",
+        "l": "3",
         "sv": "0",
-        "era": "4.50",
-        "whip": "1.50",
-        "k9": "18.00",
-        "qs": "0"
-      },
-      "lastMonthStats": {
-        "rank": "124",
-        "type": "pitching",
-        "ip": "10.2",
-        "w": "0",
-        "l": "0",
-        "sv": "1",
-        "era": "2.53",
-        "whip": "0.84",
-        "k9": "14.34",
-        "qs": "0"
-      }
-    },
-    {
-      "id": 60238,
-      "name": "Emmet Sheehan",
-      "team": "Los Angeles Dodgers",
-      "pos": "SP",
-      "ilStatus": null,
-      "yesterdayStats": {
-        "date": "2026-08-01",
-        "type": "pitching",
-        "ip": "-",
-        "w": "-",
-        "l": "-",
-        "sv": "-",
-        "era": "-",
-        "whip": "-",
-        "k9": "-",
-        "qs": "-"
-      },
-      "lastWeekStats": {
-        "rank": "302",
-        "type": "pitching",
-        "ip": "5.0",
-        "w": "0",
-        "l": "0",
-        "sv": "0",
-        "era": "1.80",
-        "whip": "1.00",
-        "k9": "9.00",
-        "qs": "0"
-      },
-      "lastMonthStats": {
-        "rank": "723",
-        "type": "pitching",
-        "ip": "20.0",
-        "w": "0",
-        "l": "2",
-        "sv": "0",
-        "era": "4.50",
-        "whip": "1.20",
-        "k9": "10.35",
-        "qs": "0"
+        "era": "7.59",
+        "whip": "1.64",
+        "k9": "6.75",
+        "qs": "1"
       }
     },
     {
@@ -1084,7 +1041,7 @@
       "pos": "SP",
       "ilStatus": null,
       "yesterdayStats": {
-        "date": "2026-08-01",
+        "date": "2026-08-05",
         "type": "pitching",
         "ip": "-",
         "w": "-",
@@ -1096,27 +1053,70 @@
         "qs": "-"
       },
       "lastWeekStats": {
-        "rank": "434",
+        "rank": "150",
         "type": "pitching",
-        "ip": "7.0",
+        "ip": "6.0",
         "w": "0",
-        "l": "1",
+        "l": "0",
         "sv": "0",
-        "era": "3.86",
-        "whip": "0.43",
-        "k9": "11.57",
+        "era": "0.00",
+        "whip": "1.00",
+        "k9": "6.00",
         "qs": "1"
       },
       "lastMonthStats": {
-        "rank": "805",
+        "rank": "735",
         "type": "pitching",
-        "ip": "26.2",
+        "ip": "32.2",
         "w": "1",
         "l": "2",
         "sv": "0",
-        "era": "6.41",
-        "whip": "1.20",
-        "k9": "10.80",
+        "era": "5.23",
+        "whip": "1.16",
+        "k9": "9.92",
+        "qs": "2"
+      }
+    },
+    {
+      "id": 60292,
+      "name": "Christian Scott",
+      "team": "New York Mets",
+      "pos": "SP",
+      "ilStatus": null,
+      "yesterdayStats": {
+        "date": "2026-08-05",
+        "type": "pitching",
+        "ip": "-",
+        "w": "-",
+        "l": "-",
+        "sv": "-",
+        "era": "-",
+        "whip": "-",
+        "k9": "-",
+        "qs": "-"
+      },
+      "lastWeekStats": {
+        "rank": "495",
+        "type": "pitching",
+        "ip": "5.0",
+        "w": "0",
+        "l": "0",
+        "sv": "0",
+        "era": "5.40",
+        "whip": "1.60",
+        "k9": "12.60",
+        "qs": "0"
+      },
+      "lastMonthStats": {
+        "rank": "396",
+        "type": "pitching",
+        "ip": "25.1",
+        "w": "1",
+        "l": "2",
+        "sv": "0",
+        "era": "2.49",
+        "whip": "1.11",
+        "k9": "11.37",
         "qs": "1"
       }
     }
@@ -1182,34 +1182,34 @@
           "pos": "C",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "2/3",
+            "r": "1",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "0",
+            "obp": ".750"
           },
           "lastWeekStats": {
-            "rank": "398",
+            "rank": "7",
             "type": "batting",
-            "hab": "6/26",
-            "r": "2",
-            "hr": "1",
-            "rbi": "6",
+            "hab": "9/24",
+            "r": "6",
+            "hr": "3",
+            "rbi": "7",
             "sb": "0",
-            "obp": ".259"
+            "obp": ".423"
           },
           "lastMonthStats": {
-            "rank": "266",
+            "rank": "40",
             "type": "batting",
-            "hab": "22/79",
-            "r": "10",
-            "hr": "4",
-            "rbi": "13",
+            "hab": "26/84",
+            "r": "14",
+            "hr": "6",
+            "rbi": "15",
             "sb": "0",
-            "obp": ".352"
+            "obp": ".383"
           },
           "sharedWithTeam1": true
         },
@@ -1220,34 +1220,34 @@
           "pos": "1B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
+            "hab": "1/3",
             "r": "0",
             "hr": "0",
             "rbi": "0",
             "sb": "0",
-            "obp": "-"
+            "obp": ".333"
           },
           "lastWeekStats": {
-            "rank": "404",
+            "rank": "440",
             "type": "batting",
-            "hab": "12/25",
-            "r": "0",
+            "hab": "11/25",
+            "r": "1",
             "hr": "0",
-            "rbi": "3",
+            "rbi": "1",
             "sb": "0",
-            "obp": ".480"
+            "obp": ".462"
           },
           "lastMonthStats": {
-            "rank": "383",
+            "rank": "474",
             "type": "batting",
-            "hab": "31/90",
+            "hab": "33/87",
             "r": "6",
-            "hr": "1",
-            "rbi": "7",
+            "hr": "0",
+            "rbi": "5",
             "sb": "2",
-            "obp": ".375"
+            "obp": ".402"
           }
         },
         {
@@ -1257,34 +1257,34 @@
           "pos": "2B,SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "1/3",
-            "r": "1",
+            "hab": "0/4",
+            "r": "0",
             "hr": "0",
-            "rbi": "1",
+            "rbi": "0",
             "sb": "0",
-            "obp": ".250"
+            "obp": ".000"
           },
           "lastWeekStats": {
-            "rank": "132",
+            "rank": "434",
             "type": "batting",
-            "hab": "6/28",
-            "r": "3",
+            "hab": "4/24",
+            "r": "4",
             "hr": "0",
-            "rbi": "4",
-            "sb": "3",
-            "obp": ".233"
+            "rbi": "1",
+            "sb": "1",
+            "obp": ".160"
           },
           "lastMonthStats": {
-            "rank": "53",
+            "rank": "260",
             "type": "batting",
-            "hab": "26/91",
-            "r": "12",
-            "hr": "2",
-            "rbi": "13",
+            "hab": "19/88",
+            "r": "10",
+            "hr": "0",
+            "rbi": "8",
             "sb": "6",
-            "obp": ".327"
+            "obp": ".258"
           }
         },
         {
@@ -1294,34 +1294,34 @@
           "pos": "2B,3B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
+            "hab": "1/4",
             "r": "0",
             "hr": "0",
-            "rbi": "0",
+            "rbi": "1",
             "sb": "0",
-            "obp": "-"
+            "obp": ".250"
           },
           "lastWeekStats": {
-            "rank": "121",
+            "rank": "12",
             "type": "batting",
-            "hab": "9/23",
-            "r": "5",
-            "hr": "0",
-            "rbi": "0",
+            "hab": "6/20",
+            "r": "6",
+            "hr": "1",
+            "rbi": "6",
             "sb": "1",
-            "obp": ".481"
+            "obp": ".440"
           },
           "lastMonthStats": {
-            "rank": "45",
+            "rank": "18",
             "type": "batting",
-            "hab": "25/85",
+            "hab": "28/88",
             "r": "18",
             "hr": "3",
-            "rbi": "8",
-            "sb": "3",
-            "obp": ".388"
+            "rbi": "13",
+            "sb": "4",
+            "obp": ".412"
           }
         },
         {
@@ -1331,71 +1331,71 @@
           "pos": "SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
+            "hab": "1/4",
+            "r": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".250"
+          },
+          "lastWeekStats": {
+            "rank": "78",
+            "type": "batting",
+            "hab": "6/24",
+            "r": "5",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "2",
+            "obp": ".308"
+          },
+          "lastMonthStats": {
+            "rank": "141",
+            "type": "batting",
+            "hab": "23/88",
+            "r": "16",
+            "hr": "1",
+            "rbi": "6",
+            "sb": "6",
+            "obp": ".301"
+          }
+        },
+        {
+          "id": 10916,
+          "name": "Royce Lewis",
+          "team": "Minnesota Twins",
+          "pos": "1B,2B,3B",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-08-05",
+            "type": "batting",
+            "hab": "1/3",
             "r": "0",
             "hr": "0",
             "rbi": "0",
             "sb": "0",
-            "obp": "-"
+            "obp": ".333"
           },
           "lastWeekStats": {
-            "rank": "198",
+            "rank": "89",
             "type": "batting",
-            "hab": "5/22",
-            "r": "5",
-            "hr": "0",
-            "rbi": "2",
-            "sb": "1",
-            "obp": ".292"
-          },
-          "lastMonthStats": {
-            "rank": "363",
-            "type": "batting",
-            "hab": "18/79",
-            "r": "13",
-            "hr": "0",
-            "rbi": "4",
-            "sb": "5",
-            "obp": ".265"
-          }
-        },
-        {
-          "id": 64313,
-          "name": "Nick Kurtz",
-          "team": "Athletics",
-          "pos": "1B",
-          "ilStatus": null,
-          "yesterdayStats": {
-            "date": "2026-08-01",
-            "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
-          },
-          "lastWeekStats": {
-            "rank": "709",
-            "type": "batting",
-            "hab": "1/18",
-            "r": "1",
-            "hr": "1",
-            "rbi": "3",
-            "sb": "0",
-            "obp": ".227"
-          },
-          "lastMonthStats": {
-            "rank": "954",
-            "type": "batting",
-            "hab": "3/40",
-            "r": "2",
+            "hab": "10/23",
+            "r": "3",
             "hr": "2",
-            "rbi": "5",
+            "rbi": "4",
             "sb": "0",
-            "obp": ".178"
+            "obp": ".435"
+          },
+          "lastMonthStats": {
+            "rank": "44",
+            "type": "batting",
+            "hab": "22/81",
+            "r": "14",
+            "hr": "4",
+            "rbi": "12",
+            "sb": "4",
+            "obp": ".348"
           },
           "sharedWithTeam1": true
         },
@@ -1406,34 +1406,34 @@
           "pos": "SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
-            "r": "0",
+            "hab": "0/5",
+            "r": "1",
             "hr": "0",
             "rbi": "0",
             "sb": "0",
-            "obp": "-"
+            "obp": ".000"
           },
           "lastWeekStats": {
-            "rank": "6",
+            "rank": "44",
             "type": "batting",
-            "hab": "11/28",
-            "r": "8",
-            "hr": "3",
+            "hab": "8/26",
+            "r": "4",
+            "hr": "1",
             "rbi": "6",
             "sb": "0",
-            "obp": ".414"
+            "obp": ".419"
           },
           "lastMonthStats": {
-            "rank": "35",
+            "rank": "15",
             "type": "batting",
-            "hab": "24/63",
-            "r": "17",
-            "hr": "6",
-            "rbi": "13",
+            "hab": "29/84",
+            "r": "20",
+            "hr": "7",
+            "rbi": "16",
             "sb": "0",
-            "obp": ".412"
+            "obp": ".398"
           }
         },
         {
@@ -1443,34 +1443,34 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
-            "r": "0",
-            "hr": "0",
-            "rbi": "0",
+            "hab": "3/5",
+            "r": "2",
+            "hr": "2",
+            "rbi": "4",
             "sb": "0",
-            "obp": "-"
+            "obp": ".600"
           },
           "lastWeekStats": {
-            "rank": "38",
+            "rank": "3",
             "type": "batting",
-            "hab": "8/31",
-            "r": "4",
+            "hab": "9/26",
+            "r": "7",
             "hr": "2",
-            "rbi": "7",
-            "sb": "1",
-            "obp": ".294"
+            "rbi": "6",
+            "sb": "2",
+            "obp": ".452"
           },
           "lastMonthStats": {
-            "rank": "8",
+            "rank": "2",
             "type": "batting",
-            "hab": "23/86",
-            "r": "15",
-            "hr": "5",
-            "rbi": "14",
+            "hab": "26/95",
+            "r": "21",
+            "hr": "7",
+            "rbi": "20",
             "sb": "5",
-            "obp": ".396"
+            "obp": ".397"
           }
         },
         {
@@ -1480,34 +1480,34 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
-            "r": "0",
+            "hab": "0/3",
+            "r": "1",
             "hr": "0",
             "rbi": "0",
             "sb": "0",
-            "obp": "-"
+            "obp": ".250"
           },
           "lastWeekStats": {
-            "rank": "71",
+            "rank": "37",
             "type": "batting",
-            "hab": "10/24",
+            "hab": "8/27",
             "r": "5",
             "hr": "1",
-            "rbi": "3",
+            "rbi": "6",
             "sb": "1",
-            "obp": ".417"
+            "obp": ".345"
           },
           "lastMonthStats": {
-            "rank": "17",
+            "rank": "8",
             "type": "batting",
-            "hab": "30/98",
-            "r": "17",
-            "hr": "7",
-            "rbi": "17",
-            "sb": "3",
-            "obp": ".330"
+            "hab": "31/98",
+            "r": "18",
+            "hr": "6",
+            "rbi": "20",
+            "sb": "4",
+            "obp": ".352"
           }
         },
         {
@@ -1517,34 +1517,34 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "-/-",
-            "r": "-",
-            "hr": "-",
-            "rbi": "-",
-            "sb": "-",
-            "obp": "-"
+            "hab": "0/3",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".250"
           },
           "lastWeekStats": {
-            "rank": "154",
+            "rank": "186",
             "type": "batting",
-            "hab": "4/22",
-            "r": "5",
-            "hr": "0",
-            "rbi": "2",
+            "hab": "3/16",
+            "r": "3",
+            "hr": "1",
+            "rbi": "1",
             "sb": "1",
-            "obp": ".333"
+            "obp": ".316"
           },
           "lastMonthStats": {
-            "rank": "50",
+            "rank": "105",
             "type": "batting",
-            "hab": "20/82",
-            "r": "14",
-            "hr": "4",
-            "rbi": "15",
+            "hab": "17/81",
+            "r": "15",
+            "hr": "3",
+            "rbi": "10",
             "sb": "1",
-            "obp": ".340"
+            "obp": ".320"
           }
         },
         {
@@ -1554,71 +1554,71 @@
           "pos": "2B,OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
-            "r": "0",
-            "hr": "0",
-            "rbi": "0",
+            "hab": "2/5",
+            "r": "1",
+            "hr": "1",
+            "rbi": "1",
             "sb": "0",
-            "obp": "-"
+            "obp": ".400"
           },
           "lastWeekStats": {
-            "rank": "780",
+            "rank": "71",
             "type": "batting",
-            "hab": "4/26",
-            "r": "1",
-            "hr": "0",
-            "rbi": "0",
+            "hab": "9/24",
+            "r": "5",
+            "hr": "1",
+            "rbi": "4",
             "sb": "0",
-            "obp": ".154"
+            "obp": ".423"
           },
           "lastMonthStats": {
-            "rank": "369",
+            "rank": "314",
             "type": "batting",
-            "hab": "20/88",
-            "r": "11",
+            "hab": "25/93",
+            "r": "12",
             "hr": "4",
-            "rbi": "8",
-            "sb": "1",
-            "obp": ".253"
+            "rbi": "9",
+            "sb": "0",
+            "obp": ".284"
           }
         },
         {
           "id": 10496,
           "name": "Taylor Ward",
-          "team": "Baltimore Orioles",
+          "team": "Seattle Mariners",
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
+            "hab": "1/3",
             "r": "0",
             "hr": "0",
             "rbi": "0",
             "sb": "0",
-            "obp": "-"
+            "obp": ".333"
           },
           "lastWeekStats": {
-            "rank": "345",
+            "rank": "651",
             "type": "batting",
-            "hab": "4/21",
-            "r": "1",
+            "hab": "2/13",
+            "r": "0",
             "hr": "0",
-            "rbi": "3",
+            "rbi": "0",
             "sb": "0",
-            "obp": ".370"
+            "obp": ".313"
           },
           "lastMonthStats": {
-            "rank": "116",
+            "rank": "169",
             "type": "batting",
-            "hab": "18/77",
-            "r": "11",
+            "hab": "16/76",
+            "r": "10",
             "hr": "2",
             "rbi": "7",
-            "sb": "2",
-            "obp": ".410"
+            "sb": "1",
+            "obp": ".394"
           }
         },
         {
@@ -1628,34 +1628,34 @@
           "pos": "2B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "2/4",
-            "r": "1",
+            "hab": "0/4",
+            "r": "0",
             "hr": "0",
             "rbi": "0",
             "sb": "0",
-            "obp": ".500"
+            "obp": ".000"
           },
           "lastWeekStats": {
-            "rank": "174",
+            "rank": "155",
             "type": "batting",
-            "hab": "9/28",
+            "hab": "9/25",
             "r": "4",
             "hr": "1",
             "rbi": "2",
             "sb": "0",
-            "obp": ".387"
+            "obp": ".407"
           },
           "lastMonthStats": {
-            "rank": "181",
+            "rank": "104",
             "type": "batting",
-            "hab": "23/89",
+            "hab": "27/92",
             "r": "13",
             "hr": "5",
-            "rbi": "9",
+            "rbi": "10",
             "sb": "1",
-            "obp": ".305"
+            "obp": ".350"
           }
         },
         {
@@ -1665,7 +1665,7 @@
           "pos": "OF",
           "ilStatus": "IL10",
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1675,63 +1675,25 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "561",
+            "rank": "1,267",
             "type": "batting",
-            "hab": "2/4",
-            "r": "0",
-            "hr": "0",
-            "rbi": "1",
-            "sb": "0",
-            "obp": ".500"
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "675",
+            "rank": "653",
             "type": "batting",
-            "hab": "19/67",
+            "hab": "17/51",
             "r": "6",
             "hr": "0",
-            "rbi": "4",
+            "rbi": "3",
             "sb": "0",
-            "obp": ".342"
+            "obp": ".393"
           }
-        },
-        {
-          "id": 10916,
-          "name": "Royce Lewis",
-          "team": "Minnesota Twins",
-          "pos": "1B,2B,3B",
-          "ilStatus": null,
-          "yesterdayStats": {
-            "date": "2026-08-01",
-            "type": "batting",
-            "hab": "1/3",
-            "r": "0",
-            "hr": "0",
-            "rbi": "0",
-            "sb": "0",
-            "obp": ".333"
-          },
-          "lastWeekStats": {
-            "rank": "168",
-            "type": "batting",
-            "hab": "6/22",
-            "r": "4",
-            "hr": "1",
-            "rbi": "4",
-            "sb": "1",
-            "obp": ".304"
-          },
-          "lastMonthStats": {
-            "rank": "120",
-            "type": "batting",
-            "hab": "18/79",
-            "r": "14",
-            "hr": "3",
-            "rbi": "11",
-            "sb": "4",
-            "obp": ".319"
-          },
-          "sharedWithTeam1": true
         },
         {
           "id": 64311,
@@ -1740,34 +1702,34 @@
           "pos": "2B",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
-            "hab": "0/0",
+            "hab": "1/5",
             "r": "0",
-            "hr": "0",
-            "rbi": "0",
-            "sb": "0",
-            "obp": "-"
-          },
-          "lastWeekStats": {
-            "rank": "498",
-            "type": "batting",
-            "hab": "6/22",
-            "r": "2",
             "hr": "0",
             "rbi": "1",
             "sb": "0",
-            "obp": ".333"
+            "obp": ".200"
+          },
+          "lastWeekStats": {
+            "rank": "406",
+            "type": "batting",
+            "hab": "5/20",
+            "r": "1",
+            "hr": "0",
+            "rbi": "2",
+            "sb": "1",
+            "obp": ".318"
           },
           "lastMonthStats": {
-            "rank": "179",
+            "rank": "151",
             "type": "batting",
-            "hab": "21/91",
-            "r": "10",
+            "hab": "21/90",
+            "r": "9",
             "hr": "2",
             "rbi": "9",
-            "sb": "3",
-            "obp": ".336"
+            "sb": "4",
+            "obp": ".340"
           }
         },
         {
@@ -1777,7 +1739,7 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "0/0",
             "r": "0",
@@ -1787,24 +1749,24 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "408",
+            "rank": "199",
             "type": "batting",
-            "hab": "3/20",
+            "hab": "9/21",
             "r": "4",
             "hr": "0",
             "rbi": "2",
             "sb": "0",
-            "obp": ".227"
+            "obp": ".455"
           },
           "lastMonthStats": {
-            "rank": "573",
+            "rank": "491",
             "type": "batting",
-            "hab": "9/66",
+            "hab": "12/68",
             "r": "8",
             "hr": "2",
-            "rbi": "6",
+            "rbi": "8",
             "sb": "1",
-            "obp": ".216"
+            "obp": ".250"
           }
         },
         {
@@ -1814,44 +1776,44 @@
           "pos": "3B,SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "1/3",
-            "r": "0",
-            "hr": "0",
-            "rbi": "0",
+            "r": "1",
+            "hr": "1",
+            "rbi": "1",
             "sb": "0",
             "obp": ".333"
           },
           "lastWeekStats": {
-            "rank": "746",
+            "rank": "453",
             "type": "batting",
-            "hab": "3/21",
+            "hab": "4/21",
             "r": "2",
-            "hr": "0",
-            "rbi": "0",
+            "hr": "1",
+            "rbi": "2",
             "sb": "0",
-            "obp": ".143"
+            "obp": ".227"
           },
           "lastMonthStats": {
-            "rank": "834",
+            "rank": "724",
             "type": "batting",
-            "hab": "10/69",
+            "hab": "12/69",
             "r": "7",
-            "hr": "0",
-            "rbi": "2",
+            "hr": "1",
+            "rbi": "4",
             "sb": "1",
-            "obp": ".176"
+            "obp": ".213"
           }
         },
         {
-          "id": 12375,
-          "name": "Marcelo Mayer",
-          "team": "Boston Red Sox",
+          "id": 60143,
+          "name": "Angel Genao",
+          "team": "Cleveland Guardians",
           "pos": "2B,3B,SS",
-          "ilStatus": "IL10",
+          "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1861,7 +1823,82 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "849",
+            "rank": "403",
+            "type": "batting",
+            "hab": "4/5",
+            "r": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".800"
+          },
+          "lastMonthStats": {
+            "rank": "837",
+            "type": "batting",
+            "hab": "4/5",
+            "r": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "obp": ".800"
+          }
+        },
+        {
+          "id": 64313,
+          "name": "Nick Kurtz",
+          "team": "Athletics",
+          "pos": "1B",
+          "ilStatus": "IL10",
+          "yesterdayStats": {
+            "date": "2026-08-05",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "648",
+            "type": "batting",
+            "hab": "0/6",
+            "r": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "obp": ".250"
+          },
+          "lastMonthStats": {
+            "rank": "880",
+            "type": "batting",
+            "hab": "1/28",
+            "r": "1",
+            "hr": "1",
+            "rbi": "3",
+            "sb": "0",
+            "obp": ".156"
+          },
+          "sharedWithTeam1": true
+        },
+        {
+          "id": 12375,
+          "name": "Marcelo Mayer",
+          "team": "San Francisco Giants",
+          "pos": "2B,3B,SS",
+          "ilStatus": "IL10",
+          "yesterdayStats": {
+            "date": "2026-08-05",
+            "type": "batting",
+            "hab": "-/-",
+            "r": "-",
+            "hr": "-",
+            "rbi": "-",
+            "sb": "-",
+            "obp": "-"
+          },
+          "lastWeekStats": {
+            "rank": "856",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1871,7 +1908,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1003",
+            "rank": "1,031",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1888,7 +1925,7 @@
           "pos": "3B,OF",
           "ilStatus": "IL10",
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1898,7 +1935,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1145",
+            "rank": "1,155",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1908,7 +1945,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1279",
+            "rank": "1,304",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1925,7 +1962,7 @@
           "pos": "SS",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1935,7 +1972,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1211",
+            "rank": "1,220",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1945,7 +1982,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1343",
+            "rank": "1,366",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1962,7 +1999,7 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1972,7 +2009,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1554",
+            "rank": "1,555",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1982,7 +2019,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1665",
+            "rank": "1,679",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -1999,7 +2036,7 @@
           "pos": "OF",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2009,7 +2046,7 @@
             "obp": "-"
           },
           "lastWeekStats": {
-            "rank": "1140",
+            "rank": "1,150",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2019,7 +2056,7 @@
             "obp": "-"
           },
           "lastMonthStats": {
-            "rank": "1275",
+            "rank": "1,300",
             "type": "batting",
             "hab": "-/-",
             "r": "-",
@@ -2027,43 +2064,6 @@
             "rbi": "-",
             "sb": "-",
             "obp": "-"
-          }
-        },
-        {
-          "id": 11014,
-          "name": "Freddy Peralta",
-          "team": "New York Mets",
-          "pos": "SP",
-          "ilStatus": null,
-          "yesterdayStats": {
-            "date": "2026-08-01",
-            "type": "pitching",
-            "ip": "-",
-            "w": "-",
-            "sv": "-",
-            "k": "-",
-            "era": "-",
-            "whip": "-"
-          },
-          "lastWeekStats": {
-            "rank": "741",
-            "type": "pitching",
-            "ip": "4.0",
-            "w": "0",
-            "sv": "0",
-            "k": "3",
-            "era": "4.50",
-            "whip": "2.00"
-          },
-          "lastMonthStats": {
-            "rank": "946",
-            "type": "pitching",
-            "ip": "18.1",
-            "w": "0",
-            "sv": "0",
-            "k": "21",
-            "era": "5.89",
-            "whip": "1.80"
           }
         },
         {
@@ -2073,34 +2073,71 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
-            "ip": "0.0",
-            "w": "0",
-            "sv": "0",
-            "k": "0",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
             "era": "-",
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "480",
+            "rank": "834",
             "type": "pitching",
-            "ip": "5.0",
+            "ip": "3.1",
             "w": "0",
             "sv": "0",
-            "k": "4",
-            "era": "1.80",
-            "whip": "1.40"
+            "k": "3",
+            "era": "13.50",
+            "whip": "3.60"
           },
           "lastMonthStats": {
-            "rank": "756",
+            "rank": "1,002",
             "type": "pitching",
-            "ip": "14.2",
+            "ip": "18.0",
             "w": "0",
             "sv": "0",
-            "k": "17",
-            "era": "4.91",
-            "whip": "1.57"
+            "k": "20",
+            "era": "6.50",
+            "whip": "1.94"
+          }
+        },
+        {
+          "id": 10627,
+          "name": "Jesús Luzardo",
+          "team": "Philadelphia Phillies",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-08-05",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "60",
+            "type": "pitching",
+            "ip": "8.0",
+            "w": "1",
+            "sv": "0",
+            "k": "7",
+            "era": "0.00",
+            "whip": "0.75"
+          },
+          "lastMonthStats": {
+            "rank": "30",
+            "type": "pitching",
+            "ip": "33.1",
+            "w": "3",
+            "sv": "0",
+            "k": "39",
+            "era": "2.16",
+            "whip": "0.84"
           }
         },
         {
@@ -2110,7 +2147,7 @@
           "pos": "SP,RP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2120,62 +2157,62 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "328",
+            "rank": "427",
             "type": "pitching",
-            "ip": "2.0",
-            "w": "0",
-            "sv": "1",
-            "k": "2",
-            "era": "4.50",
-            "whip": "1.00"
+            "ip": "1.0",
+            "w": "1",
+            "sv": "0",
+            "k": "1",
+            "era": "9.00",
+            "whip": "3.00"
           },
           "lastMonthStats": {
-            "rank": "169",
+            "rank": "161",
             "type": "pitching",
-            "ip": "8.0",
-            "w": "1",
+            "ip": "9.0",
+            "w": "2",
             "sv": "3",
-            "k": "8",
-            "era": "2.25",
-            "whip": "0.88"
+            "k": "9",
+            "era": "3.00",
+            "whip": "1.11"
           },
           "sharedWithTeam1": true
         },
         {
           "id": 61375,
           "name": "Ryan Zeferjahn",
-          "team": "Los Angeles Angels",
+          "team": "Chicago Cubs",
           "pos": "RP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
-            "ip": "-",
-            "w": "-",
-            "sv": "-",
-            "k": "-",
-            "era": "-",
-            "whip": "-"
-          },
-          "lastWeekStats": {
-            "rank": "442",
-            "type": "pitching",
-            "ip": "2.0",
+            "ip": "0.2",
             "w": "0",
             "sv": "0",
-            "k": "4",
-            "era": "4.50",
+            "k": "2",
+            "era": "13.50",
             "whip": "1.50"
           },
-          "lastMonthStats": {
-            "rank": "234",
+          "lastWeekStats": {
+            "rank": "178",
             "type": "pitching",
-            "ip": "10.2",
+            "ip": "3.1",
             "w": "0",
             "sv": "1",
-            "k": "17",
-            "era": "2.53",
-            "whip": "0.84"
+            "k": "6",
+            "era": "2.70",
+            "whip": "0.90"
+          },
+          "lastMonthStats": {
+            "rank": "195",
+            "type": "pitching",
+            "ip": "12.2",
+            "w": "0",
+            "sv": "2",
+            "k": "21",
+            "era": "2.84",
+            "whip": "0.87"
           },
           "sharedWithTeam1": true
         },
@@ -2186,7 +2223,7 @@
           "pos": "RP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2196,22 +2233,22 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "78",
+            "rank": "30",
             "type": "pitching",
-            "ip": "4.0",
+            "ip": "3.0",
             "w": "0",
-            "sv": "4",
-            "k": "3",
+            "sv": "3",
+            "k": "5",
             "era": "0.00",
-            "whip": "1.25"
+            "whip": "0.67"
           },
           "lastMonthStats": {
-            "rank": "44",
+            "rank": "50",
             "type": "pitching",
             "ip": "10.0",
             "w": "0",
             "sv": "9",
-            "k": "10",
+            "k": "11",
             "era": "0.00",
             "whip": "0.90"
           },
@@ -2224,34 +2261,34 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
-            "ip": "0.0",
-            "w": "0",
-            "sv": "0",
-            "k": "0",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
             "era": "-",
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "457",
+            "rank": "67",
             "type": "pitching",
             "ip": "6.0",
             "w": "1",
             "sv": "0",
-            "k": "6",
-            "era": "4.50",
-            "whip": "1.50"
+            "k": "11",
+            "era": "0.00",
+            "whip": "1.17"
           },
           "lastMonthStats": {
-            "rank": "922",
+            "rank": "137",
             "type": "pitching",
-            "ip": "21.2",
-            "w": "3",
+            "ip": "24.1",
+            "w": "4",
             "sv": "0",
-            "k": "21",
-            "era": "6.65",
-            "whip": "1.85"
+            "k": "31",
+            "era": "2.59",
+            "whip": "1.40"
           }
         },
         {
@@ -2261,7 +2298,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2271,34 +2308,71 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "8",
+            "rank": "260",
             "type": "pitching",
-            "ip": "15.0",
-            "w": "1",
+            "ip": "6.0",
+            "w": "0",
             "sv": "0",
-            "k": "19",
-            "era": "0.60",
-            "whip": "0.67"
+            "k": "7",
+            "era": "1.50",
+            "whip": "1.00"
           },
           "lastMonthStats": {
-            "rank": "4",
+            "rank": "21",
             "type": "pitching",
-            "ip": "36.0",
-            "w": "3",
+            "ip": "29.0",
+            "w": "2",
             "sv": "0",
-            "k": "46",
-            "era": "1.00",
-            "whip": "0.72"
+            "k": "37",
+            "era": "1.24",
+            "whip": "0.76"
+          }
+        },
+        {
+          "id": 11014,
+          "name": "Freddy Peralta",
+          "team": "Tampa Bay Rays",
+          "pos": "SP",
+          "ilStatus": null,
+          "yesterdayStats": {
+            "date": "2026-08-05",
+            "type": "pitching",
+            "ip": "-",
+            "w": "-",
+            "sv": "-",
+            "k": "-",
+            "era": "-",
+            "whip": "-"
+          },
+          "lastWeekStats": {
+            "rank": "837",
+            "type": "pitching",
+            "ip": "3.2",
+            "w": "0",
+            "sv": "0",
+            "k": "3",
+            "era": "17.18",
+            "whip": "2.73"
+          },
+          "lastMonthStats": {
+            "rank": "1,014",
+            "type": "pitching",
+            "ip": "17.1",
+            "w": "0",
+            "sv": "0",
+            "k": "18",
+            "era": "9.35",
+            "whip": "2.08"
           }
         },
         {
           "id": 9691,
           "name": "Robbie Ray",
-          "team": "San Francisco Giants",
+          "team": "San Diego Padres",
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2308,24 +2382,24 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "41",
+            "rank": "127",
             "type": "pitching",
-            "ip": "12.0",
-            "w": "2",
+            "ip": "6.0",
+            "w": "1",
             "sv": "0",
-            "k": "11",
-            "era": "0.75",
-            "whip": "1.08"
+            "k": "6",
+            "era": "1.50",
+            "whip": "0.83"
           },
           "lastMonthStats": {
-            "rank": "257",
+            "rank": "283",
             "type": "pitching",
-            "ip": "27.0",
-            "w": "3",
+            "ip": "21.0",
+            "w": "2",
             "sv": "0",
-            "k": "25",
-            "era": "2.00",
-            "whip": "1.52"
+            "k": "21",
+            "era": "1.29",
+            "whip": "1.57"
           }
         },
         {
@@ -2335,7 +2409,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2345,24 +2419,24 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "103",
+            "rank": "217",
             "type": "pitching",
-            "ip": "6.0",
+            "ip": "5.2",
             "w": "1",
             "sv": "0",
-            "k": "7",
-            "era": "0.00",
-            "whip": "1.00"
+            "k": "5",
+            "era": "1.59",
+            "whip": "1.24"
           },
           "lastMonthStats": {
-            "rank": "97",
+            "rank": "81",
             "type": "pitching",
-            "ip": "30.1",
+            "ip": "31.0",
             "w": "2",
             "sv": "0",
-            "k": "39",
-            "era": "2.97",
-            "whip": "0.92"
+            "k": "37",
+            "era": "2.61",
+            "whip": "0.97"
           }
         },
         {
@@ -2372,7 +2446,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2382,61 +2456,24 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "816",
+            "rank": "588",
             "type": "pitching",
-            "ip": "4.2",
+            "ip": "3.0",
             "w": "0",
             "sv": "0",
-            "k": "4",
-            "era": "9.64",
-            "whip": "2.36"
+            "k": "3",
+            "era": "6.00",
+            "whip": "1.33"
           },
           "lastMonthStats": {
-            "rank": "306",
+            "rank": "401",
             "type": "pitching",
-            "ip": "25.0",
+            "ip": "20.1",
             "w": "2",
             "sv": "0",
-            "k": "18",
-            "era": "3.60",
-            "whip": "1.04"
-          }
-        },
-        {
-          "id": 10627,
-          "name": "Jesús Luzardo",
-          "team": "Philadelphia Phillies",
-          "pos": "SP",
-          "ilStatus": null,
-          "yesterdayStats": {
-            "date": "2026-08-01",
-            "type": "pitching",
-            "ip": "-",
-            "w": "-",
-            "sv": "-",
-            "k": "-",
-            "era": "-",
-            "whip": "-"
-          },
-          "lastWeekStats": {
-            "rank": "800",
-            "type": "pitching",
-            "ip": "6.1",
-            "w": "0",
-            "sv": "0",
-            "k": "5",
-            "era": "8.53",
-            "whip": "1.42"
-          },
-          "lastMonthStats": {
-            "rank": "32",
-            "type": "pitching",
-            "ip": "31.1",
-            "w": "3",
-            "sv": "0",
-            "k": "41",
-            "era": "2.59",
-            "whip": "0.83"
+            "k": "16",
+            "era": "3.98",
+            "whip": "1.18"
           }
         },
         {
@@ -2446,7 +2483,7 @@
           "pos": "SP",
           "ilStatus": null,
           "yesterdayStats": {
-            "date": "2026-08-01",
+            "date": "2026-08-05",
             "type": "pitching",
             "ip": "-",
             "w": "-",
@@ -2456,24 +2493,24 @@
             "whip": "-"
           },
           "lastWeekStats": {
-            "rank": "87",
+            "rank": "33",
             "type": "pitching",
-            "ip": "12.2",
+            "ip": "13.0",
             "w": "1",
             "sv": "0",
-            "k": "11",
-            "era": "0.71",
-            "whip": "1.03"
+            "k": "10",
+            "era": "0.00",
+            "whip": "0.85"
           },
           "lastMonthStats": {
-            "rank": "552",
+            "rank": "159",
             "type": "pitching",
-            "ip": "26.2",
-            "w": "1",
+            "ip": "28.2",
+            "w": "2",
             "sv": "0",
             "k": "28",
-            "era": "3.71",
-            "whip": "1.35"
+            "era": "2.20",
+            "whip": "1.15"
           },
           "sharedWithTeam1": true
         }
