@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-06T21:06:32.688Z",
+  "lastUpdatedNews": "2026-08-06T21:21:15.336Z",
   "players": [
     {
       "id": 11928,
@@ -531,6 +531,18 @@
       ],
       "nbcNews": [
         {
+          "t": "Joe Ryan (glute) expected to land on 15-day IL",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/joe-ryan-glute-expected-to-land-on-15-day-il",
+          "fetchedAt": 1786051275336
+        },
+        {
+          "t": "Shelton: Joe Ryan dealing with lower-body issue",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/shelton-joe-ryan-dealing-with-lower-body-issue",
+          "fetchedAt": 1786051275336
+        },
+        {
           "t": "Joe Ryan scuffles again in loss to Royals",
           "date": "2026-08-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/joe-ryan-scuffles-again-in-loss-to-royals",
@@ -640,7 +652,14 @@
           "fetchedAt": 1786050284490
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft gives up four runs in defeat",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/braxton-ashcraft-gives-up-four-runs-in-defeat",
+          "fetchedAt": 1786051275336
+        }
+      ]
     },
     {
       "id": 60238,
