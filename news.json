@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-06T09:05:41.535Z",
+  "lastUpdatedNews": "2026-08-06T09:20:47.250Z",
   "players": [
     {
       "id": 11928,
@@ -33,7 +33,14 @@
           "fetchedAt": 1785920702928
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler goes 2-for-3, hits 25th homer",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/dillon-dingler-goes-2-for-3-hits-25th-homer",
+          "fetchedAt": 1786008047250
+        }
+      ]
     },
     {
       "id": 10621,
@@ -106,20 +113,7 @@
           "fetchedAt": 1785920705424
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Garcia Jr. homers in first Yankees game",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/garcia-jr-homers-in-first-yankees-game",
-          "fetchedAt": 1785964842714
-        },
-        {
-          "t": "Luis García Jr. hitting third in Yankees debut",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/luis-garcia-jr-hitting-third-in-yankees-debut",
-          "fetchedAt": 1785792065164
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -177,20 +171,7 @@
           "fetchedAt": 1785963883621
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Burleson has first career three HR game",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/burleson-has-first-career-three-hr-game",
-          "fetchedAt": 1785835253735
-        },
-        {
-          "t": "Morosi: Burleson is a popular name on trade market",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/morosi-burleson-is-a-popular-name-on-trade-market",
-          "fetchedAt": 1785835253735
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -345,7 +326,14 @@
           "fetchedAt": 1785920698271
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts goes 4-for-5 in loss to Cubs",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/mookie-betts-goes-4-for-5-in-loss-to-cubs",
+          "fetchedAt": 1786008047250
+        }
+      ]
     },
     {
       "id": 12393,
@@ -412,6 +400,18 @@
       ],
       "nbcNews": [
         {
+          "t": "José Ramírez (wrist) remains out Wednesday",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/ramirez-wrist-day-to-day-but-out-on-wednesday",
+          "fetchedAt": 1786008047250
+        },
+        {
+          "t": "Report: Guardians calling up Angel Genao",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/report-guardians-calling-up-angel-genao",
+          "fetchedAt": 1786008047250
+        },
+        {
           "t": "José Ramírez sits out with wrist inflammation",
           "date": "2026-08-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jose-ramirez-sits-out-with-wrist-inflammation",
@@ -458,7 +458,14 @@
           "fetchedAt": 1785963854288
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo homers, reaches three times in win",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/brandon-nimmo-homers-reaches-three-times-in-win",
+          "fetchedAt": 1786008047250
+        }
+      ]
     },
     {
       "id": 12086,
@@ -481,12 +488,6 @@
           "date": "2026-08-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jacob-latz-blows-save-earns-win-against-giants",
           "fetchedAt": 1785964842714
-        },
-        {
-          "t": "Reports: Rangers weigh selling before deadline",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/reports-rangers-weigh-selling-before-deadline",
-          "fetchedAt": 1785792065164
         }
       ]
     },
@@ -613,12 +614,6 @@
           "date": "2026-08-04",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/mackenzie-gore-holds-giants-scoreless-over-six",
           "fetchedAt": 1785964842714
-        },
-        {
-          "t": "Reports: Rangers weigh selling before deadline",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/reports-rangers-weigh-selling-before-deadline",
-          "fetchedAt": 1785792065164
         }
       ]
     },
@@ -694,14 +689,7 @@
           "fetchedAt": 1786007119313
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dodgers jettison Emmet Sheehan to Triple-A",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/dodgers-jettison-emmet-sheehan-to-triple-a",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -734,20 +722,7 @@
           "fetchedAt": 1786007100331
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Kilian traded to Phillies with Arraez",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/caleb-kilian-traded-to-phillies-with-arraez",
-          "fetchedAt": 1785792065164
-        },
-        {
-          "t": "Report: Luis Arraez traded to the Phillies",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-luis-arraez-traded-to-the-phillies",
-          "fetchedAt": 1785792065164
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -1038,7 +1013,14 @@
           "fetchedAt": 1786007133419
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong homers twice, Cubs top Dodgers",
+          "date": "2026-08-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/pete-crow-armstrong-homers-twice-cubs-top-dodgers",
+          "fetchedAt": 1786008047250
+        }
+      ]
     },
     {
       "id": 12522,
@@ -1169,20 +1151,7 @@
           "fetchedAt": 1785963872346
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Taylor Ward officially traded to Mariners",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/taylor-ward-officially-traded-to-mariners",
-          "fetchedAt": 1785878461784
-        },
-        {
-          "t": "Report: Mariners getting Taylor Ward from Orioles",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-mariners-getting-taylor-ward-from-orioles",
-          "fetchedAt": 1785878461784
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -1361,14 +1330,7 @@
           "fetchedAt": 1785920722819
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Report: Red Sox, Giants swapping Mayer, Miller",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-red-sox-giants-swapping-mayer-miller",
-          "fetchedAt": 1785792065164
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62984,
@@ -1481,14 +1443,7 @@
           "fetchedAt": 1785963870071
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Report: Jacob deGrom unwilling to waive no-trade",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-jacob-degrom-unwilling-to-waive-no-trade",
-          "fetchedAt": 1785835253735
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1623,12 +1578,6 @@
           "date": "2026-08-05",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/freddy-peralta-hit-hard-in-rays-debut-vs-rockies",
           "fetchedAt": 1785964842714
-        },
-        {
-          "t": "Freddy Peralta to make Rays debut on Tuesday",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/freddy-peralta-to-make-rays-debut-on-tuesday",
-          "fetchedAt": 1785964842714
         }
       ]
     },
@@ -1705,16 +1654,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Padres send two prospects to Giants for Robbie Ray",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/padres-send-two-prospects-to-giants-for-robbie-ray",
-          "fetchedAt": 1785792065164
-        },
-        {
-          "t": "Report: Padres set to acquire Robbie Ray from Giants",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-padres-set-to-acquire-robbie-ray-from-giants",
-          "fetchedAt": 1785792065164
+          "t": "Casey Mize to make Padres debut on Wednesday",
+          "date": "2026-08-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/casey-mize-to-make-padres-debut-on-wednesday",
+          "fetchedAt": 1786008047250
         }
       ]
     },
@@ -1749,14 +1692,7 @@
           "fetchedAt": 1786007102834
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pirates fortify bullpen with veteran Kirby Yates",
-          "date": "2026-08-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/pirates-fortify-bullpen-with-veteran-kirby-yates",
-          "fetchedAt": 1785835253735
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11823,
