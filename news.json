@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-07T21:04:21.680Z",
+  "lastUpdatedNews": "2026-08-07T21:20:52.651Z",
   "players": [
     {
       "id": 11928,
@@ -859,7 +859,14 @@
           "fetchedAt": 1786007083642
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana sits against left-hander on Friday",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/travis-bazzana-sits-against-left-hander-on-friday",
+          "fetchedAt": 1786137652651
+        }
+      ]
     },
     {
       "id": 61788,
@@ -1414,7 +1421,14 @@
           "fetchedAt": 1786093479012
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Rosenthal: Braves had trade in place for deGrom",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/rosenthal-braves-had-trade-in-place-for-degrom",
+          "fetchedAt": 1786137652651
+        }
+      ]
     },
     {
       "id": 10438,
@@ -1447,7 +1461,14 @@
           "fetchedAt": 1786050389235
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease shuts out Cubs for seven, fans 10",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/dylan-cease-shuts-out-cubs-for-seven-fans-10",
+          "fetchedAt": 1786137652651
+        }
+      ]
     },
     {
       "id": 10946,
