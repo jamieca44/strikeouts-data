@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-07T09:05:31.717Z",
+  "lastUpdatedNews": "2026-08-07T09:21:07.563Z",
   "players": [
     {
       "id": 11928,
@@ -146,7 +146,14 @@
           "fetchedAt": 1786093488645
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis goes deep as Twins rally late",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/royce-lewis-goes-deep-as-twins-rally-late",
+          "fetchedAt": 1786094467563
+        }
+      ]
     },
     {
       "id": 12550,
@@ -204,14 +211,7 @@
           "fetchedAt": 1786007126139
         }
       ],
-      "nbcNews": [
-        {
-          "t": "A’s place Nick Kurtz back on IL due to thumb",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/as-place-nick-kurtz-back-on-il-due-to-thumb",
-          "fetchedAt": 1785878461784
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -260,14 +260,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mariners activate Brendan Donovan from injured list",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/mariners-activate-brendan-donovan-from-injured-list",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -386,18 +379,6 @@
           "date": "2026-08-05",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/ramirez-wrist-day-to-day-but-out-on-wednesday",
           "fetchedAt": 1786008047250
-        },
-        {
-          "t": "Report: Guardians calling up Angel Genao",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/report-guardians-calling-up-angel-genao",
-          "fetchedAt": 1786008047250
-        },
-        {
-          "t": "José Ramírez sits out with wrist inflammation",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jose-ramirez-sits-out-with-wrist-inflammation",
-          "fetchedAt": 1785878461784
         }
       ]
     },
@@ -464,14 +445,7 @@
           "fetchedAt": 1785963885433
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz blows save, earns win against Giants",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jacob-latz-blows-save-earns-win-against-giants",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -504,14 +478,7 @@
           "fetchedAt": 1786093517789
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal allows two runs, takes loss in debut",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/tarik-skubal-allows-two-runs-takes-loss-in-debut",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -556,12 +523,6 @@
           "date": "2026-08-05",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/shelton-joe-ryan-dealing-with-lower-body-issue",
           "fetchedAt": 1786051275336
-        },
-        {
-          "t": "Joe Ryan scuffles again in loss to Royals",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/joe-ryan-scuffles-again-in-loss-to-royals",
-          "fetchedAt": 1785921653750
         }
       ]
     },
@@ -601,12 +562,6 @@
           "t": "Gore placed on paternity list",
           "date": "2026-08-05",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/gore-placed-on-paternity-list",
-          "fetchedAt": 1785964842714
-        },
-        {
-          "t": "MacKenzie Gore holds Giants scoreless over six",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/mackenzie-gore-holds-giants-scoreless-over-six",
           "fetchedAt": 1785964842714
         }
       ]
@@ -755,14 +710,7 @@
           "fetchedAt": 1786007081695
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz gives up run in eighth inning",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/edwin-diaz-gives-up-run-in-eighth-inning",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -803,14 +751,7 @@
           "fetchedAt": 1786093497885
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers blanks Cardinals over six in win",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/ryan-weathers-blanks-cardinals-over-six-in-win",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -965,14 +906,7 @@
           "fetchedAt": 1786007128931
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson homers off Tarik Skubal in win",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/dansby-swanson-homers-off-tarik-skubal-in-win",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -1218,14 +1152,7 @@
           "fetchedAt": 1786050355624
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve collects three hits in win versus Jays",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jose-altuve-collects-three-hits-in-win-versus-jays",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -1445,14 +1372,7 @@
           "fetchedAt": 1786050389235
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jameson Taillon to start Wednesday vs. Astros",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/jameson-taillon-to-start-wednesday-vs-astros",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1468,7 +1388,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez beats Nats to earn 15th victory",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/cristopher-sanchez-beats-nats-to-earn-15th-victory",
+          "fetchedAt": 1786094467563
+        }
+      ]
     },
     {
       "id": 12345,
@@ -1613,14 +1540,7 @@
           "fetchedAt": 1786007112138
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Casey Mize to make Padres debut on Wednesday",
-          "date": "2026-08-04",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/casey-mize-to-make-padres-debut-on-wednesday",
-          "fetchedAt": 1786008047250
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
