@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-08T09:04:02.948Z",
+  "lastUpdatedNews": "2026-08-08T09:20:51.167Z",
   "players": [
     {
       "id": 11928,
@@ -73,14 +73,7 @@
           "fetchedAt": 1786179823662
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vlad Jr. not in the lineup for Toronto on Wednesday",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/vlad-jr-not-in-the-lineup-for-toronto-on-wednesday",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -220,7 +213,14 @@
           "fetchedAt": 1786093510249
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. goes 2-for-5, hits 10th homer",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/fernando-tatis-jr-goes-2-for-5-hits-10th-homer",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 64897,
@@ -294,14 +294,7 @@
           "fetchedAt": 1786179811697
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts goes 4-for-5 in loss to Cubs",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/mookie-betts-goes-4-for-5-in-loss-to-cubs",
-          "fetchedAt": 1786008047250
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -336,10 +329,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Elly De La Cruz knocks in two in Reds’ victory",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/elly-de-la-cruz-knocks-in-two-in-reds-victory",
-          "fetchedAt": 1785921653750
+          "t": "Elly De La Cruz hits solo homer in Reds loss",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/elly-de-la-cruz-hits-solo-homer-in-reds-loss",
+          "fetchedAt": 1786180851167
         }
       ]
     },
@@ -374,14 +367,7 @@
           "fetchedAt": 1786179808323
         }
       ],
-      "nbcNews": [
-        {
-          "t": "José Ramírez (wrist) remains out Wednesday",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/ramirez-wrist-day-to-day-but-out-on-wednesday",
-          "fetchedAt": 1786008047250
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -389,7 +375,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Reynolds notches two hits in loss to Mets",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/bryan-reynolds-notches-two-hits-in-loss-to-mets",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 9876,
@@ -422,14 +415,7 @@
           "fetchedAt": 1786093495664
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo homers, reaches three times in win",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/brandon-nimmo-homers-reaches-three-times-in-win",
-          "fetchedAt": 1786008047250
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -437,7 +423,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz slams door on Orioles in six-out save",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jacob-latz-slams-door-on-orioles-in-six-out-save",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 11763,
@@ -470,7 +463,14 @@
           "fetchedAt": 1786093517789
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Blake Snell (elbow) set to return on Tuesday",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/blake-snell-elbow-set-to-return-on-tuesday",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 11847,
@@ -509,12 +509,6 @@
           "date": "2026-08-06",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/joe-ryan-glute-expected-to-land-on-15-day-il",
           "fetchedAt": 1786051275336
-        },
-        {
-          "t": "Shelton: Joe Ryan dealing with lower-body issue",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/shelton-joe-ryan-dealing-with-lower-body-issue",
-          "fetchedAt": 1786051275336
         }
       ]
     },
@@ -541,14 +535,7 @@
           "fetchedAt": 1786136634373
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Gore placed on paternity list",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/gore-placed-on-paternity-list",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -687,14 +674,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker strikes out two for 32nd save",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/bryan-baker-strikes-out-two-for-32nd-save",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -727,7 +707,14 @@
           "fetchedAt": 1786179795358
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz gives up walkoff homer to D-backs",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/edwin-diaz-gives-up-walkoff-homer-to-d-backs",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 10592,
@@ -810,14 +797,7 @@
           "fetchedAt": 1786179821778
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman makes early exit against Cubs",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/freddie-freeman-makes-early-exit-against-cubs",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -874,14 +854,7 @@
           "fetchedAt": 1786136656707
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin hits grand slam, steals base in rout",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/caleb-durbin-hits-grand-slam-steals-base-in-rout",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -980,14 +953,7 @@
           "fetchedAt": 1786136652811
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong homers twice, Cubs top Dodgers",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/pete-crow-armstrong-homers-twice-cubs-top-dodgers",
-          "fetchedAt": 1786008047250
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -1086,14 +1052,7 @@
           "fetchedAt": 1786179828049
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene collects three hits, homers in victory",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/riley-greene-collects-three-hits-homers-in-victory",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -1159,7 +1118,14 @@
           "fetchedAt": 1786179784120
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smtih hits two homers in Astros’ victory",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/cam-smtih-hits-two-homers-in-astros-victory",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 62954,
@@ -1234,14 +1200,7 @@
           "fetchedAt": 1786136610806
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Héctor Rodríguez on the bench following debut",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/hector-rodriguez-on-the-bench-following-debut",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60580,
@@ -1332,14 +1291,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Franklin Arias playing 2B in Triple-A",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/franklin-arias-playing-2b-in-triple-a",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64967,
@@ -1405,14 +1357,7 @@
           "fetchedAt": 1786179800044
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jenkins has three hits in Triple-A",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/jenkins-has-three-hits-in-triple-a",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -1631,20 +1576,7 @@
           "fetchedAt": 1786093513965
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Report: Peralta initiated sitdown with Soto, Lindor",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/report-peralta-initiated-sitdown-with-soto-lindor",
-          "fetchedAt": 1785964842714
-        },
-        {
-          "t": "Freddy Peralta hit hard in Rays debut vs. Rockies",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/freddy-peralta-hit-hard-in-rays-debut-vs-rockies",
-          "fetchedAt": 1785964842714
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -1677,14 +1609,7 @@
           "fetchedAt": 1786136650356
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo goes eight in Phillies’ shutout win",
-          "date": "2026-08-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-05/jesus-luzardo-goes-eight-in-phillies-shutout-win",
-          "fetchedAt": 1785921653750
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
@@ -1717,7 +1642,14 @@
           "fetchedAt": 1786136638819
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray surrenders four runs in defeat",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/robbie-ray-surrenders-four-runs-in-defeat",
+          "fetchedAt": 1786180851167
+        }
+      ]
     },
     {
       "id": 9727,
