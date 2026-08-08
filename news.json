@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-08T21:04:48.124Z",
+  "lastUpdatedNews": "2026-08-08T21:21:07.585Z",
   "players": [
     {
       "id": 11928,
@@ -73,7 +73,26 @@
           "fetchedAt": 1786179823662
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. (hamstring) returns to lineup",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/vladimir-guerrero-jr-hamstring-returns-to-lineup",
+          "fetchedAt": 1786224067585
+        },
+        {
+          "t": "Vladimir Guerrero Jr. (hamstring) could pinch-hit",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/vladimir-guerrero-jr-hamstring-could-pinch-hit",
+          "fetchedAt": 1786224067585
+        },
+        {
+          "t": "Vladimir Guerrero Jr. sitting third straight game",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/vladimir-guerrero-jr-sitting-third-straight-game",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 10964,
@@ -106,7 +125,14 @@
           "fetchedAt": 1786179816992
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. takes a seat against Chris Sale",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/luis-garcia-jr-takes-a-seat-against-chris-sale",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 10916,
@@ -358,7 +384,14 @@
           "fetchedAt": 1786179808323
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez goes 2-for-5, steals base",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jose-ramirez-goes-2-for-5-steals-base",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 10577,
@@ -526,7 +559,14 @@
           "fetchedAt": 1786136634373
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Rangers activate MacKenzie Gore from paternity list",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/rangers-activate-mackenzie-gore-from-paternity-list",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 64316,
@@ -665,7 +705,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker notches 33rd save for Rays",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/bryan-baker-notches-33rd-save-for-rays",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 10214,
@@ -788,7 +835,14 @@
           "fetchedAt": 1786179821778
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman (hand) returns to lineup Friday",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/freddie-freeman-hand-returns-to-lineup-friday",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 64311,
@@ -845,7 +899,14 @@
           "fetchedAt": 1786136656707
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin wins marathon game in 13th for Boston",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/caleb-durbin-wins-marathon-game-13th-for-red-sox",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 12100,
@@ -1217,7 +1278,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Franklin Arias continues hot stretch at AAA",
+          "date": "2026-08-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/franklin-arias-continues-hot-stretch-at-aaa",
+          "fetchedAt": 1786224067585
+        }
+      ]
     },
     {
       "id": 64967,
