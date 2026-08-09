@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-08T21:21:07.585Z",
+  "lastUpdatedNews": "2026-08-09T09:05:05.745Z",
   "players": [
     {
       "id": 11928,
@@ -147,22 +147,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/videos/royce-lewis-solo-homer-13-004854386.html",
           "fetchedAt": 1786223044675
-        },
-        {
-          "t": "Lee hits the go-ahead, Lewis homers in Twins' win",
-          "s": "",
-          "by": "",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/lee-hits-ahead-lewis-homers-042247458.html",
-          "fetchedAt": 1786093488645
-        },
-        {
-          "t": "Brooks Lee's 2-run single in 8th lifts Twins to 4-3 win over Royals",
-          "s": "Brooks Lee's two-run single in the eighth inning lifted the Minnesota Twins to a 4-3 win over the Kansas City Royals on Thursday night. The Twins trailed 3-1 in the eighth when Josh Bell hit a one-out RBI single against Aaron Bummer (1-2). Nate Pearson entered and hit Royce Lewis with a pitch, and Lee followed with his bases-loaded single to right.",
-          "by": "MARC BOWMAN",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/brooks-lees-2-run-single-025236969.html",
-          "fetchedAt": 1786093488645
         }
       ],
       "nbcNews": [
@@ -187,16 +171,7 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [
-        {
-          "t": "Mark Kotsay reacts to Athletics' eighth straight loss on Thursday vs. Reds",
-          "s": "Athletics manager Mark Kotsay spoke to reporters following the team's 6-5 loss to the Cincinnati Reds on Thursday afternoon at Great American Ball Park.Mark Kotsay reacts to Athletics' eighth straight loss on Thursday vs. Reds originally appeared on NBC Sports Bay Area",
-          "by": "",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/videos/mark-kotsay-reacts-athletics-eighth-032911775.html",
-          "fetchedAt": 1786136646192
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -366,22 +341,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/yankees-getting-sued-fan-hit-215440312.html",
           "fetchedAt": 1786179808323
-        },
-        {
-          "t": "Yankees fan sues for $10M after bat thrown into stands clobbers her in the head",
-          "s": "The suit claims the netting was “significantly lower” than adjacent sections, leaving an \\\"unprotected opening.”",
-          "by": "Peter Senzamici",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-fan-sues-10m-bat-103000261.html",
-          "fetchedAt": 1786179808323
-        },
-        {
-          "t": "Yankees Fan Injured During Game Files $10 Million Lawsuit",
-          "s": "A female New York Yankees fan injured by a flying bat during a game has filed a $10 million lawsuit. Stephanie Duluc, 37, chief of staff at the Bronx-based SOMOS Community Care, attended the June 2 game between the Yankees and Guardians at Yankee Stadium in the Bronx. She was sitting in the fourth ...",
-          "by": "Andrew Holleran",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-fan-injured-during-game-020000132.html",
-          "fetchedAt": 1786179808323
         }
       ],
       "nbcNews": [
@@ -543,19 +502,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
+          "t": "Gore activated, Peoples optioned",
+          "s": "MacKenzie Gore is back from the paternity list",
+          "by": "Adam J. Morris",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/gore-activated-peoples-optioned-194107140.html",
+          "fetchedAt": 1786266278811
+        },
+        {
+          "t": "Texas Rangers lineup for August 8, 2026",
+          "s": "Texas against the Orioles in the middle game of the series",
+          "by": "Adam J. Morris",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-8-194405281.html",
+          "fetchedAt": 1786266278811
+        },
+        {
           "t": "Texas Rangers lineup for August 7, 2026",
           "s": "Texas begins a three game series at the Shed against Baltimore",
           "by": "Adam J. Morris",
           "when": "18m ago",
           "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-7-204458732.html",
-          "fetchedAt": 1786136634373
-        },
-        {
-          "t": "Catching up on Rangers transactions",
-          "s": "Running down the Rangers’ post-trade deadline transactions from earlier this week",
-          "by": "Adam J. Morris",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/catching-rangers-transactions-140000188.html",
           "fetchedAt": 1786136634373
         }
       ],
@@ -704,7 +671,32 @@
       "name": "Bryan Baker",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Baker and the Pen deliver a series win in the PNW: Rays 3, Mariners 2",
+          "s": "Baker makes Rays history to help Rays spoil the Mariner’s 50th anniversary party",
+          "by": "Darby Robinson",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/baker-pen-deliver-series-win-050612451.html",
+          "fetchedAt": 1786266255758
+        },
+        {
+          "t": "Richie Palacios hits two-run single in Rays' 3-2 win",
+          "s": "Richie Palacios hits a crucial two-run single and Victor Mesa Jr. crushes a solo home run in the Rays' 3-2 win over the Mariners",
+          "by": "",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/richie-palacios-hits-two-run-053340220.html",
+          "fetchedAt": 1786266255758
+        },
+        {
+          "t": "Richie Palacio, Victor Mesa Jr. lead the Rays past the Mariners, 3-2",
+          "s": "Richie Palacios hit a two-run single in the sixth inning, Victor Mesa Jr. homered and the Tampa Bay Rays' bullpen held on for a 3-2 victory over the Seattle Mariners on Saturday night. Griffin Jax was set to start for the Rays, but was removed hours before first pitch because of discomfort in his right elbow. Tampa Bay used seven arms out of the bullpen, with Casey Legumina getting the start.",
+          "by": "LUKE OLSON",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/richie-palacio-victor-mesa-jr-045517855.html",
+          "fetchedAt": 1786266255758
+        }
+      ],
       "nbcNews": [
         {
           "t": "Bryan Baker notches 33rd save for Rays",
@@ -792,14 +784,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/york-yankees-pitching-plans-may-110038281.html",
           "fetchedAt": 1786223049022
-        },
-        {
-          "t": "Yankees news: Lombard Jr. in good company to start career",
-          "s": "Family history helping top prospect; Warren fighting against bullpen; Headrick that good; all the injury updates",
-          "by": "Joshua Diemert",
-          "when": "4m ago",
-          "href": "https://sports.yahoo.com/articles/yankees-news-lombard-jr-good-090000149.html",
-          "fetchedAt": 1786093497885
         }
       ],
       "nbcNews": []
@@ -849,16 +833,7 @@
       "name": "Travis Bazzana",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
-      "yahooNews": [
-        {
-          "t": "Swept by Mets, Guardians Somehow Feel Worse than When They Lost Ten In a Row Last Year",
-          "s": "I’m in pain",
-          "by": "Quincy Wheeler",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/swept-mets-guardians-somehow-feel-202309047.html",
-          "fetchedAt": 1786093527008
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Travis Bazzana sits against left-hander on Friday",
@@ -875,28 +850,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [
         {
-          "t": "How Red Sox turned their season around with historic hot streak",
-          "s": "",
-          "by": "",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/video/red-sox-turned-season-around-182858254.html",
-          "fetchedAt": 1786136656707
+          "t": "Red Sox' incredible turnaround has made them a legitimate threat to win the World Series",
+          "s": "The Red Sox have transformed from one of MLB's worst teams into a World Series threat.",
+          "by": "TJ Morin",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-incredible-turnaround-made-223559010.html",
+          "fetchedAt": 1786266297195
         },
         {
-          "t": "Are the Red Sox the Hottest Team in Baseball?",
-          "s": "Nobody in baseball should want to play the Boston Red Sox right now. Boston has gone from sitting 14 games under .500 at 32-46 on June 25 to 63-51 entering Friday. That’s a ridiculous 31-5 stretch that has completely transformed its season. And lately, they’ve been nearly impossible to beat. The Red Sox have won…",
-          "by": "Landon Kardian",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-hottest-team-baseball-183109771.html",
-          "fetchedAt": 1786136656707
+          "t": "MLB Insider Drops Truth Bomb on Boston Red Sox Incredible Turnaround",
+          "s": "When the Boston Red Sox dropped two out of three to the Colorado Rockies in late June, that was rock bottom for what was turning into a nightmare season. To compound matters, they had plane troubles leaving Denver to get home to open a four-game home series against the New York Yankees.That loss dropped Boston […] The post MLB Insider Drops Truth Bomb on Boston Red Sox Incredible Turnaround appeared first on HEAVY.",
+          "by": "Scott Roche",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/mlb-insider-drops-truth-bomb-194452830.html",
+          "fetchedAt": 1786266297195
         },
         {
-          "t": "Caleb Durbin's walk-off single keeps Boston Red Sox white-hot",
-          "s": "Caleb Durbin's latest flash of heroics gave the Red Sox a wild walk-off winner Aug. 6. The former Brewer is part of the hottest team in baseball.",
-          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/caleb-durbins-walk-off-single-161146598.html",
-          "fetchedAt": 1786136656707
+          "t": "Red Sox Announce Unusual Caleb Durbin Decision Before Athletics Series Opener",
+          "s": "The Red Sox announced an unusual decision involving Caleb Durbin before their series opener against the Athletics. The post Red Sox Announce Unusual Caleb Durbin Decision Before Athletics Series Opener appeared first on HEAVY.",
+          "by": "Jonathan Vankin",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-announce-unusual-caleb-233252776.html",
+          "fetchedAt": 1786266297195
         }
       ],
       "nbcNews": [
@@ -915,20 +890,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [
         {
-          "t": "Updating Red Sox Exec Craig Breslow's Hot Seat After Trade Deadline",
-          "s": "Boston Red Sox chief baseball officer Craig Breslow was a busy man before Monday's trade deadline.",
-          "by": "Mike Rosenstein",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/updating-red-sox-exec-craig-140404192.html",
-          "fetchedAt": 1786136636236
+          "t": "Otto Lopez's two-run single",
+          "s": "",
+          "by": "",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/videos/otto-lopezs-two-run-single-210649139.html",
+          "fetchedAt": 1786266280502
         },
         {
-          "t": "Red Sox Named Offseason Trade Landing Spot for Star Shortstop",
-          "s": "The Boston Red Sox were certainly busy leading up to the 2026 MLB Trade Deadline. They most notably landed star catcher Adley Rutschman from the Baltimore Orioles in a blockbuster trade. They also brought in multiple other new players, like Curtis Mead, Erik Miller, Jahmai Jones, and Eli White.Overall, while the Red Sox made multiple […] The post Red Sox Named Offseason Trade Landing Spot for Star Shortstop appeared first on HEAVY.",
-          "by": "Michael DeRosa",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-named-offseason-trade-044245486.html",
-          "fetchedAt": 1786136636236
+          "t": "Walbert Ureña fans Otto Lopez",
+          "s": "",
+          "by": "",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/videos/walbert-ure-fans-otto-lopez-203328847.html",
+          "fetchedAt": 1786266280502
+        },
+        {
+          "t": "The most inevitable offseason casualty on every MLB roster",
+          "s": "Surviving the MLB trade deadline is one thing, but trades, free agency and tough roster decisions could have these 30 players wearing different uniforms in 2027.",
+          "by": "Zachary Rotman",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/most-inevitable-offseason-casualty-every-221226957.html",
+          "fetchedAt": 1786266280502
         }
       ],
       "nbcNews": []
@@ -938,7 +921,24 @@
       "name": "Dansby Swanson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "2026 Cubs Heroes and Goats: Pete Crow-Armstrong is the Superhero vs. the Royals",
+          "s": "The Cubs center fielder just keeps making things happen.",
+          "by": "Al Yellon",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-pete-150000086.html",
+          "fetchedAt": 1786266257771
+        },
+        {
+          "t": "Chicago Cubs Announce Dansby Swanson Change Before Royals Series",
+          "s": "The Chicago Cubs are one of the hottest teams in Major League Baseball right now. They have won four straight games and five of their last six contests. On Friday, they open up a weekend set against the Kansas City Royals. Before the Royals series began, the Cubs announced a slight change with Dansby Swanson. […] The post Chicago Cubs Announce Dansby Swanson Change Before Royals Series appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-004535048.html",
+          "fetchedAt": 1786266257771
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -948,28 +948,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "With deadline reinforcements and PCA playing like an MVP, the Chicago Cubs have a newfound level of confidence",
-          "s": "For the first four months of the season, the Cubs were the streakiest team in baseball, but in the second half, everything has started to fall into place.",
-          "by": "Russell Dorsey",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/mlb/article/with-deadline-reinforcements-and-pca-playing-like-an-mvp-the-chicago-cubs-have-a-newfound-level-of-confidence-192825420.html",
-          "fetchedAt": 1786136652811
+          "t": "Chicago Cubs Announce Pete Crow-Armstrong Change During Royals Series",
+          "s": "The Chicago Cubs secured a 6-4 victory over the Kansas City Royals on Friday night in their series opener. Continuing to see immense success at the plate was outfielder Pete Crow-Armstrong, who recorded two runs, one hit, two RBIs and drew two walks. Ahead of Game 2 of the series Saturday night, Cubs manager Craig […] The post Chicago Cubs Announce Pete Crow-Armstrong Change During Royals Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-pete-crow-000121453.html",
+          "fetchedAt": 1786266292795
         },
         {
-          "t": "On The Horizon: Cubs vs. Royals series preview",
-          "s": "The Cubs visit an AL Central team.",
+          "t": "Dodgers plummet in Post Power Rankings even after Tarik Skubal trade",
+          "s": "Each week, the California Post will power rank MLB’s 30 teams and check in on one intriguing awards race. This week, we’re looking at how much the rankings shook up...",
+          "by": "Jack Harris",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-plummet-post-power-rankings-163412690.html",
+          "fetchedAt": 1786266292795
+        },
+        {
+          "t": "2026 Cubs Heroes and Goats: Pete Crow-Armstrong is the Superhero vs. the Royals",
+          "s": "The Cubs center fielder just keeps making things happen.",
           "by": "Al Yellon",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/horizon-cubs-vs-royals-series-190000402.html",
-          "fetchedAt": 1786136652811
-        },
-        {
-          "t": "Cubs series preview: Is PCA the MVP?",
-          "s": "The Cubbies come to town with one of the best players in baseball.",
-          "by": "Max Rieper",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-series-preview-pca-mvp-180000375.html",
-          "fetchedAt": 1786136652811
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-pete-150000086.html",
+          "fetchedAt": 1786266292795
         }
       ],
       "nbcNews": []
@@ -981,28 +981,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [
         {
-          "t": "Padres handle business against D-backs, split series",
-          "s": "News to know about your San Diego Padres and MLB for August 7, 2026.",
-          "by": "Matt DeWalt",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/padres-handle-business-against-d-133000538.html",
-          "fetchedAt": 1786136640833
-        },
-        {
-          "t": "Padres Rebound From Bad Mize Start With 5-1 Win Over Dbacks",
-          "s": "The San Diego Padres got a badly needed bounce-back win over Arizona as they went back to their winning formula.",
-          "by": "Bob McCullough",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/padres-rebound-bad-mize-start-115921593.html",
-          "fetchedAt": 1786136640833
-        },
-        {
-          "t": "Padres strike out 10 in 5-1 victory vs. D-backs",
+          "t": "Jackson Merrill homers in Padres' 3-2 win",
           "s": "",
           "by": "",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/videos/padres-strike-10-5-1-053530221.html",
-          "fetchedAt": 1786136640833
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/videos/jackson-merrill-homers-padres-3-033628267.html",
+          "fetchedAt": 1786266284852
+        },
+        {
+          "t": "Jackson Merrill's home run helps Padres beat Astros 3-2",
+          "s": "Jackson Merrill hit his 17th home run of the season to help the San Diego Padres beat the Houston Astros 3-2 on Saturday night. Fernando Tatis Jr. walked to leadoff the first inning, Jake Cronenworth singled and Ty France walked to load the bases before Merrill hit into a forceout to take a 1-0 lead. Merrill hit a 421-foot solo shot off Astros starter Peter Lambert in the third.",
+          "by": "",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/jackson-merrills-home-run-helps-023014688.html",
+          "fetchedAt": 1786266284852
+        },
+        {
+          "t": "Rally Comes Up Short as Astros Fall 3-2 to Padres in San Diego",
+          "s": "It was set up to be a solid pitching matchup, with Astros SP Peter Lambert (entered game with 3.06 ERA) and Padres SP Michael King (entered game with 3.45 ERA) taking the mound today. Those two held up their end of the deal for a terrific matchup today at Petco Park. The Astros offense, however, […]",
+          "by": "Patrick Creighton",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/rally-comes-short-astros-fall-021106449.html",
+          "fetchedAt": 1786266284852
         }
       ],
       "nbcNews": []
@@ -1028,14 +1028,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/yankees-cody-bellinger-carlos-rodon-203001765.html",
           "fetchedAt": 1786223050732
-        },
-        {
-          "t": "ESPN Insider Makes Aaron Judge Statement Amid Injury To Yankees Star",
-          "s": "On Thursday, the New York Yankees are off following a series where they dropped two out of three games to the St. Louis Cardinals (at home).The Yankees will resume action on Friday night when they host Ronald Acuna Jr. and the Atlanta Braves in the Bronx.ESPN Insider Makes Aaron Judge StatementThe Yankees continue to play […] The post ESPN Insider Makes Aaron Judge Statement Amid Injury To Yankees Star appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/espn-insider-makes-aaron-judge-031427527.html",
-          "fetchedAt": 1786093500335
         }
       ],
       "nbcNews": []
@@ -1078,16 +1070,7 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [
-        {
-          "t": "Mariners Reveal Taylor Ward Decision Ahead of Game vs Tigers",
-          "s": "The Seattle Mariners are gearing up for the third and final game of their series with the Detroit Tigers. Detroit took the first contest by a score of 8-0 before the Mariners evened the series with a 4-2 win on Wednesday. So heading into the rubber match, both sides will be eager to take the […] The post Mariners Reveal Taylor Ward Decision Ahead of Game vs Tigers appeared first on HEAVY.",
-          "by": "Matt Levine",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-reveal-taylor-ward-decision-205104447.html",
-          "fetchedAt": 1786093512093
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1097,27 +1080,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [
         {
+          "t": "Cam Smith's Two Homers Lift Astros Past Padres to Spoil Robbie Ray's Debut",
+          "s": "The Astros spoiled Robbie Ray's Padres debut Friday night, beating San Diego 6-3 behind two Cam Smith homers and another strong bullpen performance.",
+          "by": "Sydney Cruse",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/cam-smiths-two-homers-lift-180004893.html",
+          "fetchedAt": 1786266299414
+        },
+        {
+          "t": "Cam Smith's solo home run (14)",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/cam-smiths-solo-home-run-020213652.html",
+          "fetchedAt": 1786266299414
+        },
+        {
           "t": "Smith, Paredes lead Astros to 6-3 win",
           "s": "",
           "by": "",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/videos/smith-paredes-lead-astros-6-055125435.html",
-          "fetchedAt": 1786179784120
-        },
-        {
-          "t": "Robbie Ray roughed up as Padres fall 6-3 to red-hot Astros",
-          "s": "The Sporting Tribune's Fernando Ramirez writes about the Padres erratic pitching spoiling a Fernando Tatis Jr. highlight play.",
-          "by": "Fernando Ramirez",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/robbie-ray-roughed-padres-fall-051734149.html",
-          "fetchedAt": 1786179784120
-        },
-        {
-          "t": "Cam Smith homers twice as Astros beat newcomer Robbie Ray, Padres 6-3",
-          "s": "Cam Smith homered twice and the AL West-leading Houston Astros spoiled Robbie Ray's San Diego debut by beating the Padres 6-3 on Friday night for their eighth win in 10 games. The Padres dropped two games behind the third NL wild-card spot. Smith connected to left off Ray with one out in the second and off Yuki Matsui leading off the sixth, also to left.",
-          "by": "BERNIE WILSON",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/cam-smith-homers-twice-astros-044750522.html",
           "fetchedAt": 1786179784120
         }
       ],
@@ -1135,24 +1118,7 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [
-        {
-          "t": "Tigers get hit-happy in shutout against Mariners",
-          "s": "Hot bat summer.",
-          "by": "Ashley MacLennan",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-hit-happy-shutout-against-225701782.html",
-          "fetchedAt": 1786093503614
-        },
-        {
-          "t": "Tigers Make Another Kevin McGonigle Change During Mariners Series",
-          "s": "The Detroit Tigers made another change to Kevin McGonigle before Thursday's game against the Seattle Mariners. The post Tigers Make Another Kevin McGonigle Change During Mariners Series appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-another-kevin-mcgonigle-change-205605715.html",
-          "fetchedAt": 1786093503614
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1178,6 +1144,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [
+        {
+          "t": "Noelvi Marte's sliding catch",
+          "s": "",
+          "by": "",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/videos/noelvi-martes-sliding-catch-234413111.html",
+          "fetchedAt": 1786266274234
+        },
         {
           "t": "Fantasy Baseball Waiver Wire: Kaelen Culpepper, Angel Genao, Jackson Jobe, and young stars",
           "s": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
@@ -1210,14 +1184,6 @@
           "when": "16h ago",
           "href": "https://sports.yahoo.com/articles/red-sox-predicted-add-2x-161946090.html",
           "fetchedAt": 1786179840543
-        },
-        {
-          "t": "Red Sox Named Offseason Trade Landing Spot for Star Shortstop",
-          "s": "The Boston Red Sox were certainly busy leading up to the 2026 MLB Trade Deadline. They most notably landed star catcher Adley Rutschman from the Baltimore Orioles in a blockbuster trade. They also brought in multiple other new players, like Curtis Mead, Erik Miller, Jahmai Jones, and Eli White.Overall, while the Red Sox made multiple […] The post Red Sox Named Offseason Trade Landing Spot for Star Shortstop appeared first on HEAVY.",
-          "by": "Michael DeRosa",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-named-offseason-trade-044245486.html",
-          "fetchedAt": 1786093474882
         }
       ],
       "nbcNews": []
@@ -1234,22 +1200,6 @@
           "by": "Patrick McAvoy",
           "when": "20h ago",
           "href": "https://sports.yahoo.com/articles/red-sox-deny-nonsense-roman-120452860.html",
-          "fetchedAt": 1786179830997
-        },
-        {
-          "t": "Where Did Things Go Wrong for Marcelo Mayer in Boston?",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/where-did-things-wrong-marcelo-212821695.html",
-          "fetchedAt": 1786179830997
-        },
-        {
-          "t": "Red Sox boss responds to ‘nonsense’ rumors after Marcelo Mayer trade",
-          "s": "Craig Breslow is clearing the air.",
-          "by": "Grace McCarron",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-boss-responds-nonsense-211919344.html",
           "fetchedAt": 1786179830997
         }
       ],
@@ -1294,6 +1244,14 @@
       "nbcUrl": null,
       "yahooNews": [
         {
+          "t": "Tarik Skubal Reveals His Free Agency Hope After Tigers Trade",
+          "s": "The trade deadline is always somewhat of a cluster, and the biggest name on the trade block was the Detroit Tigers' former face of the organization, back-to-bac",
+          "by": "Maddy Dickens",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-reveals-free-agency-212230290.html",
+          "fetchedAt": 1786266295427
+        },
+        {
           "t": "Tarik Skubal Reveals If He’d Return to Tigers After Dodgers Trade",
           "s": "The Detroit Tigers made the expected decision to trade back-to-back Cy Young winner Tarik Skubal to the Los Angeles Dodgers just under a week ago. Since the move, Skubal has already made his Dodgers debut, pitching 6.0 innings, allowing two earned runs and striking out six batters. Skubal will become a free agent at the […] The post Tarik Skubal Reveals If He’d Return to Tigers After Dodgers Trade appeared first on HEAVY.",
           "by": "Cole Sullivan",
@@ -1307,14 +1265,6 @@
           "by": "Aaliyan Mohammed",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/tarik-skubal-open-returning-tigers-175204304.html",
-          "fetchedAt": 1786136654733
-        },
-        {
-          "t": "Detroit Tigers Rumor Suggests They Rushed Tarik Skubal Trade to LA Dodgers Over Surprising Concern",
-          "s": "A new rumor suggests the Detroit Tigers passed on a Tarik Skubal bidding war because of fears interested teams would […]",
-          "by": "Jason Burgos",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-rumor-suggests-rushed-172301949.html",
           "fetchedAt": 1786136654733
         }
       ],
@@ -1406,14 +1356,6 @@
           "when": "13h ago",
           "href": "https://sports.yahoo.com/articles/blue-jays-trade-deadline-addition-200003769.html",
           "fetchedAt": 1786179838436
-        },
-        {
-          "t": "Blue Jays Manager Reacts Following Heartbreaking Loss to Cubs",
-          "s": "Toronto Blue Jays manager John Schneider reacted after his team lost a heartbreaking makeup game on Thursday against the Chicago Cubs.The Blue Jays took a 2-0 lead into the bottom of the ninth inning. With All-Star closer Louis Varland on the mound, the Blue Jays were feeling good about their chances.But Alex Bregman blasted a […] The post Blue Jays Manager Reacts Following Heartbreaking Loss to Cubs appeared first on HEAVY.",
-          "by": "Adam Martin",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-manager-reacts-following-044304606.html",
-          "fetchedAt": 1786179838436
         }
       ],
       "nbcNews": [
@@ -1497,28 +1439,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [
         {
-          "t": "New York Yankees and Atlanta Braves meet in game 2 of series",
-          "s": "Atlanta Braves (70-46, first in the NL East) vs. New York Yankees (65-51, second in the AL East) New York; Saturday, 3:05 p.m. EDT PITCHING PROBABLES: Braves: Chris Sale (12-6, 2.08 ERA, 1.02 WHIP, 143 strikeouts); Yankees: Gerrit Cole (5-5, 3.42 ERA, 1.10 WHIP, 78 strikeouts) LINE: Braves -139, Yankees +124; over/under is 7 1/2 runs BOTTOM LINE: The New York Yankees lead 1-0 in a three-game series with the Atlanta Braves. New York has gone 28-25 in home games and 65-51 overall.",
-          "by": "The Associated Press",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-atlanta-braves-meet-075502568.html",
-          "fetchedAt": 1786179791665
+          "t": "Cole fans nine, Lombard Jr. and Rice homer in 5-4 win",
+          "s": "",
+          "by": "",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/videos/cole-fans-nine-lombard-jr-003422113.html",
+          "fetchedAt": 1786266300995
         },
         {
-          "t": "New York Yankees vs. Atlanta Braves: Series Preview",
-          "s": "A good Braves squad is set to come to the Bronx this weekend.",
-          "by": "Matt Ferenchick",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-vs-atlanta-braves-123000813.html",
-          "fetchedAt": 1786179791665
+          "t": "New York Yankees Announce Gerrit Cole News During Braves Game",
+          "s": "On Saturday, the New York Yankees are playing the second game of their series with the Atlanta Braves (in the Bronx).They are coming off a 3-2 win on Friday.Gerrit Cole got the start on Saturday, going 7.0 innings with nine strikeouts (and two earned runs).New York Yankees Announce Gerrit Cole NewsDuring the game, the Yankees […] The post New York Yankees Announce Gerrit Cole News During Braves Game appeared first on HEAVY.",
+          "by": "Ben Stinar",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-announce-gerrit-cole-002448800.html",
+          "fetchedAt": 1786266300995
         },
         {
-          "t": "Dubon leads Braves against the Yankees after 4-hit game",
-          "s": "Atlanta Braves (70-45, first in the NL East) vs. New York Yankees (64-51, second in the AL East) New York; Friday, 7:05 p.m. EDT PITCHING PROBABLES: Braves: Tyler Mahle (3-9, 5.13 ERA, 1.39 WHIP, 89 strikeouts); Yankees: Max Fried (4-3, 3.12 ERA, 0.99 WHIP, 68 strikeouts) LINE: Yankees -159, Braves +134; over/under is 8 runs BOTTOM LINE: The Atlanta Braves play the New York Yankees after Mauricio Dubon had four hits on Thursday in an 11-3 win over the Marlins. New York is 64-51 overall and 27-25 in home games.",
+          "t": "Cole, Yankees hold off Braves 5-4 in matchup of Cy Young winners",
+          "s": "Gerrit Cole pitched seven strong innings and outdueled Chris Sale in a matchup of Cy Young Award winners as the New York Yankees beat the Atlanta Braves 5-4 Saturday. George Lombard Jr. hit his second career homer in the seventh to give the Yankees a 4-2 lead. New York rookie Spencer Jones drove two runs, with a single in the second and his first career triple in the fifth.",
           "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dubon-leads-braves-against-yankees-075512663.html",
-          "fetchedAt": 1786179791665
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/cole-yankees-hold-off-braves-235956304.html",
+          "fetchedAt": 1786266300995
         }
       ],
       "nbcNews": []
@@ -1563,28 +1505,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
-          "t": "How Luis Arraez already made Phillies history in just 3 games",
-          "s": "Luis Arraez couldn't have scripted a much better introduction to Philadelphia. It took all of three games to make Phillies history.",
-          "by": "Chris Spiering, ClutchPoints",
-          "when": "50m ago",
-          "href": "https://sports.yahoo.com/articles/luis-arraez-already-made-phillies-201316049.html",
-          "fetchedAt": 1786136650356
+          "t": "Blue Jays aim to sweep series against the Phillies",
+          "s": "Toronto Blue Jays (56-62, fifth in the AL East) vs. Philadelphia Phillies (62-56, second in the NL East) Philadelphia; Sunday, 1:35 p.m. EDT PITCHING PROBABLES: Blue Jays: Shane Bieber (3-2, 5.11 ERA, 1.68 WHIP, 28 strikeouts); Phillies: Jesus Luzardo (10-5, 3.36 ERA, 1.16 WHIP, 164 strikeouts) LINE: Phillies -197, Blue Jays +172; over/under is 8 1/2 runs BOTTOM LINE: The Toronto Blue Jays will aim to sweep a three-game series with a win against the Philadelphia Phillies. Philadelphia has a 62-56 record overall and a 31-30 record at home.",
+          "by": "The Associated Press",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-aim-sweep-series-075514945.html",
+          "fetchedAt": 1786266290857
         },
         {
-          "t": "Phillies Receiving Everything They Had Hoped From Luis Arraez",
-          "s": "Luis Arraez has gotten off to a scorching hot start to his Philadelphia Phillies tenure.",
-          "by": "Kenneth Teape",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-receiving-everything-had-hoped-143216714.html",
-          "fetchedAt": 1786136650356
+          "t": "Blue Jays face the Phillies with 1-0 series lead",
+          "s": "Toronto Blue Jays (55-62, fifth in the AL East) vs. Philadelphia Phillies (62-55, second in the NL East) Philadelphia; Saturday, 6:05 p.m. EDT PITCHING PROBABLES: Blue Jays: Max Scherzer (1-4, 7.92 ERA, 1.63 WHIP, 23 strikeouts); Phillies: Aaron Nola (3-9, 5.55 ERA, 1.44 WHIP, 121 strikeouts) LINE: Phillies -159, Blue Jays +135; over/under is 9 1/2 runs BOTTOM LINE: The Toronto Blue Jays take a 1-0 lead into the next game of the series against the Philadelphia Phillies. Philadelphia has a 31-29 record in home games and a 62-55 record overall.",
+          "by": "The Associated Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-face-phillies-1-075520565.html",
+          "fetchedAt": 1786266290857
         },
         {
-          "t": "Luis Arraez’s hot start with Phillies first of its kind since 1984",
-          "s": "Philadelphia Phillies' new acquisition Luis Arraez is playing so well in his first few games with the club, he's making franchise history.",
-          "by": "Benedetto Vitale, ClutchPoints",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/luis-arraez-hot-start-phillies-232247190.html",
-          "fetchedAt": 1786136650356
+          "t": "Luis Arraez's Phillies Future is Already a Big Question Mark",
+          "s": "What will the Philadelphia Phillies do with Luis Arraez this offseason?",
+          "by": "Matthew Schmidt",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/luis-arraezs-phillies-future-already-110038343.html",
+          "fetchedAt": 1786266290857
         }
       ],
       "nbcNews": []
@@ -1596,28 +1538,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [
         {
-          "t": "Padres Outlook After Aggressive Trade Deadline",
-          "s": "San Diego Padres GM A.J. Preller was committed to improving his team and made two big trades ahead of the deadline, including a buzzer beater.",
-          "by": "Nick Radosevich",
-          "when": "39m ago",
-          "href": "https://sports.yahoo.com/articles/padres-outlook-aggressive-trade-deadline-202410206.html",
-          "fetchedAt": 1786136638819
+          "t": "Cam Smith's Two Homers Lift Astros Past Padres to Spoil Robbie Ray's Debut",
+          "s": "The Astros spoiled Robbie Ray's Padres debut Friday night, beating San Diego 6-3 behind two Cam Smith homers and another strong bullpen performance.",
+          "by": "Sydney Cruse",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/cam-smiths-two-homers-lift-180004893.html",
+          "fetchedAt": 1786266283021
         },
         {
-          "t": "Astros vs Padres Prediction: Odds, recent stats, trends, and best bets for August 7",
-          "s": "Houston Astros vs San Diego Padres Game Preview",
-          "by": "Vaughn Dalzell",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/astros-vs-padres-prediction-odds-171841314.html",
-          "fetchedAt": 1786136638819
+          "t": "Padres lose to open series with Astros",
+          "s": "News to know about your San Diego Padres and MLB for August 8, 2026.",
+          "by": "Matt DeWalt",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/padres-lose-open-series-astros-133527358.html",
+          "fetchedAt": 1786266283021
         },
         {
-          "t": "Padres Will Preview New Pitching Acquisition Against Astros",
-          "s": "The San Diego Padres will send Robbie Ray to the mound for the first time, and expectations are high against Houston.",
+          "t": "Ray Struggles In Padres Debut As Houson Notches 6-3 Win",
+          "s": "The San Diego Padres added Robbie Ray at the trade deadline, but he definitely didn't have it last night.",
           "by": "Bob McCullough",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/padres-preview-pitching-acquisition-against-161411815.html",
-          "fetchedAt": 1786136638819
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/ray-struggles-padres-debut-houson-124816128.html",
+          "fetchedAt": 1786266283021
         }
       ],
       "nbcNews": [
@@ -1709,14 +1651,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/mets-rookie-outfielder-carson-benge-013415617.html",
           "fetchedAt": 1786179803969
-        },
-        {
-          "t": "Carson Benge continues rookie surge in Mets’ offensive explosion",
-          "s": "Rookie Carson Benge went 3-for-6 and Luis Torrens homered to lead the Mets to a dominant 13-6 blowout victory over the Guardians.",
-          "by": "Mike Puma",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/carson-benge-continues-rookie-surge-004822488.html",
-          "fetchedAt": 1786179803969
         }
       ],
       "nbcNews": []
@@ -1733,22 +1667,6 @@
           "by": "Dominic Pagura",
           "when": "13h ago",
           "href": "https://sports.yahoo.com/articles/gabriel-arias-wont-back-guardians-195749684.html",
-          "fetchedAt": 1786179806257
-        },
-        {
-          "t": "Guardians’ Angel Genao Given ‘Superman’ Label After Historic Debut",
-          "s": "The Cleveland Guardians made the decision to call up top prospect Angel Genao on Tuesday, and the team was immediately rewarded. Genao put together a historic debut for Cleveland, going 4-for-5 with one RBI. With this performance, Genao became the first player in Guardians history to record four hits in his big league debut. The […] The post Guardians’ Angel Genao Given ‘Superman’ Label After Historic Debut appeared first on HEAVY.",
-          "by": "Matt Levine",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-angel-genao-given-superman-230904601.html",
-          "fetchedAt": 1786179806257
-        },
-        {
-          "t": "Guardians prospect Angel Genao reflects on 4-hit MLB debut",
-          "s": "Angel Genao spent much of his childhood practicing to become a switch hitter with his brother. He just made his MLB debut and some Cleveland history.",
-          "by": "Ryan Lewis, Akron Beacon Journal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-prospect-angel-genao-reflects-101616375.html",
           "fetchedAt": 1786179806257
         }
       ],
