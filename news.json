@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-09T21:04:58.514Z",
+  "lastUpdatedNews": "2026-08-09T21:21:20.128Z",
   "players": [
     {
       "id": 11928,
@@ -455,7 +455,14 @@
           "fetchedAt": 1786223065798
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Twins place Joe Ryan (glute) on 15-day IL",
+          "date": "2026-08-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/twins-place-joe-ryan-glute-on-15-day-il",
+          "fetchedAt": 1786310480128
+        }
+      ]
     },
     {
       "id": 10940,
@@ -578,7 +585,14 @@
           "fetchedAt": 1786223074322
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Kilian suffers apparent side injury",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/caleb-kilian-suffers-apparent-side-injury",
+          "fetchedAt": 1786310480128
+        }
+      ]
     },
     {
       "id": 11998,
@@ -762,7 +776,14 @@
           "fetchedAt": 1786266297195
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin getting a breather on Sunday",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/caleb-durbin-getting-a-breather-on-sunday",
+          "fetchedAt": 1786310480128
+        }
+      ]
     },
     {
       "id": 12100,
@@ -1163,7 +1184,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Helsley (elbow) resumes throwing program",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/ryan-helsley-elbow-resumes-throwing-program",
+          "fetchedAt": 1786310480128
+        }
+      ]
     },
     {
       "id": 11706,
