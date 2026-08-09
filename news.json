@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-09T09:05:05.745Z",
+  "lastUpdatedNews": "2026-08-09T09:21:42.133Z",
   "players": [
     {
       "id": 11928,
@@ -35,10 +35,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Dillon Dingler goes 2-for-3, hits 25th homer",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/dillon-dingler-goes-2-for-3-hits-25th-homer",
-          "fetchedAt": 1786008047250
+          "t": "Dillon Dingler reaches 80 RBI in win over Giants",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/dillon-dingler-reaches-80-rbi-in-win-over-giants",
+          "fetchedAt": 1786267302133
         }
       ]
     },
@@ -149,14 +149,7 @@
           "fetchedAt": 1786223044675
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis goes deep as Twins rally late",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/royce-lewis-goes-deep-as-twins-rally-late",
-          "fetchedAt": 1786094467563
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -486,14 +479,7 @@
           "fetchedAt": 1786223065798
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan (glute) expected to land on 15-day IL",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/joe-ryan-glute-expected-to-land-on-15-day-il",
-          "fetchedAt": 1786051275336
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -566,7 +552,14 @@
           "fetchedAt": 1786223078516
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns allows five runs in loss to Nationals",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/chase-burns-allows-five-runs-in-loss-to-nationals",
+          "fetchedAt": 1786267302133
+        }
+      ]
     },
     {
       "id": 11203,
@@ -591,14 +584,7 @@
           "fetchedAt": 1786179798096
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft gives up four runs in defeat",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/braxton-ashcraft-gives-up-four-runs-in-defeat",
-          "fetchedAt": 1786051275336
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -874,14 +860,7 @@
           "fetchedAt": 1786266297195
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin wins marathon game in 13th for Boston",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/caleb-durbin-wins-marathon-game-13th-for-red-sox",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -914,7 +893,14 @@
           "fetchedAt": 1786266280502
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Otto Lopez drives in two, reaches three times in win",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/otto-lopez-drives-in-two-reaches-three-times-in-win",
+          "fetchedAt": 1786267302133
+        }
+      ]
     },
     {
       "id": 10234,
@@ -1005,7 +991,14 @@
           "fetchedAt": 1786266284852
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill slugs 17th home run in win",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jackson-merrill-slugs-17th-home-run-in-win",
+          "fetchedAt": 1786267302133
+        }
+      ]
     },
     {
       "id": 10504,
@@ -1228,14 +1221,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Franklin Arias continues hot stretch at AAA",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/franklin-arias-continues-hot-stretch-at-aaa",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64967,
@@ -1358,14 +1344,7 @@
           "fetchedAt": 1786179838436
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease shuts out Cubs for seven, fans 10",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/dylan-cease-shuts-out-cubs-for-seven-fans-10",
-          "fetchedAt": 1786137652651
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1406,14 +1385,7 @@
           "fetchedAt": 1786223086371
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez beats Nats to earn 15th victory",
-          "date": "2026-08-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-06/cristopher-sanchez-beats-nats-to-earn-15th-victory",
-          "fetchedAt": 1786094467563
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
@@ -1430,7 +1402,14 @@
           "fetchedAt": 1786179802152
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish allows two unearned in loss",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/kyle-bradish-allows-two-unearned-in-loss",
+          "fetchedAt": 1786267302133
+        }
+      ]
     },
     {
       "id": 9121,
@@ -1463,7 +1442,14 @@
           "fetchedAt": 1786266300995
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole collects nine strikeouts in victory",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/gerrit-cole-collects-nine-strikeouts-in-victory",
+          "fetchedAt": 1786267302133
+        }
+      ]
     },
     {
       "id": 11014,
