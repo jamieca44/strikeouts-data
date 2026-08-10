@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-10T09:21:08.537Z",
+  "lastUpdatedNews": "2026-08-10T21:06:43.306Z",
   "players": [
     {
       "id": 11928,
@@ -217,12 +217,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
       "yahooNews": [
         {
-          "t": "Brewers' Four Untouchables Derailed Skubal Trade",
-          "s": "The Milwaukee Brewers' refusal to part with top prospects, including Jesus Made and Logan Henderson, collapsed a potential blockbuster.",
-          "by": "Jordon Lawrenz",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/brewers-four-untouchables-derailed-skubal-130034358.html",
-          "fetchedAt": 1786223076470
+          "t": "Minor-league report; Jett Williams re-injured in first at-bat back",
+          "s": "Jett Williams returned from injury and was lost again after one at-bat, and an incredible catch in this week's Brewers minor-league report.",
+          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/minor-league-report-jett-williams-235528021.html",
+          "fetchedAt": 1786395983386
+        },
+        {
+          "t": "CC Sabathia declares Brewers ‘blew it’ with Tarik Skubal trade fail",
+          "s": "Sabathia thinks the Brewers will regret not offering more for starting pitcher Tarik Skubal. The pitcher instead was sent to Los Angeles.",
+          "by": "Benjamin Adducchio, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cc-sabathia-declares-brewers-blew-142532700.html",
+          "fetchedAt": 1786395983386
         }
       ],
       "nbcNews": []
@@ -297,14 +305,6 @@
           "by": "Gavin Groe",
           "when": "22h ago",
           "href": "https://sports.yahoo.com/articles/guardians-explanation-jose-ramirez-absence-230053328.html",
-          "fetchedAt": 1786309481855
-        },
-        {
-          "t": "Fan Suing New York Yankees for $10 Million in Wild Lawsuit",
-          "s": "When baseball fans buy tickets to games, it’s understood that they assume any injury risk that could happen during games.But that’s not stopping one fan from suing the New York Yankees for $10 million after she was injured during a recent game against the Cleveland Guardians when she was struck in the head by a […] The post Fan Suing New York Yankees for $10 Million in Wild Lawsuit appeared first on HEAVY.",
-          "by": "Michael Gallagher",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/fan-suing-york-yankees-10-052014849.html",
           "fetchedAt": 1786309481855
         }
       ],
@@ -396,28 +396,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [
         {
-          "t": "Dodgers get Tarik Skubal prediction that could make trade look like a mistake",
-          "s": "This prediction would make the trade a whole lot more risky for the Dodgers.",
-          "by": "Matt Sullivan",
-          "when": "34m ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-prediction-could-203023049.html",
-          "fetchedAt": 1786223067528
+          "t": "Tarik Skubal Sends Message To Dodgers Fans After Tigers Comment",
+          "s": "The Los Angeles Dodgers added Tarik Skubal at the trade deadline",
+          "by": "Aaliyan Mohammed",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-sends-message-dodgers-194050731.html",
+          "fetchedAt": 1786395978657
         },
         {
-          "t": "Mets get $280M Tarik Skubal prediction that would be dream-come-true",
-          "s": "This prediction for the Mets would be a dream-come-true.",
-          "by": "Matt Sullivan",
-          "when": "52m ago",
-          "href": "https://sports.yahoo.com/articles/mets-280m-tarik-skubal-prediction-201211712.html",
-          "fetchedAt": 1786223067528
+          "t": "Freddie Freeman Defends Tarik Skubal After Controversial Comments",
+          "s": "Los Angeles Dodgers first baseman Freddie Freeman had Tarik Skubal's back after he said he would love to return to the Detroit Tigers.",
+          "by": "Aaron Coloma",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-defends-tarik-skubal-192625682.html",
+          "fetchedAt": 1786395978657
         },
         {
-          "t": "Why Dodgers shouldn’t panic despite sudden 7-game losing streak",
-          "s": "The Los Angeles Dodgers have lost seven straight, but their division lead, elite offense, and improving rotation should ease their concerns.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/why-dodgers-shouldn-t-panic-164652548.html",
-          "fetchedAt": 1786223067528
+          "t": "Tarik Skubal will make Dodgers home debut at crucial time",
+          "s": "Tarik Skubal, the two-time Cy Young Award winner, will make his first home start for the Dodgers with Los Angeles in need of a spark.",
+          "by": "Josh Peter, USA TODAY",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-dodgers-home-debut-191157779.html",
+          "fetchedAt": 1786395978657
         }
       ],
       "nbcNews": []
@@ -427,7 +427,24 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Monday Morning Minnesota: The “Youth Movement” Edition",
+          "s": "So you’re saying there’s a chance…again",
+          "by": "John Ke",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/monday-morning-minnesota-youth-movement-164228740.html",
+          "fetchedAt": 1786395938164
+        },
+        {
+          "t": "Game 118: Twins at Brewers",
+          "s": "First Pitch: 6:10 pm CDTTV: Twins.TVRadio: TIBN / WCCO 830 / The Wolf 102.9 FM / Audacy Armed with their latest weapon — unstoppable rookie Kaelen Culpepper — the Twins aim to take the series against baseball’s best team. They already got one; what’s one more? After all, if there’s one thing I’ve learned from watching […]",
+          "by": "Brandon Brooks",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/game-118-twins-brewers-221000496.html",
+          "fetchedAt": 1786395938164
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -437,20 +454,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "Gore activated, Peoples optioned",
-          "s": "MacKenzie Gore is back from the paternity list",
-          "by": "Adam J. Morris",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/gore-activated-peoples-optioned-194107140.html",
-          "fetchedAt": 1786266278811
+          "t": "Rangers Head West to Open Three-Game Series With Angels",
+          "s": "The Texas Rangers will journey to Anaheim to open a big three-game series with the last-place Los Angeles Angels on Monday night.",
+          "by": "Kane McCutchen",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-head-west-open-three-151606479.html",
+          "fetchedAt": 1786395994166
         },
         {
-          "t": "Texas Rangers lineup for August 8, 2026",
-          "s": "Texas against the Orioles in the middle game of the series",
-          "by": "Adam J. Morris",
+          "t": "Rangers-Angels Series Preview: How to Watch, Starting Pitchers, Injured List",
+          "s": "Here's how to keep up with the entire Texas Rangers-Los Angeles Angels series that starts on Monday at Angel Stadium.",
+          "by": "Matt Postins",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-angels-series-preview-watch-160003830.html",
+          "fetchedAt": 1786395994166
+        },
+        {
+          "t": "Angels host the Rangers to start 4-game series",
+          "s": "Texas Rangers (59-59, second in the AL West) vs. Los Angeles Angels (45-73, fifth in the AL West) Anaheim, California; Monday, 9:38 p.m. EDT PITCHING PROBABLES: Rangers: MacKenzie Gore (6-9, 4.55 ERA, 1.24 WHIP, 140 strikeouts); Angels: Reid Detmers (3-8, 4.12 ERA, 1.10 WHIP, 150 strikeouts) LINE: Rangers -121, Angels +103; over/under is 8 1/2 runs BOTTOM LINE: The Los Angeles Angels host the Texas Rangers on Monday to open a four-game series. Los Angeles is 25-33 at home and 45-73 overall.",
+          "by": "The Associated Press",
           "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-8-194405281.html",
-          "fetchedAt": 1786266278811
+          "href": "https://sports.yahoo.com/articles/angels-host-rangers-start-4-075506173.html",
+          "fetchedAt": 1786395994166
         }
       ],
       "nbcNews": [
@@ -467,7 +492,32 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "What Cincinnati Reds fans can look forward to for the rest of the season",
+          "s": "It ain’t much!",
+          "by": "Wick Terrell",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-fans-look-forward-034427159.html",
+          "fetchedAt": 1786395940220
+        },
+        {
+          "t": "Terry Francona Comments On Rare Chase Burns Loss",
+          "s": "Chase Burns suffered just his second loss of the season in his most recent outing on Saturday against the Washington Nationals.",
+          "by": "Charlie Rondeau",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/terry-francona-comments-rare-chase-002055411.html",
+          "fetchedAt": 1786395940220
+        },
+        {
+          "t": "Chase Burns is pitching like a $105 million man. The Reds aim to keep it that way.",
+          "s": "Chase Burns is emerging as a true MLB ace with a big contract to match - even if setbacks are inevitable along the way.",
+          "by": "Gabe Lacques, USA TODAY",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/chase-burns-pitching-105-million-032609021.html",
+          "fetchedAt": 1786395940220
+        }
+      ],
       "nbcNews": [
         {
           "t": "Chase Burns allows five runs in loss to Nationals",
@@ -490,7 +540,16 @@
       "name": "Braxton Ashcraft",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pirates Make Starting Pitchers Change Against Marlins",
+          "s": "The Pittsburgh Pirates rotation will look a bit different this time around.",
+          "by": "Dominic Campbell",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-starting-pitchers-change-against-112747420.html",
+          "fetchedAt": 1786395944896
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -498,7 +557,32 @@
       "name": "Emmet Sheehan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tarik Skubal Sends Message To Dodgers Fans After Tigers Comment",
+          "s": "The Los Angeles Dodgers added Tarik Skubal at the trade deadline",
+          "by": "Aaliyan Mohammed",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-sends-message-dodgers-194050731.html",
+          "fetchedAt": 1786395947225
+        },
+        {
+          "t": "Dodgers Got First Look at Sheehan After Triple-A Demotion",
+          "s": "After a rocky demotion to Oklahoma City, Emmet Sheehan’s first minor-league start raised eyebrows as the Los Angeles Dodgers prioritize mechanical adjustments.",
+          "by": "Eduardo Solano",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-got-first-look-sheehan-140500260.html",
+          "fetchedAt": 1786395947225
+        },
+        {
+          "t": "The Dodgers-Tigers Tarik Skubal trade twist nobody expected",
+          "s": "The Dodgers' trade with the Tigers for Tarik Skubal isn't yet producing the results many fans expected at the time of the deal's announcement.",
+          "by": "Jedd Pagaduan, ClutchPoints",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-tigers-tarik-skubal-trade-062354130.html",
+          "fetchedAt": 1786395947225
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -508,12 +592,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [
         {
-          "t": "Brooks Raley Reveals How He Will Succeed With Phillies",
-          "s": "New Philadelphia Phillies relief pitcher Brooks Raley reveals how he succeeds with an unorthodox approach on the mound.",
+          "t": "'It Didn't Look Good' Don Mattingly Says of Injured Phillies Reliever",
+          "s": "A Philadelphia Phillies relief pitcher suffered what looks to be a significant injury against the Toronto Blue Jays.",
           "by": "Kenneth Teape",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/didnt-look-good-don-mattingly-142631067.html",
+          "fetchedAt": 1786395980955
+        },
+        {
+          "t": "Phillies' Latest Injury is a Bigger Blow Than You Think",
+          "s": "",
+          "by": "",
           "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/brooks-raley-reveals-succeed-phillies-140004310.html",
-          "fetchedAt": 1786223074322
+          "href": "https://sports.yahoo.com/videos/phillies-latest-injury-bigger-blow-134605012.html",
+          "fetchedAt": 1786395980955
+        },
+        {
+          "t": "Phillies' Latest Injury is a Bigger Blow Than You Think",
+          "s": "One of the Philadelphia Phillies' top additions has already suffered an injury.",
+          "by": "Matthew Schmidt",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-latest-injury-bigger-blow-134605603.html",
+          "fetchedAt": 1786395980955
         }
       ],
       "nbcNews": [
@@ -532,27 +632,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [
         {
+          "t": "Bryan Baker Makes Rays History With Save Against Mariners",
+          "s": "Tampa Bay Rays closer Bryan Baker made some incredible history with his most recent save against the Seattle Mariners.",
+          "by": "Kenneth Teape",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/bryan-baker-makes-rays-history-160006048.html",
+          "fetchedAt": 1786395985662
+        },
+        {
+          "t": "Rays Bullpen Steps Up to Beat Mariners After Griffin Jax Injury Scare",
+          "s": "The Tampa Bay Rays won their fifth straight game and clinched the series against the Seattle Mariners with a 3-2 victory. Tampa Bay improved to 70 wins as Bryan Baker set a Rays franchise record with his 23rd consecutive save conversion.",
+          "by": "Christian Rauh",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rays-bullpen-steps-beat-mariners-045943263.html",
+          "fetchedAt": 1786395985662
+        },
+        {
           "t": "Baker and the Pen deliver a series win in the PNW: Rays 3, Mariners 2",
           "s": "Baker makes Rays history to help Rays spoil the Mariner’s 50th anniversary party",
           "by": "Darby Robinson",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/baker-pen-deliver-series-win-050612451.html",
-          "fetchedAt": 1786266255758
-        },
-        {
-          "t": "Richie Palacios hits two-run single in Rays' 3-2 win",
-          "s": "Richie Palacios hits a crucial two-run single and Victor Mesa Jr. crushes a solo home run in the Rays' 3-2 win over the Mariners",
-          "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/richie-palacios-hits-two-run-053340220.html",
-          "fetchedAt": 1786266255758
-        },
-        {
-          "t": "Richie Palacio, Victor Mesa Jr. lead the Rays past the Mariners, 3-2",
-          "s": "Richie Palacios hit a two-run single in the sixth inning, Victor Mesa Jr. homered and the Tampa Bay Rays' bullpen held on for a 3-2 victory over the Seattle Mariners on Saturday night. Griffin Jax was set to start for the Rays, but was removed hours before first pitch because of discomfort in his right elbow. Tampa Bay used seven arms out of the bullpen, with Casey Legumina getting the start.",
-          "by": "LUKE OLSON",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/richie-palacio-victor-mesa-jr-045517855.html",
           "fetchedAt": 1786266255758
         }
       ],
@@ -635,32 +735,7 @@
       "name": "Freddie Freeman",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
-      "yahooNews": [
-        {
-          "t": "Why Dodgers shouldn’t panic despite sudden 7-game losing streak",
-          "s": "The Los Angeles Dodgers have lost seven straight, but their division lead, elite offense, and improving rotation should ease their concerns.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/why-dodgers-shouldn-t-panic-164652548.html",
-          "fetchedAt": 1786309493350
-        },
-        {
-          "t": "Tarik Skubal Reveals His Free Agency Hope After Tigers Trade",
-          "s": "The trade deadline is always somewhat of a cluster, and the biggest name on the trade block was the Detroit Tigers' former face of the organization, back-to-bac",
-          "by": "Maddy Dickens",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-reveals-free-agency-212230290.html",
-          "fetchedAt": 1786309493350
-        },
-        {
-          "t": "Tarik Skubal's Agent Says Dodgers Have Advantage to Sign Him Long-Term",
-          "s": "Tarik Skubal's agent dropped some interesting thoughts on the advantages the Los Angeles Dodgers will have to sign him long-term over the offseason.",
-          "by": "Matt Levine",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubals-agent-says-dodgers-192000777.html",
-          "fetchedAt": 1786309493350
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -684,14 +759,6 @@
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/red-sox-incredible-turnaround-made-223559010.html",
           "fetchedAt": 1786266297195
-        },
-        {
-          "t": "MLB Insider Drops Truth Bomb on Boston Red Sox Incredible Turnaround",
-          "s": "When the Boston Red Sox dropped two out of three to the Colorado Rockies in late June, that was rock bottom for what was turning into a nightmare season. To compound matters, they had plane troubles leaving Denver to get home to open a four-game home series against the New York Yankees.That loss dropped Boston […] The post MLB Insider Drops Truth Bomb on Boston Red Sox Incredible Turnaround appeared first on HEAVY.",
-          "by": "Scott Roche",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-insider-drops-truth-bomb-194452830.html",
-          "fetchedAt": 1786266297195
         }
       ],
       "nbcNews": [
@@ -710,19 +777,19 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [
         {
+          "t": "Red Sox Reportedly Tried To Acquire This Superstar Shortstop Before Trade Deadline",
+          "s": "The Boston Red Sox were reportedly looking at long-term shortstop options at the trade deadline",
+          "by": "Aaliyan Mohammed",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-reportedly-tried-acquire-135837475.html",
+          "fetchedAt": 1786395996036
+        },
+        {
           "t": "Otto Lopez's two-run single",
           "s": "",
           "by": "",
           "when": "11h ago",
           "href": "https://sports.yahoo.com/videos/otto-lopezs-two-run-single-210649139.html",
-          "fetchedAt": 1786266280502
-        },
-        {
-          "t": "Walbert Ureña fans Otto Lopez",
-          "s": "",
-          "by": "",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/videos/walbert-ure-fans-otto-lopez-203328847.html",
           "fetchedAt": 1786266280502
         }
       ],
@@ -742,12 +809,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [
         {
-          "t": "2026 Cubs Heroes and Goats: Pete Crow-Armstrong is the Superhero vs. the Royals",
-          "s": "The Cubs center fielder just keeps making things happen.",
-          "by": "Al Yellon",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-pete-150000086.html",
-          "fetchedAt": 1786266257771
+          "t": "2026 Cubs Heroes and Goats: Ian Happ is the Superhero vs. the Royals (again!)",
+          "s": "The Cubs rally behind Ian Happ and Matthew Boyd in a 10-2 victory over the Royals.",
+          "by": "Thomas Smith",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-ian-140000807.html",
+          "fetchedAt": 1786395988322
+        },
+        {
+          "t": "Chicago Cubs Announce Dansby Swanson Change Before Royals Game",
+          "s": "Despite dropping their Saturday evening contest to the Kansas City Royals, the Cubs have been one of the hottest teams in MLB over the past week or so, and they will be going for another series win on Sunday afternoon. Chicago is 68-50, and just 5.5 games behind the Milwaukee Brewers for first place in […] The post Chicago Cubs Announce Dansby Swanson Change Before Royals Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-191224810.html",
+          "fetchedAt": 1786395988322
+        },
+        {
+          "t": "2026 Cubs Heroes and Goats: Ian Happ is the Superhero vs. the Royals",
+          "s": "The Cubs fall behind early in Kansas City and are unable to dig out in a 6-3 loss.",
+          "by": "Thomas Smith",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-ian-143000544.html",
+          "fetchedAt": 1786395988322
         }
       ],
       "nbcNews": []
@@ -764,22 +847,6 @@
           "by": "Cole Sullivan",
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-pete-crow-000121453.html",
-          "fetchedAt": 1786266292795
-        },
-        {
-          "t": "Dodgers plummet in Post Power Rankings even after Tarik Skubal trade",
-          "s": "Each week, the California Post will power rank MLB’s 30 teams and check in on one intriguing awards race. This week, we’re looking at how much the rankings shook up...",
-          "by": "Jack Harris",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-plummet-post-power-rankings-163412690.html",
-          "fetchedAt": 1786266292795
-        },
-        {
-          "t": "2026 Cubs Heroes and Goats: Pete Crow-Armstrong is the Superhero vs. the Royals",
-          "s": "The Cubs center fielder just keeps making things happen.",
-          "by": "Al Yellon",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-pete-150000086.html",
           "fetchedAt": 1786266292795
         }
       ],
@@ -904,16 +971,7 @@
       "name": "Cam Smith",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
-      "yahooNews": [
-        {
-          "t": "Cam Smith's Two Homers Lift Astros Past Padres to Spoil Robbie Ray's Debut",
-          "s": "The Astros spoiled Robbie Ray's Padres debut Friday night, beating San Diego 6-3 behind two Cam Smith homers and another strong bullpen performance.",
-          "by": "Sydney Cruse",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/cam-smiths-two-homers-lift-180004893.html",
-          "fetchedAt": 1786266299414
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Cam Smtih hits two homers in Astros’ victory",
@@ -945,6 +1003,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [
+        {
+          "t": "Fantasy Baseball Waiver Wire: Huge weekends from George Lombard, Kaelen Culpepper, Jackson Jobe",
+          "s": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
+          "by": "Eric Samulski, James Schiano",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-kaelen-195609013.html",
+          "fetchedAt": 1786395991461
+        },
         {
           "t": "Noelvi Marte's sliding catch",
           "s": "",
@@ -1042,14 +1108,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/cubs-share-bad-news-matt-174500013.html",
           "fetchedAt": 1786352699816
-        },
-        {
-          "t": "Chicago Cubs Announced Matt Shaw Update Before Royals Series",
-          "s": "On Friday night, the Chicago Cubs opened up a series with the Royals in Kansas City.They won by a score of 6-4.The two teams will resume action on Saturday night.Chicago Cubs Announced Matt Shaw UpdateAhead of their series with the Royals, the Cubs announced the latest update on Matt Shaw.He has been out since June […] The post Chicago Cubs Announced Matt Shaw Update Before Royals Series appeared first on HEAVY.",
-          "by": "Ben Stinar",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-announced-matt-shaw-174348036.html",
-          "fetchedAt": 1786223034915
         }
       ],
       "nbcNews": []
@@ -1067,7 +1125,32 @@
       "name": "Eduardo Quintero",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tarik Skubal Sends Message To Dodgers Fans After Tigers Comment",
+          "s": "The Los Angeles Dodgers added Tarik Skubal at the trade deadline",
+          "by": "Aaliyan Mohammed",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-sends-message-dodgers-194050731.html",
+          "fetchedAt": 1786395965339
+        },
+        {
+          "t": "Eduardo Quintero, Josue De Paula, Charles Davalan shine Sunday",
+          "s": "A recap of Sunday in the Dodgers minor leagues, outside of Tyler Glasnow’s rehab start for Oklahoma City on Sunday night. Player of the day Eduardo Quintero, who was ranked the No. 16 prospect in the sport last week in an update by Baseball America, hit a two-run home run in the ninth inning to […]",
+          "by": "Eric Stephen",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/eduardo-quintero-josue-paula-charles-140400256.html",
+          "fetchedAt": 1786395965339
+        },
+        {
+          "t": "The Dodgers-Tigers Tarik Skubal trade twist nobody expected",
+          "s": "The Dodgers' trade with the Tigers for Tarik Skubal isn't yet producing the results many fans expected at the time of the deal's announcement.",
+          "by": "Jedd Pagaduan, ClutchPoints",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-tigers-tarik-skubal-trade-062354130.html",
+          "fetchedAt": 1786395965339
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1173,7 +1256,24 @@
       "name": "Ryan Helsley",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Orioles Could Add 2 All-Star Closers for Playoff Push",
+          "s": "Félix Bautista and Ryan Helsley are progressing from injuries, giving the Orioles two possible All-Star bullpen reinforcements for September. The post Orioles Could Add 2 All-Star Closers for Playoff Push appeared first on HEAVY.",
+          "by": "Alvin Garcia",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/orioles-could-add-2-star-181951850.html",
+          "fetchedAt": 1786395967879
+        },
+        {
+          "t": "Baltimore Orioles’ Ryan Helsley Hopeful to Return in 2026 After Injury Update",
+          "s": "Baltimore Orioles relief pitcher Ryan Helsley had an update on his injury.",
+          "by": "Jesus Jimenez",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/baltimore-orioles-ryan-helsley-hopeful-160004001.html",
+          "fetchedAt": 1786395967879
+        }
+      ],
       "nbcNews": [
         {
           "t": "Ryan Helsley (elbow) resumes throwing program",
@@ -1360,28 +1460,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [
         {
-          "t": "Cam Smith's Two Homers Lift Astros Past Padres to Spoil Robbie Ray's Debut",
-          "s": "The Astros spoiled Robbie Ray's Padres debut Friday night, beating San Diego 6-3 behind two Cam Smith homers and another strong bullpen performance.",
-          "by": "Sydney Cruse",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/cam-smiths-two-homers-lift-180004893.html",
-          "fetchedAt": 1786266283021
-        },
-        {
-          "t": "Padres lose to open series with Astros",
-          "s": "News to know about your San Diego Padres and MLB for August 8, 2026.",
+          "t": "Padres Reacts Survey Results: Fans not overly impressed with Trade Deadline additions",
+          "s": "Fans hope the rough debuts are anomalies for Casey Mize and Robbie Ray.",
           "by": "Matt DeWalt",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/padres-lose-open-series-astros-133527358.html",
-          "fetchedAt": 1786266283021
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/padres-reacts-survey-results-fans-053000144.html",
+          "fetchedAt": 1786396000667
         },
         {
-          "t": "Ray Struggles In Padres Debut As Houson Notches 6-3 Win",
-          "s": "The San Diego Padres added Robbie Ray at the trade deadline, but he definitely didn't have it last night.",
-          "by": "Bob McCullough",
+          "t": "Padres 'have enough' to secure NL Wild Card spot",
+          "s": "CC Sabathia and Ahmed Fareed review where the Astros and Padres stand in the post-trade deadline landscape, where Houston was comfortable \\\"standing pat\\\" and San Diego made moves that brought \\\"life\\\" to the clubhouse.",
+          "by": "",
           "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/ray-struggles-padres-debut-houson-124816128.html",
-          "fetchedAt": 1786266283021
+          "href": "https://sports.yahoo.com/videos/padres-enough-secure-nl-wild-003010300.html",
+          "fetchedAt": 1786396000667
+        },
+        {
+          "t": "Padres GM Changed His Deadline Approach With A Big Risk",
+          "s": "The San Diego Padres made big moves at the trade deadline, but GM A.J. Preller also took a big risk.",
+          "by": "Bob McCullough",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/padres-gm-changed-deadline-approach-213704009.html",
+          "fetchedAt": 1786396000667
         }
       ],
       "nbcNews": [
@@ -1430,24 +1530,7 @@
       "name": "Christian Scott",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60292.1.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Mets make roster move following Carson Benge update",
-          "s": "The New York Mets made a change to the roster after an update on rookie outfielder Carson Benge.",
-          "by": "Gavin Groe",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mets-roster-move-following-carson-203237611.html",
-          "fetchedAt": 1786309477736
-        },
-        {
-          "t": "Carson Benge left Friday’s game with wrist soreness",
-          "s": "Initial imaging results are positive.",
-          "by": "Brian Salvatore",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/carson-benge-left-friday-game-122123663.html",
-          "fetchedAt": 1786309477736
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1462,22 +1545,6 @@
           "by": "Cade Cracas",
           "when": "4h ago",
           "href": "https://sports.yahoo.com/articles/guardians-may-found-season-spark-164530013.html",
-          "fetchedAt": 1786309480068
-        },
-        {
-          "t": "Guardians News: Can Another Angel Slam Save a Season?",
-          "s": "News and Notes for Saturday, August 9th, 2026",
-          "by": "Quincy Wheeler",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-news-another-angel-slam-113713032.html",
-          "fetchedAt": 1786309480068
-        },
-        {
-          "t": "Mets Claim Former Cleveland Top Infield Prospect Off Waivers",
-          "s": "The New York Mets have reportedly claimed Cleveland Guardians infielder Gabriel Arias off waivers, per team announcements. Arias (age 26) has hit for a .244 batting average this season with 5 home runs, 11 RBI’s, and a .670 OPS. Arias has played all over the infield, having stints at shortstop, third base, and first base. […] The post Mets Claim Former Cleveland Top Infield Prospect Off Waivers appeared first on HEAVY.",
-          "by": "Matt Cunningham",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mets-claim-former-cleveland-top-224711015.html",
           "fetchedAt": 1786309480068
         }
       ],
