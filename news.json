@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-10T09:05:09.223Z",
+  "lastUpdatedNews": "2026-08-10T09:21:08.537Z",
   "players": [
     {
       "id": 11928,
@@ -78,18 +78,6 @@
           "t": "Vladimir Guerrero Jr. (hamstring) returns to lineup",
           "date": "2026-08-08",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/vladimir-guerrero-jr-hamstring-returns-to-lineup",
-          "fetchedAt": 1786224067585
-        },
-        {
-          "t": "Vladimir Guerrero Jr. (hamstring) could pinch-hit",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/vladimir-guerrero-jr-hamstring-could-pinch-hit",
-          "fetchedAt": 1786224067585
-        },
-        {
-          "t": "Vladimir Guerrero Jr. sitting third straight game",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/vladimir-guerrero-jr-sitting-third-straight-game",
           "fetchedAt": 1786224067585
         }
       ]
@@ -209,6 +197,12 @@
       ],
       "nbcNews": [
         {
+          "t": "Fernando Tatis Jr. hits three-run homer on SNB",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/fernando-tatis-jr-hits-three-run-homer-on-snb",
+          "fetchedAt": 1786353668537
+        },
+        {
           "t": "Fernando Tatis Jr. goes 2-for-5, hits 10th homer",
           "date": "2026-08-08",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/fernando-tatis-jr-goes-2-for-5-hits-10th-homer",
@@ -289,14 +283,7 @@
           "fetchedAt": 1786352695029
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz hits solo homer in Reds loss",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/elly-de-la-cruz-hits-solo-homer-in-reds-loss",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -345,14 +332,7 @@
           "fetchedAt": 1786309438907
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Reynolds notches two hits in loss to Mets",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/bryan-reynolds-notches-two-hits-in-loss-to-mets",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9876,
@@ -385,7 +365,14 @@
           "fetchedAt": 1786352702713
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Nimmo slugs three-run homer in loss to BAL",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/nimmo-slugs-two-run-homer-in-loss-to-bal",
+          "fetchedAt": 1786353668537
+        }
+      ]
     },
     {
       "id": 12086,
@@ -433,14 +420,7 @@
           "fetchedAt": 1786223067528
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Blake Snell (elbow) set to return on Tuesday",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/blake-snell-elbow-set-to-return-on-tuesday",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -448,14 +428,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Twins place Joe Ryan (glute) on 15-day IL",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/twins-place-joe-ryan-glute-on-15-day-il",
-          "fetchedAt": 1786310480128
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -688,14 +661,7 @@
           "fetchedAt": 1786309493350
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman (hand) returns to lineup Friday",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/freddie-freeman-hand-returns-to-lineup-friday",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -703,14 +669,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana sits against left-hander on Friday",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/travis-bazzana-sits-against-left-hander-on-friday",
-          "fetchedAt": 1786137652651
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -1012,7 +971,14 @@
           "fetchedAt": 1786309453544
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Young has two hits, RBI in loss",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/young-has-two-hits-rbi-in-loss",
+          "fetchedAt": 1786353668537
+        }
+      ]
     },
     {
       "id": 11768,
@@ -1170,10 +1136,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Rosenthal: Braves had trade in place for deGrom",
-          "date": "2026-08-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-07/rosenthal-braves-had-trade-in-place-for-degrom",
-          "fetchedAt": 1786137652651
+          "t": "Jacob deGrom limits Orioles to one run in win",
+          "date": "2026-08-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jacob-degrom-limits-orioles-to-one-run-in-win",
+          "fetchedAt": 1786353668537
         }
       ]
     },
@@ -1378,7 +1344,14 @@
           "fetchedAt": 1786266290857
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo strikes out 12 against Toronto",
+          "date": "2026-08-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/jesus-luzardo-strikes-out-12-against-toronto",
+          "fetchedAt": 1786353668537
+        }
+      ]
     },
     {
       "id": 9691,
