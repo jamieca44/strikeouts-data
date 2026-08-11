@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-11T09:05:52.591Z",
+  "lastUpdatedNews": "2026-08-11T09:21:11.206Z",
   "players": [
     {
       "id": 11928,
@@ -8,14 +8,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler reaches 80 RBI in win over Giants",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/dillon-dingler-reaches-80-rbi-in-win-over-giants",
-          "fetchedAt": 1786267302133
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -48,14 +41,7 @@
           "fetchedAt": 1786309495329
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. (hamstring) returns to lineup",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/vladimir-guerrero-jr-hamstring-returns-to-lineup",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -88,14 +74,7 @@
           "fetchedAt": 1786309489349
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. takes a seat against Chris Sale",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/luis-garcia-jr-takes-a-seat-against-chris-sale",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -136,7 +115,14 @@
           "fetchedAt": 1786439136976
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson drives in three runs in loss Monday",
+          "date": "2026-08-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-10/alec-burleson-drives-in-three-runs-in-loss-monday",
+          "fetchedAt": 1786440071206
+        }
+      ]
     },
     {
       "id": 64313,
@@ -183,12 +169,6 @@
           "date": "2026-08-09",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/fernando-tatis-jr-hits-three-run-homer-on-snb",
           "fetchedAt": 1786353668537
-        },
-        {
-          "t": "Fernando Tatis Jr. goes 2-for-5, hits 10th homer",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/fernando-tatis-jr-goes-2-for-5-hits-10th-homer",
-          "fetchedAt": 1786180851167
         }
       ]
     },
@@ -272,14 +252,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "José Ramírez goes 2-for-5, steals base",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jose-ramirez-goes-2-for-5-steals-base",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -352,14 +325,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz slams door on Orioles in six-out save",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jacob-latz-slams-door-on-orioles-in-six-out-save",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -392,7 +358,14 @@
           "fetchedAt": 1786395978657
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal gives up three runs to Royals",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/tarik-skubal-gives-up-three-runs-to-royals",
+          "fetchedAt": 1786440071206
+        }
+      ]
     },
     {
       "id": 11847,
@@ -450,14 +423,7 @@
           "fetchedAt": 1786395994166
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Rangers activate MacKenzie Gore from paternity list",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/rangers-activate-mackenzie-gore-from-paternity-list",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -490,14 +456,7 @@
           "fetchedAt": 1786395940220
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns allows five runs in loss to Nationals",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/chase-burns-allows-five-runs-in-loss-to-nationals",
-          "fetchedAt": 1786267302133
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -620,14 +579,7 @@
           "fetchedAt": 1786395985662
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker notches 33rd save for Rays",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/bryan-baker-notches-33rd-save-for-rays",
-          "fetchedAt": 1786224067585
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -660,14 +612,7 @@
           "fetchedAt": 1786439144155
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz gives up walkoff homer to D-backs",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/edwin-diaz-gives-up-walkoff-homer-to-d-backs",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -781,14 +726,7 @@
           "fetchedAt": 1786395996036
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Otto Lopez drives in two, reaches three times in win",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/otto-lopez-drives-in-two-reaches-three-times-in-win",
-          "fetchedAt": 1786267302133
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -887,14 +825,7 @@
           "fetchedAt": 1786439125123
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill slugs 17th home run in win",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jackson-merrill-slugs-17th-home-run-in-win",
-          "fetchedAt": 1786267302133
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -1002,14 +933,7 @@
           "fetchedAt": 1786439105375
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cam Smtih hits two homers in Astros’ victory",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/cam-smtih-hits-two-homers-in-astros-victory",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -1224,14 +1148,7 @@
           "fetchedAt": 1786352677291
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom limits Orioles to one run in win",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/jacob-degrom-limits-orioles-to-one-run-in-win",
-          "fetchedAt": 1786353668537
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1337,14 +1254,7 @@
           "fetchedAt": 1786309475594
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish allows two unearned in loss",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/kyle-bradish-allows-two-unearned-in-loss",
-          "fetchedAt": 1786267302133
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -1377,14 +1287,7 @@
           "fetchedAt": 1786439134635
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole collects nine strikeouts in victory",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/gerrit-cole-collects-nine-strikeouts-in-victory",
-          "fetchedAt": 1786267302133
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -1417,7 +1320,14 @@
           "fetchedAt": 1786352706886
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta strikes out five in no-decision",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/freddy-peralta-strikes-out-five-in-no-decision",
+          "fetchedAt": 1786440071206
+        }
+      ]
     },
     {
       "id": 10627,
@@ -1490,14 +1400,7 @@
           "fetchedAt": 1786396000667
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray surrenders four runs in defeat",
-          "date": "2026-08-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/robbie-ray-surrenders-four-runs-in-defeat",
-          "fetchedAt": 1786180851167
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
