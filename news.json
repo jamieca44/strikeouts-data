@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-12T09:05:02.106Z",
+  "lastUpdatedNews": "2026-08-12T09:21:09.479Z",
   "players": [
     {
       "id": 11928,
@@ -99,7 +99,14 @@
           "fetchedAt": 1786482345901
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. hits two doubles in Yankees’ win",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/luis-garcia-jr-hits-two-doubles-in-yankees-win",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 10916,
@@ -164,7 +171,14 @@
           "fetchedAt": 1786482302301
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Nick Kurtz (thumb) unlikely to return this season",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/nick-kurtz-thumb-unlikely-to-return-this-season",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 10639,
@@ -197,14 +211,7 @@
           "fetchedAt": 1786482350590
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. hits three-run homer on SNB",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/fernando-tatis-jr-hits-three-run-homer-on-snb",
-          "fetchedAt": 1786353668537
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -262,7 +269,20 @@
           "fetchedAt": 1786482308048
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts collects three hits, homers in win",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/mookie-betts-collects-three-hits-homers-in-win",
+          "fetchedAt": 1786526469479
+        },
+        {
+          "t": "Kyle Tucker hitting cleanup on Tuesday vs. Royals",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/kyle-tucker-hitting-cleanup-on-tuesday-vs-royals",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 12393,
@@ -312,14 +332,7 @@
           "fetchedAt": 1786525441837
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ramírez has two hits, two RBI in return to lineup",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/ramirez-has-two-hits-two-rbi-in-return-to-lineup",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -369,14 +382,7 @@
           "fetchedAt": 1786482365400
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Nimmo slugs three-run homer in loss to BAL",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/nimmo-slugs-two-run-homer-in-loss-to-bal",
-          "fetchedAt": 1786353668537
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -612,14 +618,7 @@
           "fetchedAt": 1786525490187
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Kilian suffers apparent side injury",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/caleb-kilian-suffers-apparent-side-injury",
-          "fetchedAt": 1786310480128
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -636,14 +635,7 @@
           "fetchedAt": 1786525495023
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker sets Rays record for consecutive saves",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/bryan-baker-sets-rays-record-for-consecutive-saves",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -733,7 +725,14 @@
           "fetchedAt": 1786525449562
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers holds Mariners to one run, two hits",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/ryan-weathers-holds-mariners-to-one-run-two-hits",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 8658,
@@ -766,7 +765,14 @@
           "fetchedAt": 1786439097508
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Tucker hitting cleanup on Tuesday vs. Royals",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/kyle-tucker-hitting-cleanup-on-tuesday-vs-royals",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 64311,
@@ -814,14 +820,7 @@
           "fetchedAt": 1786439131665
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin getting a breather on Sunday",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/caleb-durbin-getting-a-breather-on-sunday",
-          "fetchedAt": 1786310480128
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -895,7 +894,20 @@
           "fetchedAt": 1786439129140
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong homers again as Cubs beat Nats",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/pete-crow-armstrong-homers-again-as-cubs-beat-nats",
+          "fetchedAt": 1786526469479
+        },
+        {
+          "t": "Pete Crow-Armstrong back in center field vs. Nats",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/pete-crow-armstrong-back-in-center-field-vs-nats",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 12522,
@@ -1001,7 +1013,20 @@
           "fetchedAt": 1786482359035
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene exits game with hamstring tightness",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/riley-greene-exits-game-with-hamstring-tightness",
+          "fetchedAt": 1786526469479
+        },
+        {
+          "t": "Riley Greene exits game following hit-by-pitch",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/riley-greene-exits-game-following-hit-by-pitch",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 10496,
@@ -1092,7 +1117,26 @@
           "fetchedAt": 1786439109028
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve to undergo additional imaging on foot",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/jose-altuve-to-undergo-additional-imaging-on-foot",
+          "fetchedAt": 1786526469479
+        },
+        {
+          "t": "Jose Altuve exits game with left foot contusion",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/jose-altuve-exits-game-with-left-foot-contusion",
+          "fetchedAt": 1786526469479
+        },
+        {
+          "t": "Jose Altuve exits game following hit-by-pitch",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/jose-altuve-exits-game-following-hit-by-pitch",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 11529,
@@ -1108,14 +1152,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Young has two hits, RBI in loss",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/young-has-two-hits-rbi-in-loss",
-          "fetchedAt": 1786353668537
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -1306,7 +1343,14 @@
           "fetchedAt": 1786482330578
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease struggles through five against Boston",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/dylan-cease-struggles-through-five-against-boston",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 10946,
@@ -1331,14 +1375,7 @@
           "fetchedAt": 1786395967879
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Helsley (elbow) resumes throwing program",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/ryan-helsley-elbow-resumes-throwing-program",
-          "fetchedAt": 1786310480128
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -1371,7 +1408,14 @@
           "fetchedAt": 1786482357125
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez blanks Cards over six in no-decision",
+          "date": "2026-08-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/cristopher-sanchez-blanks-cards-over-six-in-no-decision",
+          "fetchedAt": 1786526469479
+        }
+      ]
     },
     {
       "id": 12345,
@@ -1502,14 +1546,7 @@
           "fetchedAt": 1786439127166
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo strikes out 12 against Toronto",
-          "date": "2026-08-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-09/jesus-luzardo-strikes-out-12-against-toronto",
-          "fetchedAt": 1786353668537
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
