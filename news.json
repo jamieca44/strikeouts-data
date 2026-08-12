@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-12T21:05:33.464Z",
+  "lastUpdatedNews": "2026-08-12T21:20:36.631Z",
   "players": [
     {
       "id": 11928,
@@ -178,7 +178,20 @@
           "fetchedAt": 1786482350590
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. gets Wednesday off vs. Brewers",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/fernando-tatis-jr-gets-wednesday-off-vs-brewers",
+          "fetchedAt": 1786569636631
+        },
+        {
+          "t": "Fernando Tatis Jr. homers versus Brewers",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/fernando-tatis-jr-homers-versus-brewers",
+          "fetchedAt": 1786569636631
+        }
+      ]
     },
     {
       "id": 64897,
@@ -577,7 +590,14 @@
           "fetchedAt": 1786525490187
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Phillies lose Caleb Kilian to oblique strain",
+          "date": "2026-08-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-10/phillies-lose-caleb-kilian-to-oblique-strain",
+          "fetchedAt": 1786569636631
+        }
+      ]
     },
     {
       "id": 11998,
