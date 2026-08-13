@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-13T09:05:50.032Z",
+  "lastUpdatedNews": "2026-08-13T09:27:44.120Z",
   "players": [
     {
       "id": 11928,
@@ -156,14 +156,7 @@
           "fetchedAt": 1786611883041
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson drives in three runs in loss Monday",
-          "date": "2026-08-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-10/alec-burleson-drives-in-three-runs-in-loss-monday",
-          "fetchedAt": 1786440071206
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -607,14 +600,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Phillies lose Caleb Kilian to oblique strain",
-          "date": "2026-08-10",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-10/phillies-lose-caleb-kilian-to-oblique-strain",
-          "fetchedAt": 1786569636631
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -833,7 +819,14 @@
           "fetchedAt": 1786525497670
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson smashes 18th home run in win",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/dansby-swanson-smashes-18th-home-run-in-win",
+          "fetchedAt": 1786613264120
+        }
+      ]
     },
     {
       "id": 12157,
@@ -1149,7 +1142,14 @@
           "fetchedAt": 1786611905316
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young leaves game early with illness",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/cole-young-leaves-game-early-with-illness",
+          "fetchedAt": 1786613264120
+        }
+      ]
     },
     {
       "id": 11768,
@@ -1527,7 +1527,14 @@
           "fetchedAt": 1786568685231
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray pulled after four against Brewers",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/robbie-ray-pulled-after-four-against-brewers",
+          "fetchedAt": 1786613264120
+        }
+      ]
     },
     {
       "id": 9727,
