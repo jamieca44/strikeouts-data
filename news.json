@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-13T21:08:35.363Z",
+  "lastUpdatedNews": "2026-08-13T21:25:47.845Z",
   "players": [
     {
       "id": 11928,
@@ -148,7 +148,14 @@
           "fetchedAt": 1786611883041
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson takes over MLB lead in doubles",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/alec-burleson-takes-over-mlb-lead-in-doubles",
+          "fetchedAt": 1786656347845
+        }
+      ]
     },
     {
       "id": 64313,
@@ -564,7 +571,14 @@
           "fetchedAt": 1786655308720
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft throws CG against Marlins",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/braxton-ashcraft-throws-cg-against-marlins",
+          "fetchedAt": 1786656347845
+        }
+      ]
     },
     {
       "id": 60238,
@@ -1021,7 +1035,14 @@
           "fetchedAt": 1786568703124
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward (quad tightness) not starting Thursday",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/taylor-ward-quad-tightness-not-starting-thursday",
+          "fetchedAt": 1786656347845
+        }
+      ]
     },
     {
       "id": 64330,
@@ -1276,7 +1297,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins continues hot August",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/walker-jenkins-continues-hot-august",
+          "fetchedAt": 1786656347845
+        }
+      ]
     },
     {
       "id": 9701,
