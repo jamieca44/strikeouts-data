@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-13T21:25:47.845Z",
+  "lastUpdatedNews": "2026-08-14T09:16:09.664Z",
   "players": [
     {
       "id": 11928,
@@ -14,22 +14,6 @@
           "by": "Dan Fappiano, ClutchPoints",
           "when": "17h ago",
           "href": "https://sports.yahoo.com/articles/tigers-news-detroit-gets-bold-153923731.html",
-          "fetchedAt": 1786611923358
-        },
-        {
-          "t": "Dillon Dingler's Power Surge Is Turning Detroit's Catcher Spot Into a Weapon",
-          "s": "The Tigers catcher is truly putting together an MVP caliber of a season, and there is no telling where this team would be without him.",
-          "by": "Maddy Dickens",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dillon-dinglers-power-surge-turning-200004025.html",
-          "fetchedAt": 1786611923358
-        },
-        {
-          "t": "Can Detroit Still Make the Wild Card After Selling Its Ace?",
-          "s": "The Detroit Tigers' recent surge has raised questions over whether a playoff chase is still in the cards after the Tarik Skubal trade.",
-          "by": "Ben Fisher",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/detroit-still-wild-card-selling-230002539.html",
           "fetchedAt": 1786611923358
         }
       ],
@@ -248,7 +232,16 @@
       "name": "Jesús Made",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "One Brewers Prospect With Soaring Stock Right Now",
+          "s": "The Milwaukee Brewers have a budding star going under the radar in High-A.",
+          "by": "Patrick McAvoy",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/one-brewers-prospect-soaring-stock-230002768.html",
+          "fetchedAt": 1786698904867
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -351,14 +344,6 @@
           "when": "6h ago",
           "href": "https://sports.yahoo.com/articles/ok-jose-141506131.html",
           "fetchedAt": 1786655287770
-        },
-        {
-          "t": "José Ramírez's RBI groundout",
-          "s": "",
-          "by": "",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/videos/jos-ram-rezs-rbi-groundout-002533876.html",
-          "fetchedAt": 1786525441837
         }
       ],
       "nbcNews": []
@@ -368,7 +353,16 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pirates Not Getting Enough From Their Veteran Outfielder",
+          "s": "The Pittsburgh Pirates have a big culprit for some of their offensive woes.",
+          "by": "Dominic Campbell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-not-getting-enough-veteran-211348512.html",
+          "fetchedAt": 1786698909045
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -394,28 +388,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [
         {
-          "t": "Mets ‘have to sign’ Tarik Skubal to fix pressing need, former GM believes: ‘Don’t see any other way out of this’",
-          "s": "During an appearance on the latest episode of The Post’s “The Show” podcast with Jon Heyman, Duquette identified the Mets’ rotation as his biggest concern.",
-          "by": "Dylan Svoboda",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/mets-sign-tarik-skubal-fix-020056816.html",
-          "fetchedAt": 1786525488151
+          "t": "Will Shohei Ohtani pitch soon? Dave Roberts provides update on Dodgers star",
+          "s": "Shohei Ohtani, who made his last start on the mound July 3, has been playing catch and potentially will throw a bullpen session soon.",
+          "by": "Josh Peter, USA TODAY",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/shohei-ohtani-pitch-soon-dave-005417743.html",
+          "fetchedAt": 1786698948027
         },
         {
-          "t": "Former GM Urges Mets to Sign Tarik Skubal in Free Agency",
-          "s": "Tarik Skubal recently got traded to the Los Angeles Dodgers, but he will be a free agent this offseason, and the New York Mets have been pushed to make a run for him. The post Former GM Urges Mets to Sign Tarik Skubal in Free Agency appeared first on HEAVY.",
-          "by": "Owen Crisafulli",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/former-gm-urges-mets-sign-014127970.html",
-          "fetchedAt": 1786525488151
+          "t": "The Dodgers are playing a different game than the rest of MLB. Their philosophy could shape baseball’s future",
+          "s": "The Dodgers aren’t content to simply contend. They’re building a super team that cruises from parade to preseason favorites to formidable force every year.",
+          "by": "Analysis by Hannah Keyser, CNN",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-playing-different-game-rest-214345388.html",
+          "fetchedAt": 1786698948027
         },
         {
-          "t": "Ex-Yankees World Series Champ Makes Bold Tarik Skubal Prediction on Next Team",
-          "s": "Former New York Yankees All-Star Nick Swisher makes a bold prediction on Tarik Skubal's team for 2027 -- and it's not the Los Angeles Dodgers. The post Ex-Yankees World Series Champ Makes Bold Tarik Skubal Prediction on Next Team appeared first on HEAVY.",
-          "by": "DJ Siddiqi",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/ex-yankees-world-series-champ-235755723.html",
-          "fetchedAt": 1786525488151
+          "t": "Mets Get Telling Update on Tarik Skubal’s Upcoming Free Agency: Report",
+          "s": "The New York Mets need a couple of things to play out to determine their interest in Tarik Skubal in free agency. The post Mets Get Telling Update on Tarik Skubal’s Upcoming Free Agency: Report appeared first on HEAVY.",
+          "by": "Toran Flores",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/mets-telling-tarik-skubal-upcoming-212632682.html",
+          "fetchedAt": 1786698948027
         }
       ],
       "nbcNews": [
@@ -440,14 +434,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/mets-david-stearns-obvious-player-192859074.html",
           "fetchedAt": 1786655304213
-        },
-        {
-          "t": "Twins pitcher Joe Ryan on injury: ‘Felt like I was throwing underwater’",
-          "s": "Joe Ryan has spent much of the second half of the season trying to work through issues with his delivery. He got rocked in his first start after the break, giving up a franchise-high six home runs in a game. He gave up four earned runs in each of his next two starts. It was atypical for the all-star starter. “I think when you start thinking about throwing knuckleballs in situations, it’s ...",
-          "by": "Betsy Helfand, Pioneer Press",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/twins-pitcher-joe-ryan-injury-223400925.html",
-          "fetchedAt": 1786525475415
         }
       ],
       "nbcNews": [
@@ -466,28 +452,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "What to Make of Gore's First Season With Rangers",
-          "s": "MacKenzie Gore is through his 25th start in his first season with the Texas Rangers after being acquired in a trade in the winter.",
-          "by": "Kane McCutchen",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/gores-first-season-rangers-003850604.html",
-          "fetchedAt": 1786568697606
-        },
-        {
-          "t": "Game 120 Game Day Thread – Texas Rangers @ Anaheim Angels",
-          "s": "More late night baseball heading your way",
+          "t": "60-62 – Rangers lose dignity, series to Angels",
+          "s": "Not even the magnetic pull of .500 baseball could help the Rangers beat the Angels",
           "by": "ghostofErikThompson",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/game-120-game-day-thread-003800297.html",
-          "fetchedAt": 1786568697606
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/60-62-rangers-lose-dignity-045506287.html",
+          "fetchedAt": 1786698953378
         },
         {
-          "t": "Texas Rangers lineup for August 11, 2026",
-          "s": "Texas plays a game in Anaheim against the newly Madduxless Angels",
+          "t": "Texas Rangers lineup for August 13, 2026",
+          "s": "The finale in Anaheim",
           "by": "Adam J. Morris",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-11-231802659.html",
-          "fetchedAt": 1786568697606
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-13-234240523.html",
+          "fetchedAt": 1786698953378
+        },
+        {
+          "t": "60-61 – Rangers lose to Biblically accurate Angels",
+          "s": "On second thought, be afraid",
+          "by": "ghostofErikThompson",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/60-61-rangers-lose-biblically-051207701.html",
+          "fetchedAt": 1786698953378
         }
       ],
       "nbcNews": [
@@ -651,7 +637,24 @@
       "name": "Bryan Baker",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "How Albert Pujols helped Rays' Junior Caminero become one of MLB's top hitters",
+          "s": "Caminero is one of the American League's MVP candidates.",
+          "by": "Conor Liguori",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/albert-pujols-helped-rays-junior-141025530.html",
+          "fetchedAt": 1786698917797
+        },
+        {
+          "t": "Fantasy Baseball Closer Report: Devin Williams sidelined with shoulder strain, Jacob Webb thriving for Cubs",
+          "s": "Jorge Montanez breaks down the last week in saves from around the league with updated closer rankings.",
+          "by": "Jorge Montanez",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-devin-060156129.html",
+          "fetchedAt": 1786698917797
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -749,28 +752,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Los Angeles Dodgers Announce Surprising Kyle Tucker Decision Before Royals Game",
-          "s": "The Los Angeles Dodgers picked up a 6-5 win over the Kansas City Royals in their 3-game set on Monday night. Good news for Los Angeles ahead of Tuesday’s game, as the Dodgers are returning starter Blake Snell to the fold, and he will oppose Royals’ starter Michael Wacha in what should be an exciting […] The post Los Angeles Dodgers Announce Surprising Kyle Tucker Decision Before Royals Game appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-surprising-032653202.html",
-          "fetchedAt": 1786568699782
+          "t": "Dodgers Announce Freddie Freeman Lineup Decision Following Injury Scare",
+          "s": "The Los Angeles Dodgers got great news that Freddie Freeman wasn’t seriously injured when he took a nasty fall into the Kansas City Royals’ dugout. But the good news doesn’t end there, as Freeman will be in the starting lineup against the Milwaukee Brewers, per Dodger Talk host David Vassegh. Freddie Freeman is in starting […] The post Dodgers Announce Freddie Freeman Lineup Decision Following Injury Scare appeared first on HEAVY.",
+          "by": "Michael McDermott",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-announce-freddie-freeman-lineup-012601718.html",
+          "fetchedAt": 1786698955638
         },
         {
-          "t": "Los Angeles Dodgers Announce Freddie Freeman Decision During Royals Series",
-          "s": "The Los Angeles Dodgers entered this week’s series against the Kansas City Royals having lost eight of their last nine games.However, they secured a 6-5 victory Monday night, and despite the win, manager Dave Roberts made several lineup changes for Tuesday’s Game 2.Dodgers Announce Freddie Freeman ChangeOne of Roberts’ more notable moves involves veteran first […] The post Los Angeles Dodgers Announce Freddie Freeman Decision During Royals Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-freddie-025054007.html",
-          "fetchedAt": 1786568699782
+          "t": "Is Freddie Freeman playing today? Injury update on Dodgers star after scary fall",
+          "s": "Dodgers first baseman Freddie Freeman will be back in the lineup and batting cleaup a night after his spill down stairs into the visitors' dugout.",
+          "by": "Josh Peter, USA TODAY",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-playing-today-injury-001107182.html",
+          "fetchedAt": 1786698955638
         },
         {
-          "t": "Dave Roberts Sends Blunt Message to Dodgers Amid Struggles",
-          "s": "Los Angeles Dodgers manager Dave Roberts expressed his dismay at his team's recent struggles before their win over Kansas City on Monday.",
-          "by": "Patrick Warren",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/dave-roberts-sends-blunt-message-010002106.html",
-          "fetchedAt": 1786568699782
+          "t": "Freddie Freeman back in Dodgers lineup despite scary fall down dugout stairs",
+          "s": "Freddie Freeman has long been loathe to off days.",
+          "by": "Jack Harris",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-back-dodgers-lineup-221722456.html",
+          "fetchedAt": 1786698955638
         }
       ],
       "nbcNews": [
@@ -838,12 +841,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [
         {
-          "t": "Chicago Cubs Announce Dansby Swanson Decision Before Nationals Game",
-          "s": "The Chicago Cubs, after an off day on Monday, are set to open up a new series in MLB on Tuesday against the Washington Nationals. Chicago has quietly been one of the best teams in baseball since the All-Star break, with a surging offense and solid pitching performances as of late. Before the Nationals game […] The post Chicago Cubs Announce Dansby Swanson Decision Before Nationals Game appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-221514007.html",
-          "fetchedAt": 1786525497670
+          "t": "Chicago Cubs Announce Dansby Swanson Decision Before Nationals Finale",
+          "s": "On Thursday afternoon, the Chicago Cubs will finish their three-game series against the Washington Nationals at Nationals Park.Most recently, Chicago won the second game of the series 12-6 on Wednesday.Shortstop Dansby Swanson went 2-for-4 with a home run, a double, a walk and two RBIs during the win.Chicago Cubs Announce Dansby Swanson ChangeAhead of the […] The post Chicago Cubs Announce Dansby Swanson Decision Before Nationals Finale appeared first on HEAVY.",
+          "by": "Jose Esquer",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-dansby-swanson-220844718.html",
+          "fetchedAt": 1786698950293
+        },
+        {
+          "t": "Chicago Cubs Announce Alex Bregman Change Before Nationals Game",
+          "s": "On Thursday afternoon, the Chicago Cubs will finish their three-game series against the Washington Nationals at Nationals Park.Most recently, the Cubs won the second game of the series 12-6 on Wednesday.Alex Bregman went 3-for-3 with three home runs, seven RBIs and two walks during the win while serving as the team’s designated hitter.Chicago Cubs Announce […] The post Chicago Cubs Announce Alex Bregman Change Before Nationals Game appeared first on HEAVY.",
+          "by": "Jose Esquer",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-alex-bregman-215537472.html",
+          "fetchedAt": 1786698950293
+        },
+        {
+          "t": "2026 Cubs Heroes and Goats: Alex Bregman is the Superhero vs. the Nationals",
+          "s": "The Cubs offense goes off, led by a huge game from Alex Bregman as the team continues to roll.",
+          "by": "Thomas Smith",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-alex-143000504.html",
+          "fetchedAt": 1786698950293
         }
       ],
       "nbcNews": [
@@ -908,28 +927,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [
         {
-          "t": "Padres Applying Lots Of Pressure On Other NL Wild Card Teams",
-          "s": "The San Diego Padres have been one of the hottest teams in baseball and are applying tons of pressure on the other NL teams vying for a wild card spot.",
-          "by": "Nick Radosevich",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/padres-applying-lots-pressure-other-183546138.html",
-          "fetchedAt": 1786568713741
+          "t": "Padres' Playoff Odds Soar Amid Dominant Stretch Since Trade Deadline",
+          "s": "The San Diego Padres, the hottest team in the National League, are in playoff position for the first time in over six weeks.",
+          "by": "Noah Camras",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/padres-playoff-odds-soar-amid-160005634.html",
+          "fetchedAt": 1786698966790
         },
         {
-          "t": "White-hot Padres are 14-4 in their last 18 games",
-          "s": "",
-          "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/video/white-hot-padres-14-4-172840717.html",
-          "fetchedAt": 1786568713741
+          "t": "Padres Roundup: SD Officially Releases Pitcher, Makes Surprise Roster Move, Wild Sweep Over Brewers",
+          "s": "The San Diego Padres released a pitcher, made a surprise roster move and swept the Milwaukee Brewers in epic walk-off fashion.",
+          "by": "Gabe Smallson",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/padres-roundup-sd-officially-releases-125900639.html",
+          "fetchedAt": 1786698966790
         },
         {
-          "t": "Padres Blasts Brewers, 11-2, As They Tie Up Wild-Card Race",
-          "s": "The San Diego Padres finally caught the Arizona Diamondbacks last night, and the wild-card race is a three-team tie.",
-          "by": "Bob McCullough",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/padres-blasts-brewers-11-2-120239164.html",
-          "fetchedAt": 1786568713741
+          "t": "Padres win 4-3 in 11 innings to sweep MLB-leading Brewers",
+          "s": "Jackson Merrill hit a tying sacrifice fly in the 11th inning and Luis Campusano followed with a two-out single to bring in Sun-Mung Song from second base as the San Diego Padres beat the MLB-leading Milwaukee Brewers 4-3 on Wednesday for a three-game sweep. The surging Padres have won five straight and 15 of 19 to move into the National League's second wild-card spot ahead of Arizona and Philadelphia. Gary Sánchez doubled home the go-ahead run for Milwaukee off Adrian Morejon (9-2) in the top of the 11th.",
+          "by": "BERNIE WILSON",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/padres-win-4-3-11-002528081.html",
+          "fetchedAt": 1786698966790
         }
       ],
       "nbcNews": [
@@ -1025,16 +1044,7 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [
-        {
-          "t": "Taylor Ward's leaping catch",
-          "s": "",
-          "by": "",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/videos/taylor-wards-leaping-catch-235949713.html",
-          "fetchedAt": 1786568703124
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Taylor Ward (quad tightness) not starting Thursday",
@@ -1051,27 +1061,19 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [
         {
+          "t": "Astros' Cam Smith Is Emerging as Houston's Clutch Bat in August",
+          "s": "The Astros have an outfielder who is stepping up to the plate and doing some damage.",
+          "by": "Thomas Heiberger",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/astros-cam-smith-emerging-houstons-000003564.html",
+          "fetchedAt": 1786698960170
+        },
+        {
           "t": "Astros Kyle Tucker Trade Looks Even Better with Hayden Wesneski Back",
           "s": "It was a big decision for the Houston Astros to move on from Kyle Tucker, but the trade is aging well.",
           "by": "Maanav Gupta",
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/astros-kyle-tucker-trade-looks-160006427.html",
-          "fetchedAt": 1786568704854
-        },
-        {
-          "t": "Yordan Alvarez plates Cam Smith with a sac fly",
-          "s": "",
-          "by": "",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/videos/yordan-alvarez-plates-cam-smith-021636380.html",
-          "fetchedAt": 1786568704854
-        },
-        {
-          "t": "Astros’ Final-Strike Escape Revealed the Kyle Tucker Trade’s Biggest Twist",
-          "s": "Cam Smith’s final-strike hit started an Astros comeback, and the three-player Kyle Tucker trade return delivered a revealing night against the Giants. The post Astros’ Final-Strike Escape Revealed the Kyle Tucker Trade’s Biggest Twist appeared first on HEAVY.",
-          "by": "Alvin Garcia",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/astros-final-strike-escape-revealed-211416241.html",
           "fetchedAt": 1786568704854
         }
       ],
@@ -1124,28 +1126,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [
         {
-          "t": "Astros news: Houston makes Jose Altuve lineup decision after injury scare",
-          "s": "After being forced to leave early on Tuesday due to a hit by pitch, Jose Altuve remains out of the Astros' lineup on Wednesday.",
-          "by": "Dan Fappiano, ClutchPoints",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/astros-news-houston-makes-jose-185500002.html",
-          "fetchedAt": 1786568707360
+          "t": "3 players who will make or break Astros' chances of winning AL West",
+          "s": "The Houston Astros need three key players to perform well in the final stretch to protect their AL West lead and reach October in 2026.",
+          "by": "Josh Davis, ClutchPoints",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/3-players-break-astros-chances-202244464.html",
+          "fetchedAt": 1786698962726
         },
         {
-          "t": "Astros' Jose Altuve Forced to Leave Game Early With Foot Injury",
-          "s": "Houston Astros star Jose Altuve is now dealing with a foot injury and had to leave Tuesday's game in the first inning.",
-          "by": "Maanav Gupta",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/astros-jose-altuve-forced-leave-130007733.html",
-          "fetchedAt": 1786568707360
+          "t": "Houston Astros Announce Jose Altuve News During Giants Series",
+          "s": "The Houston Astros lost 4-1 to the San Francisco Giants on Tuesday night, setting up a series finale Wednesday afternoon to decide the three-game set.Ahead of the matchup, Astros manager Joe Espada made a notable move centered around veteran infielder Jose Altuve after he left Tuesday’s game during his first at-bat after a pitch hit […] The post Houston Astros Announce Jose Altuve News During Giants Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-210515429.html",
+          "fetchedAt": 1786698962726
         },
         {
-          "t": "Astros news: Jose Altuve's imaging results after scary HBP vs. Giants",
-          "s": "Jose Altuve exited the Astros' 4-1 loss to the Giants on Tuesday early after he was hit on the foot by an errant pitch.",
-          "by": "Jedd Pagaduan, ClutchPoints",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/astros-news-jose-altuves-imaging-052905167.html",
-          "fetchedAt": 1786568707360
+          "t": "Jose Altuve Out for Astros' Game vs. Giants Due to Bruised Foot; Further Evaluation Pending",
+          "s": "Astros await further evaluation on Jose Altuve's injured foot.",
+          "by": "Miracle Dimwesh",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/jose-altuve-astros-game-vs-191815466.html",
+          "fetchedAt": 1786698962726
         }
       ],
       "nbcNews": [
@@ -1214,7 +1216,16 @@
       "name": "Jeremy Peña",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "A Francisco Lindor Trade Is Bold Move Red Sox Need This Winter",
+          "s": "The Boston Red Sox should call the New York Mets this winter about superstar shortstop Francisco Lindor.",
+          "by": "Patrick McAvoy",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/francisco-lindor-trade-bold-move-210004290.html",
+          "fetchedAt": 1786698925759
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1279,14 +1290,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/videos/breaking-down-wild-potential-2026-135631962.html",
           "fetchedAt": 1786655313392
-        },
-        {
-          "t": "Tigers news: NL Exec explains how River Ryan evaluation helped sway Tarik Skubal trade",
-          "s": "One anonymous NL executive explained how the Detroit Tigers' evaluation of starter River Ryan likely swayed the Tarik Skubal trade.",
-          "by": "Jordan Llanes, ClutchPoints",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-nl-exec-explains-233158045.html",
-          "fetchedAt": 1786525483616
         }
       ],
       "nbcNews": []
@@ -1296,7 +1299,16 @@
       "name": "Walker Jenkins",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Walker Jenkins's call to Twins may be blocked by his own teammate",
+          "s": "With Kaelen Culpepper already in the majors, the Minnesota Twins may take a conservative approach with Walker Jenkins.",
+          "by": "Chris Schad",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/walker-jenkinss-call-twins-may-233010918.html",
+          "fetchedAt": 1786698932145
+        }
+      ],
       "nbcNews": [
         {
           "t": "Walker Jenkins continues hot August",
@@ -1352,22 +1364,6 @@
           "when": "16h ago",
           "href": "https://sports.yahoo.com/articles/win-cy-young-170000641.html",
           "fetchedAt": 1786611931652
-        },
-        {
-          "t": "2026 MLB Awards, Best Bets, Predictions, MVP, Cy Young Odds: Ohtani vs Crow-Armstrong, Cease vs Schlittler",
-          "s": "Vaughn Dalzell breaks down his favorite MLB future bets as the season dwindles down, including Ohtani vs PCA for MVP and Cease vs Schlittler for Cy Young.",
-          "by": "Vaughn Dalzell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/2026-mlb-awards-best-bets-155045028.html",
-          "fetchedAt": 1786611931652
-        },
-        {
-          "t": "Jays Beat Red Sox",
-          "s": "Red Sox 3 Blue Jays 5 Despite Dylan Cease not having his usual great start, it turned out to be a good game. Cease went 5 innings, allowed 5 hits, 4 walks, and 7 strikeouts, but gave up 2 home runs. Neither one was crushed; one just barely cleared the wall. For anyone else, it […]",
-          "by": "tom dakers",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/jays-beat-red-sox-023016992.html",
-          "fetchedAt": 1786611931652
         }
       ],
       "nbcNews": [
@@ -1392,32 +1388,7 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [
-        {
-          "t": "Don Mattingly explains why Cristopher Sánchez was pulled after six innings",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/don-mattingly-explains-why-cristopher-065436358.html",
-          "fetchedAt": 1786611947494
-        },
-        {
-          "t": "Phillies Look to Secure Win Despite Challenged Bullpen",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/phillies-look-secure-win-despite-184202270.html",
-          "fetchedAt": 1786611947494
-        },
-        {
-          "t": "Phillies Manager Explains Early Hook for Cristopher Sanchez After Cardinals Loss",
-          "s": "The Philadelphia Phillies dropped a low-scoring game to the St. Louis Cardinals. The first decision that led to their downfall came in the seventh inning.Interim manager Don Mattingly pulled left-hander Cristopher Sanchez after six innings and 89 pitches. The Cardinals scored the game’s decisive run on rookie reliever Alex McFarlane in the following inning.Mattingly explained […] The post Phillies Manager Explains Early Hook for Cristopher Sanchez After Cardinals Loss appeared first on HEAVY.",
-          "by": "Michael McDermott",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/phillies-manager-explains-early-hook-072212131.html",
-          "fetchedAt": 1786611947494
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Cristopher Sánchez blanks Cards over six in no-decision",
@@ -1449,7 +1420,32 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Blue Jays Announce Starting Pitchers For Crucial Series vs Yankees",
+          "s": "The Toronto Blue Jays are gearing up for a crucial three-game series with the New York Yankees this weekend. After taking a massive series against the Boston Red Sox, Toronto will be looking to keep up the winning ways against another American League East rival. The Blue Jays have been trying to battle back from […] The post Blue Jays Announce Starting Pitchers For Crucial Series vs Yankees appeared first on HEAVY.",
+          "by": "Matt Levine",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-announce-starting-pitchers-223612530.html",
+          "fetchedAt": 1786698935960
+        },
+        {
+          "t": "Jazz Chisholm Jr. has few answers for season-long woes — but doesn’t think taking a seat will help",
+          "s": "He insists benching won't help him break out of a season-long slump that has seen his OPS plummet.",
+          "by": "Ethan Sears",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/jazz-chisholm-jr-few-answers-223519968.html",
+          "fetchedAt": 1786698935960
+        },
+        {
+          "t": "New York Yankees Announced Starting Pitchers For Toronto Blue Jays Series",
+          "s": "The New York Yankees have announced their starting pitchers for their series against the Toronto Blue Jays. The post New York Yankees Announced Starting Pitchers For Toronto Blue Jays Series appeared first on HEAVY.",
+          "by": "Caleb Kerney",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-announced-starting-pitchers-213236345.html",
+          "fetchedAt": 1786698935960
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1587,6 +1583,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60292.1.png",
       "nbcUrl": null,
       "yahooNews": [
+        {
+          "t": "How impressive are the Mets' young starting pitchers? | Baseball Night in NY",
+          "s": "",
+          "by": "",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/videos/impressive-mets-young-starting-pitchers-113900171.html",
+          "fetchedAt": 1786698965029
+        },
         {
           "t": "Picking Biggest Surprise, Disappointment For Mets In 2026",
           "s": "As Bo Bichette’s high-priced debut in Queens falters at the plate, breakout starter Christian Scott emerges as a vital anchor for a struggling roster stuck in last place.",
