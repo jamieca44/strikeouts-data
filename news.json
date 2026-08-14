@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-14T09:16:09.664Z",
+  "lastUpdatedNews": "2026-08-14T09:30:14.943Z",
   "players": [
     {
       "id": 11928,
@@ -75,14 +75,7 @@
           "fetchedAt": 1786611935404
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. hits two doubles in Yankees’ win",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/luis-garcia-jr-hits-two-doubles-in-yankees-win",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -172,14 +165,7 @@
           "fetchedAt": 1786611925055
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Nick Kurtz (thumb) unlikely to return this season",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/nick-kurtz-thumb-unlikely-to-return-this-season",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -288,12 +274,6 @@
           "t": "Mookie Betts collects three hits, homers in win",
           "date": "2026-08-12",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/mookie-betts-collects-three-hits-homers-in-win",
-          "fetchedAt": 1786526469479
-        },
-        {
-          "t": "Kyle Tucker hitting cleanup on Tuesday vs. Royals",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/kyle-tucker-hitting-cleanup-on-tuesday-vs-royals",
           "fetchedAt": 1786526469479
         }
       ]
@@ -412,14 +392,7 @@
           "fetchedAt": 1786698948027
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal gives up three runs to Royals",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/tarik-skubal-gives-up-three-runs-to-royals",
-          "fetchedAt": 1786440071206
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -436,14 +409,7 @@
           "fetchedAt": 1786655304213
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan (glute) throws on flat ground",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/joe-ryan-glute-throws-on-flat-ground",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -476,14 +442,7 @@
           "fetchedAt": 1786698953378
         }
       ],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore strikes out nine in no-decision",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/mackenzie-gore-strikes-out-nine-in-no-decision",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -688,14 +647,7 @@
           "fetchedAt": 1786568730291
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz earns easy save versus Royals",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/edwin-diaz-earns-easy-save-versus-royals",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -736,14 +688,7 @@
           "fetchedAt": 1786655292314
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers holds Mariners to one run, two hits",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/ryan-weathers-holds-mariners-to-one-run-two-hits",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -776,14 +721,7 @@
           "fetchedAt": 1786698955638
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Kyle Tucker hitting cleanup on Tuesday vs. Royals",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/kyle-tucker-hitting-cleanup-on-tuesday-vs-royals",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -791,14 +729,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Angel Genao not in Tuesday’s lineup vs. Tigers",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/angel-genao-not-in-tuesdays-lineup-vs-tigers",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -815,7 +746,14 @@
           "fetchedAt": 1786655260165
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Durbin hits second grand slam of August in victory",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/durbin-hits-second-grand-slam-of-august-in-victory",
+          "fetchedAt": 1786699814943
+        }
+      ]
     },
     {
       "id": 12100,
@@ -905,20 +843,7 @@
           "fetchedAt": 1786568718461
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong homers again as Cubs beat Nats",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/pete-crow-armstrong-homers-again-as-cubs-beat-nats",
-          "fetchedAt": 1786526469479
-        },
-        {
-          "t": "Pete Crow-Armstrong back in center field vs. Nats",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/pete-crow-armstrong-back-in-center-field-vs-nats",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -951,14 +876,7 @@
           "fetchedAt": 1786698966790
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill homers to lead Padres past Brewers",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/jackson-merrill-homers-to-lead-padres-past-brewers",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -1024,20 +942,7 @@
           "fetchedAt": 1786655283490
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene exits game with hamstring tightness",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/riley-greene-exits-game-with-hamstring-tightness",
-          "fetchedAt": 1786526469479
-        },
-        {
-          "t": "Riley Greene exits game following hit-by-pitch",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/riley-greene-exits-game-following-hit-by-pitch",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -1077,14 +982,7 @@
           "fetchedAt": 1786568704854
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cam Smith goes 3-for-4, homers in Astros’ victory",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/cam-smith-goes-3-for-4-homers-in-astros-victory",
-          "fetchedAt": 1786483271422
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -1117,7 +1015,14 @@
           "fetchedAt": 1786655294974
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mariners option Colt Emerson back to Triple-A",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/mariners-option-colt-emerson-back-to-triple-a",
+          "fetchedAt": 1786699814943
+        }
+      ]
     },
     {
       "id": 8996,
@@ -1155,18 +1060,6 @@
           "t": "Jose Altuve to undergo additional imaging on foot",
           "date": "2026-08-12",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/jose-altuve-to-undergo-additional-imaging-on-foot",
-          "fetchedAt": 1786526469479
-        },
-        {
-          "t": "Jose Altuve exits game with left foot contusion",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/jose-altuve-exits-game-with-left-foot-contusion",
-          "fetchedAt": 1786526469479
-        },
-        {
-          "t": "Jose Altuve exits game following hit-by-pitch",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/jose-altuve-exits-game-following-hit-by-pitch",
           "fetchedAt": 1786526469479
         }
       ]
@@ -1349,7 +1242,14 @@
           "fetchedAt": 1786611945810
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom exits due to triceps fatigue",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/jacob-degrom-exits-due-to-triceps-fatigue",
+          "fetchedAt": 1786699814943
+        }
+      ]
     },
     {
       "id": 10438,
@@ -1389,14 +1289,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez blanks Cards over six in no-decision",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/cristopher-sanchez-blanks-cards-over-six-in-no-decision",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
@@ -1479,14 +1372,7 @@
           "fetchedAt": 1786655302033
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta strikes out five in no-decision",
-          "date": "2026-08-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-11/freddy-peralta-strikes-out-five-in-no-decision",
-          "fetchedAt": 1786440071206
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
