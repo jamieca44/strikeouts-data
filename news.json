@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-14T21:06:12.436Z",
+  "lastUpdatedNews": "2026-08-14T21:20:57.760Z",
   "players": [
     {
       "id": 11928,
@@ -83,7 +83,14 @@
           "fetchedAt": 1786611935404
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. collects two hits in loss to M’s",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/luis-garcia-jr-collects-two-hits-in-loss-to-ms",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 10916,
@@ -325,7 +332,14 @@
           "fetchedAt": 1786655287770
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez not in Guards starting lineup",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/jose-ramirez-not-in-guards-starting-lineup",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 10577,
@@ -646,7 +660,14 @@
           "fetchedAt": 1786741544699
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz allows four straight hits to blow save",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/edwin-diaz-allows-four-straight-hits-to-blow-save",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 10592,
@@ -720,7 +741,20 @@
           "fetchedAt": 1786698955638
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman listed as day-to-day after tumble",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/freddie-freeman-listed-as-day-to-day-after-tumble",
+          "fetchedAt": 1786742457760
+        },
+        {
+          "t": "Freddie Freeman exits after fall down dugout steps",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/freddie-freeman-exits-after-fall-down-dugout-steps",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 64311,
@@ -728,7 +762,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana takes seat versus Tigers southpaw",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/travis-bazzana-takes-seat-versus-tigers-southpaw",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 61788,
@@ -932,7 +973,20 @@
           "fetchedAt": 1786655283490
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene lands on IL with hamstring strain",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/riley-greene-lands-on-il-with-hamstring-strain",
+          "fetchedAt": 1786742457760
+        },
+        {
+          "t": "Tigers still evaluating Riley Greene’s hamstring",
+          "date": "2026-08-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/tigers-still-evaluating-riley-greenes-hamstring",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 10496,
@@ -1052,7 +1106,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Héctor Rodríguez sits against Marlins on Friday",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/hector-rodriguez-sits-against-marlins-on-friday",
+          "fetchedAt": 1786742457760
+        }
+      ]
     },
     {
       "id": 60580,
