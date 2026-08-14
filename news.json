@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-14T09:30:14.943Z",
+  "lastUpdatedNews": "2026-08-14T21:06:12.436Z",
   "players": [
     {
       "id": 11928,
@@ -9,12 +9,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [
         {
-          "t": "Tigers news: Detroit gets bold playoff prediction even after Tarik Skubal trade",
-          "s": "While Tarik Skubal may no longer be on the roster, the Tigers are still making a realistic push for a postseason berth.",
-          "by": "Dan Fappiano, ClutchPoints",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-detroit-gets-bold-153923731.html",
-          "fetchedAt": 1786611923358
+          "t": "Jackson Jobe’s Comerica Park Return Comes With Real Stakes",
+          "s": "Jackson Jobe returns to Comerica Park as the Tigers battle the White Sox in a crucial AL Central series with playoff stakes rising.",
+          "by": "Don Drysdale",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/jackson-jobe-comerica-park-return-173429210.html",
+          "fetchedAt": 1786741556827
+        },
+        {
+          "t": "How the Tigers can steal the AL Central from the White Sox in 4 steps",
+          "s": "All of a sudden, Detroit is back from the dead - and looking very much alive as an AL contender.",
+          "by": "Chris Landers",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-steal-al-central-white-164000158.html",
+          "fetchedAt": 1786741556827
+        },
+        {
+          "t": "Tigers Giving 2024 Playoff Vibes Even After Trading Aces at Deadline",
+          "s": "The Detroit Tigers continue to defy the convention that by trading your aces you can't stay in a playoff race.",
+          "by": "Matt Postins",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-giving-2024-playoff-vibes-132358018.html",
+          "fetchedAt": 1786741556827
         }
       ],
       "nbcNews": []
@@ -40,14 +56,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/toronto-blue-jays-announced-george-000127698.html",
           "fetchedAt": 1786611938039
-        },
-        {
-          "t": "John Schneider Announces Reason for George Springer’s Removal From Blue Jays Lineup",
-          "s": "The Toronto Blue Jays removed designated hitter George Springer from the lineup.",
-          "by": "Gavin Groe",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/john-schneider-announces-reason-george-204435221.html",
-          "fetchedAt": 1786611938039
         }
       ],
       "nbcNews": []
@@ -59,19 +67,19 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [
         {
+          "t": "Yankees have major Heliot Ramos problem after Giants trade",
+          "s": "The Yankees need Ramos to start producing soon.",
+          "by": "Conor Liguori",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/yankees-major-heliot-ramos-problem-203017408.html",
+          "fetchedAt": 1786741569727
+        },
+        {
           "t": "Yankees news: Can Luis García Jr. offer more defensive versatility?",
           "s": "Aaron Boone discusses Luis García Jr.’s defense, ESPN updates top Yankees prospects, Did Rob Refsnyder retire?",
           "by": "Andrés Chávez",
           "when": "5m ago",
           "href": "https://sports.yahoo.com/articles/yankees-news-luis-garc-jr-090000432.html",
-          "fetchedAt": 1786611935404
-        },
-        {
-          "t": "Yankees slipped another 24-home-run threat into the middle of the order",
-          "s": "Luis Garcia Jr. doubled twice from the cleanup spot Tuesday and has already given the Yankees another serious left-handed threat.",
-          "by": "Alexander Wilson",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-slipped-another-24-home-125556332.html",
           "fetchedAt": 1786611935404
         }
       ],
@@ -83,6 +91,22 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [
+        {
+          "t": "Royce Lewis Explains Recent Adjustments At the Plate",
+          "s": "The 27-year-old first baseman has batted .284 and recorded an .852 OPS since his return to the Minnesota Twins' major-league roster in June.",
+          "by": "Charlie Rondeau",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/royce-lewis-explains-recent-adjustments-220113765.html",
+          "fetchedAt": 1786741546914
+        },
+        {
+          "t": "Royce Lewis’ resurgence is result of ‘playing the way Royce wants to play’",
+          "s": "Royce Lewis is done listening to the voices, the advice, the grave counsel and casual suggestions from people who wanted to help the Twins’ infielder find the swing that made him a rookie sensation while helping Minnesota win playoff games in 2023. It was too much input. The coaches and agents, maybe teammates, and perhaps even the barista that makes his morning coffee; they all had Royce’s ...",
+          "by": "John Shipley, Pioneer Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/royce-lewis-resurgence-result-playing-100000706.html",
+          "fetchedAt": 1786741546914
+        },
         {
           "t": "Derek Shelton Praises Top Of The Minnesota Twins' Order After Series Win",
           "s": "Minnesota rode 14 hits to a series-clinching win on Wednesday against the Baltimore Orioles.",
@@ -101,6 +125,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [
         {
+          "t": "Looking at potential Alec Burleson extension",
+          "s": "I can’t help but keep harping on Bill Dewitt’s comment that the JJ Wetherholt extension was hopefully the first of several. He made that comment in the press conference announcing JJ Wetherholt’s deal and it was probably somewhat of a negotiating strategy to get Wetherholt to sign in the first place. “You’re a part of […]",
+          "by": "Gabe Simonds",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/looking-potential-alec-burleson-extension-120000162.html",
+          "fetchedAt": 1786741548898
+        },
+        {
           "t": "Alec Burleson Knocks in 3 as Cardinals Overwhelm Phillies Wednesday",
           "s": "The St. Louis Cardinals were able to beat one of the National League’s best pitchers Wednesday as Alec Burleson’s 3 RBI’s helped the Cardinals beat the Phillies and win the series. Kyle Leahy was excellent again for the Cardinals as he threw 5 innings Wednesday allowing just 6 hits while striking out 6 and walking […]",
           "by": "Doc Holliday",
@@ -114,14 +146,6 @@
           "by": "",
           "when": "9h ago",
           "href": "https://sports.yahoo.com/videos/alec-burleson-drives-three-power-231040121.html",
-          "fetchedAt": 1786611883041
-        },
-        {
-          "t": "Alec Burleson drives in 3 as Cardinals beat Phillies 7-1 to win series",
-          "s": "Alec Burleson drove in three runs, including a two-run double during a four-run fifth inning against Zack Wheeler, and the St. Louis Cardinals beat the Philadelphia Phillies 7-1 on Wednesday. Burleson finished 5 for 10 with two doubles and five RBIs in the series as the Cardinals took two of three from the Phillies and moved one game over .500 (61-60). St. Louis won its third straight series, the first time it has done that this season.",
-          "by": "WARREN MAYES",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/alec-burleson-drives-3-cardinals-211130356.html",
           "fetchedAt": 1786611883041
         }
       ],
@@ -139,32 +163,7 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [
-        {
-          "t": "Athletics' Nick Kurtz could miss the rest of the season with a thumb injury",
-          "s": "Athletics first baseman Nick Kurtz may be in danger of missing the rest of the season because of his injured right thumb.",
-          "by": "Associated Press",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/athletics-nick-kurtz-could-miss-162933409.html",
-          "fetchedAt": 1786611925055
-        },
-        {
-          "t": "Athletics get awful Nick Kurtz injury update that might be blessing in disguise",
-          "s": "Kurtz is the A's top slugger.",
-          "by": "Conor Liguori",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/athletics-awful-nick-kurtz-injury-142326933.html",
-          "fetchedAt": 1786611925055
-        },
-        {
-          "t": "Why Athletics Should Shut Nick Kurtz Down for Good",
-          "s": "After a recent update hit the press, it is clear that this All-Star should not play another game this season.",
-          "by": "Andrew L. Ferguson Jr",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/why-athletics-shut-nick-kurtz-120006042.html",
-          "fetchedAt": 1786611925055
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -245,28 +244,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [
         {
-          "t": "Shohei Ohtani, Mookie Betts homer in Dodgers' 4-2 win",
+          "t": "DAVE ROBERTS ON MOOKIE BETTS REST DAY",
           "s": "",
           "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/shohei-ohtani-mookie-betts-homer-053218196.html",
-          "fetchedAt": 1786611927453
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/dave-roberts-mookie-betts-rest-004240475.html",
+          "fetchedAt": 1786741564223
         },
         {
-          "t": "Dodgers news: Mookie Betts' admission after Royals sweep will have rivals shaking",
-          "s": "Mookie Betts and the Los Angeles Dodgers are riding high after picking up a crucial sweep over the San Diego Padres.",
-          "by": "Tristin McKinstry, ClutchPoints",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-mookie-betts-admission-052429989.html",
-          "fetchedAt": 1786611927453
+          "t": "Dave Roberts Explains Mookie Betts' Scheduled Day Off Despite Recent Success",
+          "s": "The Los Angeles Dodgers removed shortstop Mookie Betts from the lineup ahead of their matchup against the Milwaukee Brewers.",
+          "by": "Gavin Groe",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/dave-roberts-explains-mookie-betts-234626330.html",
+          "fetchedAt": 1786741564223
         },
         {
-          "t": "Dodgers Secure First Sweep of August Against Royals",
-          "s": "The Los Angeles Dodgers have their first sweep in August, and it comes against the Kansas City Royals.",
-          "by": "Adrian Medina",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-secure-first-sweep-august-045526144.html",
-          "fetchedAt": 1786611927453
+          "t": "Mookie Betts' solo home run (15)",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/mookie-betts-solo-home-run-024515808.html",
+          "fetchedAt": 1786741564223
         }
       ],
       "nbcNews": [
@@ -623,28 +622,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [
         {
-          "t": "Dodgers Stick With Díaz in Closer Role Despite Struggles",
-          "s": "Los Angeles Dodgers manager Dave Roberts is doubling down on Edwin Díaz, betting that he will be mentally prepared for a postseason run.",
-          "by": "Eduardo Solano",
+          "t": "Los Angeles Dodgers Manager Clears the Air on Team’s Closer Situation",
+          "s": "The Los Angeles Dodgers endured a pretty tough loss on Thursday evening at the hands of the Milwaukee Brewers after leading by two runs in the ninth inning. After a big three-run home run by Max Muncy in the later innings, the Dodgers carried a 4-2 lead heading into the final frame, but ‘closer’ Edwin […] The post Los Angeles Dodgers Manager Clears the Air on Team’s Closer Situation appeared first on HEAVY.",
+          "by": "TJ French",
           "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-stick-d-az-closer-180049954.html",
-          "fetchedAt": 1786568730291
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-manager-clears-173111535.html",
+          "fetchedAt": 1786741544699
         },
         {
-          "t": "Alex Rodriguez defends Dodgers' spending spree as likely lockout gets closer: 'I think it's great'",
-          "s": "Alex Rodriguez says the Los Angeles Dodgers aren't ruining baseball, comparing their spending to the New York Yankees' payroll dominance in the 2000s.",
-          "by": "Ryan Morik",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/alex-rodriguez-defends-dodgers-spending-151408803.html",
-          "fetchedAt": 1786568730291
+          "t": "4 Dodgers closer options amid Edwin Diaz's nightmare season",
+          "s": "Diaz has struggled mightily after signing a massive contract with L.A.",
+          "by": "Wajih AlBaroudi, For The Win",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/4-dodgers-closer-options-amid-164914287.html",
+          "fetchedAt": 1786741544699
         },
         {
-          "t": "Alex Rodriguez: The Dodgers are ‘great’ for baseball",
-          "s": "While some fans and media believe the Los Angeles Dodgers are ruining Major League Baseball, Alex Rodriguez appears to be a fan of their spending. After admitting he voted in Awful Announcing’s 2026 MLB local TV announcer rankings during an appearance on The Michael Kay Show on ESPN New York, the discussion turned to the…",
-          "by": "Brandon Contes",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/alex-rodriguez-dodgers-great-baseball-123050497.html",
-          "fetchedAt": 1786568730291
+          "t": "Los Angeles Dodgers’ Edwin Diaz Makes Honest Admission After Brewers Game",
+          "s": "The Milwaukee Brewers absolutely stole one from the Los Angeles Dodgers on Thursday night with 5-4 victory in the series opener, which is a four-game set between the top NL teams. LA held a two-run lead entering the ninth inning, but closer Edwin Diaz allowed three runs in the top half of the 9th inning […] The post Los Angeles Dodgers’ Edwin Diaz Makes Honest Admission After Brewers Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-edwin-diaz-164426778.html",
+          "fetchedAt": 1786741544699
         }
       ],
       "nbcNews": []
@@ -760,16 +759,7 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [
-        {
-          "t": "A Francisco Lindor Trade Is Bold Move Red Sox Need This Winter",
-          "s": "The Boston Red Sox should call the New York Mets this winter about superstar shortstop Francisco Lindor.",
-          "by": "Patrick McAvoy",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/francisco-lindor-trade-bold-move-210004290.html",
-          "fetchedAt": 1786611899450
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -819,28 +809,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "Cubs news: Pete Crow-Armstrong draws bold take from teammate amid MVP push",
-          "s": "Chicago Cubs star Pete Crow-Armstrong earned a major MVP endorsement from teammate Matthew Boyd during his breakout 2026 season on Wednesday.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-news-pete-crow-armstrong-194147906.html",
-          "fetchedAt": 1786568718461
+          "t": "PCA for MVP? Cubs sensation Crow-Armstrong hits historic heights",
+          "s": "PCA could be the MVP in 2026, putting aside last year’s ugly second half - as Cubs rise in NL Central.",
+          "by": "Gabe Lacques, USA TODAY",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/pete-win-mvp-cubs-sensation-095537290.html",
+          "fetchedAt": 1786741542518
         },
         {
-          "t": "The Brew Crew’s August Blues: Can the Surging Cubs Steal the NL Central?",
-          "s": "The 2026 Major League Baseball season has entered the grueling dog days of August. Suddenly, the National League Central race […]",
-          "by": "Isaac Ciravolo",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/brew-crew-august-blues-surging-173706454.html",
-          "fetchedAt": 1786568718461
+          "t": "Pete Crow-Armstrong's RBI double",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/pete-crow-armstrongs-rbi-double-235432194.html",
+          "fetchedAt": 1786741542518
         },
         {
-          "t": "Cubs get Pete Crow-Armstrong MVP prediction that is bold, but very possible",
-          "s": "This prediction is not that outlandish for PCA this season.",
-          "by": "Matt Sullivan",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-pete-crow-armstrong-mvp-162515651.html",
-          "fetchedAt": 1786568718461
+          "t": "MLB awards predictions for the 2026 season",
+          "s": "The playoffs races in MLB are heating up, and so are the award races!",
+          "by": "Vin Santoro",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-awards-predictions-2026-season-131900955.html",
+          "fetchedAt": 1786741542518
         }
       ],
       "nbcNews": []
@@ -972,14 +962,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/astros-cam-smith-emerging-houstons-000003564.html",
           "fetchedAt": 1786698960170
-        },
-        {
-          "t": "Astros Kyle Tucker Trade Looks Even Better with Hayden Wesneski Back",
-          "s": "It was a big decision for the Houston Astros to move on from Kyle Tucker, but the trade is aging well.",
-          "by": "Maanav Gupta",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/astros-kyle-tucker-trade-looks-160006427.html",
-          "fetchedAt": 1786568704854
         }
       ],
       "nbcNews": []
@@ -1078,6 +1060,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [
+        {
+          "t": "Cole Young's Dizziness Update: Mariners Expect Quick Return After Yankees Game",
+          "s": "Mariners share positive Cole Young injury update after exit",
+          "by": "Miracle Dimwesh",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cole-youngs-dizziness-mariners-expect-133200500.html",
+          "fetchedAt": 1786741553227
+        },
         {
           "t": "Here's the Latest on Seattle Mariners' Infielder Cole Young",
           "s": "",
@@ -1258,12 +1248,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "How to win a Cy Young",
-          "s": "It’s a two-horse race for the league’s top pitching honor",
-          "by": "Joshua Diemert",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/win-cy-young-170000641.html",
-          "fetchedAt": 1786611931652
+          "t": "How the Blue Jays' Trade Deadline Improved the Current Team",
+          "s": "The Toronto Blue Jays' recent success can be credited, in part, to their trade deadline reset.",
+          "by": "Ben Fisher",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-trade-deadline-improved-223019096.html",
+          "fetchedAt": 1786741567483
+        },
+        {
+          "t": "Yankees get good omen for Cam Schlittler Cy Young Award with ESPN ranking",
+          "s": "This is a good omen for Schlittler in the AL Cy Young race.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/yankees-good-omen-cam-schlittler-172232396.html",
+          "fetchedAt": 1786741567483
+        },
+        {
+          "t": "Red Sox vs. Blue Jays prediction: Odds, recent stats, trends, and best bets on August 13",
+          "s": "Boston Red Sox vs. Toronto Blue Jays Betting Preview for August 13",
+          "by": "Rotoworld Bet Staff",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-vs-blue-jays-141731435.html",
+          "fetchedAt": 1786741567483
         }
       ],
       "nbcNews": [
@@ -1288,7 +1294,32 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Phillies news: Insider reveals how Philadelphia can sneak into 2026 playoffs",
+          "s": "The Phillies will have to rely on this aspect of their roster if they are going to survive the NL Wild Card race",
+          "by": "Alex House, ClutchPoints",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-news-insider-reveals-philadelphia-190044481.html",
+          "fetchedAt": 1786741526800
+        },
+        {
+          "t": "Phillies fans will love Cristopher Sanchez's player ranking from ESPN",
+          "s": "Cristopher Sanchez has been one of the best players in MLB this season.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-fans-love-cristopher-sanchezs-171036039.html",
+          "fetchedAt": 1786741526800
+        },
+        {
+          "t": "Phillies Reach Unfortunate First With Zack Wheeler, Christopher Sanchez",
+          "s": "The Philadelphia Phillies are starting to struggle a little bit. After back-to-back losses to the St. Louis Cardinals at Busch Stadium, they have lost their grip on the third National League wild card spot. St. Louis took this opportunity to play the role of spoiler against the playoff-hopeful Phillies.Philadelphia won the series opener on Monday […] The post Phillies Reach Unfortunate First With Zack Wheeler, Christopher Sanchez appeared first on HEAVY.",
+          "by": "Curt Bishop",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-reach-unfortunate-first-zack-165932725.html",
+          "fetchedAt": 1786741526800
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1296,16 +1327,7 @@
       "name": "Kyle Bradish",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
-      "yahooNews": [
-        {
-          "t": "Kyle Bradish Breaks Down Contract Extension With Baltimore Orioles",
-          "s": "Kyle Bradish broke down the contract negotiations between him and the Baltimore Orioles.",
-          "by": "Jesus Jimenez",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/kyle-bradish-breaks-down-contract-153029033.html",
-          "fetchedAt": 1786611910898
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1381,28 +1403,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
-          "t": "Luiz Arraez's Slump Came at the Worst Time for Phillies",
-          "s": "The Philadelphia Phillies need Luis Arraez to break out of his slump.",
-          "by": "Kenneth Teape",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/luiz-arraezs-slump-came-worst-161501810.html",
-          "fetchedAt": 1786568716101
+          "t": "Phillies news: Insider reveals how Philadelphia can sneak into 2026 playoffs",
+          "s": "The Phillies will have to rely on this aspect of their roster if they are going to survive the NL Wild Card race",
+          "by": "Alex House, ClutchPoints",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-news-insider-reveals-philadelphia-190044481.html",
+          "fetchedAt": 1786741540015
         },
         {
-          "t": "Phillies news: Don Mattingly drops honest Luis Arraez admission amid struggles",
-          "s": "Philadelphia Phillies interim manager Don Mattingly shares his take on Luis Arraez's recent struggles at the plate.",
-          "by": "Benedetto Vitale, ClutchPoints",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-news-don-mattingly-drops-165933677.html",
-          "fetchedAt": 1786568716101
-        },
-        {
-          "t": "Phillies' Luzardo has blossomed into a ‘legit ace’",
-          "s": "",
-          "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/videos/phillies-luzardo-blossomed-legit-ace-150052891.html",
-          "fetchedAt": 1786568716101
+          "t": "Phillies' Jesus Luzardo finally earns national respect amid ESPN ranking",
+          "s": "This is some well-deserved respect for Luzardo amid a lofty ESPN ranking.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-jesus-luzardo-finally-earns-180654270.html",
+          "fetchedAt": 1786741540015
         }
       ],
       "nbcNews": []
@@ -1412,7 +1426,16 @@
       "name": "Robbie Ray",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Padres MLB playoffs chances are increasing, not because of Robbie Ray or Casey Mize",
+          "s": "Surprising player has emerged to help the Padres at the most crucial time of the season.",
+          "by": "Derek Antoine",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/padres-mlb-playoffs-chances-increasing-143700233.html",
+          "fetchedAt": 1786741529140
+        }
+      ],
       "nbcNews": [
         {
           "t": "Robbie Ray pulled after four against Brewers",
@@ -1476,14 +1499,6 @@
           "when": "21h ago",
           "href": "https://sports.yahoo.com/videos/impressive-mets-young-starting-pitchers-113900171.html",
           "fetchedAt": 1786698965029
-        },
-        {
-          "t": "Picking Biggest Surprise, Disappointment For Mets In 2026",
-          "s": "As Bo Bichette’s high-priced debut in Queens falters at the plate, breakout starter Christian Scott emerges as a vital anchor for a struggling roster stuck in last place.",
-          "by": "Zach Carver",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/picking-biggest-surprise-disappointment-mets-161936840.html",
-          "fetchedAt": 1786568711352
         }
       ],
       "nbcNews": []
