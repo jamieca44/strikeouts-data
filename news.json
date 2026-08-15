@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-15T09:20:38.987Z",
+  "lastUpdatedNews": "2026-08-15T21:04:08.382Z",
   "players": [
     {
       "id": 11928,
@@ -195,12 +195,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
       "yahooNews": [
         {
-          "t": "One Brewers Prospect With Soaring Stock Right Now",
-          "s": "The Milwaukee Brewers have a budding star going under the radar in High-A.",
+          "t": "The Jess Made Debate Facing Milwaukee Brewers",
+          "s": "The Milwaukee Brewers should promote Jess Made to Triple-A as fast as possible.",
+          "by": "Patrick McAvoy",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/jess-made-debate-facing-milwaukee-230003412.html",
+          "fetchedAt": 1786827838056
+        },
+        {
+          "t": "Brewers Were Crushed for Not Landing Tarik Skubal, But They Were Right",
+          "s": "The Milwaukee Brewers made the right call by avoiding Tarik Skubal.",
           "by": "Patrick McAvoy",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/one-brewers-prospect-soaring-stock-230002768.html",
-          "fetchedAt": 1786698904867
+          "href": "https://sports.yahoo.com/articles/brewers-were-crushed-not-landing-190712055.html",
+          "fetchedAt": 1786827838056
         }
       ],
       "nbcNews": []
@@ -251,16 +259,7 @@
       "name": "Elly De La Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
-      "yahooNews": [
-        {
-          "t": "How Elly De La Cruz can go from 'very good' to great for Reds",
-          "s": "De La Cruz is one of the top shortstops in baseball. How can he get better?",
-          "by": "Conor Liguori",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/elly-la-cruz-very-good-154737764.html",
-          "fetchedAt": 1786655296917
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -308,16 +307,7 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [
-        {
-          "t": "Pirates Not Getting Enough From Their Veteran Outfielder",
-          "s": "The Pittsburgh Pirates have a big culprit for some of their offensive woes.",
-          "by": "Dominic Campbell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-not-getting-enough-veteran-211348512.html",
-          "fetchedAt": 1786698909045
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -374,7 +364,24 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "3 players who will make or break Twins' chances of winning AL Central",
+          "s": "Byron Buxton, Joe Ryan and Royce Lewis hold the key to Twins' AL Central push as Minnesota chases White Sox down the stretch.",
+          "by": "Garrett Kerman, ClutchPoints",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/3-players-break-twins-chances-163844365.html",
+          "fetchedAt": 1786827794861
+        },
+        {
+          "t": "Baltimore Orioles Named Trade Landing Spot for Star Pitcher",
+          "s": "The Baltimore Orioles have disappointed in a significant way this season. Due to this, they elected to be sellers at the 2026 MLB Trade Deadline and moved on from multiple players because of it. Star catcher Adley Rutschman was the most notable player the Orioles moved, as they traded him to the Boston Red Sox. […] The post Baltimore Orioles Named Trade Landing Spot for Star Pitcher appeared first on HEAVY.",
+          "by": "Michael DeRosa",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/baltimore-orioles-named-trade-landing-011018406.html",
+          "fetchedAt": 1786827794861
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -398,14 +405,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-13-234240523.html",
           "fetchedAt": 1786698953378
-        },
-        {
-          "t": "60-61 – Rangers lose to Biblically accurate Angels",
-          "s": "On second thought, be afraid",
-          "by": "ghostofErikThompson",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/60-61-rangers-lose-biblically-051207701.html",
-          "fetchedAt": 1786698953378
         }
       ],
       "nbcNews": []
@@ -417,28 +416,28 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Reds’ Hunter Greene out for season and possibly 2027 after Tommy John surgery",
-          "s": "Cincinnati Reds pitcher Hunter Greene will be out the rest of this season and possibly 2027 after undergoing Tommy John surgery Thursday to repair a ligament in his right elbow. The team had announced Friday that Greene would require surgery. He also had Tommy John surgery in 2019 when he was in the minor leagues. The Cincinnati Enquirer first reported his latest surgery.",
+          "t": "Chase Burns Reflects On Dominant Start Against Marlins",
+          "s": "Chase Burns fanned eight batters through seven innings of work during the Cincinnati Reds' 1-0 shutout victory over the Miami Marlins on Friday.",
+          "by": "Charlie Rondeau",
+          "when": "46m ago",
+          "href": "https://sports.yahoo.com/articles/chase-burns-reflects-dominant-start-201652950.html",
+          "fetchedAt": 1786827830197
+        },
+        {
+          "t": "Reds news: Chase Burns reveals mindset behind 8k showing vs. Marlins",
+          "s": "Chase Burns delivered one of his best starts of the year, and his simple explanation says a lot about what's fueling his breakout season.",
+          "by": "Miguel La Torre, ClutchPoints",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/reds-news-chase-burns-reveals-061301717.html",
+          "fetchedAt": 1786827830197
+        },
+        {
+          "t": "Eugenio Suárez marks 1,500 career hit in Reds' win",
+          "s": "",
           "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/reds-hunter-greene-season-possibly-173921757.html",
-          "fetchedAt": 1786655306760
-        },
-        {
-          "t": "Reds Facing Dilemma After Hunter Greene Undergoes Surgery",
-          "s": "Pitcher Hunter Greene underwent his second Tommy John Surgery that will keep him out of MLB until 2028.",
-          "by": "Nicholas Covone",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/reds-facing-dilemma-hunter-greene-170404977.html",
-          "fetchedAt": 1786655306760
-        },
-        {
-          "t": "Reds' Hunter Greene to miss 2027 season after 2nd Tommy John surgery",
-          "s": "Cincinnati Reds All-Star Hunter Greene made only 5 starts this year and now faces the likelihood of missing all of 2027 because of Tommy John surgery.",
-          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/reds-hunter-greene-miss-2027-164548438.html",
-          "fetchedAt": 1786655306760
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/videos/eugenio-su-rez-marks-1-020945245.html",
+          "fetchedAt": 1786827830197
         }
       ],
       "nbcNews": [
@@ -465,28 +464,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [
         {
-          "t": "Pirates Series Takeaways: Missed Opportunity, Rare Kelly Frustration",
-          "s": "It felt like the Pirates needed to fly out of Miami with a sweep. Or at the very least, a […] The post Pirates Series Takeaways: Missed Opportunity, Rare Kelly Frustration appeared first on Pittsburgh Baseball Now.",
-          "by": "Danny Demilio",
-          "when": "23m ago",
-          "href": "https://sports.yahoo.com/articles/pirates-series-takeaways-missed-opportunity-204500793.html",
-          "fetchedAt": 1786655308720
-        },
-        {
-          "t": "Ashcraft Goes Distance, Pirates Avoid Sweep With Blowout Win Over Marlins",
-          "s": "Braxton Ashcraft goes the distance as the Pirates pound the Marlins to avoid a sweep in Miami.",
-          "by": "Brandon Liguori",
-          "when": "33m ago",
-          "href": "https://sports.yahoo.com/articles/ashcraft-goes-distance-pirates-avoid-203439783.html",
-          "fetchedAt": 1786655308720
-        },
-        {
-          "t": "Ashcraft throws complete game, Flores has 2 homers, 6 RBIs as Pirates rout Marlins 13-1",
-          "s": "Braxton Ashcraft threw a complete-game three-hitter, Rafael Flores had a pair of three-run homers and the Pittsburgh Pirates beat the Miami Marlins 13-1 on Thursday. Jared Triolo and Jacob Gonzalez also went deep for the Pirates, who snapped a three-game skid. Pittsburgh’s Jake Mangum went 3 for 4 with three runs scored.",
+          "t": "Braxton Ashcraft tosses a complete game in 13-1 win",
+          "s": "",
           "by": "",
-          "when": "54m ago",
-          "href": "https://sports.yahoo.com/articles/ashcraft-throws-complete-game-flores-201343779.html",
-          "fetchedAt": 1786655308720
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/braxton-ashcraft-tosses-complete-game-220241017.html",
+          "fetchedAt": 1786827832134
+        },
+        {
+          "t": "Pirates news: Braxton Ashcraft makes MLB history in dominant start vs. Marlins",
+          "s": "Pittsburgh Pirates Braxton Ashcraft had quite a night on the mound in Thursday's win against the Miami Marlins.",
+          "by": "Rexwell Villas, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-news-braxton-ashcraft-makes-030245432.html",
+          "fetchedAt": 1786827832134
+        },
+        {
+          "t": "Ashcraft tosses complete game, Pirates’ bats erupt in win over Marlins",
+          "s": "Maybe the Pirates were letting out some frustrations on Thursday afternoon. Regardless, that one had to feel good.",
+          "by": "Danny Demilio",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/ashcraft-tosses-complete-game-pirates-002139923.html",
+          "fetchedAt": 1786827832134
         }
       ],
       "nbcNews": [
@@ -505,12 +504,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [
         {
-          "t": "Emmet Sheehan is back in a groove",
-          "s": "All four of the Dodgers' minor league affiliates took the win; Emmet Sheehan dominated in Triple-A",
-          "by": "Estevão Maximo",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/emmet-sheehan-back-groove-133000716.html",
-          "fetchedAt": 1786655310922
+          "t": "Dodgers news: Will Smith, Dalton Rushing injury updates before Brewers game",
+          "s": "Dodgers catchers Will Smith and Dalton Rushing took big steps forward on Friday as they both recover from injuries.",
+          "by": "Joey Mistretta, ClutchPoints",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-smith-dalton-rushing-000840674.html",
+          "fetchedAt": 1786827834706
         }
       ],
       "nbcNews": []
@@ -520,16 +519,7 @@
       "name": "Caleb Kilian",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
-      "yahooNews": [
-        {
-          "t": "Philadelphia Phillies' Playoff Hopes are Going Up in Flames",
-          "s": "The Philadelphia Phillies aren't quite at rock bottom, but they're getting close.",
-          "by": "Matthew Schmidt",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/philadelphia-phillies-playoff-hopes-going-110030279.html",
-          "fetchedAt": 1786655255522
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -539,20 +529,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [
         {
-          "t": "How Albert Pujols helped Rays' Junior Caminero become one of MLB's top hitters",
-          "s": "Caminero is one of the American League's MVP candidates.",
-          "by": "Conor Liguori",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/albert-pujols-helped-rays-junior-141025530.html",
-          "fetchedAt": 1786698917797
-        },
-        {
-          "t": "Fantasy Baseball Closer Report: Devin Williams sidelined with shoulder strain, Jacob Webb thriving for Cubs",
-          "s": "Jorge Montanez breaks down the last week in saves from around the league with updated closer rankings.",
-          "by": "Jorge Montanez",
+          "t": "What will Bryan Baker’s place in Rays history be?",
+          "s": "In the Tampa Bay Rays’ tradition of extracting unexpected value from overlooked arms, Bryan Baker stands tall as a textbook success story. Acquired from the Baltimore Orioles on July 10, 2025 in exchange for a competitive balance draft pick (No. 37 overall), which the Rays would later re-acquire in the Shane Baz trade, the 6-foot-6 […]",
+          "by": "Danny Russell",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-closer-report-devin-060156129.html",
-          "fetchedAt": 1786698917797
+          "href": "https://sports.yahoo.com/articles/bryan-baker-place-rays-history-164316631.html",
+          "fetchedAt": 1786827842425
         }
       ],
       "nbcNews": []
@@ -787,14 +769,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/chicago-cubs-announce-alex-bregman-215537472.html",
           "fetchedAt": 1786698950293
-        },
-        {
-          "t": "2026 Cubs Heroes and Goats: Alex Bregman is the Superhero vs. the Nationals",
-          "s": "The Cubs offense goes off, led by a huge game from Alex Bregman as the team continues to roll.",
-          "by": "Thomas Smith",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-alex-143000504.html",
-          "fetchedAt": 1786698950293
         }
       ],
       "nbcNews": []
@@ -837,32 +811,7 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [
-        {
-          "t": "Padres' Playoff Odds Soar Amid Dominant Stretch Since Trade Deadline",
-          "s": "The San Diego Padres, the hottest team in the National League, are in playoff position for the first time in over six weeks.",
-          "by": "Noah Camras",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/padres-playoff-odds-soar-amid-160005634.html",
-          "fetchedAt": 1786698966790
-        },
-        {
-          "t": "Padres Roundup: SD Officially Releases Pitcher, Makes Surprise Roster Move, Wild Sweep Over Brewers",
-          "s": "The San Diego Padres released a pitcher, made a surprise roster move and swept the Milwaukee Brewers in epic walk-off fashion.",
-          "by": "Gabe Smallson",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/padres-roundup-sd-officially-releases-125900639.html",
-          "fetchedAt": 1786698966790
-        },
-        {
-          "t": "Padres win 4-3 in 11 innings to sweep MLB-leading Brewers",
-          "s": "Jackson Merrill hit a tying sacrifice fly in the 11th inning and Luis Campusano followed with a two-out single to bring in Sun-Mung Song from second base as the San Diego Padres beat the MLB-leading Milwaukee Brewers 4-3 on Wednesday for a three-game sweep. The surging Padres have won five straight and 15 of 19 to move into the National League's second wild-card spot ahead of Arizona and Philadelphia. Gary Sánchez doubled home the go-ahead run for Milwaukee off Adrian Morejon (9-2) in the top of the 11th.",
-          "by": "BERNIE WILSON",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/padres-win-4-3-11-002528081.html",
-          "fetchedAt": 1786698966790
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -870,7 +819,32 @@
       "name": "Cody Bellinger",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Yankees’ Cody Bellinger could start rehab assignment next week as injury return takes another step",
+          "s": "The end of Cody Bellinger’s stay on the injured list is beginning to come into sight.",
+          "by": "Greg Joyce",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-cody-bellinger-could-start-235850218.html",
+          "fetchedAt": 1786827801306
+        },
+        {
+          "t": "New York Yankees Announce Cody Bellinger News Before Blue Jays Series",
+          "s": "The New York Yankees announced an update on injured outfielder Cody Bellinger ahead of their series with the Blue Jays. The post New York Yankees Announce Cody Bellinger News Before Blue Jays Series appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-announce-cody-bellinger-234553688.html",
+          "fetchedAt": 1786827801306
+        },
+        {
+          "t": "Bellinger Nears Return",
+          "s": "The New York Yankees received an update on injured outfielder Cody Bellinger ahead of their series with the Blue Jays. The post New York Yankees Get Cody Bellinger Update Before Blue Jays Series appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-cody-bellinger-blue-234553956.html",
+          "fetchedAt": 1786827801306
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -894,14 +868,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/espn-ranks-two-tigers-player-174725217.html",
           "fetchedAt": 1786784638464
-        },
-        {
-          "t": "Tigers suffer another loss after Riley Greene’s injury",
-          "s": "The Detroit Tigers lost another player after an update on three-time All-Star Riley Greene.",
-          "by": "Gavin Groe",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-suffer-another-loss-riley-180714455.html",
-          "fetchedAt": 1786655283490
         }
       ],
       "nbcNews": []
@@ -926,16 +892,7 @@
       "name": "Cam Smith",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
-      "yahooNews": [
-        {
-          "t": "Astros' Cam Smith Is Emerging as Houston's Clutch Bat in August",
-          "s": "The Astros have an outfielder who is stepping up to the plate and doing some damage.",
-          "by": "Thomas Heiberger",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/astros-cam-smith-emerging-houstons-000003564.html",
-          "fetchedAt": 1786698960170
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -991,22 +948,6 @@
           "when": "12h ago",
           "href": "https://sports.yahoo.com/articles/3-players-break-astros-chances-202244464.html",
           "fetchedAt": 1786698962726
-        },
-        {
-          "t": "Houston Astros Announce Jose Altuve News During Giants Series",
-          "s": "The Houston Astros lost 4-1 to the San Francisco Giants on Tuesday night, setting up a series finale Wednesday afternoon to decide the three-game set.Ahead of the matchup, Astros manager Joe Espada made a notable move centered around veteran infielder Jose Altuve after he left Tuesday’s game during his first at-bat after a pitch hit […] The post Houston Astros Announce Jose Altuve News During Giants Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-210515429.html",
-          "fetchedAt": 1786698962726
-        },
-        {
-          "t": "Jose Altuve Out for Astros' Game vs. Giants Due to Bruised Foot; Further Evaluation Pending",
-          "s": "Astros await further evaluation on Jose Altuve's injured foot.",
-          "by": "Miracle Dimwesh",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/jose-altuve-astros-game-vs-191815466.html",
-          "fetchedAt": 1786698962726
         }
       ],
       "nbcNews": []
@@ -1048,16 +989,7 @@
       "name": "Jeremy Peña",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
-      "yahooNews": [
-        {
-          "t": "A Francisco Lindor Trade Is Bold Move Red Sox Need This Winter",
-          "s": "The Boston Red Sox should call the New York Mets this winter about superstar shortstop Francisco Lindor.",
-          "by": "Patrick McAvoy",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/francisco-lindor-trade-bold-move-210004290.html",
-          "fetchedAt": 1786698925759
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1116,12 +1048,12 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Zyhir Hope Struggling With Tigers After Tarik Skubal Trade",
-          "s": "The Los Angeles Dodgers traded for Tarik Skubal before the trade deadline",
-          "by": "Aaliyan Mohammed",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/zyhir-hope-struggling-tigers-tarik-190804232.html",
-          "fetchedAt": 1786655313392
+          "t": "Brewers Were Crushed for Not Landing Tarik Skubal, But They Were Right",
+          "s": "The Milwaukee Brewers made the right call by avoiding Tarik Skubal.",
+          "by": "Patrick McAvoy",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/brewers-were-crushed-not-landing-190712055.html",
+          "fetchedAt": 1786827836460
         }
       ],
       "nbcNews": []
@@ -1132,6 +1064,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [
+        {
+          "t": "How are the Twins’ top prospects performing this summer? And where do they rank among MLB’s best?",
+          "s": "MLB Pipeline released a new list of the top 100 prospects in baseball on Friday, along with the top 30 prospects for each team. The Twins can boast of four members of the top 100 list. Included in that is one player, Kaelen Culpepper, who recently received the call to the big league club, and another who may soon. Here’s a look at Minnesota’s top eight prospects, with their position, age, ...",
+          "by": "Jace Frederick, Pioneer Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/twins-top-prospects-performing-summer-174000931.html",
+          "fetchedAt": 1786827846740
+        },
         {
           "t": "Walker Jenkins's call to Twins may be blocked by his own teammate",
           "s": "With Kaelen Culpepper already in the majors, the Minnesota Twins may take a conservative approach with Walker Jenkins.",
@@ -1328,28 +1268,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [
         {
-          "t": "Rays have 'most underrated' All-Star starting pitcher in MLB according to ESPN",
-          "s": "Tampa Bay's ace is one of the best in baseball.",
-          "by": "Conor Liguori",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/rays-most-underrated-star-starting-184453475.html",
-          "fetchedAt": 1786655302033
+          "t": "Rays Already Making Positive Adjustments for Freddy Peralta",
+          "s": "The Tampa Bay Rays look to already be working their magic with Freddy Peralta.",
+          "by": "Kenneth Teape",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/rays-already-making-positive-adjustments-100005783.html",
+          "fetchedAt": 1786827828135
         },
         {
-          "t": "Did Mets Miss Window To Cash In On Former Top Prospects?",
-          "s": "As Mark Vientos and Brett Baty endure alarming regressions, New York’s decision to hold onto their struggling youth threatens to turn once-prized assets into untradeable roster anchors.",
-          "by": "",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/videos/did-mets-miss-window-cash-155607819.html",
-          "fetchedAt": 1786655302033
+          "t": "Grading Overall Trade Deadline Performance for Rays",
+          "s": "What grade should the Tampa Bay Rays receive for their overall efforts at the trade deadline?",
+          "by": "Nick Ziegler",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/grading-overall-trade-deadline-performance-100006755.html",
+          "fetchedAt": 1786827828135
         },
         {
-          "t": "Rays MLB Trade Deadline Moves Are Already Paying Off in a Big Way",
-          "s": "The Tampa Bay Rays' trade deadline moves are already paying off during a nine-game winning streak. Liam Hicks has provided an immediate offensive spark, while Freddy Peralta and Tyler Wells are showing why Erik Neander's deadline could fuel a deep postseason run.",
+          "t": "Rays Roundtable: Can Tampa Bay Hold Onto the AL East Lead?",
+          "s": "The Tampa Bay Rays are the hottest team in baseball after a perfect 9-0 road trip. With Liam Hicks making an immediate impact, the AL East lead growing and Junior Caminero making an MVP push, how high is the ceiling for Tampa Bay after the trade deadline?",
           "by": "Christian Rauh",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/rays-mlb-trade-deadline-moves-084102157.html",
-          "fetchedAt": 1786655302033
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rays-roundtable-tampa-bay-hold-155022149.html",
+          "fetchedAt": 1786827828135
         }
       ],
       "nbcNews": []
@@ -1401,16 +1341,7 @@
       "name": "Kirby Yates",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
-      "yahooNews": [
-        {
-          "t": "This Pirates trade deadline addition already looks like a complete waste",
-          "s": "About the only thing the Pittsburgh Pirates have done right since the All-Star break is how they handled the trade deadline. Yet, Luke Weaver continues to sit on ice.",
-          "by": "John Perrotto",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-trade-deadline-addition-already-164232753.html",
-          "fetchedAt": 1786655268644
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1418,7 +1349,32 @@
       "name": "Joey Cantillo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11823.2.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Guardians manager Stephen Vogt on Joey Cantillo's 2026 season. Video",
+          "s": "",
+          "by": "",
+          "when": "18m ago",
+          "href": "https://sports.yahoo.com/videos/guardians-manager-stephen-vogt-joey-204435493.html",
+          "fetchedAt": 1786827813681
+        },
+        {
+          "t": "Guardians lineup, live score updates tonight vs. Padres",
+          "s": "The Cleveland Guardians host the San Diego Padres on Aug. 15. Follow along for live updates throughout the game tonight.",
+          "by": "Ryan Lewis and Nate Ulrich, Akron Beacon Journal",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-lineup-live-score-updates-190044673.html",
+          "fetchedAt": 1786827813681
+        },
+        {
+          "t": "Red-Hot San Diego Padres Present Tough Test For Guardians This Weekend",
+          "s": "The Cleveland Guardians are coming off a strugglesome road series against the Detroit Tigers, falling 2-1. Now, returning to home against the San Diego Padres, the road isn't getting any easier for them.",
+          "by": "Cade Cracas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/red-hot-san-diego-padres-143109295.html",
+          "fetchedAt": 1786827813681
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1442,16 +1398,7 @@
       "name": "Christian Scott",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60292.1.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "How impressive are the Mets' young starting pitchers? | Baseball Night in NY",
-          "s": "",
-          "by": "",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/videos/impressive-mets-young-starting-pitchers-113900171.html",
-          "fetchedAt": 1786698965029
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1459,7 +1406,32 @@
       "name": "Angel Genao",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Guardians’ Angel Genao Making the Most of MLB Opportunity",
+          "s": "",
+          "by": "",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/videos/guardians-angel-genao-making-most-161527029.html",
+          "fetchedAt": 1786827819504
+        },
+        {
+          "t": "Guardians’ Angel Genao Making the Most of MLB Opportunity",
+          "s": "Angel Genao has given the Cleveland Guardians an immediate spark after making his MLB debut.",
+          "by": "Tommy Wild",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-angel-genao-making-most-161527587.html",
+          "fetchedAt": 1786827819504
+        },
+        {
+          "t": "Guardians Land Several Players on New Top 100 Prospect List",
+          "s": "The Cleveland Guardians have a handful of elite MLB prospects.",
+          "by": "Tommy Wild",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-land-several-players-top-110004191.html",
+          "fetchedAt": 1786827819504
+        }
+      ],
       "nbcNews": []
     }
   ]
