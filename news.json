@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-15T21:04:08.382Z",
+  "lastUpdatedNews": "2026-08-15T21:20:32.265Z",
   "players": [
     {
       "id": 11928,
@@ -145,7 +145,14 @@
           "fetchedAt": 1786741548898
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson homers, scores three times in victory",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/alec-burleson-homers-scores-three-times-in-victory",
+          "fetchedAt": 1786828832265
+        }
+      ]
     },
     {
       "id": 64313,
@@ -219,7 +226,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young dropped to sixth in Mariners lineup",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/cole-young-dropped-to-sixth-in-mariners-lineup",
+          "fetchedAt": 1786828832265
+        }
+      ]
     },
     {
       "id": 9552,
@@ -252,7 +266,20 @@
           "fetchedAt": 1786741564223
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts gets a night off on Thursday",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/mookie-betts-gets-a-night-off-on-thursday",
+          "fetchedAt": 1786828832265
+        },
+        {
+          "t": "Mookie Betts homers again in win over Royals",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/mookie-betts-homers-again-in-win-over-royals",
+          "fetchedAt": 1786828832265
+        }
+      ]
     },
     {
       "id": 12393,
@@ -950,7 +977,14 @@
           "fetchedAt": 1786698962726
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve (foot) returns to lineup on Friday",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/jose-altuve-foot-returns-to-lineup-on-friday",
+          "fetchedAt": 1786828832265
+        }
+      ]
     },
     {
       "id": 11529,
@@ -982,7 +1016,20 @@
           "fetchedAt": 1786741553227
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young dropped to sixth in Mariners lineup",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/cole-young-dropped-to-sixth-in-mariners-lineup",
+          "fetchedAt": 1786828832265
+        },
+        {
+          "t": "Cole Young remains sidelined with illness",
+          "date": "2026-08-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/cole-young-remains-sidelined-with-illness",
+          "fetchedAt": 1786828832265
+        }
+      ]
     },
     {
       "id": 11768,
@@ -1031,7 +1078,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Matt Shaw (hand) nears rehab assignment",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/matt-shaw-hand-nears-rehab-assignment",
+          "fetchedAt": 1786828832265
+        }
+      ]
     },
     {
       "id": 63537,
