@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-15T09:04:08.736Z",
+  "lastUpdatedNews": "2026-08-15T09:20:38.987Z",
   "players": [
     {
       "id": 11928,
@@ -66,7 +66,20 @@
           "fetchedAt": 1786784623541
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Guerrero Jr. going through concussion protocol",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/guerrero-jr-going-through-concussion-protocol",
+          "fetchedAt": 1786785638987
+        },
+        {
+          "t": "Vladimir Guerrero Jr. leaves game after collision",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/vladimir-guerrero-jr-leaves-game-after-collision",
+          "fetchedAt": 1786785638987
+        }
+      ]
     },
     {
       "id": 10964,
@@ -132,14 +145,7 @@
           "fetchedAt": 1786741548898
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson takes over MLB lead in doubles",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/alec-burleson-takes-over-mlb-lead-in-doubles",
-          "fetchedAt": 1786656347845
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -180,20 +186,7 @@
           "fetchedAt": 1786784625688
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. gets Wednesday off vs. Brewers",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/fernando-tatis-jr-gets-wednesday-off-vs-brewers",
-          "fetchedAt": 1786569636631
-        },
-        {
-          "t": "Fernando Tatis Jr. homers versus Brewers",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/fernando-tatis-jr-homers-versus-brewers",
-          "fetchedAt": 1786569636631
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -251,14 +244,7 @@
           "fetchedAt": 1786741564223
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts collects three hits, homers in win",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/mookie-betts-collects-three-hits-homers-in-win",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -455,7 +441,14 @@
           "fetchedAt": 1786655306760
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Burns strikes out eight in win over Marlins",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/burns-strikes-out-eight-in-win-over-marlins",
+          "fetchedAt": 1786785638987
+        }
+      ]
     },
     {
       "id": 11203,
@@ -723,14 +716,7 @@
           "fetchedAt": 1786784598843
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana takes seat versus Tigers southpaw",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/travis-bazzana-takes-seat-versus-tigers-southpaw",
-          "fetchedAt": 1786742457760
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -811,14 +797,7 @@
           "fetchedAt": 1786698950293
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson smashes 18th home run in win",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/dansby-swanson-smashes-18th-home-run-in-win",
-          "fetchedAt": 1786613264120
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -925,20 +904,7 @@
           "fetchedAt": 1786655283490
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene lands on IL with hamstring strain",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/riley-greene-lands-on-il-with-hamstring-strain",
-          "fetchedAt": 1786742457760
-        },
-        {
-          "t": "Tigers still evaluating Riley Greene’s hamstring",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/tigers-still-evaluating-riley-greenes-hamstring",
-          "fetchedAt": 1786742457760
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -1043,14 +1009,7 @@
           "fetchedAt": 1786698962726
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve to undergo additional imaging on foot",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/jose-altuve-to-undergo-additional-imaging-on-foot",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -1082,14 +1041,7 @@
           "fetchedAt": 1786741553227
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cole Young leaves game early with illness",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/cole-young-leaves-game-early-with-illness",
-          "fetchedAt": 1786613264120
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -1269,14 +1221,7 @@
           "fetchedAt": 1786741567483
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease struggles through five against Boston",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/dylan-cease-struggles-through-five-against-boston",
-          "fetchedAt": 1786526469479
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1367,7 +1312,14 @@
           "fetchedAt": 1786698935960
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole allows one earned runs in loss to Jays",
+          "date": "2026-08-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/cole-allows-one-earned-runs-in-loss-to-jays",
+          "fetchedAt": 1786785638987
+        }
+      ]
     },
     {
       "id": 11014,
@@ -1442,14 +1394,7 @@
           "fetchedAt": 1786741529140
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray pulled after four against Brewers",
-          "date": "2026-08-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-12/robbie-ray-pulled-after-four-against-brewers",
-          "fetchedAt": 1786613264120
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
