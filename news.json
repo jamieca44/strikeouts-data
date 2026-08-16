@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-16T09:05:54.654Z",
+  "lastUpdatedNews": "2026-08-16T09:22:49.847Z",
   "players": [
     {
       "id": 11928,
@@ -87,14 +87,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. collects two hits in loss to M’s",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/luis-garcia-jr-collects-two-hits-in-loss-to-ms",
-          "fetchedAt": 1786742457760
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -206,20 +199,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts gets a night off on Thursday",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/mookie-betts-gets-a-night-off-on-thursday",
-          "fetchedAt": 1786828832265
-        },
-        {
-          "t": "Mookie Betts homers again in win over Royals",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/mookie-betts-homers-again-in-win-over-royals",
-          "fetchedAt": 1786828832265
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -283,7 +263,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz goes two scoreless for 24th save",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/jacob-latz-goes-two-scoreless-for-24th-save",
+          "fetchedAt": 1786872169847
+        }
+      ]
     },
     {
       "id": 11763,
@@ -374,7 +361,14 @@
           "fetchedAt": 1786871141184
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore surrenders three runs in victory",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/mackenzie-gore-surrenders-three-runs-in-victory",
+          "fetchedAt": 1786872169847
+        }
+      ]
     },
     {
       "id": 64316,
@@ -455,14 +449,7 @@
           "fetchedAt": 1786827832134
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft throws CG against Marlins",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/braxton-ashcraft-throws-cg-against-marlins",
-          "fetchedAt": 1786656347845
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -504,7 +491,14 @@
           "fetchedAt": 1786827842425
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker handed first loss by former team",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/bryan-baker-handed-first-loss-by-former-team",
+          "fetchedAt": 1786872169847
+        }
+      ]
     },
     {
       "id": 10214,
@@ -619,20 +613,7 @@
           "fetchedAt": 1786871143601
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman listed as day-to-day after tumble",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/freddie-freeman-listed-as-day-to-day-after-tumble",
-          "fetchedAt": 1786742457760
-        },
-        {
-          "t": "Freddie Freeman exits after fall down dugout steps",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/freddie-freeman-exits-after-fall-down-dugout-steps",
-          "fetchedAt": 1786742457760
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -674,14 +655,7 @@
           "fetchedAt": 1786784633608
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Durbin hits second grand slam of August in victory",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/durbin-hits-second-grand-slam-of-august-in-victory",
-          "fetchedAt": 1786699814943
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -830,14 +804,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Taylor Ward (quad tightness) not starting Thursday",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/taylor-ward-quad-tightness-not-starting-thursday",
-          "fetchedAt": 1786656347845
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -887,14 +854,7 @@
           "fetchedAt": 1786784644206
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mariners option Colt Emerson back to Triple-A",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/mariners-option-colt-emerson-back-to-triple-a",
-          "fetchedAt": 1786699814943
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -962,12 +922,6 @@
           "t": "Cole Young dropped to sixth in Mariners lineup",
           "date": "2026-08-15",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/cole-young-dropped-to-sixth-in-mariners-lineup",
-          "fetchedAt": 1786828832265
-        },
-        {
-          "t": "Cole Young remains sidelined with illness",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/cole-young-remains-sidelined-with-illness",
           "fetchedAt": 1786828832265
         }
       ]
@@ -1069,14 +1023,7 @@
           "fetchedAt": 1786827846740
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins continues hot August",
-          "date": "2026-08-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-13/walker-jenkins-continues-hot-august",
-          "fetchedAt": 1786656347845
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -1166,7 +1113,14 @@
           "fetchedAt": 1786784614235
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish holds Rays to two runs through six",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/kyle-bradish-holds-rays-to-two-runs-through-six",
+          "fetchedAt": 1786872169847
+        }
+      ]
     },
     {
       "id": 9121,
@@ -1272,7 +1226,14 @@
           "fetchedAt": 1786741540015
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo strikes out nine in win over Twins",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/jesus-luzardo-strikes-out-nine-in-win-over-twins",
+          "fetchedAt": 1786872169847
+        }
+      ]
     },
     {
       "id": 9691,
