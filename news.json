@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-17T21:03:43.265Z",
+  "lastUpdatedNews": "2026-08-17T21:20:52.324Z",
   "players": [
     {
       "id": 11928,
@@ -58,7 +58,20 @@
           "fetchedAt": 1786957539134
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. placed on concussion IL",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/vladimir-guerrero-jr-placed-on-concussion-il",
+          "fetchedAt": 1787001652324
+        },
+        {
+          "t": "Vladimir Guerrero Jr. (head) out of lineup",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/vladimir-guerrero-jr-head-out-of-lineup",
+          "fetchedAt": 1787001652324
+        }
+      ]
     },
     {
       "id": 10964,
@@ -272,7 +285,14 @@
           "fetchedAt": 1786914250124
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz fans four times versus Cardinals",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/elly-de-la-cruz-fans-four-times-versus-cardinals",
+          "fetchedAt": 1787001652324
+        }
+      ]
     },
     {
       "id": 9507,
@@ -595,7 +615,14 @@
           "fetchedAt": 1786914292428
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Erratic Edwin Díaz loads bases before earning save",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/erratic-edwin-diaz-loads-bases-before-earning-save",
+          "fetchedAt": 1787001652324
+        }
+      ]
     },
     {
       "id": 10592,
