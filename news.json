@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-17T09:05:58.487Z",
+  "lastUpdatedNews": "2026-08-17T09:22:27.567Z",
   "players": [
     {
       "id": 11928,
@@ -58,20 +58,7 @@
           "fetchedAt": 1786957539134
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Guerrero Jr. going through concussion protocol",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/guerrero-jr-going-through-concussion-protocol",
-          "fetchedAt": 1786785638987
-        },
-        {
-          "t": "Vladimir Guerrero Jr. leaves game after collision",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/vladimir-guerrero-jr-leaves-game-after-collision",
-          "fetchedAt": 1786785638987
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -311,10 +298,10 @@
       ],
       "nbcNews": [
         {
-          "t": "José Ramírez not in Guards starting lineup",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/jose-ramirez-not-in-guards-starting-lineup",
-          "fetchedAt": 1786742457760
+          "t": "José Ramírez has double, run scored, RBI in win",
+          "date": "2026-08-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/jose-ramirez-has-double-run-scored-rbi-in-win",
+          "fetchedAt": 1786958547567
         }
       ]
     },
@@ -333,7 +320,14 @@
           "fetchedAt": 1786914252177
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Reynolds reaches three times, drives in two",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/bryan-reynolds-reaches-three-times-drives-in-two",
+          "fetchedAt": 1786958547567
+        }
+      ]
     },
     {
       "id": 9876,
@@ -389,7 +383,14 @@
           "fetchedAt": 1786871137036
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal strikes out seven in loss to Brewers",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/tarik-skubal-strikes-out-seven-in-loss-to-brewers",
+          "fetchedAt": 1786958547567
+        }
+      ]
     },
     {
       "id": 11847,
@@ -463,14 +464,7 @@
           "fetchedAt": 1786827830197
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Burns strikes out eight in win over Marlins",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/burns-strikes-out-eight-in-win-over-marlins",
-          "fetchedAt": 1786785638987
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -609,14 +603,7 @@
           "fetchedAt": 1786914292428
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz allows four straight hits to blow save",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/edwin-diaz-allows-four-straight-hits-to-blow-save",
-          "fetchedAt": 1786742457760
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -689,14 +676,7 @@
           "fetchedAt": 1786871143601
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman (hand) held out on Friday night",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/freddie-freeman-hand-held-out-on-friday-night",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -704,7 +684,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana goes hitless in loss to Padres",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/travis-bazzana-goes-hitless-in-loss-to-padres",
+          "fetchedAt": 1786958547567
+        }
+      ]
     },
     {
       "id": 61788,
@@ -774,7 +761,14 @@
           "fetchedAt": 1786914289326
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong hits two-run home run in loss",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/pete-crow-armstrong-hits-two-run-home-run-in-loss",
+          "fetchedAt": 1786958547567
+        }
+      ]
     },
     {
       "id": 12522,
@@ -831,14 +825,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Taylor Ward (quad) remains out of Mariners’ lineup",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/taylor-ward-quad-remains-out-of-mariners-lineup",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -854,14 +841,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mariners place Colt Emerson (wrist) on 10-day IL",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/mariners-place-colt-emerson-wrist-on-10-day-il",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -878,14 +858,7 @@
           "fetchedAt": 1786871145517
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve (foot) returns to lineup on Friday",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/jose-altuve-foot-returns-to-lineup-on-friday",
-          "fetchedAt": 1786828832265
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -902,14 +875,7 @@
           "fetchedAt": 1786914267461
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Héctor Rodríguez sits against Marlins on Friday",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/hector-rodriguez-sits-against-marlins-on-friday",
-          "fetchedAt": 1786742457760
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60580,
@@ -991,7 +957,14 @@
           "fetchedAt": 1786957512715
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Marcelo Mayer (forearm) goes 1-for-6 in Triple-A",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/marcelo-mayer-forearm-goes-1-for-6-in-triple-a",
+          "fetchedAt": 1786958547567
+        }
+      ]
     },
     {
       "id": 62984,
@@ -1089,14 +1062,7 @@
           "fetchedAt": 1786957551901
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom exits due to triceps fatigue",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/jacob-degrom-exits-due-to-triceps-fatigue",
-          "fetchedAt": 1786699814943
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1192,14 +1158,7 @@
           "fetchedAt": 1786871134740
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cole allows one earned runs in loss to Jays",
-          "date": "2026-08-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-14/cole-allows-one-earned-runs-in-loss-to-jays",
-          "fetchedAt": 1786785638987
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
