@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-17T09:22:27.567Z",
+  "lastUpdatedNews": "2026-08-17T21:03:43.265Z",
   "players": [
     {
       "id": 11928,
@@ -197,7 +197,16 @@
       "name": "Jesús Made",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Brewers Pitcher Outduels Tarik Skubal After Team Reportedly Refused To Trade Him To Tigers",
+          "s": "The Milwaukee Brewers reportedly made a strong push to acquire Tarik Skubal before he ended up with the Los Angeles Dodgers",
+          "by": "Aaliyan Mohammed",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/brewers-pitcher-outduels-tarik-skubal-141817250.html",
+          "fetchedAt": 1787000559370
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -397,16 +406,7 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [
-        {
-          "t": "3 players who will make or break Twins' chances of winning AL Central",
-          "s": "Byron Buxton, Joe Ryan and Royce Lewis hold the key to Twins' AL Central push as Minnesota chases White Sox down the stretch.",
-          "by": "Garrett Kerman, ClutchPoints",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/3-players-break-twins-chances-163844365.html",
-          "fetchedAt": 1786827794861
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -414,32 +414,7 @@
       "name": "MacKenzie Gore",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
-      "yahooNews": [
-        {
-          "t": "MacKenzie Gore Takes the Mound as Rangers Fight to Get Back on Track",
-          "s": "Can Mackenzie Gore continue his strong month of August?",
-          "by": "Dominic Minchella",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/mackenzie-gore-takes-mound-rangers-180003113.html",
-          "fetchedAt": 1786871141184
-        },
-        {
-          "t": "3 players who will make or break Rangers' chances of winning AL West",
-          "s": "Corey Seager, Jacob deGrom, and MacKenzie Gore could determine whether the Texas Rangers can overtake the Astros and win the AL West crown.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/3-players-break-rangers-chances-142406736.html",
-          "fetchedAt": 1786871141184
-        },
-        {
-          "t": "Rangers Recent Slide Putting Playoff Hopes in Jeopardy",
-          "s": "It is somewhat hard to fathom what has gone on for the Rangers as of late, and they better act quick, before it is too late.",
-          "by": "Maddy Dickens",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/rangers-recent-slide-putting-playoff-130009339.html",
-          "fetchedAt": 1786871141184
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "MacKenzie Gore surrenders three runs in victory",
@@ -456,12 +431,12 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Chase Burns Reflects On Dominant Start Against Marlins",
-          "s": "Chase Burns fanned eight batters through seven innings of work during the Cincinnati Reds' 1-0 shutout victory over the Miami Marlins on Friday.",
-          "by": "Charlie Rondeau",
-          "when": "46m ago",
-          "href": "https://sports.yahoo.com/articles/chase-burns-reflects-dominant-start-201652950.html",
-          "fetchedAt": 1786827830197
+          "t": "Reds Ace Chase Burns Opens Up About Pitching Mindset That's Led to His Success",
+          "s": "The Cincinnati Reds have an ace on their hands with young flamethrower Chase Burns.",
+          "by": "Zach Pressnell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reds-ace-chase-burns-opens-120700100.html",
+          "fetchedAt": 1787000621734
         }
       ],
       "nbcNews": []
@@ -512,7 +487,24 @@
       "name": "Emmet Sheehan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dodgers news: Tarik Skubal gets 100% real about not living up to standards",
+          "s": "Tarik Skubal knows that he can still take his game up a notch as he hasn't quite been his best self with the Dodgers yet.",
+          "by": "Jedd Pagaduan, ClutchPoints",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-tarik-skubal-gets-031433309.html",
+          "fetchedAt": 1787000569737
+        },
+        {
+          "t": "MLB insider makes bold Dodgers, Mets prediction for Tarik Skubal's free agency",
+          "s": "This prediction from an MLB insider would make for a repeat of last offseason.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mlb-insider-makes-bold-dodgers-175208315.html",
+          "fetchedAt": 1787000569737
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -666,14 +658,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announced-freddie-231641785.html",
           "fetchedAt": 1786871143601
-        },
-        {
-          "t": "Dodgers vs. Brewers Lineup: Kyle Tucker Benched, Freddie Freeman is Back",
-          "s": "The Los Angeles Dodgers are locked in for another intense matchup against the Milwaukee Brewers, this time as the rare underdogs.",
-          "by": "Nelson Espinal",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-vs-brewers-lineup-kyle-191727144.html",
-          "fetchedAt": 1786871143601
         }
       ],
       "nbcNews": []
@@ -706,7 +690,16 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Bipolar: Phillies vs. Marlins series preview",
+          "s": "The Marlins have been all over the place this season",
+          "by": "Smarty Jones",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/bipolar-phillies-vs-marlins-series-165900706.html",
+          "fetchedAt": 1787000578294
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -714,7 +707,32 @@
       "name": "Dansby Swanson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Injury Update: Cubs SS Dansby Swanson to Miss 4-6 Weeks",
+          "s": "",
+          "by": "",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/videos/injury-cubs-ss-dansby-swanson-194531229.html",
+          "fetchedAt": 1787000580260
+        },
+        {
+          "t": "Dansby Swanson Gives Blunt Injury Update Before White Sox Series",
+          "s": "The Chicago Cubs dropped two out of three games against the St. Louis Cardinals, losing 11-4 on Sunday afternoon.However, the biggest news to come out of the game for Chicago involved an oblique injury to infielder Dansby Swanson after an awkward swing.Swanson left the game after clearly feeling the injury, and Cubs manager Craig Counsell […] The post Dansby Swanson Gives Blunt Injury Update Before White Sox Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/dansby-swanson-gives-blunt-injury-161044952.html",
+          "fetchedAt": 1787000580260
+        },
+        {
+          "t": "2026 Cubs Heroes and Goats: Pete Crow-Armstrong is the Superhero vs. the Cardinals",
+          "s": "On a day when just about everything went wrong, PCA provided one of the few bright spots.",
+          "by": "Thomas Smith",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/2026-cubs-heroes-goats-pete-140000074.html",
+          "fetchedAt": 1787000580260
+        }
+      ],
       "nbcNews": [
         {
           "t": "Dansby Swanson exits game with side discomfort",
@@ -775,16 +793,7 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [
-        {
-          "t": "Padres Roundup: SD Officially Releases 2 Players, Signs Ex-Dodgers Pitcher, Jackson Merrill Earns $5 Million",
-          "s": "The San Diego Padres released two more players, signed a former Los Angeles Dodgers pitcher and Jackson Merrill earned another $5 million.",
-          "by": "Noah Camras",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/padres-roundup-sd-officially-releases-125900633.html",
-          "fetchedAt": 1786871107587
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -792,7 +801,32 @@
       "name": "Cody Bellinger",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Yankees news: Cody Bellinger to begin rehab this week",
+          "s": "Bellinger to begin rehab this week; Remembering Tommy John; Is Apollo’s stake bad news for fans?; Weathers impressing.",
+          "by": "Kunj Shah",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-news-cody-bellinger-begin-090000643.html",
+          "fetchedAt": 1787000582493
+        },
+        {
+          "t": "Yankees news: Cody Bellinger gets official date for rehab assignment",
+          "s": "Cody Bellinger has not played for the Yankees since the end of July, but could be back in the lineup soon according to Aaron Boone.",
+          "by": "Bryan Logan, ClutchPoints",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-news-cody-bellinger-gets-214243859.html",
+          "fetchedAt": 1787000582493
+        },
+        {
+          "t": "Yankees' Cody Bellinger set for rehab assignment, could return next weekend",
+          "s": "Cody Bellinger is set to begin a rehab assignment this week and could return to the Yankees for their upcoming series against the Blue Jays.",
+          "by": "Garrett Stepien",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-cody-bellinger-set-rehab-170721904.html",
+          "fetchedAt": 1787000582493
+        }
+      ],
       "nbcNews": [
         {
           "t": "Cody Bellinger (hamstring) could return by weekend",
@@ -1036,7 +1070,16 @@
       "name": "Walker Jenkins",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The Twins' are giving themselves another reason to call up Walker Jenkins",
+          "s": "Luke Keaschall's defensive crisis should force the Twins to call up their top prospect.",
+          "by": "Chris Schad",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/twins-giving-themselves-another-reason-153001594.html",
+          "fetchedAt": 1787000592331
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1101,7 +1144,16 @@
       "name": "Ryan Helsley",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Which injured Orioles return will provide the biggest boost?",
+          "s": "A quartet of injured Orioles are working their way back. Will they matter?",
+          "by": "Mark Brown",
+          "when": "55m ago",
+          "href": "https://sports.yahoo.com/articles/injured-orioles-return-biggest-boost-200735454.html",
+          "fetchedAt": 1787000594201
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1109,7 +1161,16 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Best-Case Scenario For Phillies Relies on Their Start Pitchers",
+          "s": "What is the best-case scenario for the Philadelphia Phillies for the rest of the regular season?",
+          "by": "Nick Ziegler",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/best-case-scenario-phillies-relies-000002935.html",
+          "fetchedAt": 1787000596598
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1140,22 +1201,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/blue-jays-manager-shares-honest-013946931.html",
           "fetchedAt": 1786871134740
-        },
-        {
-          "t": "New York Yankees @ Toronto Blue Jays: Cam Schlittler vs. Braydon Fisher",
-          "s": "After back-to-back low-scoring losses, the Yankees need all they can get from Cam Schlittler against the Blue Jays",
-          "by": "Estevão Maximo",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-toronto-blue-jays-184058640.html",
-          "fetchedAt": 1786871134740
-        },
-        {
-          "t": "Yankees’ Gerrit Cole looks like his 2023 self again",
-          "s": "The Yankees have gotten the kind of Gerrit Cole stretch that changes the feel of a series before the first […]",
-          "by": "Alexander Wilson",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-gerrit-cole-looks-2023-180012677.html",
-          "fetchedAt": 1786871134740
         }
       ],
       "nbcNews": []
@@ -1167,12 +1212,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [
         {
-          "t": "Rays Already Making Positive Adjustments for Freddy Peralta",
-          "s": "The Tampa Bay Rays look to already be working their magic with Freddy Peralta.",
-          "by": "Kenneth Teape",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/rays-already-making-positive-adjustments-100005783.html",
-          "fetchedAt": 1786827828135
+          "t": "Early MLB Free Agency Predictions 2026-27: Projecting Where Top 6 Free Agents Land This Winter",
+          "s": "The 2026 MLB season is still ongoing, and it already feels like the fears of a lockout this offseason have […]",
+          "by": "Matt Johnson",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/early-mlb-free-agency-predictions-182444187.html",
+          "fetchedAt": 1787000619455
         }
       ],
       "nbcNews": [
@@ -1239,20 +1284,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Guardians manager Stephen Vogt on Joey Cantillo's 2026 season. Video",
-          "s": "",
-          "by": "",
-          "when": "18m ago",
-          "href": "https://sports.yahoo.com/videos/guardians-manager-stephen-vogt-joey-204435493.html",
-          "fetchedAt": 1786827813681
+          "t": "Casey Mize has solid outing; Padres win series over Guardians",
+          "s": "News to know about your San Diego Padres and MLB for August 17, 2026.",
+          "by": "Matt DeWalt",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/casey-mize-solid-outing-padres-133000912.html",
+          "fetchedAt": 1787000614954
         },
         {
-          "t": "Guardians lineup, live score updates tonight vs. Padres",
-          "s": "The Cleveland Guardians host the San Diego Padres on Aug. 15. Follow along for live updates throughout the game tonight.",
-          "by": "Ryan Lewis and Nate Ulrich, Akron Beacon Journal",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-lineup-live-score-updates-190044673.html",
-          "fetchedAt": 1786827813681
+          "t": "Fifth Straight Series Loss",
+          "s": "San Diego Padres 5 - Cleveland Guardians 0",
+          "by": "Nicole Williams",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/fifth-straight-series-loss-001354480.html",
+          "fetchedAt": 1787000614954
+        },
+        {
+          "t": "Chase DeLauter Exits in Third Frame of Sunday Outing Against Padres",
+          "s": "The Cleveland Guardians removed rookie outfielder Chase DeLauter from Sunday's game at Progressive Field against the San Diego Padres. DeLauter has been injured twice in the 2026 campaign, ending up on the injured list once.",
+          "by": "Cade Cracas",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/chase-delauter-exits-third-frame-220928404.html",
+          "fetchedAt": 1787000614954
         }
       ],
       "nbcNews": []
@@ -1278,7 +1331,32 @@
       "name": "Christian Scott",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60292.1.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Scott Lowers Pitch Count, Gets Mets Into Seventh Inning",
+          "s": "",
+          "by": "",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/videos/scott-lowers-pitch-count-gets-100347695.html",
+          "fetchedAt": 1787000610911
+        },
+        {
+          "t": "Scott Leads Mets Win",
+          "s": "New York Mets starter Christian Scott is starting to give the Mets length, and yesterday it led to another win.",
+          "by": "Bob McCullough",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/scott-lowers-pitch-count-gets-100347686.html",
+          "fetchedAt": 1787000610911
+        },
+        {
+          "t": "Mets Beat Nationals, 4-3, To Complete Rare Series Sweep",
+          "s": "",
+          "by": "",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/videos/mets-beat-nationals-4-3-211047360.html",
+          "fetchedAt": 1787000610911
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1286,32 +1364,7 @@
       "name": "Angel Genao",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Guardians’ Angel Genao Making the Most of MLB Opportunity",
-          "s": "",
-          "by": "",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/guardians-angel-genao-making-most-161527029.html",
-          "fetchedAt": 1786827819504
-        },
-        {
-          "t": "Guardians’ Angel Genao Making the Most of MLB Opportunity",
-          "s": "Angel Genao has given the Cleveland Guardians an immediate spark after making his MLB debut.",
-          "by": "Tommy Wild",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-angel-genao-making-most-161527587.html",
-          "fetchedAt": 1786827819504
-        },
-        {
-          "t": "Guardians Land Several Players on New Top 100 Prospect List",
-          "s": "The Cleveland Guardians have a handful of elite MLB prospects.",
-          "by": "Tommy Wild",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-land-several-players-top-110004191.html",
-          "fetchedAt": 1786827819504
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     }
   ]
