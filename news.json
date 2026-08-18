@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-18T09:04:08.176Z",
+  "lastUpdatedNews": "2026-08-18T09:21:16.199Z",
   "players": [
     {
       "id": 11928,
@@ -41,20 +41,7 @@
           "fetchedAt": 1786957539134
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. placed on concussion IL",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/vladimir-guerrero-jr-placed-on-concussion-il",
-          "fetchedAt": 1787001652324
-        },
-        {
-          "t": "Vladimir Guerrero Jr. (head) out of lineup",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/vladimir-guerrero-jr-head-out-of-lineup",
-          "fetchedAt": 1787001652324
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -137,14 +124,7 @@
           "fetchedAt": 1787043842604
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson homers, scores three times in victory",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/alec-burleson-homers-scores-three-times-in-victory",
-          "fetchedAt": 1786828832265
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -228,14 +208,7 @@
           "fetchedAt": 1787043781800
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cole Young dropped to sixth in Mariners lineup",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/cole-young-dropped-to-sixth-in-mariners-lineup",
-          "fetchedAt": 1786828832265
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -325,14 +298,7 @@
           "fetchedAt": 1786957556048
         }
       ],
-      "nbcNews": [
-        {
-          "t": "José Ramírez has double, run scored, RBI in win",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/jose-ramirez-has-double-run-scored-rbi-in-win",
-          "fetchedAt": 1786958547567
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -566,14 +532,7 @@
           "fetchedAt": 1786957497598
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker handed first loss by former team",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/bryan-baker-handed-first-loss-by-former-team",
-          "fetchedAt": 1786872169847
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -581,14 +540,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Erratic Edwin Díaz loads bases before earning save",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/erratic-edwin-diaz-loads-bases-before-earning-save",
-          "fetchedAt": 1787001652324
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -1002,14 +954,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cole Young dropped to sixth in Mariners lineup",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/cole-young-dropped-to-sixth-in-mariners-lineup",
-          "fetchedAt": 1786828832265
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -1066,14 +1011,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Matt Shaw (hand) nears rehab assignment",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/matt-shaw-hand-nears-rehab-assignment",
-          "fetchedAt": 1786828832265
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -1222,7 +1160,14 @@
           "fetchedAt": 1787000596598
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez strikes out six in win Monday",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/cristopher-sanchez-strikes-out-six-in-win-monday",
+          "fetchedAt": 1787044876199
+        }
+      ]
     },
     {
       "id": 12345,
@@ -1230,14 +1175,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish holds Rays to two runs through six",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/kyle-bradish-holds-rays-to-two-runs-through-six",
-          "fetchedAt": 1786872169847
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -1302,14 +1240,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo strikes out nine in win over Twins",
-          "date": "2026-08-15",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-15/jesus-luzardo-strikes-out-nine-in-win-over-twins",
-          "fetchedAt": 1786872169847
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
