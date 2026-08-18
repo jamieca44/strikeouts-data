@@ -1,30 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-17T21:20:52.324Z",
+  "lastUpdatedNews": "2026-08-18T09:04:08.176Z",
   "players": [
     {
       "id": 11928,
       "name": "Dillon Dingler",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
-      "yahooNews": [
-        {
-          "t": "Tigers news: Jackson Jobe takes full responsibility for brutal White Sox loss",
-          "s": "Detroit Tigers starter Jackson Jobe did not have his best outing on Friday night against the Chicago White Sox.",
-          "by": "Tristin McKinstry, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-jackson-jobe-takes-052527422.html",
-          "fetchedAt": 1786914294531
-        },
-        {
-          "t": "Detroit Tigers Announce Max Clark Decision Before White Sox Series",
-          "s": "The Detroit Tigers are surging back up the standings, winning nine of their last 12 games. They’re coming off a series victory over the Cleveland Guardians and will begin a three-game set against the AL Central-leading Chicago White Sox on Friday night. Ahead of the matchup, Tigers manager AJ Hinch made a few notable changes […] The post Detroit Tigers Announce Max Clark Decision Before White Sox Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-announce-max-clark-221402630.html",
-          "fetchedAt": 1786914294531
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -80,28 +63,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [
         {
-          "t": "Luis García Jr.'s sacrifice fly",
-          "s": "",
-          "by": "",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/videos/luis-garc-jr-sacrifice-fly-181240320.html",
-          "fetchedAt": 1786914234806
+          "t": "VOTE: What’s the biggest concern for the Yankees’ AL pennant race?",
+          "s": "How do the Yankees overcome their offensive struggles?",
+          "by": "Dani Mohr",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/vote-biggest-concern-yankees-al-180009356.html",
+          "fetchedAt": 1787043837962
         },
         {
-          "t": "Two errors on one play exposed the Yankees’ latest roster mistake",
-          "s": "Luis Garcia Jr. can help the Yankees with his bat, but Friday's double-error play showed why first base should belong to Ben Rice.",
-          "by": "Alexander Wilson",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/two-errors-one-play-exposed-144500939.html",
-          "fetchedAt": 1786914234806
+          "t": "New York Yankees May Be ‘Regretting’ Recent Trade Acquisitions",
+          "s": "It’s entirely too early to judge the recent trades that the New York Yankees made for Luis Garcia Jr. and Heliot Ramos. However, Bleacher Report’s Tim Kelly wasted no time naming the Yankees as a team that are ‘already regretting trade deadline moves’. Kelly wrote (on 8/17): “Luis García Jr. had 23 home runs and […] The post New York Yankees May Be ‘Regretting’ Recent Trade Acquisitions appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-may-regretting-recent-152326018.html",
+          "fetchedAt": 1787043837962
         },
         {
-          "t": "Yankees' Luis Garcia Jr. is Already a Clear Offseason Trade Chip",
-          "s": "The New York Yankees could look to move Luis Garcia Jr. shortly after acquiring him.",
+          "t": "Yankees' Trade Deadline Moves Have Been a Complete Failure",
+          "s": "The New York Yankees' MLB trade deadline moves have been a complete failure thus far.",
           "by": "Matthew Schmidt",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-luis-garcia-jr-already-110004512.html",
-          "fetchedAt": 1786914234806
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-trade-deadline-moves-complete-110033289.html",
+          "fetchedAt": 1787043837962
         }
       ],
       "nbcNews": []
@@ -113,20 +96,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [
         {
-          "t": "Royce Lewis' RBI double",
+          "t": "Royce Lewis' RBI single",
           "s": "",
           "by": "",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/videos/royce-lewis-rbi-double-004812000.html",
-          "fetchedAt": 1786914237840
-        },
-        {
-          "t": "3 players who will make or break Twins' chances of winning AL Central",
-          "s": "Byron Buxton, Joe Ryan and Royce Lewis hold the key to Twins' AL Central push as Minnesota chases White Sox down the stretch.",
-          "by": "Garrett Kerman, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/3-players-break-twins-chances-163844365.html",
-          "fetchedAt": 1786914237840
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/videos/royce-lewis-rbi-single-005451160.html",
+          "fetchedAt": 1787043839931
         }
       ],
       "nbcNews": []
@@ -138,12 +113,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [
         {
-          "t": "How Much Is Busch Stadium Really Hurting the Cardinals’ Offense?",
-          "s": "Alec Burleson has hit 47 fly balls at Busch Stadium this season with an average expected wOBA of .610 and an actual of only .397. Burly is getting absolutely ripped off by his home ballpark. Baseball Savant’s Park Factors calculation ranks Busch as the fifth most stifling park in baseball. It has been particularly tough […]",
-          "by": "John Latham",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/much-busch-stadium-really-hurting-130000592.html",
-          "fetchedAt": 1786914240175
+          "t": "Alec Burleson hits a two-run double in Cardinals' win",
+          "s": "",
+          "by": "",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/videos/alec-burleson-hits-two-run-220520504.html",
+          "fetchedAt": 1787043842604
+        },
+        {
+          "t": "Alec Burleson and a stout bullpen lead the Cardinals over the Reds 2-1 in Game 1 of doubleheader",
+          "s": "Alec Burleson delivered a two-run double early and four St. Louis relievers turned in perfect innings late, helping the Cardinals beat the Cincinnati Reds 2-1 in the first game of a doubleheader Monday. The Cardinals won for the 10th time in 14 games as they try to chase an NL wild-card playoff spot. Burleson put them ahead for good in the first inning with a double down the right-field line that scored Joshua Báez and Iván Herrera.",
+          "by": "",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/alec-burleson-stout-bullpen-lead-204125223.html",
+          "fetchedAt": 1787043842604
+        },
+        {
+          "t": "Cardinals Slugger Takes Over MLB Lead in RBI in 2-1 Win Over Rival Reds",
+          "s": "Alec Burleson, who is making a strong case to win the Silver Slugger award among first basemen, drove in two more runs to take over the MLB lead in doubles and RBI and six pitchers made it stand up as the Cardinals beat the Reds 2-1. St. Louis won for the 10th time in the past 14 games.",
+          "by": "John Denton",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/cardinals-slugger-takes-over-mlb-202850480.html",
+          "fetchedAt": 1787043842604
         }
       ],
       "nbcNews": [
@@ -227,7 +218,16 @@
       "name": "Brendan Donovan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "What Mariners Should Take Away From Brendan Donovan's Breakout Against the Astros",
+          "s": "After months of groin trouble, Brendan Donovan delivered three hits against the Astros and the health update the Mariners needed most.",
+          "by": "Tremayne Person",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-away-brendan-donovans-breakout-170338063.html",
+          "fetchedAt": 1787043781800
+        }
+      ],
       "nbcNews": [
         {
           "t": "Cole Young dropped to sixth in Mariners lineup",
@@ -244,27 +244,27 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [
         {
+          "t": "Mookie Betts' RBI double",
+          "s": "",
+          "by": "",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/videos/mookie-betts-rbi-double-005832066.html",
+          "fetchedAt": 1787043845752
+        },
+        {
+          "t": "Brewers news: Dave Roberts gives ultimate compliment to Jacob Misiorowski",
+          "s": "Dave Roberts marveled at Jacob Misiorowski's elite velocity as the Brewers starter dominated the Dodgers in a 4-1 win.",
+          "by": "Abdullah Imran, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/brewers-news-dave-roberts-gives-103414981.html",
+          "fetchedAt": 1787043845752
+        },
+        {
           "t": "Dodgers Receive Strong Warning Ahead of Brewers Series Finale",
           "s": "Many are pegging the Los Angeles Dodgers to reach the World Series, especially after trading for Tarik Skubal. However, the Dodgers have lost two of three to the Milwaukee Brewers heading into the finale of their four-game series on Aug. 16.Furthermore, if the Brewers and Dodgers do cross paths in the playoffs again, Los Angeles […] The post Dodgers Receive Strong Warning Ahead of Brewers Series Finale appeared first on HEAVY.",
           "by": "Eduardo Razo",
           "when": "2h ago",
           "href": "https://sports.yahoo.com/articles/dodgers-receive-strong-warning-ahead-184101893.html",
-          "fetchedAt": 1786914246836
-        },
-        {
-          "t": "Swanson: The Dodgers need Mookie to be Mookie",
-          "s": "The Dodgers need Betts to be that right-handed hitter who will keep opposing pitchers honest in a lineup of lefty stars. He's shown glimpses of that lately.",
-          "by": "Mirjam Swanson",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/swanson-dodgers-mookie-mookie-100000097.html",
-          "fetchedAt": 1786914246836
-        },
-        {
-          "t": "Brewers ace Jacob Misiorowski uses more than fastball to hold Shohei Ohtani and Dodgers at bay",
-          "s": "A dominant fastball has made Jacob Misiorowski one of the most exciting pitchers in baseball over the past two seasons, but it was an effective slider that helped him get out of a bases-loaded jam by striking out Shohei Ohtani and Freddie Freeman in the Milwaukee Brewers' 4-1 win over the Los Angeles Dodgers on Saturday. “He’s understanding how his breaking stuff moves and what he can do with it on any particular day,” Brewers manager Pat Murphy said. Misiorowski allowed one run on five hits in six innings, needing an expanded arsenal of pitches to get out of the fifth unscathed after the bottom of the Dodgers' order had three consecutive singles to bring up Ohtani with one out.",
-          "by": "DAN GREENSPAN",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/brewers-ace-jacob-misiorowski-uses-033349699.html",
           "fetchedAt": 1786914246836
         }
       ],
@@ -388,28 +388,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [
         {
-          "t": "Logan Webb Shares True Feelings on Dodgers’ Tarik Skubal Trade",
-          "s": "The Los Angeles Dodgers ticked off the baseball world with their trade for former Detroit Tigers starting pitcher Tarik Skubal. Los Angeles sent outfielder Zyhir Hope, right-handed pitcher River Ryan, and right-handed pitcher Brady Smith to the Tigers for Skubal.Nonetheless, while the San Francisco Giants aren’t in the playoff picture after being sellers at the […] The post Logan Webb Shares True Feelings on Dodgers’ Tarik Skubal Trade appeared first on HEAVY.",
-          "by": "Eduardo Razo",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/logan-webb-shares-true-feelings-234959886.html",
-          "fetchedAt": 1786871137036
+          "t": "Tigers news: Kevin McGonigle reveals how they remain locked in after Tarik Skubal trade",
+          "s": "The Tigers are keeping in step in the AL Wild Card race even after trading Tarik Skubal to the Dodgers at the deadline.",
+          "by": "Jedd Pagaduan, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-news-kevin-mcgonigle-reveals-033835415.html",
+          "fetchedAt": 1787043829117
         },
         {
-          "t": "Dodgers unveil Shohei Ohtani pitching timeline after first mound session",
-          "s": "Dodgers two-way star Shohei Ohtani has been dealing with a knee and biceps injury. Los Angeles Dodgers two-way star Shohei Ohtani is making progress in a return to the rotation....",
-          "by": "Valentina Martinez",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-unveil-shohei-ohtani-pitching-224605613.html",
-          "fetchedAt": 1786871137036
+          "t": "Why Tigers shouldn't regret trading Tarik Skubal even if they make MLB playoffs",
+          "s": "This Tigers trade was the right move regardless of their playoff status.",
+          "by": "Matt Sullivan",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/why-tigers-shouldnt-regret-trading-181259033.html",
+          "fetchedAt": 1787043829117
         },
         {
-          "t": "Dodgers on Deck: Sunday, August 16 vs. Brewers",
-          "s": "The Dodgers finish off their National League showdown series against the Milwaukee Brewers on Sunday afternoon at Dodger Stadium. Tarik Skubal is on the mound, making his third start for the Dodgers and looking for his first win for his new team. Rookie right-hander Logan Henderson has started 11 times this season, interrupted only by […]",
-          "by": "Eric Stephen",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-deck-sunday-august-16-210005683.html",
-          "fetchedAt": 1786871137036
+          "t": "The Dodgers are letting Tarik Skubal down where it counts",
+          "s": "The Los Angeles Dodgers' underperforming offense continues to let Tarik Skubal and the team down.",
+          "by": "Zachary Rotman",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-letting-tarik-skubal-down-171158193.html",
+          "fetchedAt": 1787043829117
         }
       ],
       "nbcNews": [
@@ -532,16 +532,7 @@
       "name": "Caleb Kilian",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
-      "yahooNews": [
-        {
-          "t": "Dave Dombrowski Shares Details on Starting Pitcher Deadline Market",
-          "s": "Philadelphia Phillies president of baseball operations Dave Dombrowski shared why the team didn't acquire a starting pitcher ahead of the MLB trade deadline.",
-          "by": "Kenneth Teape",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dave-dombrowski-shares-details-starting-150004977.html",
-          "fetchedAt": 1786914260980
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -589,32 +580,7 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [
-        {
-          "t": "Dave Roberts Responds to Backlash Over Edwin Diaz Closer Usage",
-          "s": "Los Angeles Dodgers manager Dave Roberts has gotten a lot of flak over his decision to stick with Edwin Diaz as the closer.",
-          "by": "Nelson Espinal",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/dave-roberts-responds-backlash-over-222002088.html",
-          "fetchedAt": 1786914292428
-        },
-        {
-          "t": "Dave Roberts Sends Clear Message to Edwin Diaz Amid Struggles",
-          "s": "Los Angeles Dodgers manager Dave Roberts had some choice words around the struggles of closer Edin Diaz.",
-          "by": "Matt Levine",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dave-roberts-sends-clear-message-203001817.html",
-          "fetchedAt": 1786914292428
-        },
-        {
-          "t": "Edwin Diaz Reveals Personal Interaction During Mound Visit With Kiké Hernandez",
-          "s": "Edwin Díaz reveals Kiké Hernández advice",
-          "by": "Miracle Dimwesh",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/edwin-diaz-reveals-personal-interaction-184525390.html",
-          "fetchedAt": 1786914292428
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Erratic Edwin Díaz loads bases before earning save",
@@ -679,12 +645,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Los Angeles Dodgers Announced Freddie Freeman Decision During Brewers Series",
-          "s": "The Los Angeles Dodgers got back into the win column Friday night with a 3-1 victory over the Milwaukee Brewers. Ahead of Saturday night’s game, which will feature Brewers left-handed ace Jacob Misiorowski and Dodgers lefty Justin Wrobleski, Dodgers manager Dave Roberts made a few lineup changes. Dodgers Announce Freddie Freeman Change After sitting out […] The post Los Angeles Dodgers Announced Freddie Freeman Decision During Brewers Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announced-freddie-231641785.html",
-          "fetchedAt": 1786871143601
+          "t": "Dodgers offense remains stuck in neutral as losses to playoff teams mount",
+          "s": "Freddie Freeman strikes out during a game between the Los Angeles Dodgers and the Milwaukee Brewers.This won’t last forever. The Colorado Rockies are up next. The Dodgers can still beat...",
+          "by": "Dylan Hernandez",
+          "when": "12h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-offense-remains-stuck-neutral-201257018.html",
+          "fetchedAt": 1787043831699
+        },
+        {
+          "t": "Dodgers news: Dave Roberts' callout after Brewers series is a wake-up call",
+          "s": "Los Angeles Dodgers manager Dave Roberts is hoping that his team can turn things around before it's too late.",
+          "by": "Preston Byers, ClutchPoints",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-dave-roberts-callout-174136577.html",
+          "fetchedAt": 1787043831699
+        },
+        {
+          "t": "Dave Roberts Critiques Dodgers' Offense After Series Loss to Brewers",
+          "s": "Dave Roberts addresses Dodgers' struggles after Brewers loss",
+          "by": "Miracle Dimwesh",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/dave-roberts-critiques-dodgers-offense-161359791.html",
+          "fetchedAt": 1787043831699
         }
       ],
       "nbcNews": []
@@ -709,7 +691,24 @@
       "name": "Caleb Durbin",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Red Sox pour on 11 runs in win vs. D-backs",
+          "s": "The Red Sox's offense erupts, highlighted by Willson Contreras' homer and Ceddanne Rafaela's three doubles in Boston's 11-1 win vs. the D-backs",
+          "by": "",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/videos/red-sox-pour-11-runs-040541399.html",
+          "fetchedAt": 1787043799039
+        },
+        {
+          "t": "Red Sox Announce Jarren Duran Decision Before Diamondbacks Series",
+          "s": "The Boston Red Sox have come all the way back down to earth after a scorching run to get the team back into playoff positioning.Boston has gone 3-7 over its last 10 games overall, dropping three straight series in the process. It has been a tough go of things for the Red Sox of late, […] The post Red Sox Announce Jarren Duran Decision Before Diamondbacks Series appeared first on HEAVY.",
+          "by": "Matt Levine",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-announce-jarren-duran-230551354.html",
+          "fetchedAt": 1787043799039
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -820,7 +819,32 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Padres: Key Players to Watch for Second Half Success",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/padres-key-players-watch-second-104541987.html",
+          "fetchedAt": 1787043800918
+        },
+        {
+          "t": "Jackson Merrill quietly did something that will cost the Padres millions",
+          "s": "San Diego Padres outfielder Jackson Merrill has turned his season around in the second half.",
+          "by": "Gavin Groe",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/jackson-merrill-quietly-did-something-173921281.html",
+          "fetchedAt": 1787043800918
+        },
+        {
+          "t": "Padres' Jackson Merrill earns $5 million raise for very simple reason",
+          "s": "This was a simple goal for Merrill, and he hit it for a $5M pay raise.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/padres-jackson-merrill-earns-5-164202673.html",
+          "fetchedAt": 1787043800918
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -885,7 +909,16 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Jo Adell Has Been as Advertised Since Trade to the Guardians",
+          "s": "The Cleveland Guardians had a vision for how Jo Adell could help the team, and it's coming to fruition a few weeks into his tenure.",
+          "by": "",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/videos/jo-adell-advertised-since-trade-214521691.html",
+          "fetchedAt": 1787043803519
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -901,7 +934,16 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Detroit Tigers Announce Kevin McGonigle Decision Before Pirates Game",
+          "s": "After being swept by the Chicago White Sox over the weekend, the Detroit Tigers will look to put that sour taste behind them in a new MLB series against the Pittsburgh Pirates this week (on the road). Overall, Detroit is 60-64, and the recent sweep by the White Sox killed off some momentum that the […] The post Detroit Tigers Announce Kevin McGonigle Decision Before Pirates Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/detroit-tigers-announce-kevin-mcgonigle-232218524.html",
+          "fetchedAt": 1787043809140
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -911,12 +953,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [
         {
-          "t": "Jose Altuve's RBI single",
-          "s": "",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/jose-altuves-rbi-single-232305454.html",
-          "fetchedAt": 1786871145517
+          "t": "Houston Astros Announce Jose Altuve Change Before Mariners Series Finale",
+          "s": "The Houston Astros have announced their lineup for Sunday night's game against the Seattle Mariners in Houston. The post Houston Astros Announce Jose Altuve Change Before Mariners Series Finale appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-232439081.html",
+          "fetchedAt": 1787043834376
+        },
+        {
+          "t": "Houston Astros Announce Jose Altuve Decision Before Mariners Game",
+          "s": "The Houston Astros announced a decision regarding Jose Altuve ahead of Sunday's game against the Seattle Mariners. The post Houston Astros Announce Jose Altuve Decision Before Mariners Game appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/houston-astros-announce-jose-altuve-232439782.html",
+          "fetchedAt": 1787043834376
+        },
+        {
+          "t": "Houston Astros Announce Surprising Yordan Alvarez Decision Before Mariners Game",
+          "s": "After dropping their Saturday contest to the Seattle Mariners, the Houston Astros will look to take the series from the M’s on Sunday Night Baseball. Houston currently has a 63-61 record and is two games ahead of the Texas Rangers for first place in the AL West. Before the series finale, the Astros announced a […] The post Houston Astros Announce Surprising Yordan Alvarez Decision Before Mariners Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/houston-astros-announce-surprising-yordan-232123391.html",
+          "fetchedAt": 1787043834376
         }
       ],
       "nbcNews": []
@@ -943,32 +1001,7 @@
       "name": "Cole Young",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
-      "yahooNews": [
-        {
-          "t": "Cole Young's four RBIs propels Mariners to 10-5 win",
-          "s": "",
-          "by": "",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/videos/cole-youngs-four-rbis-propels-041121743.html",
-          "fetchedAt": 1786914270225
-        },
-        {
-          "t": "Cole Young powers the Mariners past the Astros 10-5 with a homer and 4 RBIs",
-          "s": "Cole Young homered and tied a career high with four RBIs to lead the Seattle Mariners to a 10-5 win over the Houston Astros on Saturday night. Emerson Hancock (7-7) allowed two runs and five hits in a career high-tying seven innings to help Seattle to its second win in three games following a six-game skid. Brendan Donovan added three hits and drove in three runs on a night the Mariners had 15 hits.",
-          "by": "KRISTIE RIEKEN",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/cole-young-powers-mariners-past-020321489.html",
-          "fetchedAt": 1786914270225
-        },
-        {
-          "t": "Cole Young's RBI single",
-          "s": "",
-          "by": "",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/videos/cole-youngs-rbi-single-233123674.html",
-          "fetchedAt": 1786914270225
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Cole Young dropped to sixth in Mariners lineup",
@@ -1032,16 +1065,7 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [
-        {
-          "t": "A Promising Matt Shaw Update Gives the Cubs Another Good Problem to Have",
-          "s": "The Chicago Cubs are about to see Matt Shaw head to a rehab assignment.",
-          "by": "Elias Schuster",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/promising-matt-shaw-gives-cubs-210424953.html",
-          "fetchedAt": 1786871120946
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Matt Shaw (hand) nears rehab assignment",
@@ -1222,12 +1246,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [
         {
-          "t": "Blue Jays Manager Shares Honest Thoughts on Team After Yankees Series Win",
-          "s": "The Toronto Blue Jays are starting to look like a playoff contender and manager John Schneider is starting to feel the same way. The post Blue Jays Manager Shares Honest Thoughts on Team After Yankees Series Win appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-manager-shares-honest-013946931.html",
-          "fetchedAt": 1786871134740
+          "t": "New York Yankees Announce Starting Pitchers for Orioles Series",
+          "s": "The New York Yankees lost two out of three games in their series against the Toronto Blue Jays this weekend.Their only victory came Sunday afternoon, when they won 4-3 in extra innings.New York will now have an off day Monday before beginning another divisional series Tuesday night against the Baltimore Orioles on the road.Yankees Announce […] The post New York Yankees Announce Starting Pitchers for Orioles Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/york-yankees-announce-starting-pitchers-150017384.html",
+          "fetchedAt": 1787043827390
+        },
+        {
+          "t": "Yankees’ Gerrit Cole remembers Tommy John as trailblazer for ‘venturing into the unknown’ with surgery",
+          "s": "As a recent beneficiary of the surgery named after Tommy John, Gerrit Cole joined in those remembering the former Yankees lefty.",
+          "by": "Greg Joyce",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/yankees-gerrit-cole-remembers-tommy-034714231.html",
+          "fetchedAt": 1787043827390
+        },
+        {
+          "t": "Reaction to the death of Tommy John",
+          "s": "— New York Yankees pitcher Gerrit Cole, who had Tommy John surgery in 2025. — former major league pitcher and New York Mets color commentator Keith Hernandez on SportsNet New York telecast. Tommy was a wonderful person who competed to the utmost and did what no player had ever done to save his career, in conjunction with the esteemed Dr. Frank Jobe.",
+          "by": "The Associated Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reaction-death-tommy-john-222907783.html",
+          "fetchedAt": 1787043827390
         }
       ],
       "nbcNews": []
@@ -1261,24 +1301,7 @@
       "name": "Jesús Luzardo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
-      "yahooNews": [
-        {
-          "t": "Phillies' new approach shows, Luzardo dominates Twins — by the numbers",
-          "s": "The Phillies’ have cut down chase, created more traffic and changed the look of their offense since the start of August — a by the numbers look.",
-          "by": "Cole Weintraub",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-identity-luzardos-gem-key-215900540.html",
-          "fetchedAt": 1786871152492
-        },
-        {
-          "t": "Gamethread 8/14: Phillies at Twins",
-          "s": "The series moves to Minneapolis for game two",
-          "by": "Smarty Jones",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/gamethread-8-14-phillies-twins-212900599.html",
-          "fetchedAt": 1786871152492
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Jesús Luzardo strikes out nine in win over Twins",
@@ -1391,7 +1414,16 @@
       "name": "Angel Genao",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Ex-Guardians Infielder Cut by New Team After Two Games",
+          "s": "Ex-Guardians infielder Gabriel Arias’ career is back in DFA limbo after a short stint with the New York Mets. Arias was designated for assignment by New York to make room for infielder Christopher Morel.Cleveland designated Arias for assignment on August 5 to make room for top infield prospect Angel Genao’s promotion. The Mets claimed the […] The post Ex-Guardians Infielder Cut by New Team After Two Games appeared first on HEAVY.",
+          "by": "Michael McDermott",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/ex-guardians-infielder-cut-team-214757890.html",
+          "fetchedAt": 1787043823324
+        }
+      ],
       "nbcNews": []
     }
   ]
