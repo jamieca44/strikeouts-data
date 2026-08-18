@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-18T21:15:19.088Z",
+  "lastUpdatedNews": "2026-08-18T21:20:54.464Z",
   "players": [
     {
       "id": 11928,
@@ -41,7 +41,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. (concussion) resumes activity",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/vladimir-guerrero-jr-concussion-resumes-activity",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 10964,
@@ -124,7 +131,20 @@
           "fetchedAt": 1787043842604
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson takes over RBI lead in Cards’ win",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/alec-burleson-takes-over-rbi-lead-in-cards-win",
+          "fetchedAt": 1787088054464
+        },
+        {
+          "t": "Alec Burleson homers, drives in four in rout",
+          "date": "2026-08-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/alec-burleson-homers-drives-in-four-in-rout",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 64313,
@@ -465,7 +485,14 @@
           "fetchedAt": 1787000569737
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan reportedly recalled by Dodgers",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/emmet-sheehan-reportedly-recalled-by-dodgers",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 12387,
@@ -498,7 +525,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker notches five-out save against O’s",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/bryan-baker-notches-five-out-save-against-os",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 10214,
@@ -531,7 +565,14 @@
           "fetchedAt": 1787087669368
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz surrenders three runs while mopping up",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/edwin-diaz-surrenders-three-runs-while-mopping-up",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 10592,
@@ -853,7 +894,14 @@
           "fetchedAt": 1787043803519
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward (quad) remains out fifth straight game",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/taylor-ward-quad-remains-out-fifth-straight-game",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 64330,
@@ -936,7 +984,14 @@
           "fetchedAt": 1787087700845
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Noelvi Marte sent back to Triple-A amidst struggles",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/noelvi-marte-sent-back-to-triple-a-amidst-struggles",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 60580,
@@ -1010,7 +1065,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Matt Shaw (hand) set for rehab assignment",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/matt-shaw-hand-set-for-rehab-assignment",
+          "fetchedAt": 1787088054464
+        }
+      ]
     },
     {
       "id": 63537,
