@@ -1,13 +1,38 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-18T09:21:16.199Z",
+  "lastUpdatedNews": "2026-08-18T21:15:19.088Z",
   "players": [
     {
       "id": 11928,
       "name": "Dillon Dingler",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tigers news: Kevin McGonigle reveals how they remain locked in after Tarik Skubal trade",
+          "s": "The Tigers are keeping in step in the AL Wild Card race even after trading Tarik Skubal to the Dodgers at the deadline.",
+          "by": "Jedd Pagaduan, ClutchPoints",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-news-kevin-mcgonigle-reveals-033835415.html",
+          "fetchedAt": 1787087654195
+        },
+        {
+          "t": "Three Stars From Tigers’ 8-5 Win Over Pittsburgh",
+          "s": "Detroit surged into a Wild Card tie as Hao-Yu Lee’s perfect night and Kevin McGonigle’s power surge secured a crucial road victory to keep postseason dreams alive.",
+          "by": "Nick Faber",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/three-stars-tigers-8-5-035351033.html",
+          "fetchedAt": 1787087654195
+        },
+        {
+          "t": "These 5 Tigers are to blame for blowing their only chance at the AL Central",
+          "s": "It was a lost weekend for the Detroit Tigers as their hopes of winning the American League Central all but ended. Players like Kevin McGonigle and Spencer Torkelson are to blame.",
+          "by": "John Perrotto",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/5-tigers-blame-blowing-only-151342091.html",
+          "fetchedAt": 1787087654195
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -15,32 +40,7 @@
       "name": "Vladimir Guerrero Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
-      "yahooNews": [
-        {
-          "t": "Blue Jays' John Schneider Shares Reason for Placing Vladimir Guerrero Jr. on IL",
-          "s": "The Toronto Blue Jays have clawed their way back into the playoff picture, while dealing with an injury to Vladimir Guerrero Jr.",
-          "by": "Ayomide Adeduyite",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-john-schneider-shares-163000214.html",
-          "fetchedAt": 1786957539134
-        },
-        {
-          "t": "Toronto Blue Jays Manager Drops Honest Vladimir Guerrero Jr. Quote After Yankees Win",
-          "s": "Toronto Blue Jays manager John Schneider dropped an honest quote regarding Vladimir Guerrero Jr. after beating the Yankees. The post Toronto Blue Jays Manager Drops Honest Vladimir Guerrero Jr. Quote After Yankees Win appeared first on HEAVY.",
-          "by": "Jackson Kruse",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/toronto-blue-jays-manager-drops-034230030.html",
-          "fetchedAt": 1786957539134
-        },
-        {
-          "t": "Blue Jays Face Tough Decision with Vladimir Guerrero Jr. Following Injury vs. Yankees",
-          "s": "The Toronto Blue Jays will be without star first baseman Vladimir Guerrero Jr. against the New York Yankees. Guerrero is out of the lineup after being removed from the previous game with a head injury.Guerrero suffered the injury in the sixth inning of the Blue Jays’ 3-1 win. He collided with Yankees shortstop George Lombard […] The post Blue Jays Face Tough Decision with Vladimir Guerrero Jr. Following Injury vs. Yankees appeared first on HEAVY.",
-          "by": "Michael McDermott",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-face-tough-decision-201007262.html",
-          "fetchedAt": 1786957539134
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -133,6 +133,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
       "yahooNews": [
         {
+          "t": "Mark Kotsay gives Jacob Wilson injury update after being scratched from A's loss",
+          "s": "Athletics manager Mark Kotsay speaks with the media after his team's 9-5 loss to the Kansas City Royals on Monday at Kauffman Stadium.Mark Kotsay gives Jacob Wilson injury update after being scratched from A's loss originally appeared on NBC Sports Bay Area",
+          "by": "",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/videos/mark-kotsay-gives-jacob-wilson-095123006.html",
+          "fetchedAt": 1787087707565
+        },
+        {
           "t": "Mark Kotsay ‘impressed' by another strong Jacob Lopez outing in Athletics' win",
           "s": "Athletics manager Mark Kotsay speaks to the media after his team's 5-2 win over the Texas Rangers on Sunday at Sutter Health Park.Mark Kotsay ‘impressed' by another strong Jacob Lopez outing in Athletics' win originally appeared on NBC Sports Bay Area",
           "by": "",
@@ -148,32 +156,7 @@
       "name": "Fernando Tatis Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
-      "yahooNews": [
-        {
-          "t": "Padres’ winning streak ends with ugly loss to Guardians",
-          "s": "News to know about your San Diego Padres and MLB for August 16, 2026.",
-          "by": "Matt DeWalt",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/padres-winning-streak-ends-ugly-133000430.html",
-          "fetchedAt": 1786957549612
-        },
-        {
-          "t": "MLB Playoff Race: San Diego Padres Surge, Phillies Struggle",
-          "s": "",
-          "by": "",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/videos/mlb-playoff-race-san-diego-110701011.html",
-          "fetchedAt": 1786957549612
-        },
-        {
-          "t": "Fernando Tatis Jr. scores on double play",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/fernando-tatis-jr-scores-double-231735463.html",
-          "fetchedAt": 1786957549612
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -231,14 +214,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/brewers-news-dave-roberts-gives-103414981.html",
           "fetchedAt": 1787043845752
-        },
-        {
-          "t": "Dodgers Receive Strong Warning Ahead of Brewers Series Finale",
-          "s": "Many are pegging the Los Angeles Dodgers to reach the World Series, especially after trading for Tarik Skubal. However, the Dodgers have lost two of three to the Milwaukee Brewers heading into the finale of their four-game series on Aug. 16.Furthermore, if the Brewers and Dodgers do cross paths in the playoffs again, Los Angeles […] The post Dodgers Receive Strong Warning Ahead of Brewers Series Finale appeared first on HEAVY.",
-          "by": "Eduardo Razo",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-receive-strong-warning-ahead-184101893.html",
-          "fetchedAt": 1786914246836
         }
       ],
       "nbcNews": []
@@ -250,12 +225,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [
         {
-          "t": "Brian Navarreto catches Elly De La Cruz stealing",
+          "t": "Who shoulders the blame for this latest bad Reds season?",
+          "s": "There’s plenty to go around. Who deserves the most?",
+          "by": "Wick Terrell",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/shoulders-blame-latest-bad-reds-185519261.html",
+          "fetchedAt": 1787087696087
+        },
+        {
+          "t": "Elly De La Cruz Has Funny Response to Terry Francona Giving Him a Break",
+          "s": "Elly De La Cruz Has Funny Response to Terry Francona Giving Him a Break",
+          "by": "Greg Kuffner",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/elly-la-cruz-funny-response-143528336.html",
+          "fetchedAt": 1787087696087
+        },
+        {
+          "t": "Dane Myers, Elly De La Cruz fuel Reds' comeback win",
           "s": "",
           "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/brian-navarreto-catches-elly-la-180241816.html",
-          "fetchedAt": 1786914250124
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/videos/dane-myers-elly-la-cruz-035136051.html",
+          "fetchedAt": 1787087696087
         }
       ],
       "nbcNews": [
@@ -280,22 +271,6 @@
           "when": "10h ago",
           "href": "https://sports.yahoo.com/videos/jos-ram-rezs-amazing-catch-224849219.html",
           "fetchedAt": 1786957556048
-        },
-        {
-          "t": "3 Reasons Why This Guardians Team Isn't As Fun as Last Year's",
-          "s": "The 2026 Cleveland Guardians are nowhere near as fun as the 2025 squad that won the division.",
-          "by": "Steve Kubitza",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/3-reasons-why-guardians-team-125952778.html",
-          "fetchedAt": 1786957556048
-        },
-        {
-          "t": "Guardians' Jose Ramirez struggling to find form after hamate bone injury",
-          "s": "As the Guardians try to catch the other contenders in the division, Jose Ramirez has been struggling to find his form while returning from injury.",
-          "by": "Ryan Lewis, Akron Beacon Journal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-jose-ramirez-struggling-form-101553286.html",
-          "fetchedAt": 1786957556048
         }
       ],
       "nbcNews": []
@@ -307,12 +282,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [
         {
-          "t": "Bryan Reynolds' RBI double",
+          "t": "Pirates' five-run 3rd fuels 8-3 win",
           "s": "",
           "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/bryan-reynolds-rbi-double-174801467.html",
-          "fetchedAt": 1786914252177
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/pirates-five-run-3rd-fuels-233935166.html",
+          "fetchedAt": 1787087698517
+        },
+        {
+          "t": "Reynolds, Lowe, and Yorke each drive in 2 runs, Pirates beat Red Sox 8-3 after 2 1/2-hour delay",
+          "s": "Bryan Reynolds, Brandon Lowe, and Nick Yorke each had two RBIs to lift the Pittsburgh Pirates over the Boston Red Sox 8-3 after a 2 1/2-hour rain delay on Sunday. The tarp came out after the sixth inning at 3:35 p.m. local time, and play resumed at 6:05. The Pirates won their franchise-best eighth consecutive home series against an AL opponent, a streak extending back to a three-game sweep of Detroit from July 21-23, 2025.",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reynolds-lowe-yorke-drive-2-230425214.html",
+          "fetchedAt": 1787087698517
+        },
+        {
+          "t": "Pirates get elusive series win by beating Boston in rubber match",
+          "s": "For the first time in nearly a month, the Pirates secured a series win after defeating the Red Sox 8-3 in Sunday’s rubber match at PNC Park.",
+          "by": "Danny Demilio",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-elusive-series-win-beating-225831650.html",
+          "fetchedAt": 1787087698517
         }
       ],
       "nbcNews": [
@@ -415,16 +406,7 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [
-        {
-          "t": "Reds Ace Chase Burns Opens Up About Pitching Mindset That's Led to His Success",
-          "s": "The Cincinnati Reds have an ace on their hands with young flamethrower Chase Burns.",
-          "by": "Zach Pressnell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/reds-ace-chase-burns-opens-120700100.html",
-          "fetchedAt": 1787000621734
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -442,28 +424,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [
         {
-          "t": "Pirates Change Paul Skenes Next Scheduled Start",
-          "s": "The Pittsburgh Pirates ace won't start when he originally was supposed to.",
+          "t": "Pirates Announce Starting Pitchers vs. Tigers",
+          "s": "The Pittsburgh Pirates have their starting pitchers ready to face Detroit.",
           "by": "Dominic Campbell",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-change-paul-skenes-next-110004476.html",
-          "fetchedAt": 1786957495164
-        },
-        {
-          "t": "Why the Pittsburgh Pirates Are Pushing Paul Skenes’ Start Back",
-          "s": "Paul Skenes won't start for the Pittsburgh Pirates on Sunday as the team looks to give him more rest between outings.",
-          "by": "Tommy Wild",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/why-the-pittsburgh-pirates-are-pushing-paul-skenes-start-back-103026899.html",
-          "fetchedAt": 1786957495164
-        },
-        {
-          "t": "Is Paul Skenes still an ace? Ranking the Pirates rotation by the stats that count",
-          "s": "For the first time in his relatively young career, Pittsburgh Pirates ace Paul Skenes is facing criticism",
-          "by": "John Perrotto",
           "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/paul-skenes-still-ace-ranking-001518542.html",
-          "fetchedAt": 1786957495164
+          "href": "https://sports.yahoo.com/articles/pirates-announce-starting-pitchers-vs-130008202.html",
+          "fetchedAt": 1787087709926
+        },
+        {
+          "t": "Pirates Should've Made Paul Skenes Call Earlier",
+          "s": "The Pittsburgh Pirates starting pitcher has struggled for most of 2026.",
+          "by": "Dominic Campbell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-shouldve-made-paul-skenes-220002991.html",
+          "fetchedAt": 1787087709926
+        },
+        {
+          "t": "Pirates move back Paul Skenes start until Wednesday",
+          "s": "The Bucs are giving Skenes some extra rest time.",
+          "by": "Darren Yuvan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/pirates-move-back-paul-skenes-094312269.html",
+          "fetchedAt": 1787087709926
         }
       ],
       "nbcNews": []
@@ -481,14 +463,6 @@
           "when": "17h ago",
           "href": "https://sports.yahoo.com/articles/dodgers-news-tarik-skubal-gets-031433309.html",
           "fetchedAt": 1787000569737
-        },
-        {
-          "t": "MLB insider makes bold Dodgers, Mets prediction for Tarik Skubal's free agency",
-          "s": "This prediction from an MLB insider would make for a repeat of last offseason.",
-          "by": "Matt Sullivan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-insider-makes-bold-dodgers-175208315.html",
-          "fetchedAt": 1787000569737
         }
       ],
       "nbcNews": []
@@ -498,7 +472,24 @@
       "name": "Caleb Kilian",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Fresh Phillies Bullpen Proves Capable of Being Dominant Unit",
+          "s": "The Philadelphia Phillies bullpen can be a weapon for the team when on the right schedule.",
+          "by": "Kenneth Teape",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/fresh-phillies-bullpen-proves-capable-190004637.html",
+          "fetchedAt": 1787087667537
+        },
+        {
+          "t": "Phillies' Long-Term Plans for Dave Dombrowski Revealed",
+          "s": "What are the Philadelphia Phillies planning to do with Dave Dombrowski, now that his contract is expiring?",
+          "by": "Kenneth Teape",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-long-term-plans-dave-100005314.html",
+          "fetchedAt": 1787087667537
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -506,32 +497,7 @@
       "name": "Bryan Baker",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
-      "yahooNews": [
-        {
-          "t": "Rays Star Junior Caminero's AL MVP Chances May Be Better Than You Think",
-          "s": "Junior Caminero is making a legitimate push for the AL MVP as the Tampa Bay Rays continue to lead the American League. Yordan Alvarez remains the favorite, but if Caminero keeps producing for baseball’s top AL team, the race could become much more interesting down the stretch.",
-          "by": "Christian Rauh",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/rays-star-junior-camineros-al-191243482.html",
-          "fetchedAt": 1786957497598
-        },
-        {
-          "t": "Orioles defeat Baker, Rays in extra innings 4-3",
-          "s": "It was a wild one in Florida that ended with the Orioles on top",
-          "by": "Stacey",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/orioles-defeat-baker-rays-extra-020027432.html",
-          "fetchedAt": 1786957497598
-        },
-        {
-          "t": "Orioles Take Second Straight One-Run Game From AL-Leading Rays, Winning In Extra Innings",
-          "s": "Starter Kyle Bradish battled, the bullpen was excellent and another unusual leadoff hitter came through, but slugger Pete Alonso was injured late in the game",
-          "by": "Jason La Canfora",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/orioles-second-straight-one-run-013923389.html",
-          "fetchedAt": 1786957497598
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -539,7 +505,32 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dodgers Star Shohei Ohtani Shares Injury Update on Knee Following Bullpen",
+          "s": "The Los Angeles Dodgers snagged a much needed win on Monday, beating the Colorado Rockies 11-5. After losing three out of four games to the Milwaukee Brewers, it was good news. Even better news was the latest injury update on Shohei Ohtani.Ohtani hasn’t been able to pitch since July 3rd because of a painful left […] The post Dodgers Star Shohei Ohtani Shares Injury Update on Knee Following Bullpen appeared first on HEAVY.",
+          "by": "Dan Morrison",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-star-shohei-ohtani-shares-160717385.html",
+          "fetchedAt": 1787087669368
+        },
+        {
+          "t": "Shohei Ohtani Provides Critical Health Update As He Looks To Return To Mound For Dodgers",
+          "s": "The Los Angeles Dodgers have taken Shohei Ohtani out of the rotation as he rehabs some injuries",
+          "by": "Aaliyan Mohammed",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/shohei-ohtani-provides-critical-health-145152887.html",
+          "fetchedAt": 1787087669368
+        },
+        {
+          "t": "Edwin Díaz's Struggles Continued In Non-Save Situation On Monday",
+          "s": "Edwin Díaz has not been great for the Los Angeles Dodgers this season",
+          "by": "Aaliyan Mohammed",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/edwin-d-azs-struggles-continued-132913376.html",
+          "fetchedAt": 1787087669368
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -557,28 +548,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [
         {
-          "t": "Ryan Weathers is forcing the Yankees into an impossible dilemma",
-          "s": "Ryan Weathers' stellar pitching is turning into a headache for the Yankees brain trust",
-          "by": "Rucker Haringey",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/ryan-weathers-forcing-yankees-impossible-010529581.html",
-          "fetchedAt": 1786957500456
+          "t": "Yankees Have Clear Internal Option To Replace Max Fried",
+          "s": "Fried was placed on the IL and could be lost for the season.",
+          "by": "Cole Shelton",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-clear-internal-option-replace-162730507.html",
+          "fetchedAt": 1787087714739
         },
         {
-          "t": "Toronto Blue Jays Announced Dylan Cease News During Yankees Series",
-          "s": "The Toronto Blue Jays took the first two games of their weekend series with the New York Yankees and had right-handed pitcher Dylan Cease on the mound for Sunday’s finale.Cease left the game with the Yankees holding a 2-1 lead in the sixth inning.He finished his outing with 6.1 innings pitched, allowing two hits and […] The post Toronto Blue Jays Announced Dylan Cease News During Yankees Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/toronto-blue-jays-announced-dylan-225710502.html",
-          "fetchedAt": 1786957500456
+          "t": "Yankees' Crushing Injury News Further Exposes Trade Deadline Disaster",
+          "s": "The New York Yankees suffered some more devastating injury news on Monday night, and it further exemplified just how much of a disaster their trade deadline actually was.",
+          "by": "Matthew Schmidt",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-crushing-injury-news-further-023714177.html",
+          "fetchedAt": 1787087714739
         },
         {
-          "t": "Yankees snap skid, salvage finale at Blue Jays with 4-3 win as Ryan Weathers' dominant run continues",
-          "s": "The New York Yankees snapped a three-game skid in Sunday's 4-3 win at the Toronto Blue Jays.",
-          "by": "",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-snap-skid-salvage-finale-203724388.html",
-          "fetchedAt": 1786957500456
+          "t": "Max Fried injury threatens to expose the Yankees' trade deadline failure",
+          "s": "Brian Cashman knew he was playing with fire. Now he may be about to get burned.",
+          "by": "Chris Landers",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/max-fried-injury-threatens-expose-001930461.html",
+          "fetchedAt": 1787087714739
         }
       ],
       "nbcNews": [
@@ -733,28 +724,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [
         {
-          "t": "Pete Crow-Armstrong’s MVP chances take a hit after update on Shohei Ohtani",
-          "s": "Chicago Cubs center fielder Pete Crow-Armstrong has been having an MVP-caliber season.",
-          "by": "Tate Mosher",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/pete-crow-armstrong-mvp-chances-161419497.html",
-          "fetchedAt": 1786914289326
+          "t": "Cubs news: How Pete Crow-Armstrong accomplished feat not seen since 1957",
+          "s": "Chicago Cubs star Pete Crow-Armstrong etched his name in the MLB record books with his performance on Monday.",
+          "by": "Jackson Stone, ClutchPoints",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-news-pete-crow-armstrong-192347338.html",
+          "fetchedAt": 1787087705192
         },
         {
-          "t": "MLB Futures: Breaking Down the MLB Prediction Markets",
-          "s": "",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/mlb-futures-breaking-down-mlb-114551209.html",
-          "fetchedAt": 1786914289326
+          "t": "Afternoon Briefing: CTA adding bus service to some routes",
+          "s": "Good afternoon, Chicago. The Chicago Transit Authority will add three more bus routes to its “frequent” network and will expand the hours of operation or frequency of service on a batch of other routes starting Sunday, the transit agency announced today. Here’s what else is happening today. And remember, for the latest breaking news in Chicago, visit chicagotribune.com/latest-headlines and ...",
+          "by": "Chicago Tribune",
+          "when": "2h ago",
+          "href": "https://www.yahoo.com/news/articles/afternoon-briefing-cta-adding-bus-190200343.html",
+          "fetchedAt": 1787087705192
         },
         {
-          "t": "Cubs' Playoff Hopes: Can They Sustain Their Momentum?",
-          "s": "",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/cubs-playoff-hopes-sustain-momentum-110925611.html",
-          "fetchedAt": 1786914289326
+          "t": "Cubs news: Ex-player's bold Pete Crow-Armstrong MVP take will upset Dodgers fans",
+          "s": "Cubs star Pete Crow-Armstrong is making a case that he should be MVP of the National League this season. He homered twice on Monday.",
+          "by": "Benjamin Adducchio, ClutchPoints",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-news-ex-players-bold-182657292.html",
+          "fetchedAt": 1787087705192
         }
       ],
       "nbcNews": [
@@ -844,16 +835,7 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [
-        {
-          "t": "MLB insider makes bold Dodgers, Mets prediction for Tarik Skubal's free agency",
-          "s": "This prediction from an MLB insider would make for a repeat of last offseason.",
-          "by": "Matt Sullivan",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-insider-makes-bold-dodgers-175208315.html",
-          "fetchedAt": 1786957554016
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -938,12 +920,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
       "yahooNews": [
         {
-          "t": "Fantasy Baseball Waiver Wire: Joshua Báez arrives in style, Brandon Pfaadt is untouchable",
-          "s": "Eric Samulski and James Schiano discuss their favorite fantasy baseball waiver wire adds for the weekend.",
-          "by": "Eric Samulski, James Schiano",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-zac-134333716.html",
-          "fetchedAt": 1786914267461
+          "t": "Reds Demote Marte",
+          "s": "Might this be the end of Marte’s tenure in Cincinnati for good?",
+          "by": "Wick Terrell",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/reds-option-struggling-noelvi-marte-165013439.html",
+          "fetchedAt": 1787087700845
+        },
+        {
+          "t": "Cincinnati Reds demote Noelvi Marte to minors, call up Will Banfield",
+          "s": "Cincinnati Reds OF Noelvi Marte, a subpar fielder and .189 hitter this season, was 4-for-30 (.133) with 4 singles and 10 Ks in 12 games this month.",
+          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-demote-noelvi-marte-164229390.html",
+          "fetchedAt": 1787087700845
         }
       ],
       "nbcNews": []
@@ -953,7 +943,16 @@
       "name": "Cole Young",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "What Mariners' Young learned from idol McCutchen",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/mariners-young-learned-idol-mccutchen-031051832.html",
+          "fetchedAt": 1787087678525
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1026,32 +1025,7 @@
       "name": "Eduardo Quintero",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "MLB insider makes bold Dodgers, Mets prediction for Tarik Skubal's free agency",
-          "s": "This prediction from an MLB insider would make for a repeat of last offseason.",
-          "by": "Matt Sullivan",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-insider-makes-bold-dodgers-175208315.html",
-          "fetchedAt": 1786957516161
-        },
-        {
-          "t": "Andrew Friedman reveals the 90 minutes Tarik Skubal trade got real",
-          "s": "The pursuit for Tarik Skubal began approximately nine months ago. At Major League Baseball’s GM meetings in early November, the Los Angeles Dodgers made it known that they wanted to...",
-          "by": "Valentina Martinez",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/andrew-friedman-reveals-90-minutes-175646011.html",
-          "fetchedAt": 1786957516161
-        },
-        {
-          "t": "Dodgers news: Andrew Friedman pulls back the curtain on Tarik Skubal trade",
-          "s": "Dodgers president of baseball operations Andrew Friedman shares what led to the acquisition of pitcher Tarik Skubal",
-          "by": "Zachary Draves, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-andrew-friedman-pulls-165103297.html",
-          "fetchedAt": 1786957516161
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1084,14 +1058,6 @@
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/rangers-encouraging-injury-updates-jacob-221318154.html",
           "fetchedAt": 1786957551901
-        },
-        {
-          "t": "3 players who will make or break Rangers' chances of winning AL West",
-          "s": "Corey Seager, Jacob deGrom, and MacKenzie Gore could determine whether the Texas Rangers can overtake the Astros and win the AL West crown.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/3-players-break-rangers-chances-142406736.html",
-          "fetchedAt": 1786957551901
         }
       ],
       "nbcNews": []
@@ -1103,20 +1069,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "New York Yankees @ Toronto Blue Jays: Ryan Weathers vs. Dylan Cease",
-          "s": "Can the Bombers snap out of it and prevent a sweep against an American League ace?",
-          "by": "Jeremy Nielsen",
+          "t": "AL Cy Young Award top 5 candidates in MLB’s recent poll",
+          "s": "Will anyone catch Cam Schlittler?",
+          "by": "Lou Landers",
           "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-toronto-blue-jays-170700103.html",
-          "fetchedAt": 1786914276224
+          "href": "https://sports.yahoo.com/articles/al-cy-young-award-top-173646977.html",
+          "fetchedAt": 1787087702898
         },
         {
-          "t": "Today on Pinstripe Alley – 8/16/26",
-          "s": "Can we avoid a sweep north of the border?",
-          "by": "Jake Devin",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/today-pinstripe-alley-8-16-100000779.html",
-          "fetchedAt": 1786914276224
+          "t": "NL Cy Young Award top 5 candidates in MLB’s recent poll",
+          "s": "Who is the biggest threat to beat \\\"Miz\\\"?",
+          "by": "Lou Landers",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/nl-cy-young-award-top-171951791.html",
+          "fetchedAt": 1787087702898
+        },
+        {
+          "t": "Dylan Cease Has Been Everything Toronto Blue Jays Paid For",
+          "s": "I have to admit, I had some trepidation about the seven-year contract that Toronto doled out last offseason",
+          "by": "Brady Farkas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dylan-cease-everything-toronto-blue-152803091.html",
+          "fetchedAt": 1787087702898
         }
       ],
       "nbcNews": [
@@ -1150,16 +1124,7 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [
-        {
-          "t": "Best-Case Scenario For Phillies Relies on Their Start Pitchers",
-          "s": "What is the best-case scenario for the Philadelphia Phillies for the rest of the regular season?",
-          "by": "Nick Ziegler",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/best-case-scenario-phillies-relies-000002935.html",
-          "fetchedAt": 1787000596598
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Cristopher Sánchez strikes out six in win Monday",
@@ -1215,16 +1180,7 @@
       "name": "Freddy Peralta",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
-      "yahooNews": [
-        {
-          "t": "Early MLB Free Agency Predictions 2026-27: Projecting Where Top 6 Free Agents Land This Winter",
-          "s": "The 2026 MLB season is still ongoing, and it already feels like the fears of a lockout this offseason have […]",
-          "by": "Matt Johnson",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/early-mlb-free-agency-predictions-182444187.html",
-          "fetchedAt": 1787000619455
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Freddy Peralta gives up two runs in loss to O’s",
@@ -1239,7 +1195,32 @@
       "name": "Jesús Luzardo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Bryce Harper Has Been Elite Since MLB Trade Deadline",
+          "s": "The Philadelphia Phillies are receiving incredible production from Bryce Harper the last two weeks.",
+          "by": "Kenneth Teape",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/bryce-harper-elite-since-mlb-170003654.html",
+          "fetchedAt": 1787087685412
+        },
+        {
+          "t": "Can the Phillies offense really change their stripes?",
+          "s": "Bryce Harper is just one of the Phillies disaplaying a newfound patience at the plate.",
+          "by": "John Stolnis",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-offense-really-change-stripes-170000613.html",
+          "fetchedAt": 1787087685412
+        },
+        {
+          "t": "Monday Morning Minnesota: The “It’s Corn!” Edition",
+          "s": "So you’re saying there’s a chance…again",
+          "by": "John Ke",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/monday-morning-minnesota-corn-edition-164359720.html",
+          "fetchedAt": 1787087685412
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1304,7 +1285,16 @@
       "name": "Alex Lange",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10860.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Royals could regret trade deadline decisions with Seth Lugo and Michael Wacha",
+          "s": "This decision from the Royals might come back to haunt them.",
+          "by": "Matt Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/royals-could-regret-trade-deadline-182521012.html",
+          "fetchedAt": 1787087694027
+        }
+      ],
       "nbcNews": []
     },
     {
