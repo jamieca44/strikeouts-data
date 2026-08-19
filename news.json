@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-19T09:04:49.895Z",
+  "lastUpdatedNews": "2026-08-19T09:21:11.305Z",
   "players": [
     {
       "id": 11928,
@@ -33,7 +33,14 @@
           "fetchedAt": 1787087654195
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Eduardo Valencia hitting cleanup on Tuesday",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/eduardo-valencia-hitting-cleanup-on-tuesday",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 10621,
@@ -162,12 +169,6 @@
           "date": "2026-08-17",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/alec-burleson-takes-over-rbi-lead-in-cards-win",
           "fetchedAt": 1787088054464
-        },
-        {
-          "t": "Alec Burleson homers, drives in four in rout",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/alec-burleson-homers-drives-in-four-in-rout",
-          "fetchedAt": 1787088054464
         }
       ]
     },
@@ -219,7 +220,14 @@
           "fetchedAt": 1787130230172
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. hits two homers to lead Padres",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/fernando-tatis-jr-hits-two-homers-to-lead-padres",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 64897,
@@ -384,14 +392,7 @@
           "fetchedAt": 1787087698517
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Reynolds reaches three times, drives in two",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/bryan-reynolds-reaches-three-times-drives-in-two",
-          "fetchedAt": 1786958547567
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9876,
@@ -416,14 +417,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz goes two scoreless for 24th save",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/jacob-latz-goes-two-scoreless-for-24th-save",
-          "fetchedAt": 1786872169847
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -456,14 +450,7 @@
           "fetchedAt": 1787043829117
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal strikes out seven in loss to Brewers",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/tarik-skubal-strikes-out-seven-in-loss-to-brewers",
-          "fetchedAt": 1786958547567
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -480,7 +467,14 @@
           "fetchedAt": 1787130236630
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan (glute) completes bullpen session",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/joe-ryan-glute-completes-bullpen-session",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 10940,
@@ -488,14 +482,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore surrenders three runs in victory",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/mackenzie-gore-surrenders-three-runs-in-victory",
-          "fetchedAt": 1786872169847
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -544,7 +531,14 @@
           "fetchedAt": 1787087709926
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft strikes out four in win vs. Tigers",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/braxton-ashcraft-strikes-out-four-in-win-vs-tigers",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 60238,
@@ -705,14 +699,7 @@
           "fetchedAt": 1787087714739
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers keeps rolling in Toronto",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/ryan-weathers-keeps-rolling-in-toronto",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -753,14 +740,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana goes hitless in loss to Padres",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/travis-bazzana-goes-hitless-in-loss-to-padres",
-          "fetchedAt": 1786958547567
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -835,20 +815,7 @@
           "fetchedAt": 1787000580260
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson exits game with side discomfort",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/dansby-swanson-exits-game-with-side-discomfort",
-          "fetchedAt": 1786915248720
-        },
-        {
-          "t": "Dansby Swanson leaves game in pain with injury",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/dansby-swanson-leaves-game-in-pain-with-injury",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -881,14 +848,7 @@
           "fetchedAt": 1787087705192
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong hits two-run home run in loss",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/pete-crow-armstrong-hits-two-run-home-run-in-loss",
-          "fetchedAt": 1786958547567
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -904,14 +864,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger (hamstring) could return by weekend",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/cody-bellinger-hamstring-could-return-by-weekend",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -993,7 +946,14 @@
           "fetchedAt": 1787130253628
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smith slugs solo homer in loss to Angels",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/cam-smith-slugs-solo-homer-in-loss-to-angels",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 62954,
@@ -1247,7 +1207,14 @@
           "fetchedAt": 1787130279013
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom (triceps) might start Thursday",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/jacob-degrom-triceps-completes-bullpen-session",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 10438,
@@ -1280,14 +1247,7 @@
           "fetchedAt": 1787087702898
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease reaches 200 strikeouts",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/dylan-cease-reaches-200-strikeouts",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1402,14 +1362,7 @@
           "fetchedAt": 1787130264315
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta gives up two runs in loss to O’s",
-          "date": "2026-08-16",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-16/freddy-peralta-gives-up-two-runs-in-loss-to-os",
-          "fetchedAt": 1786915248720
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -1450,7 +1403,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Aided by grand slam robbery, Robbie Ray beats Mets",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/aided-by-grand-slam-robbery-robbie-ray-beats-mets",
+          "fetchedAt": 1787131271305
+        }
+      ]
     },
     {
       "id": 9727,
