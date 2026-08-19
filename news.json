@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-19T21:05:03.866Z",
+  "lastUpdatedNews": "2026-08-19T21:20:55.578Z",
   "players": [
     {
       "id": 11928,
@@ -709,7 +709,20 @@
           "fetchedAt": 1787087714739
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Max Fried returns to IL with elbow bone bruise",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/max-fried-returns-to-il-with-elbow-bone-bruise",
+          "fetchedAt": 1787174455578
+        },
+        {
+          "t": "Carlos Rodón (elbow) to start Tuesday vs. O’s",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/carlos-rodon-elbow-to-start-tuesday-vs-os",
+          "fetchedAt": 1787174455578
+        }
+      ]
     },
     {
       "id": 8658,
@@ -841,7 +854,14 @@
           "fetchedAt": 1787173473547
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson lands on IL with oblique strain",
+          "date": "2026-08-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/dansby-swanson-lands-on-il-with-oblique-strain",
+          "fetchedAt": 1787174455578
+        }
+      ]
     },
     {
       "id": 12157,
@@ -874,7 +894,20 @@
           "fetchedAt": 1787087705192
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong slugs 31st homer vs. White Sox",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/pete-crow-armstrong-slugs-31st-homer-vs-white-sox",
+          "fetchedAt": 1787174455578
+        },
+        {
+          "t": "Crow-Armstrong gets to 30/30 with walkoff homer",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/crow-armstrong-gets-to-30-30-with-walkoff-homer",
+          "fetchedAt": 1787174455578
+        }
+      ]
     },
     {
       "id": 12522,
@@ -924,7 +957,20 @@
           "fetchedAt": 1787173457322
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger (hamstring) could return Sunday",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/cody-bellinger-hamstring-could-return-sunday",
+          "fetchedAt": 1787174455578
+        },
+        {
+          "t": "Cody Bellinger (hamstring) ready for rehab games",
+          "date": "2026-08-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/cody-bellinger-hamstring-ready-for-rehab-games",
+          "fetchedAt": 1787174455578
+        }
+      ]
     },
     {
       "id": 11760,
