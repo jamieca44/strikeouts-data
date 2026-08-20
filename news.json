@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-20T09:04:27.931Z",
+  "lastUpdatedNews": "2026-08-20T09:21:03.335Z",
   "players": [
     {
       "id": 11928,
@@ -155,14 +155,7 @@
           "fetchedAt": 1787216635182
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson takes over RBI lead in Cards’ win",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/alec-burleson-takes-over-rbi-lead-in-cards-win",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -310,7 +303,14 @@
           "fetchedAt": 1787216637128
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts goes 3-for-5, homers in Dodgers’ win",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/mookie-betts-goes-3-for-5-homers-in-dodgers-win",
+          "fetchedAt": 1787217663335
+        }
+      ]
     },
     {
       "id": 12393,
@@ -343,14 +343,7 @@
           "fetchedAt": 1787216650367
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz fans four times versus Cardinals",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/elly-de-la-cruz-fans-four-times-versus-cardinals",
-          "fetchedAt": 1787001652324
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -506,7 +499,14 @@
           "fetchedAt": 1787216615112
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns strikes out eight in no-decision",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/chase-burns-strikes-out-eight-in-no-decision",
+          "fetchedAt": 1787217663335
+        }
+      ]
     },
     {
       "id": 11203,
@@ -619,14 +619,7 @@
           "fetchedAt": 1787173448691
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker notches five-out save against O’s",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/bryan-baker-notches-five-out-save-against-os",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -716,20 +709,7 @@
           "fetchedAt": 1787216664358
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Max Fried returns to IL with elbow bone bruise",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/max-fried-returns-to-il-with-elbow-bone-bruise",
-          "fetchedAt": 1787174455578
-        },
-        {
-          "t": "Carlos Rodón (elbow) to start Tuesday vs. O’s",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/carlos-rodon-elbow-to-start-tuesday-vs-os",
-          "fetchedAt": 1787174455578
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -870,14 +850,7 @@
           "fetchedAt": 1787173473547
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson lands on IL with oblique strain",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/dansby-swanson-lands-on-il-with-oblique-strain",
-          "fetchedAt": 1787174455578
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -1182,7 +1155,20 @@
           "fetchedAt": 1787130275096
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña leaves game with hand contusion",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/jeremy-pena-leaves-game-with-hand-contusion",
+          "fetchedAt": 1787217663335
+        },
+        {
+          "t": "Jeremy Peña exits game following hit-by-pitch",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/jeremy-pena-exits-game-following-hit-by-pitch",
+          "fetchedAt": 1787217663335
+        }
+      ]
     },
     {
       "id": 12375,
@@ -1215,14 +1201,7 @@
           "fetchedAt": 1787130276738
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Marcelo Mayer (forearm) goes 1-for-6 in Triple-A",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/marcelo-mayer-forearm-goes-1-for-6-in-triple-a",
-          "fetchedAt": 1786958547567
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62984,
@@ -1239,14 +1218,7 @@
           "fetchedAt": 1787130255599
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Matt Shaw (hand) set for rehab assignment",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/matt-shaw-hand-set-for-rehab-assignment",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -1394,14 +1366,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez strikes out six in win Monday",
-          "date": "2026-08-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/cristopher-sanchez-strikes-out-six-in-win-monday",
-          "fetchedAt": 1787044876199
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
