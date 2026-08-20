@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-20T21:05:42.149Z",
+  "lastUpdatedNews": "2026-08-20T21:21:16.782Z",
   "players": [
     {
       "id": 11928,
@@ -568,7 +568,14 @@
           "fetchedAt": 1787173448691
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker dominant for 36th save",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/bryan-baker-dominant-for-36th-save",
+          "fetchedAt": 1787260876782
+        }
+      ]
     },
     {
       "id": 10214,
@@ -1206,7 +1213,14 @@
           "fetchedAt": 1787173475565
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins blasts another homer for St. Paul",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/walker-jenkins-blasts-another-homer-for-st-paul",
+          "fetchedAt": 1787260876782
+        }
+      ]
     },
     {
       "id": 9701,
