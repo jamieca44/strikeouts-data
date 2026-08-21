@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-21T09:05:04.444Z",
+  "lastUpdatedNews": "2026-08-21T09:21:13.770Z",
   "players": [
     {
       "id": 11928,
@@ -25,14 +25,7 @@
           "fetchedAt": 1787216638997
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Eduardo Valencia hitting cleanup on Tuesday",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/eduardo-valencia-hitting-cleanup-on-tuesday",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -65,14 +58,7 @@
           "fetchedAt": 1787216666177
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. (concussion) resumes activity",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/vladimir-guerrero-jr-concussion-resumes-activity",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -89,7 +75,14 @@
           "fetchedAt": 1787173501364
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. blasts 25th homer in win over O’s",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/luis-garcia-jr-blasts-25th-homer-in-win-over-os",
+          "fetchedAt": 1787304073770
+        }
+      ]
     },
     {
       "id": 10916,
@@ -327,7 +320,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz closes out Nationals to earn 25th save",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jacob-latz-closes-out-nationals-to-earn-25th-save",
+          "fetchedAt": 1787304073770
+        }
+      ]
     },
     {
       "id": 11763,
@@ -343,14 +343,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan (glute) completes bullpen session",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/joe-ryan-glute-completes-bullpen-session",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -448,14 +441,7 @@
           "fetchedAt": 1787216661883
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft strikes out four in win vs. Tigers",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/braxton-ashcraft-strikes-out-four-in-win-vs-tigers",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -488,14 +474,7 @@
           "fetchedAt": 1787259939917
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan reportedly recalled by Dodgers",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/emmet-sheehan-reportedly-recalled-by-dodgers",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -585,14 +564,7 @@
           "fetchedAt": 1787216643045
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz surrenders three runs while mopping up",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/edwin-diaz-surrenders-three-runs-while-mopping-up",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -806,12 +778,6 @@
           "date": "2026-08-19",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/pete-crow-armstrong-slugs-31st-homer-vs-white-sox",
           "fetchedAt": 1787174455578
-        },
-        {
-          "t": "Crow-Armstrong gets to 30/30 with walkoff homer",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/crow-armstrong-gets-to-30-30-with-walkoff-homer",
-          "fetchedAt": 1787174455578
         }
       ]
     },
@@ -885,12 +851,6 @@
           "date": "2026-08-19",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/cody-bellinger-hamstring-could-return-sunday",
           "fetchedAt": 1787174455578
-        },
-        {
-          "t": "Cody Bellinger (hamstring) ready for rehab games",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/cody-bellinger-hamstring-ready-for-rehab-games",
-          "fetchedAt": 1787174455578
         }
       ]
     },
@@ -942,14 +902,7 @@
           "fetchedAt": 1787216631657
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Taylor Ward (quad) remains out fifth straight game",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/taylor-ward-quad-remains-out-fifth-straight-game",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -966,14 +919,7 @@
           "fetchedAt": 1787259918264
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cam Smith slugs solo homer in loss to Angels",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/cam-smith-slugs-solo-homer-in-loss-to-angels",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -1056,14 +1002,7 @@
           "fetchedAt": 1787216653732
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Noelvi Marte sent back to Triple-A amidst struggles",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/noelvi-marte-sent-back-to-triple-a-amidst-struggles",
-          "fetchedAt": 1787088054464
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60580,
@@ -1281,14 +1220,7 @@
           "fetchedAt": 1787259934691
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom (triceps) might start Thursday",
-          "date": "2026-08-18",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-18/jacob-degrom-triceps-completes-bullpen-session",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1346,7 +1278,14 @@
           "fetchedAt": 1787259895156
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish serves up two homers in loss to Yanks",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/kyle-bradish-serves-up-two-homers-in-loss-to-yanks",
+          "fetchedAt": 1787304073770
+        }
+      ]
     },
     {
       "id": 9121,
@@ -1354,7 +1293,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole dominates in victory over Orioles",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/gerrit-cole-dominates-in-victory-over-orioles",
+          "fetchedAt": 1787304073770
+        }
+      ]
     },
     {
       "id": 11014,
