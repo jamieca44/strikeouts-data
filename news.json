@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-21T09:21:13.770Z",
+  "lastUpdatedNews": "2026-08-21T21:07:30.344Z",
   "players": [
     {
       "id": 11928,
@@ -14,14 +14,6 @@
           "by": "Jared Bloom",
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/preseason-models-look-ridiculous-tigers-223728932.html",
-          "fetchedAt": 1787216638997
-        },
-        {
-          "t": "Jackson Jobe Looks to Bounce Back as Tigers Reveal Starting Lineup",
-          "s": "Here's the starting lineup backing Jackson Jobe.",
-          "by": "Dominic Minchella",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/jackson-jobe-looks-bounce-back-150005739.html",
           "fetchedAt": 1787216638997
         }
       ],
@@ -40,22 +32,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/toronto-blue-jays-announce-vladimir-234729342.html",
           "fetchedAt": 1787216666177
-        },
-        {
-          "t": "Blue Jays Announce Plan for Vladimir Guerrero Jr. Ahead of Yankees Series",
-          "s": "Toronto Blue Jays first baseman Vladimir Guerrero Jr. has been on the concussion injured list since Saturday. He expects to return against the New York Yankees.",
-          "by": "Tate Mosher",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-announce-plan-vladimir-203915155.html",
-          "fetchedAt": 1787216666177
-        },
-        {
-          "t": "Vladimir Guerrero Jr. Announces Meet and Greet Contest Before Blue Jays Game",
-          "s": "Toronto Blue Jays first baseman Vladimir Guerrero Jr. had some news to share.",
-          "by": "Gavin Groe",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/vladimir-guerrero-jr-announces-meet-180045285.html",
-          "fetchedAt": 1787216666177
         }
       ],
       "nbcNews": []
@@ -67,12 +43,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [
         {
-          "t": "“This Is Ridiculous”;”Stop Complaining” – Fans Slam Jazz Chisholm Jr. For Getting Upset At Umpire After Defensive Error Vs Orioles",
-          "s": "New York Yankees second baseman Jazz Chisholm Jr. committed a defensive error in the first inning of the series opener against the Orioles in Baltimore on Tuesday.",
-          "by": "Karan Tyagi",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/ridiculous-stop-complaining-fans-slam-122538885.html",
-          "fetchedAt": 1787173501364
+          "t": "George Lombard Jr.'s standout defense is already making an impression on Yankees teammates, fans and opposing players",
+          "s": "\\\"Any ball that's in my direction, I'm gonna get there,\\\" the 21-year-old shortstop said of his mindset.",
+          "by": "Jake Mintz",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/mlb/article/george-lombard-jrs-standout-defense-is-already-making-an-impression-on-yankees-teammates-fans-and-opposing-players-185725098.html",
+          "fetchedAt": 1787346428173
+        },
+        {
+          "t": "Yankees news: Trade deadline busts support Gerrit Cole in big win",
+          "s": "The New York Yankees routed the Baltimore Orioles behind a big performance from Gerrit Cole on the mound. In addition to his performance, some players the Yanks acquired at the MLB Trade Deadline came through in the clutch , according to Dam Martin of the New York Post. “Thursday’s win featured a sterling effort from Gerrit Cole, contributions from […] The post Yankees news: Trade deadline busts support Gerrit Cole in big win appeared first on ClutchPoints.",
+          "by": "RB Hayek, ClutchPoints",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-news-trade-deadline-busts-143514253.html",
+          "fetchedAt": 1787346428173
+        },
+        {
+          "t": "Gerrit Cole, trade deadline pickups come up big in Yankees’ impressive win over Orioles",
+          "s": "On Thursday, as the Yankees got some potentially positive news on Aaron Judge, they also looked like a team that’s poised for a strong finish.",
+          "by": "Dan Martin",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/gerrit-cole-trade-deadline-pickups-021113793.html",
+          "fetchedAt": 1787346428173
         }
       ],
       "nbcNews": [
@@ -91,12 +83,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [
         {
-          "t": "Twins Rest Byron Buxton for Physical Maintenance After Injury Concerns",
-          "s": "Twins give Byron Buxton another maintenance day.",
-          "by": "Miracle Dimwesh",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/twins-rest-byron-buxton-physical-183537461.html",
-          "fetchedAt": 1787216633399
+          "t": "Josh Bell Credits Derek Shelton as Twins Hold Final Wild Card Spot",
+          "s": "The first-year manager has kept Minnesota's clubhouse steady through a tight race that could go in any direction down the stretch.",
+          "by": "Grant Mona",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/josh-bell-credits-derek-shelton-182838879.html",
+          "fetchedAt": 1787346439308
         }
       ],
       "nbcNews": []
@@ -108,20 +100,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [
         {
-          "t": "Jordan Walker Has Been The Cardinals' Biggest Surprise In 2026",
-          "s": "The 24-year-old outfielder has had a breakout season, far exceeding expectations, and was even named an All-Star.",
-          "by": "Shaun McAvoy",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/jordan-walker-cardinals-biggest-surprise-190006791.html",
-          "fetchedAt": 1787216635182
-        },
-        {
-          "t": "Alec Burleson's Absurd Season Is Flying Under the Radar for Cardinals",
-          "s": "The St. Louis Cardinals have an underrated star on their hands in Alec Burleson.",
+          "t": "Jordan Walker, Alec Burleson Have Cardinals' Offense Buzzing",
+          "s": "St. Louis Cardinals fans should be very excited right now about this club.",
           "by": "Patrick McAvoy",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/alec-burlesons-absurd-season-flying-160956561.html",
-          "fetchedAt": 1787216635182
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/jordan-walker-alec-burleson-cardinals-140330573.html",
+          "fetchedAt": 1787346441065
         }
       ],
       "nbcNews": []
@@ -180,14 +164,6 @@
           "when": "22h ago",
           "href": "https://sports.yahoo.com/videos/carson-benge-robert-stock-lift-223026192.html",
           "fetchedAt": 1787259909460
-        },
-        {
-          "t": "Mets Ride More Strong Pitching To 4-2 Win Over San Diego",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/mets-ride-more-strong-pitching-203132268.html",
-          "fetchedAt": 1787259909460
         }
       ],
       "nbcNews": [
@@ -231,28 +207,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [
         {
-          "t": "Betts, Hernández lift Dodgers to extra-inning win",
-          "s": "",
-          "by": "",
+          "t": "Should Dodgers Fans Give Kyle Tucker a Standing Ovation?",
+          "s": "Los Angeles Dodgers star Kyle Tucker is coming out of a brutal slump. Should fans be more supportive to encourage him to play better?",
+          "by": "Cameron Kiszla",
           "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/betts-hern-ndez-lift-dodgers-050049773.html",
-          "fetchedAt": 1787216637128
+          "href": "https://sports.yahoo.com/articles/dodgers-fans-kyle-tucker-standing-170000608.html",
+          "fetchedAt": 1787346442765
         },
         {
-          "t": "Mookie Betts homers and has RBI single in 10th as Dodgers beat Rockies 6-4 for 3-game sweep",
-          "s": "Mookie Betts homered and capped a three-hit night with an RBI single in the 10th inning, and the Los Angeles Dodgers beat the Colorado Rockies 6-4 on Wednesday. Kiké Hernández also went deep and Kyle Tucker had two hits as the Dodgers completed a three-game sweep. Mickey Moniak hit a tying two-run homer in the seventh, his 20th, and had three hits for the Rockies.",
-          "by": "MICHAEL KELLY",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/mookie-betts-homers-rbi-single-042052327.html",
-          "fetchedAt": 1787216637128
+          "t": "Mookie Betts Sends Clear Message to Kyle Tucker on New Podcast Episode",
+          "s": "On Wednesday, August 19, the Los Angeles Dodgers completed a much needed series sweep against the Colorado Rockies.A player who needed this confidence booster the most, right fielder Kyle Tucker. Tucker was 0-for-19 and booed by Dodger fans during their seven-game homestand before heading to Colorado.Although, nothing crazy for the former Silver Slugger, Tucker recorded […] The post Mookie Betts Sends Clear Message to Kyle Tucker on New Podcast Episode appeared first on HEAVY.",
+          "by": "McKenna Van Gundy",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/mookie-betts-sends-clear-message-023621998.html",
+          "fetchedAt": 1787346442765
         },
         {
-          "t": "Freddie Freeman, Mookie Betts lead 10th inning charge, Dodgers sweep Rockies",
-          "s": "The Dodgers needed 28 innings to complete a three-game sweep of the Colorado Rockies, as they took the finale 6-4 in a 10-inning affair on Wednesday. The Dodgers were the first to start the scoring for a third consecutive game, as after an infield single from Mookie Betts, Kyle Tucker and Kiké Hernández smacked a […]",
-          "by": "Jacob Macofsky",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-mookie-betts-lead-040633911.html",
-          "fetchedAt": 1787216637128
+          "t": "Miguel Rojas Reveals Plan to Help Kyle Tucker Escape Dodgers Slump",
+          "s": "Los Angeles Dodgers locker room leader Miguel Rojas detailed the work he has done to get struggling star Kyle Tucker out of his slump.",
+          "by": "Nelson Espinal",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/miguel-rojas-reveals-plan-help-224237101.html",
+          "fetchedAt": 1787346442765
         }
       ],
       "nbcNews": [
@@ -271,12 +247,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [
         {
-          "t": "Terry Francona Gets Honest About Reds' Offensive Woes",
-          "s": "The Cincinnati Reds have ranked 30th in MLB for batting average, hits per game and strikeouts per game this season.",
-          "by": "Charlie Rondeau",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/terry-francona-gets-honest-reds-210249263.html",
-          "fetchedAt": 1787216650367
+          "t": "How Elly De La Cruz and the Reds can get back to the playoffs in 5 simple steps",
+          "s": "Fixing the Cincinnati Reds begins with not trading All-Star shortstop Elly De La Cruz, and we have some other ideas.",
+          "by": "Jake Elman",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/elly-la-cruz-reds-back-132328257.html",
+          "fetchedAt": 1787346448538
+        },
+        {
+          "t": "Reason No. 99.2 (mph) why Reds can't give Elly De La Cruz a day off",
+          "s": "Cincinnati Reds SS Elly De La Cruz's relay throw from center field Wednesday night was the 4th-fastest assist by an infielder in the Statcast era.",
+          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reason-no-99-2-mph-164105255.html",
+          "fetchedAt": 1787346448538
+        },
+        {
+          "t": "Cincinnati Reds blow lead in 9th, then wild rally falls run short",
+          "s": "A two-out error by center fielder Dane Myers in the ninth cost a one-run lead and opened the floodgates in a wild 10-9 loss to the St. Louis Cardinals.",
+          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-blow-another-one-194856589.html",
+          "fetchedAt": 1787346448538
         }
       ],
       "nbcNews": []
@@ -334,7 +326,32 @@
       "name": "Tarik Skubal",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dodgers news: Tarik Skubal reveals how 1 playoff game made him the pitcher he is today",
+          "s": "With the Los Angeles Dodgers looking for their third straight World Series , one piece that will be crucial in helping them get it done is star pitcher Tarik Skubal. While Skubal believes he’s not playing up to his standards with the Dodgers since the blockbuster trade at the deadline, he would speak about one playoff game that has set him up for […] The post Dodgers news: Tarik Skubal reveals how 1 playoff game made him the pitcher he is today appeared first on ClutchPoints.",
+          "by": "Zachary Weinberger, ClutchPoints",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-tarik-skubal-reveals-175321849.html",
+          "fetchedAt": 1787346399878
+        },
+        {
+          "t": "Dodgers Could Face Familiar Rival in Skubal Free Agency",
+          "s": "A looming bidding war between the Los Angeles Dodgers and New York Mets threatens to dominate the offseason as Tarik Skubal prepares for his massive payday.",
+          "by": "Eduardo Solano",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-could-face-familiar-rival-132903654.html",
+          "fetchedAt": 1787346399878
+        },
+        {
+          "t": "Tarik Skubal was prepared for Dodgers challenge by failure ‘on the biggest stage’",
+          "s": "“I’m proud of the way I competed that day,” Skubal said.",
+          "by": "Dylan Hernandez",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-prepared-dodgers-challenge-125334685.html",
+          "fetchedAt": 1787346399878
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -369,28 +386,28 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Reds manager Terry Francona on Sal Stewart, Chase burns, win over STL",
-          "s": "Cincinnati Reds rookie Sal Stewart hit a go-ahead home run in the sixth after Chase Burns grinded through 5 innings to keep it close, to beat Cards.",
-          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
+          "t": "MLB Analyst Ranks Reds Pitcher Chase Burns Among Baseball's Top Spoiler Aces",
+          "s": "MLB Analyst Ranks Reds Pitcher Chase Burns Among Baseball's Top Spoiler Aces",
+          "by": "Greg Kuffner",
           "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/reds-manager-terry-francona-sal-030345148.html",
-          "fetchedAt": 1787216615112
+          "href": "https://sports.yahoo.com/articles/mlb-analyst-ranks-reds-pitcher-152210334.html",
+          "fetchedAt": 1787346430055
         },
         {
-          "t": "Reds starter Chase Burns on 'grinding' through 5 in win over Cardinals",
-          "s": "Cincinnati Reds starter Chase Burns allowed just two runs in 5 IP Wednesday, and the Reds came back to beat the Cardinals 5-4.",
-          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/reds-starter-chase-burns-grinding-021523373.html",
-          "fetchedAt": 1787216615112
+          "t": "The Reds get to try to score a run again tonight against the Cardinals",
+          "s": "Will they, though?",
+          "by": "Wick Terrell",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reds-try-score-run-again-215832065.html",
+          "fetchedAt": 1787346430055
         },
         {
-          "t": "Reds rookie Sal Stewart on scoring 5 in win, Chase Stewart prowess",
-          "s": "Cincinnati Reds rookie Sal Stewart hit his 27th home run, a go-ahead 3-run shot, to run his league-leading RBI total to 94, in the win over St. Louis.",
-          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/reds-rookie-sal-stewart-scoring-030219345.html",
-          "fetchedAt": 1787216615112
+          "t": "Sal Stewart's Clutch Home Run Leads Reds Over Cardinals 5-4",
+          "s": "Sal Stewart's Clutch Home Run Leads Reds Over Cardinals 5-4",
+          "by": "Roger Straz",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/sal-stewarts-clutch-home-run-020209782.html",
+          "fetchedAt": 1787346430055
         }
       ],
       "nbcNews": [
@@ -431,14 +448,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/videos/flores-jr-homers-lowe-walks-215932178.html",
           "fetchedAt": 1787216661883
-        },
-        {
-          "t": "Pirates' Don Kelly Explains Controversial Braxton Ashcraft Decision",
-          "s": "The Pittsburgh Pirates manager made a difficult choice with his star pitcher.",
-          "by": "Dominic Campbell",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-don-kelly-explains-controversial-114951238.html",
-          "fetchedAt": 1787216661883
         }
       ],
       "nbcNews": []
@@ -448,32 +457,7 @@
       "name": "Emmet Sheehan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yahooNews": [
-        {
-          "t": "Dodgers Bring Back Emmet Sheehan in Unexpected Role Amid Pitching Issues",
-          "s": "The Los Angeles Dodgers are calling up pitcher Emmet Sheehan after his minor-league stint, assigning him to the bullpen.",
-          "by": "Nelson Espinal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-bring-back-emmet-sheehan-211605261.html",
-          "fetchedAt": 1787259939917
-        },
-        {
-          "t": "Dodgers Lose Edwin Diaz to IL Again in Crushing Blow",
-          "s": "The Los Angeles Dodgers have placed struggling closer Edwin Diaz back on the injured list.",
-          "by": "Pat Ragazzo",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-lose-edwin-diaz-il-215701179.html",
-          "fetchedAt": 1787259939917
-        },
-        {
-          "t": "Dodgers make decision on Edwin Diaz, will promote Triple-A starter",
-          "s": "Diaz has four blown saves and an 11.85 ERA since signing a $69 million contract with the Dodgers",
-          "by": "J.P. Hoornstra",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-decision-edwin-diaz-promote-213053753.html",
-          "fetchedAt": 1787259939917
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -540,28 +524,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [
         {
-          "t": "Fantasy Baseball Waiver Wire: Replacing Ketel Marte, Edwin Diaz",
-          "s": "Two stars with different reasons for upcoming absences leave fantasy players with big lineup holes.",
-          "by": "Tim Heaney",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/fantasy-baseball-waiver-wire-replacing-023300472.html",
-          "fetchedAt": 1787216643045
+          "t": "Scott Steps Back Into Key Dodgers Role With October Looming",
+          "s": "With Edwin Díaz sidelined, Tanner Scott returns to the ninth inning, bringing a gritty, flexible mentality and proven reliability to the Los Angeles Dodgers bullpen.",
+          "by": "Eduardo Solano",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/scott-steps-back-key-dodgers-010043123.html",
+          "fetchedAt": 1787346446779
         },
         {
-          "t": "Dodgers Provide Positive Edwin Díaz Injury Update",
-          "s": "The Los Angeles Dodgers placed Edwin Díaz on the injured list on Tuesday",
-          "by": "Aaliyan Mohammed",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-positive-edwin-d-az-011335267.html",
-          "fetchedAt": 1787216643045
+          "t": "What could stop the LA Dodgers from three-peating in the World Series?",
+          "s": "On the latest episode of \\\"Baseball Bar-B-Cast,\\\" Jake Mintz and Katie Woo discussed what could prevent L.A. from winning a third straight World Series.",
+          "by": "Yahoo Sports Staff",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/mlb/article/what-could-stop-the-la-dodgers-from-three-peating-in-the-world-series-232118989.html",
+          "fetchedAt": 1787346446779
         },
         {
-          "t": "Dodgers Get ‘Best-Case Scenario’ From Edwin Diaz MRI",
-          "s": "Dodgers closer Edwin Diaz had a medical scan on Wednesday in LA while the team was in Colorado for the series against the Rockies.",
-          "by": "Nelson Espinal",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-best-case-scenario-edwin-232239255.html",
-          "fetchedAt": 1787216643045
+          "t": "Dodgers news: Why insider isn't worried about LA bullpen despite Edwin Diaz injury",
+          "s": "The Los Angeles Dodgers are once again fielding questions about their bullpen after closer Edwin Diaz landed on the 15-day injured list this week with neck inflammation. Diaz first felt discomfort during Monday’s series opener vs. the Colorado Rockies. The Dodgers placed him on the injured list the next day, Tuesday, and an MRI performed on […] The post Dodgers news: Why insider isn't worried about LA bullpen despite Edwin Diaz injury appeared first on ClutchPoints.",
+          "by": "Josh Davis, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-why-insider-isnt-182901427.html",
+          "fetchedAt": 1787346446779
         }
       ],
       "nbcNews": []
@@ -604,32 +588,7 @@
       "name": "Ryan Weathers",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
-      "yahooNews": [
-        {
-          "t": "Yankees Provide Positive Max Fried Injury Update",
-          "s": "The New York Yankees placed Max Fried on the injured list on Monday",
-          "by": "Aaliyan Mohammed",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-positive-max-fried-injury-182658220.html",
-          "fetchedAt": 1787216664358
-        },
-        {
-          "t": "The Bronx Bombers do not need to live like this",
-          "s": "Can the Yankee offense find an identity to rally around before it's too late?",
-          "by": "Jeremy Nielsen",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/bronx-bombers-not-live-173000792.html",
-          "fetchedAt": 1787216664358
-        },
-        {
-          "t": "Clock Is Ticking on Will Warren to Save His Slot in Yankees' Rotation",
-          "s": "New York Yankees right-hander Will Warren needs to have a good start against the Baltimore Orioles, as his spot in the rotation is on the chopping block.",
-          "by": "Michael Rosenstein",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/clock-ticking-warren-save-slot-141056104.html",
-          "fetchedAt": 1787216664358
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -639,12 +598,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [
         {
-          "t": "Shohei Ohtani reaches 30 HRs for 6th straight season as Dodgers beat Rockies 7-6",
-          "s": "Against Colorado, the Dodgers have scored 18 runs on 24 hits with four homers, including three by Ohtani.",
-          "by": "Associated Press",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/ohtani-reaches-30-hrs-6th-132340036.html",
-          "fetchedAt": 1787173499248
+          "t": "Freddie Freeman, Mookie Betts lead 10th inning charge, Dodgers sweep Rockies",
+          "s": "The Dodgers needed 28 innings to complete a three-game sweep of the Colorado Rockies, as they took the finale 6-4 in a 10-inning affair on Wednesday. The Dodgers were the first to start the scoring for a third consecutive game, as after an infield single from Mookie Betts, Kyle Tucker and Kiké Hernández smacked a […]",
+          "by": "Jacob Macofsky",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/freddie-freeman-mookie-betts-lead-040633911.html",
+          "fetchedAt": 1787346425948
+        },
+        {
+          "t": "Los Angeles Dodgers Announce Freddie Freeman Change Before Rockies Series Finale",
+          "s": "The Los Angeles Dodgers are going for the sweep Wednesday night after winning the first two games of their series against the Colorado Rockies.Ahead of the matchup, which will feature Roki Sasaki on the mound for L.A. against Rockies right-hander Kyle Freeland, Dodgers manager Dave Roberts decided to make a few tweaks to his lineup.Dodgers […] The post Los Angeles Dodgers Announce Freddie Freeman Change Before Rockies Series Finale appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-freddie-022043384.html",
+          "fetchedAt": 1787346425948
+        },
+        {
+          "t": "Vintage Mookie Betts Returns as Dodgers Complete Rockies Sweep",
+          "s": "The Los Angeles Dodgers beat the Colorado Rockies 6-4 in extra innings by getting a big game from Mookie Betts.",
+          "by": "Nelson Espinal",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/vintage-mookie-betts-returns-dodgers-040517886.html",
+          "fetchedAt": 1787346425948
         }
       ],
       "nbcNews": []
@@ -654,24 +629,7 @@
       "name": "Travis Bazzana",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
-      "yahooNews": [
-        {
-          "t": "Guardians Skipper on Travis Bazzana’s Rookie Season So Far",
-          "s": "",
-          "by": "",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/videos/guardians-skipper-travis-bazzana-rookie-103017229.html",
-          "fetchedAt": 1787173453062
-        },
-        {
-          "t": "Guardians Skipper on Travis Bazzana’s Rookie Season So Far",
-          "s": "Travis Bazzana has largely struggled, but the Cleveland Guardians aren't giving up",
-          "by": "Tommy Wild",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-skipper-travis-bazzana-rookie-103017638.html",
-          "fetchedAt": 1787173453062
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -687,22 +645,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/red-sox-brewers-caleb-durbin-210017183.html",
           "fetchedAt": 1787303098146
-        },
-        {
-          "t": "Boston Red Sox Announce Caleb Durbin Decision During D-Backs Series",
-          "s": "The Boston Red Sox are finishing off their series against the Arizona Diamondbacks on Wednesday. They are going for the sweep, as they defeated Arizona in each of the first two games of the series.Boston will be making some changes to their lineup despite recording a combined 20 runs in their last two games. One […] The post Boston Red Sox Announce Caleb Durbin Decision During D-Backs Series appeared first on HEAVY.",
-          "by": "Michael DeRosa",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/boston-red-sox-announce-caleb-195453864.html",
-          "fetchedAt": 1787173485415
-        },
-        {
-          "t": "Red Sox Announce Jarren Duran Decision During Diamondbacks Series",
-          "s": "The Boston Red Sox have come back to life over the last two games, outscoring the Arizona Diamondbacks 20-5. Entering the matchup with Arizona, Boston had looked a little lifeless, with the team dropping its previous three series. But it’s been so far so good for the Red Sox, and the team will be looking […] The post Red Sox Announce Jarren Duran Decision During Diamondbacks Series appeared first on HEAVY.",
-          "by": "Matt Levine",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-announce-jarren-duran-193305884.html",
-          "fetchedAt": 1787173485415
         }
       ],
       "nbcNews": []
@@ -867,22 +809,6 @@
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-jack-152643226.html",
           "fetchedAt": 1787259916204
-        },
-        {
-          "t": "Tigers Quietly Announce Injury Update to Riley Greene During Pirates Series",
-          "s": "The Detroit Tigers quietly announced an injury update to star outfielder Riley Greene during their series against the Pittsburgh Pirates. The post Tigers Quietly Announce Injury Update to Riley Greene During Pirates Series appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-quietly-announce-injury-riley-165315421.html",
-          "fetchedAt": 1787259916204
-        },
-        {
-          "t": "Tigers playing it safe with Riley Greene, but injury rehab on schedule",
-          "s": "Riley Greene’s injury rehab is trending in a positive way, manager A.J. Hinch said before Detroit Tigers' game against the Pirates on Wednesday.",
-          "by": "Shawn Windsor, Detroit Free Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-playing-safe-riley-greene-163112165.html",
-          "fetchedAt": 1787259916204
         }
       ],
       "nbcNews": []
@@ -926,16 +852,7 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [
-        {
-          "t": "Detroit Tigers Announce Kevin McGonigle Change Before Pirates Finale",
-          "s": "The Detroit Tigers have announced a lineup change involving infielder Kevin McGonigle before the Pirates series finale. The post Detroit Tigers Announce Kevin McGonigle Change Before Pirates Finale appeared first on HEAVY.",
-          "by": "Jackson Kruse",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-announce-kevin-mcgonigle-171323753.html",
-          "fetchedAt": 1787173490299
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -944,6 +861,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [
+        {
+          "t": "Houston Astros Announce Yordan Alvarez, Jose Altuve Updates During Angels Game",
+          "s": "The Houston Astros are not taking care of business like they should be this week in an AL West clash with the Los Angeles Angels. In fact, the Stros are almost certainly going to drop their series with the Angels after a bludgeoning is taking place at Daikin Park right now. As a result, the […] The post Houston Astros Announce Yordan Alvarez, Jose Altuve Updates During Angels Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/houston-astros-announce-yordan-alvarez-051546327.html",
+          "fetchedAt": 1787346433569
+        },
         {
           "t": "Pecko, Vázquez, Altuve help fuel Astros' 3-2 win",
           "s": "",
@@ -959,14 +884,6 @@
           "when": "5h ago",
           "href": "https://sports.yahoo.com/articles/bullpen-shines-astros-down-angels-032000332.html",
           "fetchedAt": 1787216620552
-        },
-        {
-          "t": "Ethan Pecko Set for Astros Debut After 3-1 Loss to Angels",
-          "s": "Somehow the Astros dropped the series opener to the worst team in baseball, losing 3-1. They are still leading the AL West, but just barely; Texas is right on their heels, only one game back. They can't seem to give themselves some breathing room even against the worst team in the league.",
-          "by": "Sydney Cruse",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/ethan-pecko-set-astros-debut-220033471.html",
-          "fetchedAt": 1787216620552
         }
       ],
       "nbcNews": []
@@ -976,32 +893,7 @@
       "name": "Noelvi Marte",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11529.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/noelvi-marte/48768",
-      "yahooNews": [
-        {
-          "t": "Cincinnati Reds Demote Struggling Outfielder During Cardinals Series",
-          "s": "The Cincinnati Reds demoted a player during his fourth big-league season.",
-          "by": "Jesus Jimenez",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-demote-struggling-outfielder-153018333.html",
-          "fetchedAt": 1787216653732
-        },
-        {
-          "t": "Have Reds fans seen the last of Noelvi Marte?",
-          "s": "Noelvi Marte has been demoted yet again by the Reds. Will he make it back to Cincinnati?",
-          "by": "Scott Springer, Cincinnati Enquirer",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/reds-fans-seen-last-noelvi-152803449.html",
-          "fetchedAt": 1787216653732
-        },
-        {
-          "t": "Terry Francona's Comments on Noelvi Marte Are Telling",
-          "s": "Terry Francona's Comments on Noelvi Marte Are Telling",
-          "by": "Greg Kuffner",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/terry-franconas-comments-noelvi-marte-144842974.html",
-          "fetchedAt": 1787216653732
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1024,14 +916,6 @@
           "by": "Toran Flores",
           "when": "14h ago",
           "href": "https://sports.yahoo.com/articles/astros-jeremy-pena-gets-injury-062953329.html",
-          "fetchedAt": 1787259930372
-        },
-        {
-          "t": "Pena's Injury Update",
-          "s": "Josh Inglis' favorite MLB home run predictions for Wednesday, Aug. 19, include Griffin Conine, Pete Crow-Armstrong, and Jo Adell.",
-          "by": "Josh Inglis",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-home-run-predictions-today-133000236.html",
           "fetchedAt": 1787259930372
         }
       ],
@@ -1063,22 +947,6 @@
           "when": "21h ago",
           "href": "https://sports.yahoo.com/articles/giants-news-marcelo-mayer-could-235834943.html",
           "fetchedAt": 1787259932796
-        },
-        {
-          "t": "Giants' Marcelo Mayer Continues Rehab Assignment",
-          "s": "Marcelo Mayer recorded a hit and an RBI as the San Francisco Giants shortstop continued his rehab assignment.",
-          "by": "Anthony Arroyo",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/giants-marcelo-mayer-continues-rehab-190544847.html",
-          "fetchedAt": 1787259932796
-        },
-        {
-          "t": "Roman Anthony Breaks Silence on Marcelo Mayer Trade Ahead of Red Sox Return",
-          "s": "The former Red Sox infielder could be debuting with the Giants this Friday.",
-          "by": "Jon Conahan",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/roman-anthony-breaks-silence-marcelo-193958892.html",
-          "fetchedAt": 1787259932796
         }
       ],
       "nbcNews": []
@@ -1088,32 +956,7 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [
-        {
-          "t": "Cubs news: Daniel Palencia gets official injury return date as Chicago",
-          "s": "The Chicago Cubs have been great as of late. The Cubs have been led by MVP candidate Pete Crow-Armstrong and have won six of their last nine games. That has put them squarely in a wild-card spot, with their sights set on the Milwaukee Brewers in the NL East. Now, the Cubs are getting good news on the pitching front , as Daniel Palencia is getting a […] The post Cubs news: Daniel Palencia gets official injury return date as Chicago appeared first on ClutchPoints.",
-          "by": "Bryan Logan, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/cubs-news-daniel-palencia-gets-184354549.html",
-          "fetchedAt": 1787259920605
-        },
-        {
-          "t": "Cubs Activate Daniel Palencia from Injured List for Upcoming Series Against Mariners",
-          "s": "Daniel Palencia is set to return Friday.",
-          "by": "Miracle Dimwesh",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/cubs-activate-daniel-palencia-injured-184534519.html",
-          "fetchedAt": 1787259920605
-        },
-        {
-          "t": "Cubs Injury News: Palencia is Back, Brown Takes Big Step? Milner Update, More",
-          "s": "The Chicago Cubs gave some very positive updates on a handful of pitchers this afternoon before their meeting with the White Sox.",
-          "by": "Elias Schuster",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/cubs-injury-news-palencia-back-202810220.html",
-          "fetchedAt": 1787259920605
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1292,7 +1135,32 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Gerrit Cole Makes Yankees History Amid Recent Resurgence",
+          "s": "Cole is back in vintage form",
+          "by": "Tyler Maher",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/gerrit-cole-makes-yankees-history-143723250.html",
+          "fetchedAt": 1787346413813
+        },
+        {
+          "t": "Yankees news: Trade deadline busts support Gerrit Cole in big win",
+          "s": "The New York Yankees routed the Baltimore Orioles behind a big performance from Gerrit Cole on the mound. In addition to his performance, some players the Yanks acquired at the MLB Trade Deadline came through in the clutch , according to Dam Martin of the New York Post. “Thursday’s win featured a sterling effort from Gerrit Cole, contributions from […] The post Yankees news: Trade deadline busts support Gerrit Cole in big win appeared first on ClutchPoints.",
+          "by": "RB Hayek, ClutchPoints",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-news-trade-deadline-busts-143514253.html",
+          "fetchedAt": 1787346413813
+        },
+        {
+          "t": "Gerrit Cole surpasses Roger Clemens on Yankees’ all-time strikeout list",
+          "s": "BALTIMORE — Gerrit Cole jumped up a spot in the Yankees’ record books on Thursday night, as the right-hander surpassed Rogers Clemens on the franchise’s all-time strikeout list. With eight punchies in the Yankees’ series-sweeping, 6-1 win over the Orioles, Cole has now totaled 1,015 over six seasons in pinstripes. That puts him in sole possession of 12th place on the club’s K counter after ...",
+          "by": "Gary Phillips, New York Daily News",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/gerrit-cole-surpasses-roger-clemens-113000679.html",
+          "fetchedAt": 1787346413813
+        }
+      ],
       "nbcNews": [
         {
           "t": "Gerrit Cole dominates in victory over Orioles",
@@ -1322,14 +1190,6 @@
           "by": "Kenneth Teape",
           "when": "21h ago",
           "href": "https://sports.yahoo.com/articles/rays-help-freddy-peralta-improve-000003103.html",
-          "fetchedAt": 1787259924208
-        },
-        {
-          "t": "Mets' Polanco To Undergo Surgery; Likely To Miss Rest Of Season",
-          "s": "Persistent ankle pain sidelines the high-priced infielder following a disastrous debut in Queens, forcing New York to pivot toward 2027 while weighing future options at first base.",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/mets-polanco-undergo-surgery-likely-162333429.html",
           "fetchedAt": 1787259924208
         }
       ],
@@ -1447,14 +1307,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/mets-turn-nice-stretch-miracle-010710159.html",
           "fetchedAt": 1787303094161
-        },
-        {
-          "t": "Mets Build Out Bullpen With ‘Shots On Goal’ Approach",
-          "s": "The New York Mets are rebuilding their bullpen, and they're taking an unusual approach to the process.",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/mets-build-bullpen-shots-goal-113457718.html",
-          "fetchedAt": 1787173479336
         }
       ],
       "nbcNews": []
@@ -1464,16 +1316,7 @@
       "name": "Angel Genao",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Angel Genao Has Been Heaven Sent",
-          "s": "Oh, Genao Angel, Genao Angel!",
-          "by": "Quincy Wheeler",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/angel-genao-heaven-sent-152822198.html",
-          "fetchedAt": 1787173491979
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
