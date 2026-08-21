@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-21T21:07:30.344Z",
+  "lastUpdatedNews": "2026-08-21T21:21:07.397Z",
   "players": [
     {
       "id": 11928,
@@ -34,7 +34,14 @@
           "fetchedAt": 1787216666177
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. on track for Saturday return",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/vladimir-guerrero-jr-on-track-for-saturday-return",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 10964,
@@ -108,7 +115,14 @@
           "fetchedAt": 1787346441065
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Burleson takes seat against Jesús Luzardo",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/burleson-takes-seat-against-jesus-luzardo",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 64313,
@@ -141,7 +155,14 @@
           "fetchedAt": 1787259907552
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Athletics transfer Nick Kurtz to 60-day IL",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/athletics-transfer-nick-kurtz-to-60-day-il",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 10639,
@@ -458,7 +479,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers option Emmet Sheehan back to Triple-A OKC",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/dodgers-option-emmet-sheehan-back-to-triple-a-okc",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 12387,
@@ -548,7 +576,14 @@
           "fetchedAt": 1787346446779
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) MRI comes back clean",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/edwin-diaz-neck-mri-comes-back-clean",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 10592,
@@ -828,7 +863,14 @@
           "fetchedAt": 1787216631657
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward (quad) back in Wednesday’s lineup",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/taylor-ward-quad-back-in-wednesdays-lineup",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 64330,
@@ -1063,7 +1105,20 @@
           "fetchedAt": 1787259934691
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom strikes out 10 in brilliant victory",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jacob-degrom-strikes-out-10-in-brilliant-victory",
+          "fetchedAt": 1787347267397
+        },
+        {
+          "t": "Jacob deGrom (triceps) to start Thursday vs. Nats",
+          "date": "2026-08-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/jacob-degrom-triceps-to-start-thursday-vs-nats",
+          "fetchedAt": 1787347267397
+        }
+      ]
     },
     {
       "id": 10438,
