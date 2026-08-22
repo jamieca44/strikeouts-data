@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-22T21:04:13.166Z",
+  "lastUpdatedNews": "2026-08-22T21:21:24.798Z",
   "players": [
     {
       "id": 11928,
@@ -50,7 +50,20 @@
           "fetchedAt": 1787389415839
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Blue Jays activate Vladimir Guerrero Jr. from IL",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/blue-jays-activate-vladimir-guerrero-jr-from-il",
+          "fetchedAt": 1787433684798
+        },
+        {
+          "t": "Vladimir Guerrero Jr. expected to return Saturday",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/vladimir-guerrero-jr-expected-to-return-saturday",
+          "fetchedAt": 1787433684798
+        }
+      ]
     },
     {
       "id": 10964,
@@ -196,7 +209,14 @@
           "fetchedAt": 1787389424615
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. has three hits in victory",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/fernando-tatis-jr-has-three-hits-in-victory",
+          "fetchedAt": 1787433684798
+        }
+      ]
     },
     {
       "id": 64897,
@@ -628,7 +648,14 @@
           "fetchedAt": 1787389381764
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers exits start with forearm discomfort",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/ryan-weathers-exits-start-with-forearm-discomfort",
+          "fetchedAt": 1787433684798
+        }
+      ]
     },
     {
       "id": 8658,
@@ -817,7 +844,20 @@
           "fetchedAt": 1787303088905
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger (hamstring) to return on Sunday",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/cody-bellinger-hamstring-to-return-on-sunday",
+          "fetchedAt": 1787433684798
+        },
+        {
+          "t": "Cody Bellinger (hamstring) goes 0-for-3 in rehab game",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/cody-bellinger-hamstring-goes-0-for-3-in-rehab-game",
+          "fetchedAt": 1787433684798
+        }
+      ]
     },
     {
       "id": 11760,
@@ -965,7 +1005,26 @@
           "fetchedAt": 1787432623418
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña (hand) back in lineup against A’s",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/jeremy-pena-hand-back-in-lineup-against-as",
+          "fetchedAt": 1787433684798
+        },
+        {
+          "t": "Jeremy Peña (hand) sits once again on Friday night",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/jeremy-pena-hand-sits-once-again-on-friday-night",
+          "fetchedAt": 1787433684798
+        },
+        {
+          "t": "Jeremy Peña (hand) held out of action on Thursday",
+          "date": "2026-08-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jeremy-pena-hand-held-out-of-action-on-thursday",
+          "fetchedAt": 1787433684798
+        }
+      ]
     },
     {
       "id": 12375,
@@ -1152,7 +1211,14 @@
           "fetchedAt": 1787303069503
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease strikes out eight in win over Yankees",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/dylan-cease-strikes-out-eight-in-win-over-yankees",
+          "fetchedAt": 1787433684798
+        }
+      ]
     },
     {
       "id": 10946,
