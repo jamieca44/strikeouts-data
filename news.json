@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-22T09:03:46.406Z",
+  "lastUpdatedNews": "2026-08-22T09:21:11.950Z",
   "players": [
     {
       "id": 11928,
@@ -50,14 +50,7 @@
           "fetchedAt": 1787389415839
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. on track for Saturday return",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/vladimir-guerrero-jr-on-track-for-saturday-return",
-          "fetchedAt": 1787347267397
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -211,14 +204,7 @@
           "fetchedAt": 1787389424615
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. hits two homers to lead Padres",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/fernando-tatis-jr-hits-two-homers-to-lead-padres",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -431,7 +417,14 @@
           "fetchedAt": 1787303054523
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore goes six scoreless against Angels",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/mackenzie-gore-goes-six-scoreless-against-angels",
+          "fetchedAt": 1787390471950
+        }
+      ]
     },
     {
       "id": 64316,
@@ -464,14 +457,7 @@
           "fetchedAt": 1787346430055
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns strikes out eight in no-decision",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/chase-burns-strikes-out-eight-in-no-decision",
-          "fetchedAt": 1787217663335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -577,14 +563,7 @@
           "fetchedAt": 1787303082396
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker dominant for 36th save",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/bryan-baker-dominant-for-36th-save",
-          "fetchedAt": 1787260876782
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -617,14 +596,7 @@
           "fetchedAt": 1787346446779
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (neck) MRI comes back clean",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/edwin-diaz-neck-mri-comes-back-clean",
-          "fetchedAt": 1787347267397
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -756,7 +728,14 @@
           "fetchedAt": 1787389383928
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana collects four hits, steals base",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/travis-bazzana-collects-four-hits-steals-base",
+          "fetchedAt": 1787390471950
+        }
+      ]
     },
     {
       "id": 61788,
@@ -831,14 +810,7 @@
           "fetchedAt": 1787389412526
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong slugs 31st homer vs. White Sox",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/pete-crow-armstrong-slugs-31st-homer-vs-white-sox",
-          "fetchedAt": 1787174455578
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -904,14 +876,7 @@
           "fetchedAt": 1787303088905
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger (hamstring) could return Sunday",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/cody-bellinger-hamstring-could-return-sunday",
-          "fetchedAt": 1787174455578
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -936,14 +901,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Taylor Ward (quad) back in Wednesday’s lineup",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/taylor-ward-quad-back-in-wednesdays-lineup",
-          "fetchedAt": 1787347267397
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -1000,20 +958,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña leaves game with hand contusion",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/jeremy-pena-leaves-game-with-hand-contusion",
-          "fetchedAt": 1787217663335
-        },
-        {
-          "t": "Jeremy Peña exits game following hit-by-pitch",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/jeremy-pena-exits-game-following-hit-by-pitch",
-          "fetchedAt": 1787217663335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1021,7 +966,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Marcelo Mayer dealing with bone bruise in foot",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/marcelo-mayer-dealing-with-bone-bruise-in-foot",
+          "fetchedAt": 1787390471950
+        }
+      ]
     },
     {
       "id": 62984,
@@ -1149,12 +1101,6 @@
           "t": "Jacob deGrom strikes out 10 in brilliant victory",
           "date": "2026-08-20",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jacob-degrom-strikes-out-10-in-brilliant-victory",
-          "fetchedAt": 1787347267397
-        },
-        {
-          "t": "Jacob deGrom (triceps) to start Thursday vs. Nats",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/jacob-degrom-triceps-to-start-thursday-vs-nats",
           "fetchedAt": 1787347267397
         }
       ]
@@ -1295,7 +1241,14 @@
           "fetchedAt": 1787259924208
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Peralta allows five runs, two homers in loss",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/peralta-allows-five-runs-two-homers-in-loss",
+          "fetchedAt": 1787390471950
+        }
+      ]
     },
     {
       "id": 10627,
@@ -1312,7 +1265,14 @@
           "fetchedAt": 1787303074331
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo gives up four runs to Cardinals",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/jesus-luzardo-gives-up-four-runs-to-cardinals",
+          "fetchedAt": 1787390471950
+        }
+      ]
     },
     {
       "id": 9691,
@@ -1329,14 +1289,7 @@
           "fetchedAt": 1787259897516
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Aided by grand slam robbery, Robbie Ray beats Mets",
-          "date": "2026-08-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-19/aided-by-grand-slam-robbery-robbie-ray-beats-mets",
-          "fetchedAt": 1787131271305
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
