@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-22T09:21:11.950Z",
+  "lastUpdatedNews": "2026-08-22T21:04:13.166Z",
   "players": [
     {
       "id": 11928,
@@ -154,14 +154,6 @@
           "when": "21h ago",
           "href": "https://sports.yahoo.com/articles/changes-athletics-jacob-wilsons-season-120006322.html",
           "fetchedAt": 1787389422143
-        },
-        {
-          "t": "A's Get Crushing Injury Update On All-Star Shortstop",
-          "s": "The A's got brutal injury news on Jacob Wilson",
-          "by": "Tyler Maher",
-          "when": "31m ago",
-          "href": "https://sports.yahoo.com/articles/crushing-injury-star-shortstop-203308995.html",
-          "fetchedAt": 1787259907552
         }
       ],
       "nbcNews": [
@@ -221,12 +213,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [
         {
-          "t": "Brendan Donovan's two-run double",
+          "t": "Brendan Donovan's RBI single",
           "s": "",
           "by": "",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/videos/brendan-donovans-two-run-double-185543271.html",
-          "fetchedAt": 1787303046029
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/videos/brendan-donovans-rbi-single-024732554.html",
+          "fetchedAt": 1787432648860
         }
       ],
       "nbcNews": []
@@ -311,12 +303,12 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [
         {
-          "t": "José Ramírez's RBI bloop single",
+          "t": "How important is Jose Ramirez to the Cleveland Guardians?",
           "s": "",
           "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/jos-ram-rezs-rbi-bloop-172132390.html",
-          "fetchedAt": 1787259936191
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/video/important-jose-ramirez-cleveland-guardians-170848362.html",
+          "fetchedAt": 1787432647208
         }
       ],
       "nbcNews": []
@@ -409,12 +401,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "Neto leads Angels against the Rangers after 5-hit performance",
-          "s": "Los Angeles Angels (51-77, fourth in the AL West) vs. Texas Rangers (63-65, second in the AL West) Arlington, Texas; Friday, 8:15 p.m. EDT PITCHING PROBABLES: Angels: Reid Detmers (4-8, 3.78 ERA, 1.06 WHIP, 167 strikeouts); Rangers: MacKenzie Gore (7-9, 4.45 ERA, 1.26 WHIP, 154 strikeouts) LINE: Rangers -149, Angels +125; over/under is 7 1/2 runs BOTTOM LINE: The Los Angeles Angels take on the Texas Rangers after Zach Neto's five-hit game on Thursday. Texas has a 63-65 record overall and a 34-28 record at home.",
-          "by": "The Associated Press",
+          "t": "Texas Rangers lineup for August 22, 2026",
+          "s": "The Rangers and the Angels, in Arlington",
+          "by": "Adam J. Morris",
           "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/neto-leads-angels-against-rangers-075543516.html",
-          "fetchedAt": 1787303054523
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-22-200106998.html",
+          "fetchedAt": 1787432650345
+        },
+        {
+          "t": "Detmers Deals, But Angels Lose 2-1 Pitching Duel To Texas In 10",
+          "s": "The Los Angeles Angels shut out Texas for nine innings, but they couldn't score, either, so they wound up losing.",
+          "by": "Bob McCullough",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/detmers-deals-angels-lose-2-123321819.html",
+          "fetchedAt": 1787432650345
+        },
+        {
+          "t": "64-65 – Rangers wait until the last moment to beat Angels 2-1 in 10",
+          "s": "No runs, two outs, two strikes, no problem",
+          "by": "ghostofErikThompson",
+          "when": "17h ago",
+          "href": "https://sports.yahoo.com/articles/64-65-rangers-wait-until-033738767.html",
+          "fetchedAt": 1787432650345
         }
       ],
       "nbcNews": [
@@ -522,6 +530,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [
         {
+          "t": "Phillies' Luis Arraez Dilemma is Becoming Painful",
+          "s": "The Philadelphia Phillies have a massive decision to make with Luis Arraez.",
+          "by": "Matthew Schmidt",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-luis-arraez-dilemma-becoming-154855865.html",
+          "fetchedAt": 1787432651459
+        },
+        {
           "t": "Phillies Now Getting the Luis Arraez They Thought They Acquired",
           "s": "The Philadelphia Phillies are now receiving the kind of production they had hoped for from Luis Arraez.",
           "by": "Kenneth Teape",
@@ -537,32 +553,7 @@
       "name": "Bryan Baker",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
-      "yahooNews": [
-        {
-          "t": "Bryan Baker Has Emerged as One of Rays' Most Important Players",
-          "s": "Bryan Baker has quietly emerged as one of the Tampa Bay Rays' most important players this year.",
-          "by": "Nick Ziegler",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/bryan-baker-emerged-one-rays-195918229.html",
-          "fetchedAt": 1787303082396
-        },
-        {
-          "t": "Yankees Rivalry Roundup: Rays edge Blue Jays to hold five-game lead",
-          "s": "Yankees pick up a game on Boston as AL hopefuls mostly have a strong day in interleague competition",
-          "by": "Nick Power",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-rays-edge-140000334.html",
-          "fetchedAt": 1787303082396
-        },
-        {
-          "t": "Tampa Bay Rays Bullpen Shuts Down Blue Jays in 7-6 Victory",
-          "s": "Tampa Bay returned to the win column with a 7-6 victory over Toronto. Drew Rasmussen earned his 13th win despite allowing five runs, while the Rays bullpen slammed the door late. Bryan Baker recorded his MLB-leading 36th save as Tampa Bay maintained its five-game AL East lead.",
-          "by": "Christian Rauh",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/tampa-bay-rays-bullpen-shuts-100430490.html",
-          "fetchedAt": 1787303082396
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -603,32 +594,7 @@
       "name": "Jack Flaherty",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
-      "yahooNews": [
-        {
-          "t": "Tigers news: Riley Greene, Jack Flaherty receive pivotal injury updates",
-          "s": "The Detroit Tigers are still in the postseason conversation even after trading Tarik Skubal at the MLB trade deadline. They could realistically reach the postseason , as they have performed better than expected without Skubal, while the American League is weak overall. Detroit will need a complete team effort, however, and two important players are […] The post Tigers news: Riley Greene, Jack Flaherty receive pivotal injury updates appeared first on ClutchPoints.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-jack-152643226.html",
-          "fetchedAt": 1787303085062
-        },
-        {
-          "t": "Tigers Quietly Announce Injury Update to Riley Greene During Pirates Series",
-          "s": "The Detroit Tigers quietly announced an injury update to star outfielder Riley Greene during their series against the Pittsburgh Pirates. The post Tigers Quietly Announce Injury Update to Riley Greene During Pirates Series appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-quietly-announce-injury-riley-165315421.html",
-          "fetchedAt": 1787303085062
-        },
-        {
-          "t": "Tigers playing it safe with Riley Greene, but injury rehab on schedule",
-          "s": "Riley Greene’s injury rehab is trending in a positive way, manager A.J. Hinch said before Detroit Tigers' game against the Pirates on Wednesday.",
-          "by": "Shawn Windsor, Detroit Free Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-playing-safe-riley-greene-163112165.html",
-          "fetchedAt": 1787303085062
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -742,16 +708,7 @@
       "name": "Caleb Durbin",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
-      "yahooNews": [
-        {
-          "t": "Red Sox-Brewers Caleb Durbin Trade Now is an Absolute Win-Win",
-          "s": "The Boston Red Sox and Milwaukee Brewers are both in better positions than they were in.",
-          "by": "Patrick McAvoy",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-brewers-caleb-durbin-210017183.html",
-          "fetchedAt": 1787303098146
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -759,7 +716,16 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Otto Lopez's two-run single",
+          "s": "",
+          "by": "",
+          "when": "35m ago",
+          "href": "https://sports.yahoo.com/videos/otto-lopezs-two-run-single-202803832.html",
+          "fetchedAt": 1787432612249
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -767,16 +733,7 @@
       "name": "Dansby Swanson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
-      "yahooNews": [
-        {
-          "t": "Cubs news: Dansby Swanson gets crucial update amid injury recovery",
-          "s": "The Chicago Cubs lost shortstop Dansby Swanson to injury recently. The veteran shortstop has missed time due to an oblique injury. It’s a crucial loss for a Chicago team fighting for an NL Central division title . The loss of Swanson did not hamper them in their most recent series. Chicago was able to take two of three from their crosstown rival, […] The post Cubs news: Dansby Swanson gets crucial update amid injury recovery appeared first on ClutchPoints.",
-          "by": "Tristin McKinstry, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/cubs-news-dansby-swanson-gets-025931736.html",
-          "fetchedAt": 1787303059664
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -825,22 +782,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/padres-turned-season-around-post-233139271.html",
           "fetchedAt": 1787303061553
-        },
-        {
-          "t": "Padres Remain One Of MLB's Hottest Teams",
-          "s": "The San Diego Padres have had an interesting season thus far but hold the final NL wild card spot with just over a month left in the regular season.",
-          "by": "Nick Radosevich",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/padres-remain-one-mlbs-hottest-180013511.html",
-          "fetchedAt": 1787303061553
-        },
-        {
-          "t": "Why Padres' Jackson Merrill is most to blame for frustrating series loss to Mets",
-          "s": "The San Diego Padres have been solid all season, putting themselves in the playoff hunt. But they just endured a brutal series against the New York Mets. They lost two of three, and their lineup managed just eight runs in the entire series. While others in the lineup did not do as well, Jackson Merrill endured a series to forget. Merrill went 1 for […] The post Why Padres' Jackson Merrill is most to blame for frustrating series loss to Mets appeared first on ClutchPoints.",
-          "by": "RB Hayek, ClutchPoints",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/why-padres-jackson-merrill-most-133054067.html",
-          "fetchedAt": 1787303061553
         }
       ],
       "nbcNews": []
@@ -885,12 +826,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [
         {
-          "t": "Tigers news: Riley Greene, Jack Flaherty receive pivotal injury updates",
-          "s": "The Detroit Tigers are still in the postseason conversation even after trading Tarik Skubal at the MLB trade deadline. They could realistically reach the postseason , as they have performed better than expected without Skubal, while the American League is weak overall. Detroit will need a complete team effort, however, and two important players are […] The post Tigers news: Riley Greene, Jack Flaherty receive pivotal injury updates appeared first on ClutchPoints.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-jack-152643226.html",
-          "fetchedAt": 1787259916204
+          "t": "Tigers Offensive Injuries Might Derail Any Remaining Playoff Hopes",
+          "s": "The Tigers could be in serious trouble if they do not get their guys back soon.",
+          "by": "Tyler Miller",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/tigers-offensive-injuries-might-derail-120005435.html",
+          "fetchedAt": 1787432640117
+        },
+        {
+          "t": "Tarik Skubal Has Message for Tigers Fans Before Comerica Park Return",
+          "s": "Tarik Skubal opens up about his upcoming return to Comerica Park and what he expects when the Dodgers face his former Tigers teammates. The post Tarik Skubal Has Message for Tigers Fans Before Comerica Park Return appeared first on HEAVY.",
+          "by": "Alyssa Polczynski",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-message-tigers-fans-020253523.html",
+          "fetchedAt": 1787432640117
+        },
+        {
+          "t": "Tarik Skubal Set to Face Tigers in Emotional Comerica Park Return",
+          "s": "Tarik Skubal is expected to pitch against the Detroit Tigers when the Dodgers visit Comerica Park, setting up an emotional homecoming.",
+          "by": "Don Drysdale",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-set-face-tigers-020713202.html",
+          "fetchedAt": 1787432640117
         }
       ],
       "nbcNews": []
@@ -916,7 +873,32 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "ESPN Insider Defends Jerry Dipoto's Handling of Colt Emerson Injury Issue",
+          "s": "",
+          "by": "",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/videos/espn-insider-defends-jerry-dipotos-170039837.html",
+          "fetchedAt": 1787432617683
+        },
+        {
+          "t": "ESPN Insider Defends Jerry Dipoto's Handling of Colt Emerson Injury Issue",
+          "s": "Dipoto caught some flack for his public comments after Emerson's injury, but Buster Olney isn't buying the criticism.",
+          "by": "Brady Farkas",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/espn-insider-defends-jerry-dipotos-170039215.html",
+          "fetchedAt": 1787432617683
+        },
+        {
+          "t": "Brock Rodden Has Provided a Spark in Bottom of Seattle Mariners Lineup",
+          "s": "The recently-called up infielder has proved to be a consistent player for the Mariners.",
+          "by": "Teren Kowatsch",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/brock-rodden-provided-spark-bottom-150029083.html",
+          "fetchedAt": 1787432617683
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -957,7 +939,32 @@
       "name": "Jeremy Peña",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Astros Announce Jeremy Pena Injury News Ahead of Athletics Series",
+          "s": "The Houston Astros received an update on shortstop Jeremy Pena as he continues to recover from a recent setback. The post Astros Announce Jeremy Pena Injury News Ahead of Athletics Series appeared first on HEAVY.",
+          "by": "Toran Flores",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/astros-announce-jeremy-pena-injury-001100737.html",
+          "fetchedAt": 1787432623418
+        },
+        {
+          "t": "Astros provide update on why Jeremy Pena is not in lineup for series opener",
+          "s": "Houston needs their shortstop back as soon as possible.",
+          "by": "Lou Landers",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/astros-why-jeremy-pena-not-235357112.html",
+          "fetchedAt": 1787432623418
+        },
+        {
+          "t": "Astros Make Move Amid Jeremy Peña Development",
+          "s": "The Astros have called up an infielder from Triple-A while they wait on the status of Jeremy Peña.",
+          "by": "Nicholas Covone",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/astros-move-amid-jeremy-pe-161534392.html",
+          "fetchedAt": 1787432623418
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -965,7 +972,32 @@
       "name": "Marcelo Mayer",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Ex-Red Sox Top Prospect Denied Fenway Return After Frustrating Setback",
+          "s": "Former Red Sox top prospect Marcelo Mayer appeared ready for a return to Fenway Park before another injury setback spoiled the anticipated reunion.",
+          "by": "Rodney Knuppel",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/ex-red-sox-top-prospect-193457293.html",
+          "fetchedAt": 1787432624599
+        },
+        {
+          "t": "San Francisco Giants Announce Marcelo Mayer Decision Before Red Sox Series",
+          "s": "The San Francisco Giants will start a three-game series against the Boston Red Sox on Friday at Fenway Park.First baseman/designated hitter Rafael Devers will start his first game against his former team since the Red Sox traded him to the Giants in June of last year.Devers addressed his return to Boston ahead of Friday’s game.Alex […] The post San Francisco Giants Announce Marcelo Mayer Decision Before Red Sox Series appeared first on HEAVY.",
+          "by": "Kyle Har",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/san-francisco-giants-announce-marcelo-001721988.html",
+          "fetchedAt": 1787432624599
+        },
+        {
+          "t": "Why Marcelo Mayer won't make anticipated Giants debut vs. former team Red Sox",
+          "s": "Marcelo Mayer won't get a chance to make his highly anticipated San Francisco Giants debut against his former team, the Boston Red Sox.",
+          "by": "Alex Pavlovic",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/why-marcelo-mayer-wont-anticipated-151541157.html",
+          "fetchedAt": 1787432624599
+        }
+      ],
       "nbcNews": [
         {
           "t": "Marcelo Mayer dealing with bone bruise in foot",
@@ -1046,14 +1078,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/alex-jackson-filling-role-twins-233001916.html",
           "fetchedAt": 1787303090709
-        },
-        {
-          "t": "Walker Jenkins homers before Saints game suspended for rain",
-          "s": "Walker Jenkins hit a leadoff homer on the first pitch of the game to give the St. Paul Saints an early lead Wednesday in Columbus, Ohio, before the game was eventually suspended in the third inning due to rain. Tristan Gray homered for St. Paul in the top of the second, while Ricky Castro didn’t allow a hit in his 2 1/3 innings pitched. It was Gray’s first homer for the Saints since being sent ...",
-          "by": "Pioneer Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/walker-jenkins-homers-saints-game-020500185.html",
-          "fetchedAt": 1787303090709
         }
       ],
       "nbcNews": [
@@ -1072,28 +1096,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [
         {
-          "t": "How Rangers Bullpen Lines Up Behind Jacob deGrom's Next Start",
-          "s": "With Jacob deGrom set to start for the Texas Rangers on Thursday, who they have available in the bullpen is key.",
+          "t": "Josh Jung's Latest 'Timeline' May Leave Rangers in Scramble Mode Down Stretch",
+          "s": "It will be a month on Tuesday since the Texas Rangers put third baseman Josh Jung on the injured list. The wait continues.",
           "by": "Matt Postins",
           "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/rangers-bullpen-lines-behind-jacob-160005949.html",
-          "fetchedAt": 1787259934691
+          "href": "https://sports.yahoo.com/articles/josh-jungs-latest-timeline-may-160004167.html",
+          "fetchedAt": 1787432645633
         },
         {
-          "t": "Jacob deGrom still can be 2nd-fastest to 2,000 career Ks after triceps shortened last start",
-          "s": "Jacob deGrom will start the series finale against Washington.",
-          "by": "Associated Press",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/jacob-degrom-still-2nd-fastest-153012650.html",
-          "fetchedAt": 1787259934691
+          "t": "Jacob deGrom reaches 2,000 strikeouts in 2-0 win",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/jacob-degrom-reaches-2-000-041151729.html",
+          "fetchedAt": 1787432645633
         },
         {
-          "t": "Rangers Look For Series Win in Rubber Match Against Nationals",
-          "s": "The Texas Rangers will turn to Jacob deGrom as they look to win the series finale against the Washington Nationals on Thursday.",
-          "by": "Kane McCutchen",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/rangers-look-series-win-rubber-142812805.html",
-          "fetchedAt": 1787259934691
+          "t": "Jacob deGrom's 2,000th career strikeout",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/jacob-degroms-2-000th-career-001222211.html",
+          "fetchedAt": 1787432645633
         }
       ],
       "nbcNews": [
@@ -1143,7 +1167,32 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Which is better: Luzardo’s sweeper or Sanchez’s changeup?",
+          "s": "It might be closer than you think",
+          "by": "Ethan Witte",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/better-luzardo-sweeper-sanchez-changeup-130000575.html",
+          "fetchedAt": 1787432629036
+        },
+        {
+          "t": "Phillies Finally Got a Steal With a Long-Term Contract",
+          "s": "",
+          "by": "",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/videos/phillies-finally-got-steal-long-110019871.html",
+          "fetchedAt": 1787432629036
+        },
+        {
+          "t": "Phillies Finally Got a Steal With a Long-Term Contract",
+          "s": "The Philadelphia Phillies have finally had a long-term contract pan out.",
+          "by": "Matthew Schmidt",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-finally-got-steal-long-110019285.html",
+          "fetchedAt": 1787432629036
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1233,12 +1282,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [
         {
-          "t": "The Tampa Bay Rays Have ONE Major Concern Heading Toward October",
-          "s": "The Tampa Bay Rays have positioned themselves for another postseason run, but their biggest question may be staying healthy. After strengthening the roster at the MLB Trade Deadline, Tampa Bay has enough depth to survive injuries. If Freddy Peralta returns to form, the Rays could become even more da",
-          "by": "Christian Rauh",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/tampa-bay-rays-one-major-101714155.html",
-          "fetchedAt": 1787259924208
+          "t": "Orioles host the Rays to start 3-game series",
+          "s": "Tampa Bay Rays (76-51, first in the AL East) vs. Baltimore Orioles (61-67, fifth in the AL East) Baltimore; Friday, 7:15 p.m. EDT PITCHING PROBABLES: Rays: Freddy Peralta (5-10, 5.27 ERA, 1.48 WHIP, 123 strikeouts); Orioles: Trevor Rogers (8-8, 4.15 ERA, 1.25 WHIP, 108 strikeouts) LINE: Orioles -132, Rays +111; over/under is 8 1/2 runs BOTTOM LINE: The Baltimore Orioles host the Tampa Bay Rays to open a three-game series. Baltimore is 61-67 overall and 32-33 in home games.",
+          "by": "The Associated Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/orioles-host-rays-start-3-075543089.html",
+          "fetchedAt": 1787432642446
+        },
+        {
+          "t": "Orioles vs. Rays prediction: Odds, recent stats, trends, and best bets for August 21",
+          "s": "Baltimore Orioles vs. Tampa Bay Rays Betting Preview for August 21",
+          "by": "Rotoworld Bet Staff",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/orioles-vs-rays-prediction-odds-190404522.html",
+          "fetchedAt": 1787432642446
         }
       ],
       "nbcNews": [
@@ -1279,16 +1336,7 @@
       "name": "Robbie Ray",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
-      "yahooNews": [
-        {
-          "t": "Grading Each Organization’s Trade Deadline: NL West Edition",
-          "s": "The end of July (or beginning of August) marks a special time in the baseball calendar. The Trade Deadline inspires […]",
-          "by": "Lincoln Zdunich",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/grading-organization-trade-deadline-nl-140000263.html",
-          "fetchedAt": 1787259897516
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1296,7 +1344,16 @@
       "name": "Kirby Yates",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Detmers Deals, But Angels Lose 2-1 Pitching Duel To Texas In 10",
+          "s": "The Los Angeles Angels shut out Texas for nine innings, but they couldn't score, either, so they wound up losing.",
+          "by": "Bob McCullough",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/detmers-deals-angels-lose-2-123321819.html",
+          "fetchedAt": 1787432630969
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1311,14 +1368,6 @@
           "by": "Tommy Wild",
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/cleveland-guardians-snap-unwanted-streak-222514850.html",
-          "fetchedAt": 1787303095757
-        },
-        {
-          "t": "GIANTS AT GUARDIANS: Williams vs. Roupp, discussion",
-          "s": "PLEASE WIN",
-          "by": "Quincy Wheeler",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/giants-guardians-williams-vs-roupp-170000172.html",
           "fetchedAt": 1787303095757
         }
       ],
@@ -1372,28 +1421,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Tanner Scott Builds on Bounceback Season with Back-to-Back Saves",
-          "s": "Los Angeles Dodgers relief pitcher Tanner Scott, after pitching Tuesday, came in to close out Wednesday's win over the Colorado Rockies",
-          "by": "Aaron Coloma",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/tanner-scott-builds-bounceback-season-182642511.html",
-          "fetchedAt": 1787259925878
+          "t": "1 problem Dodgers must address before MLB playoffs",
+          "s": "The Los Angeles Dodgers have enough star power to overwhelm opponents through October. Their greatest postseason threat, however, may emerge after those stars have done their jobs. Unless the Dodgers find dependable relievers to cover the seventh and eighth innings, a narrow lead may never reach Tanner Scott. The Dodgers hardly resemble a team in […] The post 1 problem Dodgers must address before MLB playoffs appeared first on ClutchPoints.",
+          "by": "Josh Davis, ClutchPoints",
+          "when": "55m ago",
+          "href": "https://sports.yahoo.com/articles/1-problem-dodgers-must-address-200857112.html",
+          "fetchedAt": 1787432643804
         },
         {
-          "t": "Dodgers Bullpen Problems: Edwin Díaz, Tanner Scott And October Outlook",
-          "s": "The Los Angeles Dodgers entered the 2026 season with one of the most expensive and talented bullpens in Major League Baseball. Adding Edwin Díaz to a group that already featured Tanner Scott, Alex Vesia and Jack Dreyer appeared to give Los Angeles plenty of options for the late innings. Instead, the bullpen has become one […] The post Dodgers Bullpen Problems: Edwin Díaz, Tanner Scott And October Outlook appeared first on Stadium Rant.",
-          "by": "Darby Allen",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-bullpen-problems-edwin-d-150000045.html",
-          "fetchedAt": 1787259925878
+          "t": "Dodgers news: Emmet Sheehan's return lasts under 48 hours as LA DFAs pitcher",
+          "s": "Less than 48 hours after recalling Emmet Sheehan, the Los Angeles Dodgers optioned the right-hander back to Triple-A Oklahoma City ahead of Friday’s game against the Pittsburgh Pirates. The team recalled Paul Gervase in the corresponding move, giving Los Angeles another fresh bullpen arm. Sheehan had been recalled Tuesday for bullpen coverage after […] The post Dodgers news: Emmet Sheehan's return lasts under 48 hours as LA DFAs pitcher appeared first on ClutchPoints.",
+          "by": "Abdullah Imran, ClutchPoints",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-emmet-sheehans-return-004507334.html",
+          "fetchedAt": 1787432643804
         },
         {
-          "t": "Dodgers notes – Edwin Diaz, Tanner Scott",
-          "s": "Edwin Diaz’s time with the Los Angeles Dodgers has not been what any of the parties had hoped for. Diaz on Tuesday went on the IL for neck inflammation, his second stint on the IL with his new team so far this season. On Wednesday, Diaz went for neck imaging, and the MRI showed the […]",
-          "by": "Andy Lane Chapman",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-notes-edwin-diaz-tanner-120000913.html",
-          "fetchedAt": 1787259925878
+          "t": "Dodgers Announce Sudden Emmet Sheehan Decision Before Pirates Game",
+          "s": "The Dodgers announced a sudden decision on Emmet Sheehan ahead of their game against the Pittsburgh Pirates. The post Dodgers Announce Sudden Emmet Sheehan Decision Before Pirates Game appeared first on HEAVY.",
+          "by": "Jonathan Vankin",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-announce-sudden-emmet-sheehan-002032641.html",
+          "fetchedAt": 1787432643804
         }
       ],
       "nbcNews": []
