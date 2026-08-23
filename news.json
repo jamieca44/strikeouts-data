@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-23T21:04:05.330Z",
+  "lastUpdatedNews": "2026-08-23T21:20:33.049Z",
   "players": [
     {
       "id": 11928,
@@ -17,7 +17,14 @@
           "fetchedAt": 1787389410164
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler not in Tigers’ lineup on Sunday",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/dillon-dingler-not-in-tigers-lineup-on-sunday",
+          "fetchedAt": 1787520033049
+        }
+      ]
     },
     {
       "id": 10621,
@@ -96,7 +103,20 @@
           "fetchedAt": 1787519028717
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. goes deep in loss to Blue Jays",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/luis-garcia-jr-goes-deep-in-loss-to-blue-jays",
+          "fetchedAt": 1787520033049
+        },
+        {
+          "t": "Luis García Jr. sits against southpaw on Friday",
+          "date": "2026-08-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/luis-garcia-jr-sits-against-southpaw-on-friday",
+          "fetchedAt": 1787520033049
+        }
+      ]
     },
     {
       "id": 10916,
@@ -288,7 +308,14 @@
           "fetchedAt": 1787519036122
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts moves up to third in lineup",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/mookie-betts-moves-up-to-third-in-lineup",
+          "fetchedAt": 1787520033049
+        }
+      ]
     },
     {
       "id": 12393,
@@ -345,7 +372,14 @@
           "fetchedAt": 1787432647208
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez gets a breather on Sunday afternoon",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/jose-ramirez-gets-a-breather-on-sunday-afternoon",
+          "fetchedAt": 1787520033049
+        }
+      ]
     },
     {
       "id": 10577,
@@ -581,7 +615,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker converts 37th save",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/bryan-baker-converts-37th-save",
+          "fetchedAt": 1787520033049
+        }
+      ]
     },
     {
       "id": 10214,
@@ -1237,7 +1278,14 @@
           "fetchedAt": 1787432629036
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez strikes out seven",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/cristopher-sanchez-strikes-out-seven",
+          "fetchedAt": 1787520033049
+        }
+      ]
     },
     {
       "id": 12345,
