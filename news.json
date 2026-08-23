@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-23T09:03:55.306Z",
+  "lastUpdatedNews": "2026-08-23T09:21:09.485Z",
   "players": [
     {
       "id": 11928,
@@ -88,14 +88,7 @@
           "fetchedAt": 1787346428173
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. blasts 25th homer in win over O’s",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/luis-garcia-jr-blasts-25th-homer-in-win-over-os",
-          "fetchedAt": 1787304073770
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -233,7 +226,20 @@
           "fetchedAt": 1787432648860
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brendan Donovan out after pregame head injury",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/brendan-donovan-out-after-pregame-head-injury",
+          "fetchedAt": 1787476869485
+        },
+        {
+          "t": "Brendan Donovan becomes late scratch against Cubs",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/brendan-donovan-becomes-late-scratch-against-cubs",
+          "fetchedAt": 1787476869485
+        }
+      ]
     },
     {
       "id": 9552,
@@ -250,14 +256,7 @@
           "fetchedAt": 1787346442765
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts goes 3-for-5, homers in Dodgers’ win",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/mookie-betts-goes-3-for-5-homers-in-dodgers-win",
-          "fetchedAt": 1787217663335
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -274,7 +273,14 @@
           "fetchedAt": 1787346448538
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz has four hits, home run in win",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/elly-de-la-cruz-has-four-hits-home-run-in-win",
+          "fetchedAt": 1787476869485
+        }
+      ]
     },
     {
       "id": 9507,
@@ -324,14 +330,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz closes out Nationals to earn 25th save",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jacob-latz-closes-out-nationals-to-earn-25th-save",
-          "fetchedAt": 1787304073770
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -364,7 +363,14 @@
           "fetchedAt": 1787475831955
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal strikes out 11 in win against Pirates",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/tarik-skubal-strikes-out-11-in-win-against-pirates",
+          "fetchedAt": 1787476869485
+        }
+      ]
     },
     {
       "id": 11847,
@@ -527,7 +533,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) throws bullpen session",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/edwin-diaz-neck-throws-bullpen-session",
+          "fetchedAt": 1787476869485
+        }
+      ]
     },
     {
       "id": 10592,
@@ -740,7 +753,14 @@
           "fetchedAt": 1787475817834
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill homers as Padres top Twins",
+          "date": "2026-08-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/jackson-merrill-homers-as-padres-top-twins",
+          "fetchedAt": 1787476869485
+        }
+      ]
     },
     {
       "id": 10504,
@@ -937,12 +957,6 @@
           "date": "2026-08-21",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/jeremy-pena-hand-sits-once-again-on-friday-night",
           "fetchedAt": 1787433684798
-        },
-        {
-          "t": "Jeremy Peña (hand) held out of action on Thursday",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jeremy-pena-hand-held-out-of-action-on-thursday",
-          "fetchedAt": 1787433684798
         }
       ]
     },
@@ -1042,14 +1056,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins blasts another homer for St. Paul",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/walker-jenkins-blasts-another-homer-for-st-paul",
-          "fetchedAt": 1787260876782
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -1082,14 +1089,7 @@
           "fetchedAt": 1787432645633
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom strikes out 10 in brilliant victory",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/jacob-degrom-strikes-out-10-in-brilliant-victory",
-          "fetchedAt": 1787347267397
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1178,14 +1178,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish serves up two homers in loss to Yanks",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/kyle-bradish-serves-up-two-homers-in-loss-to-yanks",
-          "fetchedAt": 1787304073770
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -1218,14 +1211,7 @@
           "fetchedAt": 1787475833658
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole dominates in victory over Orioles",
-          "date": "2026-08-20",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-20/gerrit-cole-dominates-in-victory-over-orioles",
-          "fetchedAt": 1787304073770
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
