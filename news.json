@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-24T09:03:54.332Z",
+  "lastUpdatedNews": "2026-08-24T09:20:44.441Z",
   "players": [
     {
       "id": 11928,
@@ -79,12 +79,6 @@
           "date": "2026-08-22",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/blue-jays-activate-vladimir-guerrero-jr-from-il",
           "fetchedAt": 1787433684798
-        },
-        {
-          "t": "Vladimir Guerrero Jr. expected to return Saturday",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/vladimir-guerrero-jr-expected-to-return-saturday",
-          "fetchedAt": 1787433684798
         }
       ]
     },
@@ -124,12 +118,6 @@
           "t": "Luis García Jr. goes deep in loss to Blue Jays",
           "date": "2026-08-22",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/luis-garcia-jr-goes-deep-in-loss-to-blue-jays",
-          "fetchedAt": 1787520033049
-        },
-        {
-          "t": "Luis García Jr. sits against southpaw on Friday",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/luis-garcia-jr-sits-against-southpaw-on-friday",
           "fetchedAt": 1787520033049
         }
       ]
@@ -184,10 +172,10 @@
       ],
       "nbcNews": [
         {
-          "t": "Burleson takes seat against Jesús Luzardo",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/burleson-takes-seat-against-jesus-luzardo",
-          "fetchedAt": 1787347267397
+          "t": "Alec Burleson drives in two",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/alec-burleson-drives-in-two",
+          "fetchedAt": 1787563244441
         }
       ]
     },
@@ -214,14 +202,7 @@
           "fetchedAt": 1787562223959
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Athletics transfer Nick Kurtz to 60-day IL",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/athletics-transfer-nick-kurtz-to-60-day-il",
-          "fetchedAt": 1787347267397
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10639,
@@ -418,7 +399,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz turns in scoreless ninth for save",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/jacob-latz-turns-in-scoreless-ninth-for-save",
+          "fetchedAt": 1787563244441
+        }
+      ]
     },
     {
       "id": 11763,
@@ -582,14 +570,7 @@
           "fetchedAt": 1787519042081
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dodgers option Emmet Sheehan back to Triple-A OKC",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/dodgers-option-emmet-sheehan-back-to-triple-a-okc",
-          "fetchedAt": 1787347267397
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -767,14 +748,7 @@
           "fetchedAt": 1787562214116
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana collects four hits, steals base",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/travis-bazzana-collects-four-hits-steals-base",
-          "fetchedAt": 1787390471950
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -840,7 +814,14 @@
           "fetchedAt": 1787562220271
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong hits 33rd homer in blowout",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/pete-crow-armstrong-hits-33rd-homer-in-blowout",
+          "fetchedAt": 1787563244441
+        }
+      ]
     },
     {
       "id": 12522,
@@ -1025,7 +1006,14 @@
           "fetchedAt": 1787519010058
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve hits 269th homer to pass Joe Morgan",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/jose-altuve-hits-269th-homer-to-pass-joe-morgan",
+          "fetchedAt": 1787563244441
+        }
+      ]
     },
     {
       "id": 11529,
@@ -1081,12 +1069,6 @@
           "date": "2026-08-22",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/jeremy-pena-hand-back-in-lineup-against-as",
           "fetchedAt": 1787433684798
-        },
-        {
-          "t": "Jeremy Peña (hand) sits once again on Friday night",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/jeremy-pena-hand-sits-once-again-on-friday-night",
-          "fetchedAt": 1787433684798
         }
       ]
     },
@@ -1121,14 +1103,7 @@
           "fetchedAt": 1787432624599
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Marcelo Mayer dealing with bone bruise in foot",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/marcelo-mayer-dealing-with-bone-bruise-in-foot",
-          "fetchedAt": 1787390471950
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62984,
@@ -1366,14 +1341,7 @@
           "fetchedAt": 1787562206929
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Peralta allows five runs, two homers in loss",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/peralta-allows-five-runs-two-homers-in-loss",
-          "fetchedAt": 1787390471950
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -1406,14 +1374,7 @@
           "fetchedAt": 1787475823020
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo gives up four runs to Cardinals",
-          "date": "2026-08-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-21/jesus-luzardo-gives-up-four-runs-to-cardinals",
-          "fetchedAt": 1787390471950
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
