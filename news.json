@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-24T09:20:44.441Z",
+  "lastUpdatedNews": "2026-08-24T21:04:49.915Z",
   "players": [
     {
       "id": 11928,
@@ -94,22 +94,6 @@
           "by": "Cole Sullivan",
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/luis-garcia-jr-makes-honest-171001330.html",
-          "fetchedAt": 1787519028717
-        },
-        {
-          "t": "Luis García Jr.'s two-run homer (26)",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/luis-garc-jr-two-run-202932585.html",
-          "fetchedAt": 1787519028717
-        },
-        {
-          "t": "Yankees Announce Luis Garcia Jr. Lineup Decision Ahead of Blue Jay Game",
-          "s": "The New York Yankees concluded a three-game series sweep against AL East division rival Baltimore Orioles on Thursday. Both outfielder Spencer Jones and first baseman Luis Garcia Jr. hit a solo home run in Thursday’s 6-1 win. Right-handed starter Gerrit Cole also had a stellar performance. Cole allowed 1 run through 6 innings. He struck […] The post Yankees Announce Luis Garcia Jr. Lineup Decision Ahead of Blue Jay Game appeared first on HEAVY.",
-          "by": "Kyle Har",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/yankees-announce-luis-garcia-jr-234857246.html",
           "fetchedAt": 1787519028717
         }
       ],
@@ -249,7 +233,16 @@
       "name": "Jesús Made",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Coleman Crow's great August pitching tops Brewers minor-league update",
+          "s": "The Brewers minor-league report features terrific work from Coleman Crow, Luis Peña, Brailyn Antunez and more, plus the end of the DSL season.",
+          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/coleman-crows-great-august-pitching-173246605.html",
+          "fetchedAt": 1787605429812
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -257,7 +250,32 @@
       "name": "Brendan Donovan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Seattle Mariners Place Utility Player on Injured List; Starting Pitcher Throws Bullpen",
+          "s": "Brendan Donovan will be heading to the concussion injured list after a freak accident whereas Bryan Woo was encouraged after a bullpen.",
+          "by": "Teren Kowatsch",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/seattle-mariners-place-utility-player-201800257.html",
+          "fetchedAt": 1787605431462
+        },
+        {
+          "t": "Mariners utilityman Brendan Donovan lands on 7-day concussion IL after batting cage accident",
+          "s": "The Seattle Mariners placed utilityman Brendan Donovan on the seven-day concussion injured list on Sunday, a day after he hit in the head by a baseball in the batting cages. Donovan was a late scratch from the lineup for Saturday night’s 5-4 victory over the Chicago Cubs. Wilson said Sunday that Donovan was hit by a pitch while taking swings pregame.",
+          "by": "ANDREW DESTIN",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mariners-utilityman-brendan-donovan-lands-200256108.html",
+          "fetchedAt": 1787605431462
+        },
+        {
+          "t": "Mariners news: Brendan Donovan hits concussion IL after batting cage incident",
+          "s": "The Seattle Mariners took a 5-4 victory over the Chicago Cubs on Saturday. Randy Arozarena hit a walk-off home run to win the game for the Mariners after he had already robbed a home run in the field during Kade Anderson’s MLB debut Prior to the game, Brendan Donovan was injured in the batting cage. Now, he will be out of the lineup and on the IL , […] The post Mariners news: Brendan Donovan hits concussion IL after batting cage incident appeared first on ClutchPoints.",
+          "by": "Bryan Logan, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mariners-news-brendan-donovan-hits-190008621.html",
+          "fetchedAt": 1787605431462
+        }
+      ],
       "nbcNews": [
         {
           "t": "Brendan Donovan out after pregame head injury",
@@ -285,22 +303,6 @@
           "by": "Lorenzo J. Reyna, ClutchPoints",
           "when": "17h ago",
           "href": "https://sports.yahoo.com/articles/dodgers-news-kyle-tucker-thanks-034255354.html",
-          "fetchedAt": 1787519036122
-        },
-        {
-          "t": "Mookie Betts' two-run single",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/mookie-betts-two-run-single-030700988.html",
-          "fetchedAt": 1787519036122
-        },
-        {
-          "t": "Dodgers know what fan ovation  could mean to Kyle Tucker when he’s at this low",
-          "s": "Kyle Tucker’s Dodgers struggles have reached a breaking point, but Dave Roberts, Miguel Rojas and Kiké Hernández believe one moment could change everything.",
-          "by": "Michael Duarte",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-know-fan-ovation-could-002710335.html",
           "fetchedAt": 1787519036122
         }
       ],
@@ -472,20 +474,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "Texas Rangers lineup for August 22, 2026",
-          "s": "The Rangers and the Angels, in Arlington",
+          "t": "Texas Rangers lineup for August 24, 2026",
+          "s": "The Rangers start a series in Chicago",
           "by": "Adam J. Morris",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-22-200106998.html",
-          "fetchedAt": 1787432650345
+          "when": "27m ago",
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-24-203738589.html",
+          "fetchedAt": 1787605480183
         },
         {
-          "t": "Detmers Deals, But Angels Lose 2-1 Pitching Duel To Texas In 10",
-          "s": "The Los Angeles Angels shut out Texas for nine innings, but they couldn't score, either, so they wound up losing.",
-          "by": "Bob McCullough",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/detmers-deals-angels-lose-2-123321819.html",
-          "fetchedAt": 1787432650345
+          "t": "White Sox host the Rangers to begin 3-game series",
+          "s": "Texas Rangers (65-66, second in the AL West) vs. Chicago White Sox (68-62, first in the AL Central) Chicago; Monday, 7:40 p.m. EDT PITCHING PROBABLES: Rangers: Kumar Rocker (4-10, 4.46 ERA, 1.40 WHIP, 109 strikeouts); White Sox: Jose Urquidy (2-1, 5.06 ERA, 1.50 WHIP, 17 strikeouts) LINE: White Sox -129, Rangers +108; over/under is 8 1/2 runs BOTTOM LINE: The Chicago White Sox host the Texas Rangers on Monday to open a three-game series. Chicago is 68-62 overall and 39-26 in home games.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/white-sox-host-rangers-begin-075543160.html",
+          "fetchedAt": 1787605480183
+        },
+        {
+          "t": "Rangers Set Pitching Probables for Critical Series with Chicago White Sox",
+          "s": "The Texas Rangers have their starting rotation arranged for their key three-game matchup with the AL Central leaders.",
+          "by": "Matt Postins",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-set-pitching-probables-critical-000001270.html",
+          "fetchedAt": 1787605480183
         }
       ],
       "nbcNews": [
@@ -502,16 +512,7 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [
-        {
-          "t": "Two-start pitchers: Zack Wheeler headlines a smattering of elite options as August comes to an end",
-          "s": "Parker Messick, Chase Burns and Brandon Pfaadt are among the projected two-start pitchers for the upcoming week.",
-          "by": "David Shovein",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/two-start-pitchers-zack-wheeler-225932141.html",
-          "fetchedAt": 1787519030400
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -755,7 +756,16 @@
       "name": "Caleb Durbin",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Boston Red Sox Announce Jarren Duran Decision During Giants Series",
+          "s": "The Boston Red Sox rallied in the ninth inning on Saturday to defeat the San Francisco Giants 3-2 and take the first two games of the series.Now, ahead of Sunday’s series finale, Red Sox manager Chad Tracy has made a few notable changes to his lineup, including one involving speedy outfielder Jarren Duran.Red Sox Announce […] The post Boston Red Sox Announce Jarren Duran Decision During Giants Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/boston-red-sox-announce-jarren-185847849.html",
+          "fetchedAt": 1787605446141
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -763,16 +773,7 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [
-        {
-          "t": "Otto Lopez's two-run single",
-          "s": "",
-          "by": "",
-          "when": "35m ago",
-          "href": "https://sports.yahoo.com/videos/otto-lopezs-two-run-single-202803832.html",
-          "fetchedAt": 1787432612249
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -830,20 +831,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [
         {
-          "t": "Jackson Merrill's RBI single",
+          "t": "Jackson Merrill's solo home run (21)",
           "s": "",
           "by": "",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/videos/jackson-merrills-rbi-single-024244602.html",
-          "fetchedAt": 1787475817834
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/videos/jackson-merrills-solo-home-run-221616167.html",
+          "fetchedAt": 1787605487332
         },
         {
-          "t": "Jackson Merrill's solo home run (20)",
-          "s": "",
-          "by": "",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/videos/jackson-merrills-solo-home-run-010738742.html",
-          "fetchedAt": 1787475817834
+          "t": "Merrill Madness as San Diego stuns Minnesota in thriller",
+          "s": "FriarWatch: August 23 Edition",
+          "by": "Lincoln Zdunich",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/merrill-madness-san-diego-stuns-161000539.html",
+          "fetchedAt": 1787605487332
+        },
+        {
+          "t": "Padres Hope To Ride Buehler To Series Sweep Against Twins",
+          "s": "The San Diego Padres have a chance to win their third straight against MInnesota with Walker Buehler on the mound.",
+          "by": "Bob McCullough",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/padres-hope-ride-buehler-series-162427926.html",
+          "fetchedAt": 1787605487332
         }
       ],
       "nbcNews": [
@@ -955,32 +964,7 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [
-        {
-          "t": "ESPN Insider Defends Jerry Dipoto's Handling of Colt Emerson Injury Issue",
-          "s": "",
-          "by": "",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/videos/espn-insider-defends-jerry-dipotos-170039837.html",
-          "fetchedAt": 1787432617683
-        },
-        {
-          "t": "ESPN Insider Defends Jerry Dipoto's Handling of Colt Emerson Injury Issue",
-          "s": "Dipoto caught some flack for his public comments after Emerson's injury, but Buster Olney isn't buying the criticism.",
-          "by": "Brady Farkas",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/espn-insider-defends-jerry-dipotos-170039215.html",
-          "fetchedAt": 1787432617683
-        },
-        {
-          "t": "Brock Rodden Has Provided a Spark in Bottom of Seattle Mariners Lineup",
-          "s": "The recently-called up infielder has proved to be a consistent player for the Mariners.",
-          "by": "Teren Kowatsch",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/brock-rodden-provided-spark-bottom-150029083.html",
-          "fetchedAt": 1787432617683
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1037,7 +1021,24 @@
       "name": "Cole Young",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Cole Young Now Mired in Major Slump For Seattle Mariners",
+          "s": "",
+          "by": "",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/videos/cole-young-now-mired-major-180039048.html",
+          "fetchedAt": 1787605452920
+        },
+        {
+          "t": "Cole Young's Slump",
+          "s": "The young second baseman has been mostly excellent this season, but he's in a rut right now that the M's can't afford.",
+          "by": "Brady Farkas",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/cole-young-now-mired-major-180039068.html",
+          "fetchedAt": 1787605452920
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1093,14 +1094,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/red-soxs-marcelo-mayer-stunner-220002219.html",
           "fetchedAt": 1787562232803
-        },
-        {
-          "t": "Ex-Red Sox Top Prospect Denied Fenway Return After Frustrating Setback",
-          "s": "Former Red Sox top prospect Marcelo Mayer appeared ready for a return to Fenway Park before another injury setback spoiled the anticipated reunion.",
-          "by": "Rodney Knuppel",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/ex-red-sox-top-prospect-193457293.html",
-          "fetchedAt": 1787432624599
         }
       ],
       "nbcNews": []
@@ -1143,7 +1136,16 @@
       "name": "Eduardo Quintero",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Tarik Skubal lined up to start Friday vs Tigers at Comerica Park",
+          "s": "Tarik Skubal will face his former team, the Detroit Tigers, in Los Angeles Dodgers series at Comerica Park in Detroit. On the trade and what's next.",
+          "by": "Marlowe Alter, Detroit Free Press",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-lined-start-090724651.html",
+          "fetchedAt": 1787605456610
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1170,12 +1172,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [
         {
-          "t": "Josh Jung's Latest 'Timeline' May Leave Rangers in Scramble Mode Down Stretch",
-          "s": "It will be a month on Tuesday since the Texas Rangers put third baseman Josh Jung on the injured list. The wait continues.",
+          "t": "White Sox host the Rangers to begin 3-game series",
+          "s": "Texas Rangers (65-66, second in the AL West) vs. Chicago White Sox (68-62, first in the AL Central) Chicago; Monday, 7:40 p.m. EDT PITCHING PROBABLES: Rangers: Kumar Rocker (4-10, 4.46 ERA, 1.40 WHIP, 109 strikeouts); White Sox: Jose Urquidy (2-1, 5.06 ERA, 1.50 WHIP, 17 strikeouts) LINE: White Sox -129, Rangers +108; over/under is 8 1/2 runs BOTTOM LINE: The Chicago White Sox host the Texas Rangers on Monday to open a three-game series. Chicago is 68-62 overall and 39-26 in home games.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/white-sox-host-rangers-begin-075543160.html",
+          "fetchedAt": 1787605478146
+        },
+        {
+          "t": "Rangers Set Pitching Probables for Critical Series with Chicago White Sox",
+          "s": "The Texas Rangers have their starting rotation arranged for their key three-game matchup with the AL Central leaders.",
           "by": "Matt Postins",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/josh-jungs-latest-timeline-may-160004167.html",
-          "fetchedAt": 1787432645633
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/rangers-set-pitching-probables-critical-000001270.html",
+          "fetchedAt": 1787605478146
         }
       ],
       "nbcNews": []
@@ -1244,28 +1254,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [
         {
-          "t": "Which is better: Luzardo’s sweeper or Sanchez’s changeup?",
-          "s": "It might be closer than you think",
-          "by": "Ethan Witte",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/better-luzardo-sweeper-sanchez-changeup-130000575.html",
-          "fetchedAt": 1787432629036
+          "t": "Phillies ace receives surprising boost in crowded NL Cy Young race",
+          "s": "Cristopher Sánchez is trailing in the betting markets, but ESPN’s awards model views the Phillies left-hander as the NL Cy Young front-runner.",
+          "by": "Rodney Knuppel",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-ace-receives-surprising-boost-145447879.html",
+          "fetchedAt": 1787605471550
         },
         {
-          "t": "Phillies Finally Got a Steal With a Long-Term Contract",
-          "s": "",
-          "by": "",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/videos/phillies-finally-got-steal-long-110019871.html",
-          "fetchedAt": 1787432629036
+          "t": "St. Louis Cardinals vs Philadelphia Phillies Game Discussion Sunday",
+          "s": "The St. Louis Cardinals wrap up a long road trip on Sunday as they try again against the Philadelphia Phillies. Kyle Leahy is the scheduled starter for the Cardinals while the Phillies will give the ball to Cristopher Sánchez. First pitch is set for 12:45pm central time and the game broadcast will be available via […]",
+          "by": "Doc Holliday",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-philadelphia-171500859.html",
+          "fetchedAt": 1787605471550
         },
         {
-          "t": "Phillies Finally Got a Steal With a Long-Term Contract",
-          "s": "The Philadelphia Phillies have finally had a long-term contract pan out.",
-          "by": "Matthew Schmidt",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-finally-got-steal-long-110019285.html",
-          "fetchedAt": 1787432629036
+          "t": "Gamethread 8/23: Phillies vs. Cardinals",
+          "s": "The Phillies look to extend the winning streak to nine games",
+          "by": "Smarty Jones",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/gamethread-8-23-phillies-vs-160500834.html",
+          "fetchedAt": 1787605471550
         }
       ],
       "nbcNews": [
@@ -1297,14 +1307,6 @@
           "by": "Steve Silverman, ClutchPoints",
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/1-problem-yankees-must-address-222003804.html",
-          "fetchedAt": 1787475833658
-        },
-        {
-          "t": "Why Yankees' Gerrit Cole is facing 2 big obstacles ahead of MLB playoffs",
-          "s": "Even with southpaw Max Fried’s latest trip to the injury list with a bone bruise in his left elbow, the New York Yankees still boast one of the sport’s most imposing starting rotations. Cam Schlittler, Carlos Rodon, and Will Warren have each enjoyed strong moments through the course of the campaign, but it may be their longtime ace, Gerrit Cole, […] The post Why Yankees' Gerrit Cole is facing 2 big obstacles ahead of MLB playoffs appeared first on ClutchPoints.",
-          "by": "Colin Loughran, ClutchPoints",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/why-yankees-gerrit-cole-facing-185710066.html",
           "fetchedAt": 1787475833658
         }
       ],
@@ -1356,22 +1358,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-philadelphia-214500640.html",
           "fetchedAt": 1787475823020
-        },
-        {
-          "t": "Phillies’ Jesus Luzardo Makes Bold NL East Claim Following Cardinals Win",
-          "s": "On the strength of a seven-game winning streak, the Philadelphia Phillies have cut the National League East deficit to four games. In what’s been a rollercoaster season, the Phillies are within striking distance of the division.Following his start against the Cardinals, left-hander Jesus Luzardo spoke about their chances of taking the division at the end […] The post Phillies’ Jesus Luzardo Makes Bold NL East Claim Following Cardinals Win appeared first on HEAVY.",
-          "by": "Michael McDermott",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-jesus-luzardo-makes-bold-183204025.html",
-          "fetchedAt": 1787475823020
-        },
-        {
-          "t": "Phillies Have Completely Bought Into New Approach With Excellent Success",
-          "s": "The Philadelphia Phillies are clicking on all cylinders, racking up wins at an impressive rate.",
-          "by": "Kenneth Teape",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-completely-bought-approach-excellent-180003675.html",
-          "fetchedAt": 1787475823020
         }
       ],
       "nbcNews": []
@@ -1381,7 +1367,24 @@
       "name": "Robbie Ray",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Padres Look To Extend Momentum Against Pirates Behind Ray",
+          "s": "The San Diego Padres just swept the Minnesota Twins, but the Pirates will offer a much bigger pitching challenge.",
+          "by": "Bob McCullough",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/padres-look-extend-momentum-against-181940068.html",
+          "fetchedAt": 1787605460264
+        },
+        {
+          "t": "Pirates visit the Padres to begin 3-game series",
+          "s": "Pittsburgh Pirates (63-69, fourth in the NL Central) vs. San Diego Padres (71-60, second in the NL West) San Diego; Monday, 9:40 p.m. EDT PITCHING PROBABLES: Pirates: Braxton Ashcraft (13-5, 3.74 ERA, 1.08 WHIP, 159 strikeouts); Padres: Robbie Ray (11-7, 3.20 ERA, 1.31 WHIP, 117 strikeouts) LINE: Pirates -112, Padres -107; over/under is 7 1/2 runs BOTTOM LINE: The San Diego Padres begin a three-game series at home against the Pittsburgh Pirates on Monday. San Diego has gone 40-26 in home games and 71-60 overall.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-visit-padres-begin-3-075543060.html",
+          "fetchedAt": 1787605460264
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1389,16 +1392,7 @@
       "name": "Kirby Yates",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
-      "yahooNews": [
-        {
-          "t": "Detmers Deals, But Angels Lose 2-1 Pitching Duel To Texas In 10",
-          "s": "The Los Angeles Angels shut out Texas for nine innings, but they couldn't score, either, so they wound up losing.",
-          "by": "Bob McCullough",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/detmers-deals-angels-lose-2-123321819.html",
-          "fetchedAt": 1787432630969
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1449,6 +1443,14 @@
       "nbcUrl": null,
       "yahooNews": [
         {
+          "t": "Guardians' Angel Genao Quietly Enjoying Consistency in Big Leagues",
+          "s": "The Cleveland Guardians promoted infielder Angel Genao to the major leagues to replace the struggling Gabriel Arias. Since joining the club, he has been excellent on both sides of the ball.",
+          "by": "Cade Cracas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-angel-genao-quietly-enjoying-162035182.html",
+          "fetchedAt": 1787605485141
+        },
+        {
           "t": "Angel Genao Creating a Good Problem for the Guardians",
           "s": "Angel Genao has been one of the Cleveland Guardians' best players since his MLB debut.",
           "by": "Tommy Wild",
@@ -1466,12 +1468,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "1 problem Dodgers must address before MLB playoffs",
-          "s": "The Los Angeles Dodgers have enough star power to overwhelm opponents through October. Their greatest postseason threat, however, may emerge after those stars have done their jobs. Unless the Dodgers find dependable relievers to cover the seventh and eighth innings, a narrow lead may never reach Tanner Scott. The Dodgers hardly resemble a team in […] The post 1 problem Dodgers must address before MLB playoffs appeared first on ClutchPoints.",
-          "by": "Josh Davis, ClutchPoints",
-          "when": "55m ago",
-          "href": "https://sports.yahoo.com/articles/1-problem-dodgers-must-address-200857112.html",
-          "fetchedAt": 1787432643804
+          "t": "Dodgers' Tanner Scott is the only MLB reliever to accomplish this in 2026",
+          "s": "Scott has 19 saves this season for the Dodgers.",
+          "by": "Conor Liguori",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-tanner-scott-only-mlb-145455164.html",
+          "fetchedAt": 1787605476487
+        },
+        {
+          "t": "Edwin Diaz Shooting to Reclaim Closer Spot After Neck Injury",
+          "s": "Los Angeles Dodgers reliever Edwin Diaz won't immediately return to the closer spot after his neck injury, but his goal is to take it back.",
+          "by": "Aaron Coloma",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/edwin-diaz-shooting-reclaim-closer-010030533.html",
+          "fetchedAt": 1787605476487
+        },
+        {
+          "t": "Scott Finally Takes Control of Dodgers’ Closer Role",
+          "s": "After Edwin Díaz’s struggles and injuries sidelined him, Tanner Scott stepped up and secured the closer role for the Los Angeles Dodgers.",
+          "by": "Eduardo Solano",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/scott-finally-takes-control-dodgers-220444787.html",
+          "fetchedAt": 1787605476487
         }
       ],
       "nbcNews": []
