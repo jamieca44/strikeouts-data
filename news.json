@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-24T21:04:49.915Z",
+  "lastUpdatedNews": "2026-08-24T21:21:22.775Z",
   "players": [
     {
       "id": 11928,
@@ -571,7 +571,14 @@
           "fetchedAt": 1787519042081
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Sheehan dominant in Triple-A start",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/sheehan-dominant-in-triple-a-start",
+          "fetchedAt": 1787606482775
+        }
+      ]
     },
     {
       "id": 12387,
@@ -941,7 +948,14 @@
           "fetchedAt": 1787562191196
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene (hamstring) starts running progression",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/riley-greene-hamstring-starts-running-progression",
+          "fetchedAt": 1787606482775
+        }
+      ]
     },
     {
       "id": 10496,
@@ -1163,7 +1177,14 @@
           "fetchedAt": 1787562201201
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins hits 7th home run this month",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/walker-jenkins-hits-7th-home-run-this-month",
+          "fetchedAt": 1787606482775
+        }
+      ]
     },
     {
       "id": 9701,
