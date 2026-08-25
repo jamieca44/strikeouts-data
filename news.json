@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-25T21:06:04.450Z",
+  "lastUpdatedNews": "2026-08-25T21:23:40.224Z",
   "players": [
     {
       "id": 11928,
@@ -146,7 +146,14 @@
           "fetchedAt": 1787562226152
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. homers twice, steals bag in rout",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/fernando-tatis-jr-homers-twice-steals-bag-in-rout",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 64897,
@@ -171,7 +178,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mariners place Brendan Donovan on concussion IL",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/mariners-place-brendan-donovan-on-concussion-il",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 9552,
@@ -633,7 +647,20 @@
           "fetchedAt": 1787691955250
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Yankees expect Ryan Weathers to return this season",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/yankees-expect-ryan-weathers-to-return-this-season",
+          "fetchedAt": 1787693020224
+        },
+        {
+          "t": "Yankees place Ryan Weathers (forearm) on 15-day IL",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/yankees-place-ryan-weathers-forearm-on-15-day-il",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 8658,
@@ -666,7 +693,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin not in Tuesday’s lineup vs. Marlins",
+          "date": "2026-08-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/caleb-durbin-not-in-tuesdays-lineup-vs-marlins",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 12100,
@@ -790,7 +824,14 @@
           "fetchedAt": 1787648689040
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger (hamstring) rejoins lineup Sunday",
+          "date": "2026-08-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-23/cody-bellinger-hamstring-rejoins-lineup-sunday",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 11760,
@@ -984,7 +1025,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Astros option Raynel Delgado to Triple-A",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/astros-option-raynel-delgado-to-triple-a",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 12375,
@@ -1148,7 +1196,14 @@
           "fetchedAt": 1787562203696
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Helsey (elbow) progressing toward return",
+          "date": "2026-08-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/ryan-helsey-elbow-progressing-toward-return",
+          "fetchedAt": 1787693020224
+        }
+      ]
     },
     {
       "id": 11706,
