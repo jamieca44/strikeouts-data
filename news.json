@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-25T09:05:06.319Z",
+  "lastUpdatedNews": "2026-08-25T09:21:22.447Z",
   "players": [
     {
       "id": 11928,
@@ -49,14 +49,7 @@
           "fetchedAt": 1787562222062
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Blue Jays activate Vladimir Guerrero Jr. from IL",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/blue-jays-activate-vladimir-guerrero-jr-from-il",
-          "fetchedAt": 1787433684798
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -89,14 +82,7 @@
           "fetchedAt": 1787648703718
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. goes deep in loss to Blue Jays",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/luis-garcia-jr-goes-deep-in-loss-to-blue-jays",
-          "fetchedAt": 1787520033049
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -194,14 +180,7 @@
           "fetchedAt": 1787562226152
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. has three hits in victory",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/fernando-tatis-jr-has-three-hits-in-victory",
-          "fetchedAt": 1787433684798
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -251,20 +230,7 @@
           "fetchedAt": 1787605431462
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Brendan Donovan out after pregame head injury",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/brendan-donovan-out-after-pregame-head-injury",
-          "fetchedAt": 1787476869485
-        },
-        {
-          "t": "Brendan Donovan becomes late scratch against Cubs",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/brendan-donovan-becomes-late-scratch-against-cubs",
-          "fetchedAt": 1787476869485
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -272,14 +238,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts moves up to third in lineup",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/mookie-betts-moves-up-to-third-in-lineup",
-          "fetchedAt": 1787520033049
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -296,14 +255,7 @@
           "fetchedAt": 1787519037709
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz has four hits, home run in win",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/elly-de-la-cruz-has-four-hits-home-run-in-win",
-          "fetchedAt": 1787476869485
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -382,14 +334,7 @@
           "fetchedAt": 1787648692556
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal strikes out 11 in win against Pirates",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/tarik-skubal-strikes-out-11-in-win-against-pirates",
-          "fetchedAt": 1787476869485
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -397,7 +342,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan (glute) to face hitters on Wednesday",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/joe-ryan-glute-to-face-hitters-on-wednesday",
+          "fetchedAt": 1787649682447
+        }
+      ]
     },
     {
       "id": 10940,
@@ -430,14 +382,7 @@
           "fetchedAt": 1787605480183
         }
       ],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore goes six scoreless against Angels",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/mackenzie-gore-goes-six-scoreless-against-angels",
-          "fetchedAt": 1787390471950
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -470,7 +415,14 @@
           "fetchedAt": 1787648654946
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns roughed up by Giants in rare loss",
+          "date": "2026-08-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/chase-burns-roughed-up-by-giants-in-rare-loss",
+          "fetchedAt": 1787649682447
+        }
+      ]
     },
     {
       "id": 11203,
@@ -495,7 +447,14 @@
           "fetchedAt": 1787562186027
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft holds Padres to one run over six",
+          "date": "2026-08-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/braxton-ashcraft-holds-padres-to-one-run-over-six",
+          "fetchedAt": 1787649682447
+        }
+      ]
     },
     {
       "id": 60238,
@@ -583,14 +542,7 @@
           "fetchedAt": 1787648695691
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (neck) throws bullpen session",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/edwin-diaz-neck-throws-bullpen-session",
-          "fetchedAt": 1787476869485
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -648,14 +600,7 @@
           "fetchedAt": 1787519043717
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers exits start with forearm discomfort",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/ryan-weathers-exits-start-with-forearm-discomfort",
-          "fetchedAt": 1787433684798
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -812,14 +757,7 @@
           "fetchedAt": 1787605487332
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill homers as Padres top Twins",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/jackson-merrill-homers-as-padres-top-twins",
-          "fetchedAt": 1787476869485
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -852,20 +790,7 @@
           "fetchedAt": 1787648689040
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger (hamstring) to return on Sunday",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/cody-bellinger-hamstring-to-return-on-sunday",
-          "fetchedAt": 1787433684798
-        },
-        {
-          "t": "Cody Bellinger (hamstring) goes 0-for-3 in rehab game",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/cody-bellinger-hamstring-goes-0-for-3-in-rehab-game",
-          "fetchedAt": 1787433684798
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -971,7 +896,14 @@
           "fetchedAt": 1787648670272
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Colt Emerson to undergo wrist tendon surgery",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/colt-emerson-to-undergo-wrist-tendon-surgery",
+          "fetchedAt": 1787649682447
+        }
+      ]
     },
     {
       "id": 8996,
@@ -1061,14 +993,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña (hand) back in lineup against A’s",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/jeremy-pena-hand-back-in-lineup-against-as",
-          "fetchedAt": 1787433684798
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1191,14 +1116,7 @@
           "fetchedAt": 1787648684153
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease strikes out eight in win over Yankees",
-          "date": "2026-08-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-22/dylan-cease-strikes-out-eight-in-win-over-yankees",
-          "fetchedAt": 1787433684798
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1371,7 +1289,14 @@
           "fetchedAt": 1787605460264
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray charged with two runs against Pirates",
+          "date": "2026-08-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/robbie-ray-charged-with-two-runs-against-pirates",
+          "fetchedAt": 1787649682447
+        }
+      ]
     },
     {
       "id": 9727,
