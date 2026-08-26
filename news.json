@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-26T09:21:39.092Z",
+  "lastUpdatedNews": "2026-08-26T21:04:39.130Z",
   "players": [
     {
       "id": 11928,
@@ -80,22 +80,6 @@
           "by": "Jake Elman",
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/humbled-jazz-chisholm-jr-exactly-223854774.html",
-          "fetchedAt": 1787648703718
-        },
-        {
-          "t": "Yankees’ Giancarlo Stanton reportedly not expected back this season",
-          "s": "The Yankees have spent months waiting for Giancarlo Stanton to get back. Now they may have to accept that the […]",
-          "by": "Alexander Wilson",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-giancarlo-stanton-reportedly-not-175054561.html",
-          "fetchedAt": 1787648703718
-        },
-        {
-          "t": "Yankees' Season in Jeopardy: Stanton's Injury Update",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/yankees-season-jeopardy-stantons-injury-101810473.html",
           "fetchedAt": 1787648703718
         }
       ],
@@ -211,14 +195,6 @@
           "when": "1d ago",
           "href": "https://sports.yahoo.com/articles/brewers-look-smart-keeping-henderson-002138255.html",
           "fetchedAt": 1787735043861
-        },
-        {
-          "t": "Coleman Crow's great August pitching tops Brewers minor-league update",
-          "s": "The Brewers minor-league report features terrific work from Coleman Crow, Luis Peña, Brailyn Antunez and more, plus the end of the DSL season.",
-          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/coleman-crows-great-august-pitching-173246605.html",
-          "fetchedAt": 1787605429812
         }
       ],
       "nbcNews": []
@@ -346,28 +322,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [
         {
-          "t": "Dodgers’ Tarik Skubal Gets Intriguing Outlook Before Braves Series",
-          "s": "The Los Angeles Dodgers and Tarik Skubal might be a short-term marriage. Skubal will be a free agent after the 2026 MLB season, and as a Scott Boras client, the starting pitcher will be looking for a lucrative contract. Los Angeles isn’t afraid to spend money, as it has shown in the past. Nonetheless, it […] The post Dodgers’ Tarik Skubal Gets Intriguing Outlook Before Braves Series appeared first on HEAVY.",
-          "by": "Eduardo Razo",
-          "when": "44m ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-gets-intriguing-082039718.html",
-          "fetchedAt": 1787648692556
+          "t": "Detroit Tigers’ A.J. Hinch Makes Honest Tarik Skubal Statement Before Dodgers Series",
+          "s": "Detroit Tigers manager A.J. Hinch made an honest statement on Dodgers LHP Tarik Skubal ahead of the southpaw's return to Detroit. The post Detroit Tigers’ A.J. Hinch Makes Honest Tarik Skubal Statement Before Dodgers Series appeared first on HEAVY.",
+          "by": "Jackson Kruse",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/detroit-tigers-j-hinch-makes-193529744.html",
+          "fetchedAt": 1787778277456
         },
         {
-          "t": "Skubal Finds Valuable Blueprint Inside Dodgers’ Rotation",
-          "s": "Tarik Skubal is deconstructing the elite habits of his star teammates, leveraging the Los Angeles Dodgers’ historic rotation depth to refine his own form.",
-          "by": "Eduardo Solano",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/skubal-finds-valuable-blueprint-inside-020004123.html",
-          "fetchedAt": 1787648692556
+          "t": "Tarik Skubal's Tigers return will be epic theater: 'I'm sure he'll be chirping'",
+          "s": "Former Detroit Tigers ace Tarik Skubal will start for Los Angeles Dodgers at Comerica Park on Friday, Aug. 28. \\\"It's pretty weird,\\\" A.J. Hinch said.",
+          "by": "Christian Romo, Detroit Free Press",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/tigers-expect-tarik-skubal-chirping-170249561.html",
+          "fetchedAt": 1787778277456
         },
         {
-          "t": "Dodgers' Tarik Skubal Usage Already Raising Eyebrows",
-          "s": "The Los Angeles Dodgers are clearly trying to get everything they can out of Tarik Skubal before he hits free agency.",
-          "by": "Noah Camras",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-usage-already-000002001.html",
-          "fetchedAt": 1787648692556
+          "t": "Dodgers news: Tarik Skubal's first start back in Detroit vs. Tigers lined up",
+          "s": "The Los Angeles Dodgers have enjoyed the riches of Tarik Skubal since he was traded from the team. They’ll have a matchup against his former team soon, and he’s supposed to start the first game of the series, according to Detroit news sportswriter Chris McCosky. “Tarik Skubal will make his return to Comerica Park with the Dodgers on Friday, […] The post Dodgers news: Tarik Skubal's first start back in Detroit vs. Tigers lined up appeared first on ClutchPoints.",
+          "by": "Malik Brown, ClutchPoints",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-tarik-skubals-first-141946032.html",
+          "fetchedAt": 1787778277456
         }
       ],
       "nbcNews": []
@@ -403,12 +379,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [
         {
-          "t": "Texas Rangers lineup for August 24, 2026",
-          "s": "The Rangers start a series in Chicago",
-          "by": "Adam J. Morris",
-          "when": "27m ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-24-203738589.html",
-          "fetchedAt": 1787605480183
+          "t": "Rangers Travel to Chicago to Open Road Trip Against White Sox",
+          "s": "The Texas Rangers will open a six-game road trip by facing the AL Central-leading Chicago White Sox on the South Side.",
+          "by": "Kane McCutchen",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rangers-travel-chicago-open-road-223859885.html",
+          "fetchedAt": 1787778257442
+        },
+        {
+          "t": "Rangers Lineup Set for Matchup with White Sox, Anthony Kay in Chicago",
+          "s": "The Texas Rangers have set their lineup for the second game of their three-game series against the Chicago White Sox on Tuesday.",
+          "by": "Matt Postins",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rangers-lineup-set-matchup-white-204259737.html",
+          "fetchedAt": 1787778257442
+        },
+        {
+          "t": "Game Thread: Rangers (65-66) at White Sox (68-62)",
+          "s": "Chicago hosts Texas for the first and only time during the regular season",
+          "by": "Chrystal O'Keefe",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/game-thread-rangers-65-66-232400339.html",
+          "fetchedAt": 1787778257442
         }
       ],
       "nbcNews": []
@@ -420,28 +412,28 @@
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [
         {
-          "t": "Reds' Chase Burns on worst start of season in 5-0 loss to Giants",
-          "s": "Cincinnati Reds All-Star Chase Burns (14-3, 2.77) gave up 5 runs on 9 hits in 3 2/3 innings in his worst start since Boson last year in his 2nd start.",
-          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/reds-chase-burns-worst-start-043813647.html",
-          "fetchedAt": 1787648654946
+          "t": "Drew Gilbert details Giants' mindset in win against Reds ace Chase Burns",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/drew-gilbert-details-giants-mindset-112928065.html",
+          "fetchedAt": 1787778259130
         },
         {
-          "t": "Reds' Chase Burns clobbered by Giants in worst start of season",
-          "s": "Did Cincinnati Reds star pitcher Chase Burns (14-3, 2.77) lose Cy Young race when he lost worst start of the season against the woeful Giants?",
-          "by": "Gordon Wittenmyer, Cincinnati Enquirer",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/reds-chase-burns-clobbered-giants-041844936.html",
-          "fetchedAt": 1787648654946
+          "t": "Terry Francona Makes Honest Statement On Cincinnati Reds' Loss to NL West Team",
+          "s": "The Cincinnati Reds suffered a 5-0 shutout loss in their Monday opener against the San Francisco Giants at Oracle Park.",
+          "by": "Charlie Rondeau",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/terry-francona-makes-honest-statement-193958613.html",
+          "fetchedAt": 1787778259130
         },
         {
-          "t": "Reds Blanked in Agonizing 5-0 Loss vs. Giants in Series Opener",
-          "s": "The Reds dropped the first game of the series against the San Francisco Giants in a game fans have seen too many times this season.",
-          "by": "Tyler Reed",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/reds-blanked-agonizing-5-0-040950555.html",
-          "fetchedAt": 1787648654946
+          "t": "It's Time for the Reds to Make an Unpopular Decision With One of Their Young Stars",
+          "s": "It's Time for the Reds to Make an Unpopular Decision With One of Their Young Stars",
+          "by": "Greg Kuffner",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/time-reds-unpopular-decision-one-145608722.html",
+          "fetchedAt": 1787778259130
         }
       ],
       "nbcNews": [
@@ -578,22 +570,6 @@
           "by": "Eduardo Solano",
           "when": "8h ago",
           "href": "https://sports.yahoo.com/articles/d-az-faces-dodgers-challenge-010043204.html",
-          "fetchedAt": 1787648695691
-        },
-        {
-          "t": "Dodgers Edwin Diaz Move Is Right Call Despite $69M Headache",
-          "s": "Los Angeles has made a critical decision on the star closer, who offered a candid response to the news.",
-          "by": "Cole Shelton",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-edwin-diaz-move-call-200408637.html",
-          "fetchedAt": 1787648695691
-        },
-        {
-          "t": "Dodgers' Edwin Diaz Responds to Dodgers' Decision to Remove Him as Closer",
-          "s": "Los Angeles Dodgers star Edwin Diaz opened up about the team's decision to demote him as the closer amid his struggles.",
-          "by": "Matt Levine",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-edwin-diaz-responds-dodgers-200003775.html",
           "fetchedAt": 1787648695691
         }
       ],
@@ -754,6 +730,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [
         {
+          "t": "The Double and Stolen Base Sensation of Marlins' Otto Lopez",
+          "s": "Miami Marlins' Otto Lopez is not only a master at hitting, but also at stealing bases. His performance as a double machine and stolen base leader reminds us of another former Marlins player.",
+          "by": "Miguel Mike Medina",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/double-stolen-sensation-marlins-otto-170004407.html",
+          "fetchedAt": 1787778261567
+        },
+        {
           "t": "Otto Lopez's sacrifice fly",
           "s": "",
           "by": "",
@@ -833,7 +817,16 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Pirates Are Proving That Regression Is Padres Biggest Enemy",
+          "s": "The San Diego Padres played plenty of flat baseball early in the season, and they occasionally still go there.",
+          "by": "Bob McCullough",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-proving-regression-padres-biggest-115907532.html",
+          "fetchedAt": 1787778233513
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -843,28 +836,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [
         {
-          "t": "New York Yankees Star Cody Bellinger Makes George Lombard Jr. Statement",
-          "s": "New York Yankees star Cody Bellinger talked about what it's like playing with shortstop George Lombard Jr. The post New York Yankees Star Cody Bellinger Makes George Lombard Jr. Statement appeared first on HEAVY.",
-          "by": "Jackson Kruse",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-star-cody-bellinger-182852600.html",
-          "fetchedAt": 1787648689040
+          "t": "Red Sox Get Notable Roman Anthony Update Ahead of Yankees Series",
+          "s": "The Boston Red Sox sit at 73-59 after winning five straight games. The gap between Boston and the New York Yankees for the top American League wild-card spot has shrunk to 1.5 games. A four-game showdown in New York begins Friday night.The roster could look different by then. One of the most talented young players […] The post Red Sox Get Notable Roman Anthony Update Ahead of Yankees Series appeared first on HEAVY.",
+          "by": "Keith Watkins",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-notable-roman-anthony-142111468.html",
+          "fetchedAt": 1787778275757
         },
         {
-          "t": "Yankees' Bellinger returns, Weathers heads to IL",
-          "s": "Eric Samulski breaks down the latest injury news around the New York Yankees, with Cody Bellinger's return to the lineup, and what pitcher Ryan Weathers' move to IL means for his fantasy value.",
+          "t": "Cody Bellinger's three-run home run (12)",
+          "s": "",
           "by": "",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/videos/yankees-bellinger-returns-weathers-heads-174512843.html",
-          "fetchedAt": 1787648689040
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/videos/cody-bellingers-three-run-home-000649355.html",
+          "fetchedAt": 1787778275757
         },
         {
-          "t": "Yankees' Spencer Jones Dilemma is More Serious Than You Think",
-          "s": "The New York Yankees are facing a major dilemma with Spencer Jones.",
-          "by": "Matthew Schmidt",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-spencer-jones-dilemma-more-110036989.html",
-          "fetchedAt": 1787648689040
+          "t": "Red Sox Face Tough Roman Anthony Decision Before Playoffs",
+          "s": "Anthony is on a rehab assignment and closing in on a return.",
+          "by": "Cole Shelton",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-face-tough-roman-183300526.html",
+          "fetchedAt": 1787778275757
         }
       ],
       "nbcNews": []
@@ -916,6 +909,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [
         {
+          "t": "Jo Adell Gets Warm Welcome in First Angel Stadium Appearance Since Deadline Trade",
+          "s": "Los Angeles Angels outfielder Jo Adell made his first appearance against the Angels since they traded him at the deadline on Monday. The post Jo Adell Gets Warm Welcome in First Angel Stadium Appearance Since Deadline Trade appeared first on LA Sports Report.",
+          "by": "Aaron Coloma",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/jo-adell-gets-warm-welcome-004514003.html",
+          "fetchedAt": 1787778263210
+        },
+        {
           "t": "Angels news: Watch Jo Adell get a hero's welcome in Angel Stadium return",
           "s": "Jo Adell received plenty of appreciation from Los Angeles Angels fans Monday night as the Cleveland Guardians outfielder returned to Angel Stadium for the first time since being traded. Adell acknowledged the applause by tipping his helmet before his first-inning plate appearance, marking his first trip to the batter’s box in Anaheim as a visiting […] The post Angels news: Watch Jo Adell get a hero's welcome in Angel Stadium return appeared first on ClutchPoints.",
           "by": "Josh Davis, ClutchPoints",
@@ -949,28 +950,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [
         {
-          "t": "Colt Emerson's Rookie Season With Mariners Reportedly Ending Early",
-          "s": "Seattle Mariners infielder Colt Emerson reportedly won't play a role in the team's late-season push for a 2026 playoff spot.",
-          "by": "Justin Binkowski",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/colt-emersons-rookie-season-mariners-032443574.html",
-          "fetchedAt": 1787648670272
+          "t": "Seattle Mariners Clinch Second-Straight Series Win With 4-1 Victory Over Philadelphia Phillies",
+          "s": "The Mariners put together timely hitting to reward a stellar night from starting pitcher George Kirby.",
+          "by": "Teren Kowatsch",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/seattle-mariners-clinch-second-straight-051934377.html",
+          "fetchedAt": 1787778265075
         },
         {
-          "t": "Seattle Mariners Receive Concerning News About Colt Emerson’s Injury",
-          "s": "The Seattle Mariners announced that young shortstop Colt Emerson will undergo season ending surgery on his wrist this Wednesday. Emerson went on the injured list after the Yankees series a couple weeks ago. Originally, the organization planned to demote him to Triple-A Tacoma so he could continue to improve on his swing. However, Emerson then […] The post Seattle Mariners Receive Concerning News About Colt Emerson’s Injury appeared first on HEAVY.",
-          "by": "Chris Lewis",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-receive-concerning-news-012503998.html",
-          "fetchedAt": 1787648670272
+          "t": "Detroit Tigers Announce Kevin McGonigle Change Before Rays Game",
+          "s": "The Detroit Tigers have really struggled lately. They are currently taking on the Tampa Bay Rays in a three-game set. The Rays won game one of the series, which dropped the Tigers to 61-70. Detroit is just 1-9 in its last 10 games, which has really put them against the 8-ball in the AL Wild […] The post Detroit Tigers Announce Kevin McGonigle Change Before Rays Game appeared first on HEAVY.",
+          "by": "TJ French",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/detroit-tigers-announce-kevin-mcgonigle-223854664.html",
+          "fetchedAt": 1787778265075
         },
         {
-          "t": "Mariners Colt Emerson to have season-ending wrist surgery",
-          "s": "A tough end to a tough debut season for the Mariners’ young shortstop",
-          "by": "Kate Preusser",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-colt-emerson-season-ending-001243801.html",
-          "fetchedAt": 1787648670272
+          "t": "Colt Emerson to Undergo Season-Ending Surgery; Additional Injury Updates",
+          "s": "",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/colt-emerson-undergo-season-ending-000358391.html",
+          "fetchedAt": 1787778265075
         }
       ],
       "nbcNews": [
@@ -987,32 +988,7 @@
       "name": "Jose Altuve",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
-      "yahooNews": [
-        {
-          "t": "First-Place Astros Part Ways With GM Dana Brown",
-          "s": "GM Dana Brown and the first-place Astros (65-66) have mutually agreed to part ways with 31 games left in the regular season.",
-          "by": "John Sparaco",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/first-place-astros-part-ways-180430281.html",
-          "fetchedAt": 1787648699148
-        },
-        {
-          "t": "Houston Astros Fire GM Dana Brown: How Pitching Collapses and Missed Opportunities Sealed His Fate",
-          "s": "After the Houston Astros blew a huge six-run lead to the last-place Athletics on Sunday, August 23, the team made […]",
-          "by": "Isaac Ciravolo",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/houston-astros-fire-gm-dana-173227115.html",
-          "fetchedAt": 1787648699148
-        },
-        {
-          "t": "Jose Altuve got Astros GM Dana Brown fired without saying a word",
-          "s": "Houston Astros general manager Dana Brown is out amid a heated AL West race, and the Jose Altuve contract likely didn't help much.",
-          "by": "Jake Elman",
-          "when": "17h ago",
-          "href": "https://sports.yahoo.com/articles/jose-altuve-got-astros-gm-152653767.html",
-          "fetchedAt": 1787648699148
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1036,22 +1012,6 @@
           "when": "3h ago",
           "href": "https://sports.yahoo.com/articles/seattle-mariners-clinch-second-straight-051934377.html",
           "fetchedAt": 1787735044788
-        },
-        {
-          "t": "Cole Young Now Mired in Major Slump For Seattle Mariners",
-          "s": "",
-          "by": "",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/videos/cole-young-now-mired-major-180039048.html",
-          "fetchedAt": 1787605452920
-        },
-        {
-          "t": "Cole Young's Slump",
-          "s": "The young second baseman has been mostly excellent this season, but he's in a rut right now that the M's can't afford.",
-          "by": "Brady Farkas",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/cole-young-now-mired-major-180039068.html",
-          "fetchedAt": 1787605452920
         }
       ],
       "nbcNews": []
@@ -1181,7 +1141,32 @@
       "name": "Jacob deGrom",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Lone Star Ball Reacts Survey: deGrom and the Hall of Fame",
+          "s": "If Jacob deGrom retired today, would he be a Hall of Famer?",
+          "by": "Kyle Thele",
+          "when": "58m ago",
+          "href": "https://sports.yahoo.com/articles/lone-star-ball-reacts-survey-200508580.html",
+          "fetchedAt": 1787778245031
+        },
+        {
+          "t": "Wednesday Morning Links",
+          "s": "Morning, all! Logan O’Hoppe was thankful to get optioned to AAA, saying it gave him a chance to reset and “find himself.” Jack Leiter has been experiencing fatigue in later innings during his rehab outings, opening the possibility that he will be used out of the bullpen when he returns to the big league club. […]",
+          "by": "Benjamin Morris",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/wednesday-morning-links-132019532.html",
+          "fetchedAt": 1787778245031
+        },
+        {
+          "t": "Why Jacob deGrom Had Season-Worst Outing for Rangers vs. White Sox",
+          "s": "After becoming the most recent pitcher to reach 2,000 strikeouts, Texas Rangers ace Jacob deGrom followed it up with a terrible game.",
+          "by": "Matt Postins",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/why-jacob-degrom-had-season-130008008.html",
+          "fetchedAt": 1787778245031
+        }
+      ],
       "nbcNews": [
         {
           "t": "Jacob deGrom rocked for eight runs in loss Tuesday",
@@ -1198,28 +1183,20 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [
         {
-          "t": "Yankees' Cam Schlittler gets good Cy Young update amid very close race with Dylan Cease",
-          "s": "This is a good update for the Yankees as the Cy Young race comes to a head.",
-          "by": "Matt Sullivan",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-cam-schlittler-gets-good-194809393.html",
-          "fetchedAt": 1787648684153
+          "t": "Blue Jays' Dylan Cease Reveals Special Painting Spot at Rodgers Centre",
+          "s": "Dylan Cease is having a fantastic year with the Toronto Blue Jays amid the club’s disappointing season.",
+          "by": "Ayomide Adeduyite",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-dylan-cease-reveals-020706256.html",
+          "fetchedAt": 1787778271539
         },
         {
-          "t": "2026 Cy Young Odds: Schlittler's Balanced Approach May Win the Day",
-          "s": "MLB Cy Young odds for 2026, featuring Jacob Misiorowski, Cam Schlittler, and Dylan Cease.",
-          "by": "Jason Wilson",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/2025-cy-young-odds-skubal-140900897.html",
-          "fetchedAt": 1787648684153
-        },
-        {
-          "t": "Cam Schlittler vs. Dylan Cease: The AL Cy Young Showdown!",
-          "s": "",
-          "by": "",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/videos/cam-schlittler-vs-dylan-cease-113910708.html",
-          "fetchedAt": 1787648684153
+          "t": "Cam Schlittler or Dylan Cease? Top AL Cy Young Candidates Heading Into September",
+          "s": "With just about one month remaining in the 2026 MLB season, here are a few of the pitchers who could win this year's AL Cy Young Award.",
+          "by": "Justin Binkowski",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/cam-schlittler-dylan-cease-top-222529812.html",
+          "fetchedAt": 1787778271539
         }
       ],
       "nbcNews": []
@@ -1304,6 +1281,14 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [
         {
+          "t": "Orioles-Cardinals series preview: One more pivotal road trip",
+          "s": "It’s hard to believe we’re still talking about “must-win” series, but here we are.",
+          "by": "Andrea SK",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/orioles-cardinals-series-preview-one-140000465.html",
+          "fetchedAt": 1787778267477
+        },
+        {
           "t": "Orioles visit the Cardinals to start 3-game series",
           "s": "Baltimore Orioles (63-68, fifth in the AL East) vs. St. Louis Cardinals (66-66, third in the NL Central) St. Louis; Tuesday, 7:45 p.m. EDT PITCHING PROBABLES: Orioles: Chris Bassitt (4-4, 5.08 ERA, 1.62 WHIP, 46 strikeouts); Cardinals: Matthew Liberatore (5-11, 5.04 ERA, 1.44 WHIP, 125 strikeouts) LINE: Cardinals -129, Orioles +108; over/under is 8 1/2 runs BOTTOM LINE: The St. Louis Cardinals host the Baltimore Orioles to begin a three-game series. St. Louis is 32-34 at home and 66-66 overall.",
           "by": "The Associated Press",
@@ -1370,20 +1355,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
-          "t": "Gamethread 8/23: Phillies vs. Cardinals",
-          "s": "The Phillies look to extend the winning streak to nine games",
-          "by": "Smarty Jones",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/gamethread-8-23-phillies-vs-160500834.html",
-          "fetchedAt": 1787648687146
+          "t": "Mariners Game #134 Preview and Discussion: PHI at SEA, 8/26",
+          "s": "Playing with house money",
+          "by": "James Johnston",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-game-134-preview-discussion-195021477.html",
+          "fetchedAt": 1787778273780
         },
         {
-          "t": "St. Louis Cardinals vs Philadelphia Phillies Game Discussion Sunday",
-          "s": "The St. Louis Cardinals wrap up a long road trip on Sunday as they try again against the Philadelphia Phillies. Kyle Leahy is the scheduled starter for the Cardinals while the Phillies will give the ball to Cristopher Sánchez. First pitch is set for 12:45pm central time and the game broadcast will be available via […]",
-          "by": "Doc Holliday",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-philadelphia-171500859.html",
-          "fetchedAt": 1787648687146
+          "t": "Mariners Face High-Stakes Test as Bryan Woo Starts Against the Phillies",
+          "s": "The Mariners need Bryan Woo to look healthy, attack the zone and finish off a Phillies lineup that has scored only three runs in Seattle.",
+          "by": "Tremayne Person",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/mariners-face-high-stakes-test-160910378.html",
+          "fetchedAt": 1787778273780
+        },
+        {
+          "t": "3 players who must save Phillies amid Zack Wheeler's sudden collapse",
+          "s": "The Philadelphia Phillies enter Tuesday night’s second game of their three-game road series vs. the Seattle Mariners at 73-59, just 3.5 games behind the Atlanta Braves. However, Zack Wheeler’s sudden regression has created an urgent postseason problem. He entered the All-Star break at 10-1 with a 2.13 ERA before going 0-4 with a 7.18 ERA across his […] The post 3 players who must save Phillies amid Zack Wheeler's sudden collapse appeared first on ClutchPoints.",
+          "by": "Josh Davis, ClutchPoints",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/3-players-must-save-phillies-005326890.html",
+          "fetchedAt": 1787778273780
         }
       ],
       "nbcNews": []
@@ -1452,6 +1445,14 @@
       "nbcUrl": null,
       "yahooNews": [
         {
+          "t": "GUARDIANS AT ANGELS: Rodriguez vs. Cantillo, discussion",
+          "s": "Let’s get the sweep",
+          "by": "Quincy Wheeler",
+          "when": "56m ago",
+          "href": "https://sports.yahoo.com/articles/guardians-angels-rodriguez-vs-cantillo-200800060.html",
+          "fetchedAt": 1787778269733
+        },
+        {
           "t": "Cleveland Guardians Announce Last-Minute Chase DeLauter Decision Before Angels Game",
           "s": "The Cleveland Guardians are opening up a new series in MLB this week against the Los Angeles Angels. Currently, with a 65-66 record, the Guardians hold a spot in the AL Wild Card standings and are in 2nd place in the AL Central, just behind the Chicago White Sox. The Guards are fresh off a […] The post Cleveland Guardians Announce Last-Minute Chase DeLauter Decision Before Angels Game appeared first on HEAVY.",
           "by": "TJ French",
@@ -1509,12 +1510,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "Dodgers' Tanner Scott is the only MLB reliever to accomplish this in 2026",
-          "s": "Scott has 19 saves this season for the Dodgers.",
-          "by": "Conor Liguori",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tanner-scott-only-mlb-145455164.html",
-          "fetchedAt": 1787605476487
+          "t": "Dodgers fall short in opener with Braves",
+          "s": "Tyler Glasnow solid in return from IL after first-inning woes",
+          "by": "Eric Stephen",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-fall-short-opener-braves-021330968.html",
+          "fetchedAt": 1787778255714
+        },
+        {
+          "t": "Braves Spoil Glasnow's Return; Dodgers Drop Series Opener",
+          "s": "The Los Angeles Dodgers snap their six-game winning streak over the Atlanta Braves in Tyler Glasnow's return to the mound.",
+          "by": "Adrian Medina",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/braves-spoil-glasnows-return-dodgers-021459793.html",
+          "fetchedAt": 1787778255714
+        },
+        {
+          "t": "Dodgers fall late to Braves after Glasnow's return",
+          "s": "ATLANTA — Tyler Glasnow’s return from the injured list started with a 35-pitch first inning and ended with a reminder of why the Dodgers wanted him back in the first place.",
+          "by": "Fredo Cervantes",
+          "when": "18h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-fall-braves-glasnows-return-023519269.html",
+          "fetchedAt": 1787778255714
         }
       ],
       "nbcNews": []
