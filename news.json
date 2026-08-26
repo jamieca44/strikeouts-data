@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-26T21:04:39.130Z",
+  "lastUpdatedNews": "2026-08-26T21:20:52.759Z",
   "players": [
     {
       "id": 11928,
@@ -33,7 +33,14 @@
           "fetchedAt": 1787734996617
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler on base twice in loss Monday",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/dillon-dingler-on-base-twice-in-loss-monday",
+          "fetchedAt": 1787779252759
+        }
+      ]
     },
     {
       "id": 10621,
@@ -289,7 +296,14 @@
           "fetchedAt": 1787691909797
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez drives in five in extra-inning win",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/jose-ramirez-drives-in-five-in-extra-inning-win",
+          "fetchedAt": 1787779252759
+        }
+      ]
     },
     {
       "id": 10577,
@@ -556,7 +570,20 @@
           "fetchedAt": 1787691922054
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Wells locks down save in win over Tigers",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/wells-locks-down-save-in-win-over-tigers",
+          "fetchedAt": 1787779252759
+        },
+        {
+          "t": "Bryan Baker picks up 38th save in win Monday",
+          "date": "2026-08-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/bryan-baker-picks-up-38th-save-in-win-monday",
+          "fetchedAt": 1787779252759
+        }
+      ]
     },
     {
       "id": 10214,
@@ -860,7 +887,14 @@
           "fetchedAt": 1787778275757
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger blasts 12th home run vs. Astros",
+          "date": "2026-08-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/cody-bellinger-blasts-12th-home-run-vs-astros",
+          "fetchedAt": 1787779252759
+        }
+      ]
     },
     {
       "id": 11760,
@@ -1014,7 +1048,14 @@
           "fetchedAt": 1787735044788
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young getting a day off on Wednesday",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/cole-young-getting-a-day-off-on-wednesday",
+          "fetchedAt": 1787779252759
+        }
+      ]
     },
     {
       "id": 11768,
@@ -1346,7 +1387,14 @@
           "fetchedAt": 1787735037966
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Peralta dominates Tigers over six innings in win",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/peralta-dominates-tigers-over-six-innings-in-win",
+          "fetchedAt": 1787779252759
+        }
+      ]
     },
     {
       "id": 10627,
