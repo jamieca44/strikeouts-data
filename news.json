@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-27T09:04:42.702Z",
+  "lastUpdatedNews": "2026-08-27T09:21:28.880Z",
   "players": [
     {
       "id": 11928,
@@ -8,14 +8,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler on base twice in loss Monday",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/dillon-dingler-on-base-twice-in-loss-monday",
-          "fetchedAt": 1787779252759
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -138,14 +131,7 @@
           "fetchedAt": 1787735041575
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. homers twice, steals bag in rout",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/fernando-tatis-jr-homers-twice-steals-bag-in-rout",
-          "fetchedAt": 1787693020224
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -333,14 +319,7 @@
           "fetchedAt": 1787821458727
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan (glute) to face hitters on Wednesday",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/joe-ryan-glute-to-face-hitters-on-wednesday",
-          "fetchedAt": 1787649682447
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -373,7 +352,14 @@
           "fetchedAt": 1787778257442
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore pulled in fourth against White Sox",
+          "date": "2026-08-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/mackenzie-gore-pulled-in-fourth-against-white-sox",
+          "fetchedAt": 1787822488880
+        }
+      ]
     },
     {
       "id": 64316,
@@ -478,14 +464,7 @@
           "fetchedAt": 1787691953314
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Sheehan dominant in Triple-A start",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/sheehan-dominant-in-triple-a-start",
-          "fetchedAt": 1787606482775
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -523,12 +502,6 @@
           "t": "Wells locks down save in win over Tigers",
           "date": "2026-08-26",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/wells-locks-down-save-in-win-over-tigers",
-          "fetchedAt": 1787779252759
-        },
-        {
-          "t": "Bryan Baker picks up 38th save in win Monday",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/bryan-baker-picks-up-38th-save-in-win-monday",
           "fetchedAt": 1787779252759
         }
       ]
@@ -745,14 +718,7 @@
           "fetchedAt": 1787735039441
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong hits 33rd homer in blowout",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/pete-crow-armstrong-hits-33rd-homer-in-blowout",
-          "fetchedAt": 1787563244441
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -769,7 +735,14 @@
           "fetchedAt": 1787778233513
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill collects two extra-base hits in afternoon victory",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/jackson-merrill-collects-two-extra-base-hits-in-afternoon-victory",
+          "fetchedAt": 1787822488880
+        }
+      ]
     },
     {
       "id": 10504,
@@ -826,14 +799,7 @@
           "fetchedAt": 1787691960586
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene (hamstring) starts running progression",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/riley-greene-hamstring-starts-running-progression",
-          "fetchedAt": 1787606482775
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -891,14 +857,7 @@
           "fetchedAt": 1787778265075
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Colt Emerson to undergo wrist tendon surgery",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/colt-emerson-to-undergo-wrist-tendon-surgery",
-          "fetchedAt": 1787649682447
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -980,14 +939,7 @@
           "fetchedAt": 1787821425806
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Astros option Raynel Delgado to Triple-A",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/astros-option-raynel-delgado-to-triple-a",
-          "fetchedAt": 1787693020224
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1019,7 +971,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Matt Shaw (hand) steals base in rehab contest",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/matt-shaw-hand-steals-base-in-rehab-contest",
+          "fetchedAt": 1787822488880
+        }
+      ]
     },
     {
       "id": 63537,
@@ -1052,14 +1011,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins hits 7th home run this month",
-          "date": "2026-08-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/walker-jenkins-hits-7th-home-run-this-month",
-          "fetchedAt": 1787606482775
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -1198,7 +1150,14 @@
           "fetchedAt": 1787778267477
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish surrenders seven runs to Cardinals",
+          "date": "2026-08-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/kyle-bradish-surrenders-seven-runs-to-cardinals",
+          "fetchedAt": 1787822488880
+        }
+      ]
     },
     {
       "id": 9121,
@@ -1271,7 +1230,14 @@
           "fetchedAt": 1787778273780
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo fans nine in win over Mariners",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/jesus-luzardo-dominates-in-seattle",
+          "fetchedAt": 1787822488880
+        }
+      ]
     },
     {
       "id": 9691,
