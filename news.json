@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-27T21:03:43.931Z",
+  "lastUpdatedNews": "2026-08-27T21:20:54.572Z",
   "players": [
     {
       "id": 11928,
@@ -1100,7 +1100,20 @@
           "fetchedAt": 1787864593764
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jenkins homers in AAA, hitting .411 in August",
+          "date": "2026-08-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/jenkins-homers-in-aaa-hitting-411-in-august",
+          "fetchedAt": 1787865654572
+        },
+        {
+          "t": "Byron Buxton (hip) out Wednesday against A’s",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/byron-buxton-hip-out-wednesday-against-as",
+          "fetchedAt": 1787865654572
+        }
+      ]
     },
     {
       "id": 9701,
