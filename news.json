@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-28T09:04:52.927Z",
+  "lastUpdatedNews": "2026-08-28T09:20:48.208Z",
   "players": [
     {
       "id": 11928,
@@ -99,14 +99,7 @@
           "fetchedAt": 1787821450157
         }
       ],
-      "nbcNews": [
-        {
-          "t": "García crushes 27th homer in loss to Astros",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/garcia-crushes-27th-homer-in-loss-to-astros",
-          "fetchedAt": 1787736099092
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -230,7 +223,14 @@
           "fetchedAt": 1787821454219
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts collects two hits in loss to Braves",
+          "date": "2026-08-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/mookie-betts-collects-two-hits-in-loss-to-braves",
+          "fetchedAt": 1787908848208
+        }
+      ]
     },
     {
       "id": 12393,
@@ -400,14 +400,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Chase Burns roughed up by Giants in rare loss",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/chase-burns-roughed-up-by-giants-in-rare-loss",
-          "fetchedAt": 1787649682447
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -440,14 +433,7 @@
           "fetchedAt": 1787864612136
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft holds Padres to one run over six",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/braxton-ashcraft-holds-padres-to-one-run-over-six",
-          "fetchedAt": 1787649682447
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -644,14 +630,7 @@
           "fetchedAt": 1787864621476
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin not in Tuesday’s lineup vs. Marlins",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/caleb-durbin-not-in-tuesdays-lineup-vs-marlins",
-          "fetchedAt": 1787693020224
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -659,14 +638,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Otto Lopez steals two bases in extra-inning loss",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/otto-lopez-steals-two-bases-in-extra-inning-loss",
-          "fetchedAt": 1787736099092
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -764,14 +736,7 @@
           "fetchedAt": 1787778275757
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger blasts 12th home run vs. Astros",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/cody-bellinger-blasts-12th-home-run-vs-astros",
-          "fetchedAt": 1787779252759
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -918,7 +883,14 @@
           "fetchedAt": 1787821425806
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "X-rays come back negative for Jeremy Peña (hand)",
+          "date": "2026-08-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/x-rays-come-back-negative-for-jeremy-pena-hand",
+          "fetchedAt": 1787908848208
+        }
+      ]
     },
     {
       "id": 12375,
@@ -935,14 +907,7 @@
           "fetchedAt": 1787821467396
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Willy Adames (elbow) has moderate UCL sprain",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/willy-adames-elbow-has-moderate-ucl-sprain",
-          "fetchedAt": 1787736099092
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62984,
@@ -1094,14 +1059,7 @@
           "fetchedAt": 1787907887692
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom rocked for eight runs in loss Tuesday",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/jacob-degrom-rocked-for-eight-runs-in-loss-tuesday",
-          "fetchedAt": 1787736099092
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -1117,14 +1075,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Helsey (elbow) progressing toward return",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/ryan-helsey-elbow-progressing-toward-return",
-          "fetchedAt": 1787693020224
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -1285,14 +1236,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray charged with two runs against Pirates",
-          "date": "2026-08-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/robbie-ray-charged-with-two-runs-against-pirates",
-          "fetchedAt": 1787649682447
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
