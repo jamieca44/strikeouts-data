@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-28T21:05:20.092Z",
+  "lastUpdatedNews": "2026-08-28T21:21:33.713Z",
   "players": [
     {
       "id": 11928,
@@ -75,7 +75,14 @@
           "fetchedAt": 1787821450157
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. with three more hits, homer",
+          "date": "2026-08-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/luis-garcia-jr-with-three-more-hits-homer",
+          "fetchedAt": 1787952093713
+        }
+      ]
     },
     {
       "id": 10916,
@@ -540,7 +547,14 @@
           "fetchedAt": 1787864621476
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin notches two hits in loss to Marlins",
+          "date": "2026-08-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/caleb-durbin-notches-two-hits-in-loss-to-marlins",
+          "fetchedAt": 1787952093713
+        }
+      ]
     },
     {
       "id": 12100,
