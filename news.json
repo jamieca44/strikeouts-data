@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-28T09:20:48.208Z",
+  "lastUpdatedNews": "2026-08-28T21:05:20.092Z",
   "players": [
     {
       "id": 11928,
@@ -22,14 +22,6 @@
           "by": "Alvin Garcia",
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/tigers-one-clear-chance-spoil-120005753.html",
-          "fetchedAt": 1787864567728
-        },
-        {
-          "t": "Tigers Starting Lineup Looks to Top AL-Leading Rays in Series Finale",
-          "s": "Here's how the Tiers will roll out on Wednesday's matinee.",
-          "by": "Dominic Minchella",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-starting-lineup-looks-top-150005068.html",
           "fetchedAt": 1787864567728
         }
       ],
@@ -80,22 +72,6 @@
           "by": "Patrick Creighton",
           "when": "10h ago",
           "href": "https://sports.yahoo.com/articles/astros-yankees-game-discussion-8-223000836.html",
-          "fetchedAt": 1787821450157
-        },
-        {
-          "t": "Why the Yankees Can't Afford to Take Luis Garcia Jr.'s Bat Out of the Postseason Lineup",
-          "s": "No matter what, the Yankees must find a way to include Luis Garcia Jr. as a key part of their upcoming plans for the MLB playoffs.",
-          "by": "Joseph Randazzo",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/why-yankees-cant-afford-luis-170004450.html",
-          "fetchedAt": 1787821450157
-        },
-        {
-          "t": "The Yankees and the drawbacks of an unbalanced lineup",
-          "s": "The lack of a right-handed presence near the top of the Yankees' batting order has its drawbacks.",
-          "by": "Estevão Maximo",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-drawbacks-unbalanced-lineup-170000762.html",
           "fetchedAt": 1787821450157
         }
       ],
@@ -197,32 +173,7 @@
       "name": "Mookie Betts",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
-      "yahooNews": [
-        {
-          "t": "Dodgers' Dave Roberts Calls Out 2 Players to Step Up Amid Season-Long Struggles",
-          "s": "Los Angeles Dodgers manage Dave Roberts called out two players to finally step things up following long season slumps.",
-          "by": "Matt Levine",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-dave-roberts-calls-2-210003125.html",
-          "fetchedAt": 1787821454219
-        },
-        {
-          "t": "Dodgers' Dave Roberts Announces Teoscar Hernandez Plan Before Braves Game",
-          "s": "Outfielder Teoscar Hernandez has continued to fall in the Los Angeles Dodgers lineup during the second half.",
-          "by": "Gavin Groe",
-          "when": "12h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-dave-roberts-announces-teoscar-210305844.html",
-          "fetchedAt": 1787821454219
-        },
-        {
-          "t": "Dodgers Turn to Hernández, Betts After Pages Injury",
-          "s": "With Andy Pages sidelined by a fractured left hand, the Los Angeles Dodgers lean on veteran sluggers to stabilize a depleted lineup and ignite their offensive production.",
-          "by": "Eduardo Solano",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-turn-hern-ndez-betts-170041076.html",
-          "fetchedAt": 1787821454219
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Mookie Betts collects two hits in loss to Braves",
@@ -237,7 +188,24 @@
       "name": "Elly De La Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "The Cincinnati Reds' Rebuild Has Failed",
+          "s": "The Cincinnati Reds' Rebuild Has Failed",
+          "by": "Ricky Logan",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-rebuild-failed-131720990.html",
+          "fetchedAt": 1787951070475
+        },
+        {
+          "t": "Reds GM Nick Krall signed his own pink slip with Eugenio Suarez salary dump",
+          "s": "The Cincinnati Reds ought to consider moving on from Nick Krall after waiving Eugenio Suarez and TJ Friedl.",
+          "by": "Zachary Rotman",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reds-gm-nick-krall-signed-150829728.html",
+          "fetchedAt": 1787951070475
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -285,16 +253,7 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [
-        {
-          "t": "Pirates Make Two Outfield Changes for Padres Game",
-          "s": "The Pittsburgh Pirates will have a different outfield look against San Diego.",
-          "by": "Dominic Campbell",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/pirates-two-outfield-changes-padres-185402720.html",
-          "fetchedAt": 1787821403989
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -318,32 +277,7 @@
       "name": "Tarik Skubal",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
-      "yahooNews": [
-        {
-          "t": "Detroit Tigers’ A.J. Hinch Makes Honest Tarik Skubal Statement Before Dodgers Series",
-          "s": "Detroit Tigers manager A.J. Hinch made an honest statement on Dodgers LHP Tarik Skubal ahead of the southpaw's return to Detroit. The post Detroit Tigers’ A.J. Hinch Makes Honest Tarik Skubal Statement Before Dodgers Series appeared first on HEAVY.",
-          "by": "Jackson Kruse",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-j-hinch-makes-193529744.html",
-          "fetchedAt": 1787778277456
-        },
-        {
-          "t": "Tarik Skubal's Tigers return will be epic theater: 'I'm sure he'll be chirping'",
-          "s": "Former Detroit Tigers ace Tarik Skubal will start for Los Angeles Dodgers at Comerica Park on Friday, Aug. 28. \\\"It's pretty weird,\\\" A.J. Hinch said.",
-          "by": "Christian Romo, Detroit Free Press",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-expect-tarik-skubal-chirping-170249561.html",
-          "fetchedAt": 1787778277456
-        },
-        {
-          "t": "Dodgers news: Tarik Skubal's first start back in Detroit vs. Tigers lined up",
-          "s": "The Los Angeles Dodgers have enjoyed the riches of Tarik Skubal since he was traded from the team. They’ll have a matchup against his former team soon, and he’s supposed to start the first game of the series, according to Detroit news sportswriter Chris McCosky. “Tarik Skubal will make his return to Comerica Park with the Dodgers on Friday, […] The post Dodgers news: Tarik Skubal's first start back in Detroit vs. Tigers lined up appeared first on ClutchPoints.",
-          "by": "Malik Brown, ClutchPoints",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-tarik-skubals-first-141946032.html",
-          "fetchedAt": 1787778277456
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -351,7 +285,16 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Minnesota Twins’ Derek Shelton Comments on Kaelen Culpepper’s Success",
+          "s": "Minnesota Twins manager Derek Shelton praised the efforts of Kaelen Culpepper.",
+          "by": "Jesus Jimenez",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/minnesota-twins-derek-shelton-comments-163005061.html",
+          "fetchedAt": 1787951075561
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -399,7 +342,16 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Drew Gilbert crushes leadoff homer to give Giants early lead over D-backs",
+          "s": "San Francisco Giants outfielder Drew Gilbert hits a solo homer in the first inning against the Arizona Diamondbacks on Thursday at Oracle Park.Drew Gilbert crushes leadoff homer to give Giants early lead over D-backs originally appeared on NBC Sports Bay Area",
+          "by": "",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/videos/drew-gilbert-crushes-leadoff-homer-091000240.html",
+          "fetchedAt": 1787951078099
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -415,24 +367,7 @@
       "name": "Braxton Ashcraft",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
-      "yahooNews": [
-        {
-          "t": "Pittsburgh Pirates vs. San Diego Padres: Paul Skenes vs. Michael King",
-          "s": "The Pirates are on the road looking to grab a win today.",
-          "by": "Jeremy Brener",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-san-diego-004000384.html",
-          "fetchedAt": 1787864612136
-        },
-        {
-          "t": "Pirates' Paul Skenes Makes One Massive Improvement vs. Padres",
-          "s": "The Pittsburgh Pirates starting pitcher had his best outing in months.",
-          "by": "Dominic Campbell",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/pirates-paul-skenes-makes-one-130008352.html",
-          "fetchedAt": 1787864612136
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -505,24 +440,7 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [
-        {
-          "t": "Dodgers news: Justin Wrobleski takes step forward amid injury recovery",
-          "s": "The Los Angeles Dodgers have been up and down over the last couple of weeks, recently losing the first game of their series against the Atlanta Braves . The Dodgers have multiple injured players reportedly on the mend, including pitcher Justin Wrobleski, who is currently dealing with a forearm issue. On Wednesday, the Dodgers got a positive update […] The post Dodgers news: Justin Wrobleski takes step forward amid injury recovery appeared first on ClutchPoints.",
-          "by": "Jackson Stone, ClutchPoints",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-justin-wrobleski-takes-192356254.html",
-          "fetchedAt": 1787821444909
-        },
-        {
-          "t": "Dodgers news: Why this insider would be hesitant to make Edwin Diaz closer again",
-          "s": "The Los Angeles Dodgers have been up and down in recent weeks, dropping the first game of their series vs the Atlanta Braves on Tuesday evening. Reliever Edwin Diaz has been on the injured list recently due to a neck issue, which occurred after he struggled following his return from a different injury. Now, MLB insider Tom Verducci broke down why […] The post Dodgers news: Why this insider would be hesitant to make Edwin Diaz closer again appeared first on ClutchPoints.",
-          "by": "Jackson Stone, ClutchPoints",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-why-insider-hesitant-184440106.html",
-          "fetchedAt": 1787821444909
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -530,24 +448,7 @@
       "name": "Jack Flaherty",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
-      "yahooNews": [
-        {
-          "t": "Riley Greene injury update: Tigers OF 'one step forward' in rehab",
-          "s": "Detroit Tigers outfielder Riley Greene took batting practice and performed running drills on Thursday afternoon at Comerica Park.",
-          "by": "Christian Romo, Detroit Free Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/riley-greene-injury-tigers-one-210432316.html",
-          "fetchedAt": 1787864585213
-        },
-        {
-          "t": "Tigers news: Riley Greene injury update is crucial amid postseason push",
-          "s": "The Detroit Tigers are doing everything they can to avoid falling out of the postseason race. The Tigers initially found success after trading Tarik Skubal , but the team is now just 2-8 over its past 10 games. Riley Greene landed on the injured list with a hamstring injury on August 12, and the Tigers have been especially bad during his absence. […] The post Tigers news: Riley Greene injury update is crucial amid postseason push appeared first on ClutchPoints.",
-          "by": "Joey Mistretta, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-injury-205537999.html",
-          "fetchedAt": 1787864585213
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -563,7 +464,32 @@
       "name": "Freddie Freeman",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dodgers Swept by Braves as Concerns Against Top Teams Grow",
+          "s": "The Dodgers lost 1-0 to the Braves, dropping their third straight game and ending up falling short to another World Series contender.",
+          "by": "Nelson Espinal",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-swept-braves-concerns-against-015218799.html",
+          "fetchedAt": 1787951085103
+        },
+        {
+          "t": "Los Angeles Dodgers Announce Sudden Freddie Freeman Decision During Braves Series",
+          "s": "The Los Angeles Dodgers fell 6-5 to the Atlanta Braves on Wednesday night, dropping both games of the series by a combined two runs.On Thursday, however, the Dodgers will send ace Yoshinobu Yamamoto to the mound against Braves ace Chris Sale as they look to avoid a sweep.Ahead of the matchup, Dodgers manager Dave Roberts […] The post Los Angeles Dodgers Announce Sudden Freddie Freeman Decision During Braves Series appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-sudden-221622241.html",
+          "fetchedAt": 1787951085103
+        },
+        {
+          "t": "Los Angeles Dodgers Announce Max Muncy Move Before Braves Series Finale",
+          "s": "The Los Angeles Dodgers have lost each of the first two games of their series against the Atlanta Braves entering Thursday’s finale.The matchup will feature both teams’ aces, with Yoshinobu Yamamoto taking the mound for Los Angeles and Chris Sale starting for Atlanta. Ahead of the game, Dodgers manager Dave Roberts made some notable changes […] The post Los Angeles Dodgers Announce Max Muncy Move Before Braves Series Finale appeared first on HEAVY.",
+          "by": "Cole Sullivan",
+          "when": "22h ago",
+          "href": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-max-223853834.html",
+          "fetchedAt": 1787951085103
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -612,22 +538,6 @@
           "when": "22h ago",
           "href": "https://sports.yahoo.com/articles/boston-red-sox-announce-big-221026997.html",
           "fetchedAt": 1787864621476
-        },
-        {
-          "t": "Red Sox Announce Jarren Duran News During Marlins Series",
-          "s": "The Boston Red Sox are in the middle of a three-game series with the Miami Marlins, with the team taking the opener 4-2.Boston has been one of the better teams in baseball over the last couple of months, overcoming a very slow start to the season. The Red Sox are now in prime position to […] The post Red Sox Announce Jarren Duran News During Marlins Series appeared first on HEAVY.",
-          "by": "Matt Levine",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-announce-jarren-duran-221501382.html",
-          "fetchedAt": 1787864621476
-        },
-        {
-          "t": "Red Sox Reveal Lineup As Boston Chases Sixth Straight Win",
-          "s": "The Red Sox revealed a reshuffled lineup for Wednesday’s series finale as Boston attempts to sweep the Marlins and capture its sixth consecutive victory.",
-          "by": "Rodney Knuppel",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-reveal-lineup-boston-190628273.html",
-          "fetchedAt": 1787864621476
         }
       ],
       "nbcNews": []
@@ -637,7 +547,16 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Otto Lopez Continues to Show Why He's the Marlins' Most Electric Offensive Player",
+          "s": "Miami's speedy infielder can be a force at the plate or on the base paths, and he'll be one of the main spark plug of the Fish's future success",
+          "by": "Ryan Boman",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/otto-lopez-continues-show-why-170004087.html",
+          "fetchedAt": 1787951086961
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -645,7 +564,24 @@
       "name": "Dansby Swanson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Cubs news: Dansby Swanson takes crucial step forward amid injury recovery",
+          "s": "The Chicago Cubs are trying to get healthy at this point in the season, and they’ve gotten some positive updates for some of their players. Dansby Swanson was placed on the 10-day injured list over a week ago after suffering a left oblique strain, but he’s been working his way back on the field. Swanson was recently seen taking some grounders , and […] The post Cubs news: Dansby Swanson takes crucial step forward amid injury recovery appeared first on ClutchPoints.",
+          "by": "Malik Brown, ClutchPoints",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-news-dansby-swanson-takes-190648201.html",
+          "fetchedAt": 1787951088756
+        },
+        {
+          "t": "Cubs news: Chicago get big Matt Shaw update before stretch run",
+          "s": "The Chicago Cubs know that this is one of the most important parts of the season, and they’re going to need all hands on deck if they want the best positioning when the postseason arrives. Matt Shaw is one player who hasn’t been on the field for the Cubs in the past two months as he’s dealt with a sprained left hand , but he’s working his way back. […] The post Cubs news: Chicago get big Matt Shaw update before stretch run appeared first on ClutchPoints.",
+          "by": "Malik Brown, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-news-chicago-big-matt-160321289.html",
+          "fetchedAt": 1787951088756
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -726,16 +662,7 @@
       "name": "Cody Bellinger",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
-      "yahooNews": [
-        {
-          "t": "Red Sox Get Notable Roman Anthony Update Ahead of Yankees Series",
-          "s": "The Boston Red Sox sit at 73-59 after winning five straight games. The gap between Boston and the New York Yankees for the top American League wild-card spot has shrunk to 1.5 games. A four-game showdown in New York begins Friday night.The roster could look different by then. One of the most talented young players […] The post Red Sox Get Notable Roman Anthony Update Ahead of Yankees Series appeared first on HEAVY.",
-          "by": "Keith Watkins",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/red-sox-notable-roman-anthony-142111468.html",
-          "fetchedAt": 1787778275757
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -776,7 +703,16 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Former Angels Outfielder Returns To Anaheim As A Winner",
+          "s": "Los Angeles Angels outfielder Jo Adell returned to Anaheim with the Cleveland Guardians, who are contenders.",
+          "by": "Bob McCullough",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/former-angels-outfielder-returns-anaheim-143537740.html",
+          "fetchedAt": 1787951091104
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -865,24 +801,7 @@
       "name": "Jeremy Peña",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
-      "yahooNews": [
-        {
-          "t": "These Astros players are good as gone as owner Jim Crane cleans house",
-          "s": "Houston Astros owner Jim Crane is cleaning house, but that does not mean he is going to authorize a rebuild. These Astros are good as gone after the season.",
-          "by": "John Perrotto",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/astros-players-good-gone-owner-174153312.html",
-          "fetchedAt": 1787821425806
-        },
-        {
-          "t": "Astros news: Owner Jim Crane breaks silence on Joe Espada exit rumors",
-          "s": "The Houston Astros currently lead the AL West, but it has been a slight struggle this year. This has led Astros owner Jim Crane to move on from GM Dana Brown. The removal of the GM has led to questions of if Astros manager Joe Espada’s job was in jeopardy . Now, Crane is speaking out about the decision to move on from Brown and the future of […] The post Astros news: Owner Jim Crane breaks silence on Joe Espada exit rumors appeared first on ClutchPoints.",
-          "by": "Bryan Logan, ClutchPoints",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/astros-news-owner-jim-crane-162945357.html",
-          "fetchedAt": 1787821425806
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "X-rays come back negative for Jeremy Peña (hand)",
@@ -1066,7 +985,32 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Neighborly Rivalry: Mariners at Blue Jays Series Preview",
+          "s": "The Mariners head to Canada to face the team immediately above them in the Wild Card standings.",
+          "by": "Jake Mailhot",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/neighborly-rivalry-mariners-blue-jays-170000173.html",
+          "fetchedAt": 1787951099874
+        },
+        {
+          "t": "Blue Jays Announce Starting Pitchers for Pivotal Mariners Series",
+          "s": "The Toronto Blue Jays need to start winning games and have a three-game home series against the Seattle Mariners on Friday. The post Blue Jays Announce Starting Pitchers for Pivotal Mariners Series appeared first on HEAVY.",
+          "by": "Cole Shelton",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-announce-starting-pitchers-160428688.html",
+          "fetchedAt": 1787951099874
+        },
+        {
+          "t": "Blue Jays open 3-game series against the Mariners",
+          "s": "Seattle Mariners (64-70, third in the AL West) vs. Toronto Blue Jays (65-70, fifth in the AL East) Toronto; Friday, 7:15 p.m. EDT PITCHING PROBABLES: Mariners: Emerson Hancock (7-7, 3.37 ERA, 1.12 WHIP, 125 strikeouts); Blue Jays: Dylan Cease (8-5, 2.37 ERA, 1.06 WHIP, 209 strikeouts) BOTTOM LINE: The Toronto Blue Jays start a three-game series at home against the Seattle Mariners on Friday. Toronto has a 65-70 record overall and a 34-35 record at home.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-open-3-game-075554967.html",
+          "fetchedAt": 1787951099874
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1115,7 +1059,32 @@
       "name": "Kyle Bradish",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Do the Orioles have enough left in the tank to make a run?",
+          "s": "The pitching is flagging just as the offense is starting to fire on all cylinders.",
+          "by": "Andrea SK",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/orioles-enough-left-tank-run-130000578.html",
+          "fetchedAt": 1787951103279
+        },
+        {
+          "t": "Manager Craig Albernaz Hangs Starter Kyle Bradish Out To Dry, Orioles Barely Win Anyway",
+          "s": "Albernaz has shown repeatedly he has no business running a major league dugout and his handling of Bradish after two seasons marred by elbow problems was another example",
+          "by": "Jason La Canfora",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/manager-craig-albernaz-hangs-starter-032501843.html",
+          "fetchedAt": 1787951103279
+        },
+        {
+          "t": "St. Louis Cardinals vs Baltimore Orioles Game Discussion Wednesday Night",
+          "s": "It’s game 2 of the St. Louis Cardinals playing host to the Baltimore Orioles Wednesday night. Michael McGreevy gets the start for the Cardinals while the Orioles will send Kyle Bradish to the mound. First pitch is scheduled for 6:45pm central time at Busch Stadium while the game broadcast is available via Cardinals.tv.",
+          "by": "Doc Holliday",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-baltimore-232000650.html",
+          "fetchedAt": 1787951103279
+        }
+      ],
       "nbcNews": [
         {
           "t": "Kyle Bradish surrenders seven runs to Cardinals",
@@ -1205,20 +1174,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [
         {
-          "t": "Mariners Game #134 Preview and Discussion: PHI at SEA, 8/26",
-          "s": "Playing with house money",
-          "by": "James Johnston",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-game-134-preview-discussion-195021477.html",
-          "fetchedAt": 1787778273780
+          "t": "Philadelphia Phillies Might Have a New Ace",
+          "s": "The Philadelphia Phillies might have a new ace in their starting rotation.",
+          "by": "Matthew Schmidt",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/philadelphia-phillies-might-ace-155838057.html",
+          "fetchedAt": 1787951117915
         },
         {
-          "t": "Mariners Face High-Stakes Test as Bryan Woo Starts Against the Phillies",
-          "s": "The Mariners need Bryan Woo to look healthy, attack the zone and finish off a Phillies lineup that has scored only three runs in Seattle.",
-          "by": "Tremayne Person",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-face-high-stakes-test-160910378.html",
-          "fetchedAt": 1787778273780
+          "t": "A Phillies world without Kyle Schwarber and Jesús Luzardo is hard to imagine",
+          "s": "Kyle Schwarber and Jesús Luzardo are two reasons the Phillies’ familiar core still looks more alive than stale.",
+          "by": "Cole Weintraub",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/phillies-world-without-kyle-schwarber-070000230.html",
+          "fetchedAt": 1787951117915
+        },
+        {
+          "t": "After a big day, Bryce Harper reflects on a 6-0 win over the Mariners",
+          "s": "Bryce Harper caught up with the guys in the booth after a solid 6-0 win over the Mariners on Wednesday afternoon.After a big day, Bryce Harper reflects on a 6-0 win over the Mariners originally appeared on NBC Sports Philadelphia",
+          "by": "",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/videos/big-day-bryce-harper-reflects-030154815.html",
+          "fetchedAt": 1787951117915
         }
       ],
       "nbcNews": [
@@ -1235,7 +1212,16 @@
       "name": "Robbie Ray",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Padres set to open road series with Rays",
+          "s": "News to know about your San Diego Padres and MLB for August 28, 2026.",
+          "by": "Matt DeWalt",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/padres-set-open-road-series-133000780.html",
+          "fetchedAt": 1787951105130
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1253,12 +1239,28 @@
       "nbcUrl": null,
       "yahooNews": [
         {
-          "t": "GUARDIANS AT ANGELS: Rodriguez vs. Cantillo, discussion",
-          "s": "Let’s get the sweep",
-          "by": "Quincy Wheeler",
-          "when": "56m ago",
-          "href": "https://sports.yahoo.com/articles/guardians-angels-rodriguez-vs-cantillo-200800060.html",
-          "fetchedAt": 1787778269733
+          "t": "Guardians News – Seven in a Row",
+          "s": "Morning News for Thursday, August 27th, 2026",
+          "by": "Nicole Williams",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-news-seven-row-120000680.html",
+          "fetchedAt": 1787951116097
+        },
+        {
+          "t": "Joey Cantillo Posts Weird Final Line, But Guardians Take Seventh Straight vs. Angels",
+          "s": "On Wednesday, August 26, Cleveland Guardians starting pitcher Joey Cantillo did exactly that, pitching through six innings and helping the team pull off a comeback victory over the Los Angeles Angels, 4-3.",
+          "by": "Cade Cracas",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/joey-cantillo-posts-weird-final-115210522.html",
+          "fetchedAt": 1787951116097
+        },
+        {
+          "t": "The Guardiac Kids strike again! Comeback to Sweep the Angels",
+          "s": "How sweep it is",
+          "by": "Jake Brahney",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardiac-kids-strike-again-comeback-003811704.html",
+          "fetchedAt": 1787951116097
         }
       ],
       "nbcNews": []
@@ -1335,6 +1337,14 @@
           "fetchedAt": 1787907889413
         }
       ],
+      "nbcNews": []
+    },
+    {
+      "id": 60570,
+      "name": "Steven Cruz",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60570.png",
+      "nbcUrl": null,
+      "yahooNews": [],
       "nbcNews": []
     }
   ]
