@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-29T09:03:34.930Z",
+  "lastUpdatedNews": "2026-08-29T09:20:34.137Z",
   "players": [
     {
       "id": 11928,
@@ -155,7 +155,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Donovan (concussion) not quite ready to return",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/donovan-concussion-not-quite-ready-to-return",
+          "fetchedAt": 1787995234137
+        }
+      ]
     },
     {
       "id": 9552,
@@ -237,14 +244,7 @@
           "fetchedAt": 1787994211140
         }
       ],
-      "nbcNews": [
-        {
-          "t": "José Ramírez drives in five in extra-inning win",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/jose-ramirez-drives-in-five-in-extra-inning-win",
-          "fetchedAt": 1787779252759
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -326,7 +326,14 @@
           "fetchedAt": 1787994175638
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal fans seven in return to Detroit",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/tarik-skubal-fans-seven-in-return-to-detroit",
+          "fetchedAt": 1787995234137
+        }
+      ]
     },
     {
       "id": 11847,
@@ -474,14 +481,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Wells locks down save in win over Tigers",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/wells-locks-down-save-in-win-over-tigers",
-          "fetchedAt": 1787779252759
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -572,7 +572,14 @@
           "fetchedAt": 1787951085103
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman delivers in eighth in Dodgers’ win",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/freddie-freeman-delivers-in-eighth-in-dodgers-win",
+          "fetchedAt": 1787995234137
+        }
+      ]
     },
     {
       "id": 64311,
@@ -605,14 +612,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin notches two hits in loss to Marlins",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/caleb-durbin-notches-two-hits-in-loss-to-marlins",
-          "fetchedAt": 1787952093713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -720,14 +720,7 @@
           "fetchedAt": 1787907885943
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill collects two extra-base hits in afternoon victory",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/jackson-merrill-collects-two-extra-base-hits-in-afternoon-victory",
-          "fetchedAt": 1787822488880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -876,14 +869,7 @@
           "fetchedAt": 1787907882741
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cole Young getting a day off on Wednesday",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/cole-young-getting-a-day-off-on-wednesday",
-          "fetchedAt": 1787779252759
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -956,14 +942,7 @@
           "fetchedAt": 1787864590497
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Matt Shaw (hand) steals base in rehab contest",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/matt-shaw-hand-steals-base-in-rehab-contest",
-          "fetchedAt": 1787822488880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -1035,12 +1014,6 @@
           "date": "2026-08-27",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/jenkins-homers-in-aaa-hitting-411-in-august",
           "fetchedAt": 1787865654572
-        },
-        {
-          "t": "Byron Buxton (hip) out Wednesday against A’s",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/byron-buxton-hip-out-wednesday-against-as",
-          "fetchedAt": 1787865654572
         }
       ]
     },
@@ -1108,7 +1081,14 @@
           "fetchedAt": 1787951099874
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cease strikes out eight and wins ninth game",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/cease-strikes-out-eight-and-wins-ninth-game",
+          "fetchedAt": 1787995234137
+        }
+      ]
     },
     {
       "id": 10946,
@@ -1255,14 +1235,7 @@
           "fetchedAt": 1787907868855
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Peralta dominates Tigers over six innings in win",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/peralta-dominates-tigers-over-six-innings-in-win",
-          "fetchedAt": 1787779252759
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -1295,14 +1268,7 @@
           "fetchedAt": 1787951117915
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo fans nine in win over Mariners",
-          "date": "2026-08-26",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-26/jesus-luzardo-dominates-in-seattle",
-          "fetchedAt": 1787822488880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
