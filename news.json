@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-29T21:04:37.433Z",
+  "lastUpdatedNews": "2026-08-29T21:20:45.742Z",
   "players": [
     {
       "id": 11928,
@@ -33,7 +33,14 @@
           "fetchedAt": 1788037462342
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Eduardo Valencia hitting fifth against Dodgers",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/eduardo-valencia-hitting-fifth-against-dodgers",
+          "fetchedAt": 1788038445742
+        }
+      ]
     },
     {
       "id": 10621,
@@ -688,7 +695,14 @@
           "fetchedAt": 1787907881265
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong has three-homer game in rout",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/pete-crow-armstrong-has-three-homer-game-in-rout",
+          "fetchedAt": 1788038445742
+        }
+      ]
     },
     {
       "id": 12522,
@@ -713,7 +727,14 @@
           "fetchedAt": 1787907885943
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill hits 22nd homer in loss to Rays",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/jackson-merrill-hits-22nd-homer-in-loss-to-rays",
+          "fetchedAt": 1788038445742
+        }
+      ]
     },
     {
       "id": 10504,
@@ -779,7 +800,14 @@
           "fetchedAt": 1788037471420
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene (hamstring) starts rehab assignment",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/riley-greene-hamstring-starts-rehab-assignment",
+          "fetchedAt": 1788038445742
+        }
+      ]
     },
     {
       "id": 10496,
@@ -935,7 +963,14 @@
           "fetchedAt": 1788037464380
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Matt Shaw (hand) back off the injured list",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/matt-shaw-hand-back-off-the-injured-list",
+          "fetchedAt": 1788038445742
+        }
+      ]
     },
     {
       "id": 63537,
