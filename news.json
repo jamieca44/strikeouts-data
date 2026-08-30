@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-30T09:07:41.272Z",
+  "lastUpdatedNews": "2026-08-30T09:21:24.894Z",
   "players": [
     {
       "id": 11928,
@@ -38,7 +38,7 @@
           "t": "Eduardo Valencia hitting fifth against Dodgers",
           "date": "2026-08-29",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/eduardo-valencia-hitting-fifth-against-dodgers",
-          "fetchedAt": 1788038445742
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -106,14 +106,7 @@
           "fetchedAt": 1787994209374
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. with three more hits, homer",
-          "date": "2026-08-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/luis-garcia-jr-with-three-more-hits-homer",
-          "fetchedAt": 1787952093713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -210,7 +203,7 @@
           "t": "Donovan (concussion) not quite ready to return",
           "date": "2026-08-28",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/donovan-concussion-not-quite-ready-to-return",
-          "fetchedAt": 1787995234137
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -229,14 +222,7 @@
           "fetchedAt": 1787994168795
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts collects two hits in loss to Braves",
-          "date": "2026-08-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/mookie-betts-collects-two-hits-in-loss-to-braves",
-          "fetchedAt": 1787908848208
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -327,7 +313,14 @@
           "fetchedAt": 1788080751773
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo hits home run, steals base in loss",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/brandon-nimmo-hits-home-run-steals-base-in-loss",
+          "fetchedAt": 1788081684894
+        }
+      ]
     },
     {
       "id": 12086,
@@ -373,7 +366,7 @@
           "t": "Tarik Skubal fans seven in return to Detroit",
           "date": "2026-08-28",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/tarik-skubal-fans-seven-in-return-to-detroit",
-          "fetchedAt": 1787995234137
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -408,14 +401,7 @@
           "fetchedAt": 1788080757018
         }
       ],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore pulled in fourth against White Sox",
-          "date": "2026-08-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/mackenzie-gore-pulled-in-fourth-against-white-sox",
-          "fetchedAt": 1787822488880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -610,7 +596,7 @@
           "t": "Freddie Freeman delivers in eighth in Dodgers’ win",
           "date": "2026-08-28",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/freddie-freeman-delivers-in-eighth-in-dodgers-win",
-          "fetchedAt": 1787995234137
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -716,7 +702,7 @@
           "t": "Pete Crow-Armstrong has three-homer game in rout",
           "date": "2026-08-29",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/pete-crow-armstrong-has-three-homer-game-in-rout",
-          "fetchedAt": 1788038445742
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -813,7 +799,7 @@
           "t": "Riley Greene (hamstring) starts rehab assignment",
           "date": "2026-08-29",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/riley-greene-hamstring-starts-rehab-assignment",
-          "fetchedAt": 1788038445742
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -891,10 +877,10 @@
       ],
       "nbcNews": [
         {
-          "t": "X-rays come back negative for Jeremy Peña (hand)",
-          "date": "2026-08-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/x-rays-come-back-negative-for-jeremy-pena-hand",
-          "fetchedAt": 1787908848208
+          "t": "Jeremy Peña in Astros lineup following HBP",
+          "date": "2026-08-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/jeremy-pena-in-astros-lineup-following-hbp",
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -1027,14 +1013,7 @@
           "fetchedAt": 1788037465951
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jenkins homers in AAA, hitting .411 in August",
-          "date": "2026-08-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/jenkins-homers-in-aaa-hitting-411-in-august",
-          "fetchedAt": 1787865654572
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -1089,7 +1068,7 @@
           "t": "Cease strikes out eight and wins ninth game",
           "date": "2026-08-28",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/cease-strikes-out-eight-and-wins-ninth-game",
-          "fetchedAt": 1787995234137
+          "fetchedAt": 1788081684894
         }
       ]
     },
@@ -1132,7 +1111,14 @@
           "fetchedAt": 1788080779912
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez strikes out eight in no-decision",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/cristopher-sanchez-strikes-out-eight-in-no-decision",
+          "fetchedAt": 1788081684894
+        }
+      ]
     },
     {
       "id": 12345,
@@ -1149,14 +1135,7 @@
           "fetchedAt": 1787951103279
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish surrenders seven runs to Cardinals",
-          "date": "2026-08-27",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-27/kyle-bradish-surrenders-seven-runs-to-cardinals",
-          "fetchedAt": 1787822488880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
