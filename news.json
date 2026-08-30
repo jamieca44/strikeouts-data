@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-30T21:04:47.947Z",
+  "lastUpdatedNews": "2026-08-30T21:21:10.630Z",
   "players": [
     {
       "id": 11928,
@@ -82,7 +82,20 @@
           "fetchedAt": 1787994209374
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García has three hits in win over Red Sox",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/luis-garcia-has-three-hits-in-win-over-red-sox",
+          "fetchedAt": 1788124870630
+        },
+        {
+          "t": "Jazz Chisholm Jr. takes a seat against lefty",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/jazz-chisholm-jr-takes-a-seat-against-lefty",
+          "fetchedAt": 1788124870630
+        }
+      ]
     },
     {
       "id": 10916,
@@ -90,7 +103,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis goes hitless, sees OPS drop below .700",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/royce-lewis-goes-hitless-sees-ops-drop-below-700",
+          "fetchedAt": 1788124870630
+        }
+      ]
     },
     {
       "id": 12550,
@@ -427,7 +447,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker converts 39th save against Padres",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/bryan-baker-converts-39th-save-against-padres",
+          "fetchedAt": 1788124870630
+        }
+      ]
     },
     {
       "id": 10214,
@@ -566,7 +593,14 @@
           "fetchedAt": 1788123852405
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Otto Lopez smacks two-run homer in comeback win",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/otto-lopez-smacks-two-run-homer-in-comeback-win",
+          "fetchedAt": 1788124870630
+        }
+      ]
     },
     {
       "id": 10234,
@@ -671,7 +705,14 @@
           "fetchedAt": 1787994187174
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger sits for nightcap against Red Sox",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/cody-bellinger-sits-for-nightcap-against-red-sox",
+          "fetchedAt": 1788124870630
+        }
+      ]
     },
     {
       "id": 11760,
@@ -907,7 +948,26 @@
           "fetchedAt": 1788037465951
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins doubles, steals base in loss",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/walker-jenkins-doubles-steals-base-in-loss",
+          "fetchedAt": 1788124870630
+        },
+        {
+          "t": "Byron Buxton (hip) out again, Walker Jenkins in CF",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/byron-buxton-hip-out-again-walker-jenkins-in-cf",
+          "fetchedAt": 1788124870630
+        },
+        {
+          "t": "Walker Jenkins goes 1-for-3, singles in MLB debut",
+          "date": "2026-08-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/walker-jenkins-goes-1-for-3-singles-in-mlb-debut",
+          "fetchedAt": 1788124870630
+        }
+      ]
     },
     {
       "id": 9701,
