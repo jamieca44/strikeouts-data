@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-31T09:05:45.574Z",
+  "lastUpdatedNews": "2026-08-31T09:21:10.475Z",
   "players": [
     {
       "id": 11928,
@@ -143,14 +143,7 @@
           "fetchedAt": 1788167095382
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Donovan (concussion) not quite ready to return",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/donovan-concussion-not-quite-ready-to-return",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -191,7 +184,20 @@
           "fetchedAt": 1788167097060
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz departs with quad tightness",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/elly-de-la-cruz-departs-with-quad-tightness",
+          "fetchedAt": 1788168070475
+        },
+        {
+          "t": "Elly De La Cruz comes out of game in seventh",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/elly-de-la-cruz-comes-out-of-game-in-seventh",
+          "fetchedAt": 1788168070475
+        }
+      ]
     },
     {
       "id": 9507,
@@ -208,7 +214,14 @@
           "fetchedAt": 1788123837749
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez hits first homer since June 6",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jose-ramirez-hits-first-homer-since-june-6",
+          "fetchedAt": 1788168070475
+        }
+      ]
     },
     {
       "id": 10577,
@@ -273,7 +286,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz has easy nine against Brewers",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jacob-latz-has-easy-nine-against-brewers",
+          "fetchedAt": 1788168070475
+        }
+      ]
     },
     {
       "id": 11763,
@@ -306,14 +326,7 @@
           "fetchedAt": 1788167141452
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal fans seven in return to Detroit",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/tarik-skubal-fans-seven-in-return-to-detroit",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -363,7 +376,14 @@
           "fetchedAt": 1788080856447
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns strikes out seven Cubs, gets 15th win",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/chase-burns-strikes-out-seven-cubs-gets-15th-win",
+          "fetchedAt": 1788168070475
+        }
+      ]
     },
     {
       "id": 11203,
@@ -404,7 +424,14 @@
           "fetchedAt": 1788167143188
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft downs Cardinals for 14th win",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/braxton-ashcraft-downs-cardinals-for-14th-win",
+          "fetchedAt": 1788168070475
+        }
+      ]
     },
     {
       "id": 60238,
@@ -517,14 +544,7 @@
           "fetchedAt": 1788080827087
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman delivers in eighth in Dodgers’ win",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/freddie-freeman-delivers-in-eighth-in-dodgers-win",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -645,14 +665,7 @@
           "fetchedAt": 1788080801539
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill hits 22nd homer in loss to Rays",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/jackson-merrill-hits-22nd-homer-in-loss-to-rays",
-          "fetchedAt": 1788038445742
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -789,14 +802,7 @@
           "fetchedAt": 1788167123693
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña in Astros lineup following HBP",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/jeremy-pena-in-astros-lineup-following-hbp",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -821,14 +827,7 @@
           "fetchedAt": 1788037464380
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Matt Shaw (hand) back off the injured list",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/matt-shaw-hand-back-off-the-injured-list",
-          "fetchedAt": 1788038445742
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -971,14 +970,7 @@
           "fetchedAt": 1788080859438
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cease strikes out eight and wins ninth game",
-          "date": "2026-08-28",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-28/cease-strikes-out-eight-and-wins-ninth-game",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -1133,7 +1125,14 @@
           "fetchedAt": 1788123882504
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray throws a quality start in Tampa",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/robbie-ray-throws-a-quality-start-in-tampa",
+          "fetchedAt": 1788168070475
+        }
+      ]
     },
     {
       "id": 9727,
