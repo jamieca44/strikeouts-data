@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-31T21:05:04.925Z",
+  "lastUpdatedNews": "2026-08-31T21:20:57.296Z",
   "players": [
     {
       "id": 11928,
@@ -586,7 +586,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman reaches four times versus Tigers",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/freddie-freeman-reaches-four-times-versus-tigers",
+          "fetchedAt": 1788211257296
+        }
+      ]
     },
     {
       "id": 64311,
@@ -786,7 +793,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "M’s transfer Colt Emerson (wrist) to 60-day IL",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/ms-transfer-colt-emerson-wrist-to-60-day-il",
+          "fetchedAt": 1788211257296
+        }
+      ]
     },
     {
       "id": 8996,
@@ -852,7 +866,14 @@
           "fetchedAt": 1788167123693
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña’s homer helps Astros defeat Mets",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jeremy-penas-homer-helps-astros-defeat-mets",
+          "fetchedAt": 1788211257296
+        }
+      ]
     },
     {
       "id": 12375,
@@ -1009,7 +1030,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish has start pushed back to Tuesday",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/kyle-bradish-has-start-pushed-back-to-tuesday",
+          "fetchedAt": 1788211257296
+        }
+      ]
     },
     {
       "id": 9121,
