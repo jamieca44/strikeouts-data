@@ -1,22 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-30T21:21:10.630Z",
+  "lastUpdatedNews": "2026-08-31T09:05:45.574Z",
   "players": [
     {
       "id": 11928,
       "name": "Dillon Dingler",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
-      "yahooNews": [
-        {
-          "t": "Tarik Skubal’s Former Tigers Teammates Send Shots Ahead of Detroit Return With Dodgers",
-          "s": "Dodgers superstar Tarik Skubal is only a few weeks into his time with LA, but he is headed back to Detriot to face his old teammates.",
-          "by": "Nelson Espinal",
-          "when": "23h ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-former-tigers-teammates-214347250.html",
-          "fetchedAt": 1788037462342
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Eduardo Valencia hitting fifth against Dodgers",
@@ -31,32 +22,7 @@
       "name": "Vladimir Guerrero Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
-      "yahooNews": [
-        {
-          "t": "Seattle Mariners Announce Cal Raleigh Decision Before Blue Jays Series",
-          "s": "The Seattle Mariners are coming off a series victory over the Philadelphia Phillies earlier this week.It was easily the best stretch of the season for Mariners slugger Cal Raleigh, who has faced some challenges in 2026 after an historic 2025 campaign in which he led the majors with 60 home runs and 125 RBIs.Raleigh hit […] The post Seattle Mariners Announce Cal Raleigh Decision Before Blue Jays Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "21h ago",
-          "href": "https://sports.yahoo.com/articles/seattle-mariners-announce-cal-raleigh-233815117.html",
-          "fetchedAt": 1788037473737
-        },
-        {
-          "t": "Vlad Bats Third v SEA",
-          "s": "The Toronto Blue Jays built some great momentum in August, but after going 1-3 in their last four games, the team once again find themselves sitting in last place in the American League East standings.However, in the Wild Card chase, the Blue Jays are still within striking distance, sitting just 3.5 games back of the […] The post Blue Jays Make Vladimir Guerrero Jr. Decision Ahead of Mariners Matchup appeared first on HEAVY.",
-          "by": "Nathan Smith",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-vladimir-guerrero-jr-223240650.html",
-          "fetchedAt": 1788037473737
-        },
-        {
-          "t": "Mariners @ Jays Game Thread",
-          "s": "Just be a better game than yesterday’s game. It is a simple ask. Admittedly, it would be hard to be worse. The season has me thinking about the value of hitting coaches. The Jays had a disappointing 2024 season, and reshaped the hitting coaching staff. And last year they hit well. Lots of praise to […]",
-          "by": "tom dakers",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/mariners-jays-game-thread-224700642.html",
-          "fetchedAt": 1788037473737
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -64,24 +30,7 @@
       "name": "Luis García Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
-      "yahooNews": [
-        {
-          "t": "Garcia Jr. Misses Start",
-          "s": "The New York Yankees are gearing up for a massive series against the Boston Red Sox. The Red Sox are only two games behind them for the top wild card spot in the American League, so it is important for New York to win this series.The Yankees have now revealed their batting order for their […] The post New York Yankees Announce Sudden Luis Garcia Jr. News Before Red Sox Series appeared first on HEAVY.",
-          "by": "Michael DeRosa",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-announce-sudden-luis-222801864.html",
-          "fetchedAt": 1787994209374
-        },
-        {
-          "t": "New York Yankees Announce George Lombard Jr. Change Before Red Sox Series",
-          "s": "The New York Yankees are back home in the Bronx preparing for a massive divisional series against the Boston Red Sox on Friday night.New York currently owns the second-best record in the American League behind only the Tampa Bay Rays. However, Boston sits just two games behind the Yankees in the standings.Ahead of Friday’s matchup, […] The post New York Yankees Announce George Lombard Jr. Change Before Red Sox Series appeared first on HEAVY.",
-          "by": "Cole Sullivan",
-          "when": "10h ago",
-          "href": "https://sports.yahoo.com/articles/york-yankees-announce-george-lombard-224942466.html",
-          "fetchedAt": 1787994209374
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Luis García has three hits in win over Red Sox",
@@ -184,7 +133,16 @@
       "name": "Brendan Donovan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Donovan Trade Success",
+          "s": "The St. Louis Cardinals made a tough decision to trade Brendan Donovan. But it was the right call.",
+          "by": "Patrick McAvoy",
+          "when": "19h ago",
+          "href": "https://sports.yahoo.com/articles/cardinals-brendan-donovan-trade-keeps-132421747.html",
+          "fetchedAt": 1788167095382
+        }
+      ],
       "nbcNews": [
         {
           "t": "Donovan (concussion) not quite ready to return",
@@ -199,16 +157,7 @@
       "name": "Mookie Betts",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
-      "yahooNews": [
-        {
-          "t": "The Dodgers’ Shohei Ohtani Problem Bodes Poorly for Playoff Seeding",
-          "s": "Los Angeles Dodgers superstar Shohei Ohtani is in the midst of a significant slump in the back half of August.",
-          "by": "Cameron Kiszla",
-          "when": "7h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-shohei-ohtani-problem-bodes-020002801.html",
-          "fetchedAt": 1787994168795
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -216,7 +165,32 @@
       "name": "Elly De La Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Reds news: Terry Francona hints at Elly De La Cruz injury status for Padres series",
+          "s": "The Cincinnati Reds picked up a big win over Pete Crow-Armstrong and the Chicago Cubs . However, the win was tarnished a bit by the unfortunate situation around Elly De La Cruz. The superstar Reds shortstop left Sunday’s game early with an injury. It’s concerning any time a player exits a contest with some sort of injury. Fans were naturally […] The post Reds news: Terry Francona hints at Elly De La Cruz injury status for Padres series appeared first on ClutchPoints.",
+          "by": "Tristin McKinstry, ClutchPoints",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/reds-news-terry-francona-hints-034053197.html",
+          "fetchedAt": 1788167097060
+        },
+        {
+          "t": "Reds Get Encouraging Update on Elly De La Cruz After Injury Scare",
+          "s": "Reds Get Encouraging Update on Elly De La Cruz After Injury Scare",
+          "by": "Greg Kuffner",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/reds-encouraging-elly-la-cruz-032643586.html",
+          "fetchedAt": 1788167097060
+        },
+        {
+          "t": "De La Cruz's Quad Woes",
+          "s": "Reds Suffer Potentially Major Injury Blow During Sunday Night Game vs. Cubs",
+          "by": "Ricky Logan",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/reds-suffer-potentially-major-injury-022733964.html",
+          "fetchedAt": 1788167097060
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -308,28 +282,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [
         {
-          "t": "Dodgers’ Tarik Skubal Shines in First Outing Against Former Tigers Team",
-          "s": "The Los Angeles Dodgers began their weekend series with the Detroit Tigers on Friday evening, and one piece of news that did not get lost in headlines was former Tigers starter (and 2X Cy Young Award winner) Tarik Skubal making his return to Comerica Park for the first time as a non-member of Detroit. As […] The post Dodgers’ Tarik Skubal Shines in First Outing Against Former Tigers Team appeared first on HEAVY.",
-          "by": "TJ French",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-shines-first-042538475.html",
-          "fetchedAt": 1787994175638
+          "t": "Clark's Historic Triple",
+          "s": "Max Clark adjusted against Tarik Skubal and recorded Detroit’s third-fastest home-to-third time of the Statcast era. The post Max Clark Did Something Almost No Tigers Runner Has Done in the Statcast Era appeared first on HEAVY.",
+          "by": "Alvin Garcia",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/max-clark-did-something-almost-214935603.html",
+          "fetchedAt": 1788167141452
         },
         {
-          "t": "Skubal's Six Innings",
-          "s": "Tarik Skubal’s dominant start against the Detroit Tigers, along with Freddie Freeman and Miguel Rojas's clutch hits, ended the Los Angeles Dodgers three-game losing streak.",
-          "by": "Jordon Lawrenz",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/skubals-stellar-start-vs-tigers-030844999.html",
-          "fetchedAt": 1787994175638
+          "t": "Skubal Takes Espresso",
+          "s": "An espresso machine that was beloved in Detroit's clubhouse made the trek with Skubal to Los Angeles.",
+          "by": "Jason Owens",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/mlb/article/tarik-skubal-says-his-wife-made-him-take-his-espresso-machine-from-tigers-clubhouse-to-los-angeles-184711340.html",
+          "fetchedAt": 1788167141452
         },
         {
-          "t": "Skubal's Detroit Comedy",
-          "s": "On Friday, Tarik Skubal returned to Detroit as part of the Los Angeles Dodgers. He came away victorious with a 2-1 win in which he pitched six innings and recorded seven strikeouts. Meanwhile, Skubal had to deal with fans of his former team now opposing him. During the game, when his name was mentioned, roars reverberated. However, it is not […] The post Dodgers news: Tarik Skubal drops hilarious admission about big reaction from Tigers fans appeared first on ClutchPoints.",
-          "by": "Zachary Draves, ClutchPoints",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-tarik-skubal-drops-032546896.html",
-          "fetchedAt": 1787994175638
+          "t": "Tarik Skubal explained why he took the espresso machine he had gifted for Tigers clubhouse",
+          "s": "Spencer Torkelson was understandably devastated.",
+          "by": "Andrew Joseph, For The Win",
+          "when": "14h ago",
+          "href": "https://sports.yahoo.com/articles/tarik-skubal-explained-why-took-184551156.html",
+          "fetchedAt": 1788167141452
         }
       ],
       "nbcNews": [
@@ -406,12 +380,28 @@
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [
         {
-          "t": "Pittsburgh Pirates vs. St. Louis Cardinals: Jared Jones vs. Quinn Mathews",
+          "t": "Pirates hold on to take series with rubber match win vs. Cardinals",
+          "s": "The Pirates concluded a nine-game road trip with a series win by holding on to beat the Cardinals 5-4 on Sunday afternoon at Busch Stadium.",
+          "by": "Danny Demilio",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/pirates-hold-series-rubber-match-232302591.html",
+          "fetchedAt": 1788167143188
+        },
+        {
+          "t": "Ashcraft's Time",
           "s": "The Pirates are on the road looking to grab a win today.",
           "by": "Jeremy Brener",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-st-louis-231500587.html",
-          "fetchedAt": 1787994178730
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-st-louis-171500043.html",
+          "fetchedAt": 1788167143188
+        },
+        {
+          "t": "St. Louis Cardinals vs Pittsburgh Pirates Game Discussion Sunday",
+          "s": "The St. Louis Cardinals wrap up their homestand before a long west coast swing as they’ll host the Pirates again on Sunday. Matthew Liberatore will give it a go for the Cardinals while the Pirates will start Braxton Ashcraft. First pitch is set for 1:15pm at Busch Stadium and the game broadcast will be available […]",
+          "by": "Doc Holliday",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-pittsburgh-180000217.html",
+          "fetchedAt": 1788167143188
         }
       ],
       "nbcNews": []
@@ -421,16 +411,7 @@
       "name": "Emmet Sheehan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yahooNews": [
-        {
-          "t": "Tarik Skubal wipes away tears in return to Detroit, then throws 6 strong innings for Dodgers",
-          "s": "Tarik Skubal returned to Comerica Park 26 days after the biggest move of the MLB trade deadline.",
-          "by": "Jack Baer",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/mlb/article/tarik-skubal-wipes-away-tears-in-return-to-detroit-then-throws-6-strong-innings-for-dodgers-004035729.html",
-          "fetchedAt": 1788037469687
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -461,16 +442,7 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [
-        {
-          "t": "Dodgers news: Dave Roberts still undecided on Shohei Ohtani's next start",
-          "s": "Shohei Ohtani’s return to the mound remains up in the air. Dodgers manager Dave Roberts said it is still undecided whether the two-way superstar will start Sunday’s series finale against the Detroit Tigers, keeping Los Angeles and the rest of the baseball world waiting a little longer. Ohtani threw a 20-pitch bullpen session ahead of the Dodgers’ […] The post Dodgers news: Dave Roberts still undecided on Shohei Ohtani's next start appeared first on ClutchPoints.",
-          "by": "Miguel La Torre, ClutchPoints",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-dave-roberts-still-023656091.html",
-          "fetchedAt": 1787994181955
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -478,7 +450,32 @@
       "name": "Jack Flaherty",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Riley Greene injury update: Tigers hoping to get OF back Tuesday",
+          "s": "Detroit Tigers outfielder Riley Greene will play another minor league rehab game as he aims to return by next week.",
+          "by": "Christian Romo, Detroit Free Press",
+          "when": "16h ago",
+          "href": "https://sports.yahoo.com/articles/riley-greene-injury-tigers-hoping-163106875.html",
+          "fetchedAt": 1788167108613
+        },
+        {
+          "t": "Tigers news: Riley Greene set for big step forward amid injury recovery",
+          "s": "The Detroit Tigers placed Riley Greene on the 10-day IL with a right hamstring strain in early-mid August. With the club set to take on the Los Angeles Dodgers on Saturday, the organization received an inspiring injury update regarding Greene’s recovery. Reports indicate that the 25-year-old left fielder will begin his rehab assignment at Triple-A […] The post Tigers news: Riley Greene set for big step forward amid injury recovery appeared first on ClutchPoints.",
+          "by": "Benedetto Vitale, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-set-162200470.html",
+          "fetchedAt": 1788167108613
+        },
+        {
+          "t": "Riley Greene Begins Minor League Rehab Assignment, Could Return to Tigers Soon",
+          "s": "The Detroit Tigers have mapped out Riley Greene's final steps toward a return as the All-Star outfielder works his way back from injury.",
+          "by": "Miracle Dimwesh",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/riley-greene-begins-minor-league-174450086.html",
+          "fetchedAt": 1788167108613
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -534,24 +531,7 @@
       "name": "Travis Bazzana",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
-      "yahooNews": [
-        {
-          "t": "Bazzana's Fielding Growth",
-          "s": "Travis Bazzana has never been known as a plus defender, but he's doing his best to change that narrative.",
-          "by": "",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/videos/guardians-travis-bazzana-making-clear-224521827.html",
-          "fetchedAt": 1788037475713
-        },
-        {
-          "t": "Guardians’ Travis Bazzana Making Clear Growth in Key Area",
-          "s": "Travis Bazzana has never been known as a plus defender, but he's doing his best to change that narrative.",
-          "by": "Tommy Wild",
-          "when": "22h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-travis-bazzana-making-clear-224521902.html",
-          "fetchedAt": 1788037475713
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -679,32 +659,7 @@
       "name": "Cody Bellinger",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
-      "yahooNews": [
-        {
-          "t": "Bellinger's Arm Saves NY",
-          "s": "It is not yet October, but if this is what it is going to be like for the Yankees, it may be time to load up on the antacids.",
-          "by": "Greg Joyce",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-stymie-blazing-red-sox-023557580.html",
-          "fetchedAt": 1787994187174
-        },
-        {
-          "t": "Yankees win with the bare minimum behind brilliant pitching, a familiar territory",
-          "s": "The Yanks only mustered one run, but Cam Schlittler, the bullpen, and Cody Bellinger’s arm held it up.",
-          "by": "Estevão Maximo",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-win-bare-minimum-behind-022429038.html",
-          "fetchedAt": 1787994187174
-        },
-        {
-          "t": "Cam Schlittler dominates Red Sox again as Yankees edge Boston, 1-0",
-          "s": "Cam Schlittler struck out eight and continued his dominance of the Red Sox as Paul Goldschmidt's solo home run lifted the Yankees to a 1-0 victory in a crucial AL East showdown.",
-          "by": "Garrett Stepien",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/cam-schlittler-dominates-red-sox-021355987.html",
-          "fetchedAt": 1787994187174
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Cody Bellinger sits for nightcap against Red Sox",
@@ -734,14 +689,6 @@
           "by": "Benedetto Vitale, ClutchPoints",
           "when": "4h ago",
           "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-set-162200470.html",
-          "fetchedAt": 1788037471420
-        },
-        {
-          "t": "Tarik Skubal wipes away tears in return to Detroit, then throws 6 strong innings for Dodgers",
-          "s": "Tarik Skubal returned to Comerica Park 26 days after the biggest move of the MLB trade deadline.",
-          "by": "Jack Baer",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/mlb/article/tarik-skubal-wipes-away-tears-in-return-to-detroit-then-throws-6-strong-innings-for-dodgers-004035729.html",
           "fetchedAt": 1788037471420
         }
       ],
@@ -775,16 +722,7 @@
       "name": "Colt Emerson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
-      "yahooNews": [
-        {
-          "t": "Detroit Tigers Announce Kevin McGonigle Change Before Dodgers Series",
-          "s": "The Detroit Tigers announced a lineup change involving Kevin McGonigle ahead of Friday's highly anticipated game against the Dodgers. The post Detroit Tigers Announce Kevin McGonigle Change Before Dodgers Series appeared first on HEAVY.",
-          "by": "Jackson Kruse",
-          "when": "11h ago",
-          "href": "https://sports.yahoo.com/articles/detroit-tigers-announce-kevin-mcgonigle-215349140.html",
-          "fetchedAt": 1787994190839
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -825,7 +763,32 @@
       "name": "Jeremy Peña",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Mets Falter vs Astros",
+          "s": "Jeremy Peña's leadoff homer and Lamonte Wade Jr.'s go-ahead homer lead the Astros to a 6-3 win over the Mets",
+          "by": "",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/videos/pe-wade-homer-astros-6-233247217.html",
+          "fetchedAt": 1788167123693
+        },
+        {
+          "t": "Wade’s pinch-hit homer helps first-place Astros power past Mets 6-3",
+          "s": "With Houston trailing 3-2, Wade launched a pitch from Jonathan Pintaro (0-1) for the third pinch-hit homer of his career and his first since April 2, 2025, while with San Francisco.",
+          "by": "Associated Press",
+          "when": "9h ago",
+          "href": "https://sports.yahoo.com/articles/wade-pinch-hit-homer-helps-232304270.html",
+          "fetchedAt": 1788167123693
+        },
+        {
+          "t": "Mets drop series to Astros with 6-3 loss despite strong start from Zac Thornton",
+          "s": "Despite a strong start from rookie pitcher Zac Thornton, the Mets (61-76) were bested in the team's series finale against the Houston Astros (69-68), their third straight series loss.",
+          "by": "Ben Pawlak",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/mets-drop-home-series-against-220550134.html",
+          "fetchedAt": 1788167123693
+        }
+      ],
       "nbcNews": [
         {
           "t": "Jeremy Peña in Astros lineup following HBP",
@@ -840,16 +803,7 @@
       "name": "Marcelo Mayer",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
-      "yahooNews": [
-        {
-          "t": "Mayer's Return in Sight",
-          "s": "The San Francisco Giants received the latest Marcelo Mayer injury update ahead of Friday night’s game against the Arizona Diamondbacks.“Marcelo Mayer says the walking boot is totally off now, doesn’t need it when he’s doing non-baseball activity. Unclear what the timeframe is for him to make Giants debut but would think the hope is fairly […] The post San Francisco Giants Get Critical Marcelo Mayer Injury Update appeared first on HEAVY.",
-          "by": "Kyle Har",
-          "when": "18h ago",
-          "href": "https://sports.yahoo.com/articles/san-francisco-giants-critical-marcelo-022949409.html",
-          "fetchedAt": 1788037450666
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1219,16 +1173,7 @@
       "name": "Ryan Zeferjahn",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/61375.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Cubs Bullpen Drama?",
-          "s": "The Chicago Cubs bullpen has been a major talking point this season. Early on in the year, things were rough. Eventually, they settled down, but recently it has been streaky. Injuries have plagued the pitching staff, making it hard to count on the available options. They attempted to strengthen the bullpen by trading for Ryan …",
-          "by": "Tyler Courtney",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-bullpen-hold-postseason-run-033102361.html",
-          "fetchedAt": 1787994201540
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
