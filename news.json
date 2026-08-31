@@ -1,13 +1,30 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-08-31T09:21:10.475Z",
+  "lastUpdatedNews": "2026-08-31T21:05:04.925Z",
   "players": [
     {
       "id": 11928,
       "name": "Dillon Dingler",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dingler's Record Pursuit",
+          "s": "Dillon Dingler has put together a breakout season for the Detroit Tigers, but a recent slump might put a damper on record breaking.",
+          "by": "Laura Lambert",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dillon-dingler-running-time-tigers-120006339.html",
+          "fetchedAt": 1788210249299
+        },
+        {
+          "t": "Dodgers' Tarik Skubal Surprised By One Thing in Return to Detroit",
+          "s": "Los Angeles Dodgers ace Tarik Skubal was surprised by something specific in his return to Detroit.",
+          "by": "Matt Levine",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-surprised-one-153001480.html",
+          "fetchedAt": 1788210249299
+        }
+      ],
       "nbcNews": [
         {
           "t": "Eduardo Valencia hitting fifth against Dodgers",
@@ -22,7 +39,32 @@
       "name": "Vladimir Guerrero Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Guerrero Jr.'s Home Blast",
+          "s": "Vladimir Guerrero Jr. will finally end his home run drought at home.",
+          "by": "Adam Steinmetz",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/why-blue-jays-vladimir-guerrero-170002896.html",
+          "fetchedAt": 1788210251045
+        },
+        {
+          "t": "Guerrero Moves to 2nd",
+          "s": "The Toronto Blue Jays play the final game of the their three-game series against the Seattle Mariners on Sunday. Toronto is entering this game looking to stay hot and officially complete the sweep.The Blue Jays are making some interesting changes to their lineup against the Mariners for their series finale. This includes with star Vladimir […] The post Blue Jays Announce Vladimir Guerrero Jr. News During Mariners Series appeared first on HEAVY.",
+          "by": "Michael DeRosa",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-announce-vladimir-guerrero-175807965.html",
+          "fetchedAt": 1788210251045
+        },
+        {
+          "t": "Blue Jays' Offense Woes",
+          "s": "The Blue Jays rank last in MLB with only 51 first-inning runs. A closer look at Toronto's lineup could explain why the offense starts games so slowly.",
+          "by": "Wesley Dixon",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/why-cant-toronto-blue-jays-120005983.html",
+          "fetchedAt": 1788210251045
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -30,7 +72,32 @@
       "name": "Luis García Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Yankees vs. Angels prediction: Odds, recent stats, trends, and best bets for August 31",
+          "s": "New York Yankees vs. Los Angeles Angels of Anaheim Betting Preview for August 31",
+          "by": "Rotoworld Bet Staff",
+          "when": "7m ago",
+          "href": "https://sports.yahoo.com/articles/yankees-vs-angels-prediction-odds-205615337.html",
+          "fetchedAt": 1788210252985
+        },
+        {
+          "t": "Yankees' Pitching Dominates",
+          "s": "Our Yankees vs. Angels predictions and MLB picks see value in backing New York to win on the back of their elite run suppression.",
+          "by": "Todd Cordell",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-vs-angels-prediction-picks-135800058.html",
+          "fetchedAt": 1788210252985
+        },
+        {
+          "t": "Angels start 3-game series with the Yankees",
+          "s": "New York Yankees (78-59, second in the AL East) vs. Los Angeles Angels (52-85, fifth in the AL West) Anaheim, California; Monday, 9:38 p.m. EDT PITCHING PROBABLES: Yankees: Elmer Rodriguez-Cruz (0-2, 4.70 ERA, 1.52 WHIP, 16 strikeouts); Angels: Walbert Urena (8-9, 2.94 ERA, 1.29 WHIP, 112 strikeouts) LINE: Yankees -142, Angels +119; over/under is 8 1/2 runs BOTTOM LINE: The Los Angeles Angels host the New York Yankees to begin a three-game series. Los Angeles has gone 29-42 in home games and 52-85 overall.",
+          "by": "The Associated Press",
+          "when": "13h ago",
+          "href": "https://sports.yahoo.com/articles/angels-start-3-game-series-075554200.html",
+          "fetchedAt": 1788210252985
+        }
+      ],
       "nbcNews": [
         {
           "t": "Luis García has three hits in win over Red Sox",
@@ -66,16 +133,7 @@
       "name": "Alec Burleson",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
-      "yahooNews": [
-        {
-          "t": "Burleson's 100 RBI Quest",
-          "s": "The St. Louis Cardinals have one of the best overall first basemen in baseball and history is on the way.",
-          "by": "Patrick McAvoy",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/alec-burleson-chasing-rare-22-144647391.html",
-          "fetchedAt": 1788037422371
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -83,24 +141,7 @@
       "name": "Nick Kurtz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132026/64313.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/nick-kurtz/271720",
-      "yahooNews": [
-        {
-          "t": "Mark Kotsay, Jacob Lopez discuss ‘difficult' Athletics' tough extra-inning loss",
-          "s": "Athletics manager Mark Kotsay and starter Jacob Lopez speak with the media after a 4-3 loss to the Baltimore Orioles on Friday at Sutter Health Park.Mark Kotsay, Jacob Lopez discuss ‘difficult' Athletics' tough extra-inning loss originally appeared on NBC Sports Bay Area",
-          "by": "",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/videos/mark-kotsay-jacob-lopez-discuss-123138723.html",
-          "fetchedAt": 1788037425131
-        },
-        {
-          "t": "Athletics' Mark Kotsay praises Jacob Lopez's ‘gutsy' start in loss to Orioles",
-          "s": "Athletics manager Mark Kotsay speaks with the media after his team's 4-3 loss to the Baltimore Orioles on Friday at Sutter Health Park.Athletics' Mark Kotsay praises Jacob Lopez's ‘gutsy' start in loss to Orioles originally appeared on NBC Sports Bay Area",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/athletics-mark-kotsay-praises-jacob-115845511.html",
-          "fetchedAt": 1788037425131
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -108,16 +149,7 @@
       "name": "Fernando Tatis Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
-      "yahooNews": [
-        {
-          "t": "Jackson Merrill’s Two-Faced Second Half",
-          "s": "The San Diego Padres have been one of the best teams in baseball since the All-Star break. It's not that hard to make the argument that they've been the best team, as a matter of fact. San Diego has won 22 of their last 30 on the backs of a red-hot offense and a dominant …",
-          "by": "Lincoln Zdunich",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/jackson-merrill-two-faced-second-144126966.html",
-          "fetchedAt": 1788080791159
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -125,7 +157,16 @@
       "name": "Jesús Made",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-made/271915",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Bo Naylor callup question, Bitonti lead Brewers minor-league update",
+          "s": "With rosters about to expand, Bo Naylor's strong week may have been his last in Nashville, plus other Brewers minor-league notes from last week.",
+          "by": "JR Radcliffe, Milwaukee Journal Sentinel",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/bo-naylor-callup-bitonti-lead-145604841.html",
+          "fetchedAt": 1788210256640
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -349,14 +390,6 @@
           "when": "12h ago",
           "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-29-204319720.html",
           "fetchedAt": 1788080757018
-        },
-        {
-          "t": "Texas Rangers lineup for August 28, 2026",
-          "s": "The Rangers start a three game series",
-          "by": "Adam J. Morris",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-28-210254077.html",
-          "fetchedAt": 1788080757018
         }
       ],
       "nbcNews": []
@@ -366,16 +399,7 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [
-        {
-          "t": "Burns' Surprising Role",
-          "s": "Chase Burns Reveals Reds' Surprising Plan for Him Over Final Month of Season",
-          "by": "Greg Kuffner",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/chase-burns-reveals-reds-surprising-170951569.html",
-          "fetchedAt": 1788080856447
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Chase Burns strikes out seven Cubs, gets 15th win",
@@ -438,7 +462,16 @@
       "name": "Emmet Sheehan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Sheehan's AAA Streak",
+          "s": "Plus, Oklahoma City faced old friend Brent Honeywell in his first game in 669 days, since 2024 World Series Game 4",
+          "by": "Eric Stephen",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/emmet-sheehan-roll-triple-smith-140200655.html",
+          "fetchedAt": 1788210265556
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -469,7 +502,32 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Dodgers Title Worries",
+          "s": "The Los Angeles Dodgers are a couple of months away from going after their third consecutive World Series.",
+          "by": "Cameron Belcher",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/why-dodgers-worry-hopes-third-120040372.html",
+          "fetchedAt": 1788210271592
+        },
+        {
+          "t": "Dodgers news: Analyst teases Shohei Ohtani bullpen role, message on knee injury",
+          "s": "With the Los Angeles Dodgers postponing Shohei Ohtani’s pitching return , originally believed to happen Sunday against the Detroit Tigers, the plan now shifts to when his next opportunity is and what his role would look like. As the Dodgers remain undecided about Ohtani’s pitching role, this MLB insider potentially teases that a change of role […] The post Dodgers news: Analyst teases Shohei Ohtani bullpen role, message on knee injury appeared first on ClutchPoints.",
+          "by": "Zachary Weinberger, ClutchPoints",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/dodgers-news-analyst-teases-shohei-183553895.html",
+          "fetchedAt": 1788210271592
+        },
+        {
+          "t": "Plaschke: No two ways about it — Shohei Ohtani should not pitch again this season",
+          "s": "The Dodgers proved last season they need their two-way star to be an offensive catalyst and not a pitching sensation. They have the arms without him to win it all again.",
+          "by": "Bill Plaschke",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/plaschke-no-two-ways-shohei-103000803.html",
+          "fetchedAt": 1788210271592
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -510,7 +568,16 @@
       "name": "Ryan Weathers",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Yankees' Will Warren May Have Just Saved His Job",
+          "s": "New York Yankees pitcher Will Warren may have just saved his job with his latest performance.",
+          "by": "Matthew Schmidt",
+          "when": "10h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-warren-may-just-saved-110039691.html",
+          "fetchedAt": 1788210273468
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -518,32 +585,7 @@
       "name": "Freddie Freeman",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
-      "yahooNews": [
-        {
-          "t": "Freeman's Clutch Hit",
-          "s": "Tarik Skubal threw six solid innings against his former team, Freddie Freeman hit a tiebreaking single in the seventh inning and the Los Angeles Dodgers held on to beat the Detroit Tigers 2-1 on Friday night. In a crowd that had mixed emotions about Skubal’s return, a couple young fans had fitting outfits sporting white Tigers jerseys with 29 and Skubal on the back — and a blue Dodgers hat. Evan Phillips (2-2), Brock Stewart and Alex Vesia combined for three innings of scoreless relief and Tanner Scott pitched the ninth for his 20th save in 22 chances.",
-          "by": "The Associated Press",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/freddie-freeman-single-lifts-dodgers-035913964.html",
-          "fetchedAt": 1788080827087
-        },
-        {
-          "t": "Tarik Skubal throws 6 solid innings in 1st start against former team, helping Dodgers top Tigers 2-1",
-          "s": "Tarik Skubal threw six solid innings against his former team, Freddie Freeman hit a tiebreaking single in the seventh inning and the Los Angeles Dodgers held on to beat the Detroit Tigers 2-1 on Friday night. In a crowd that had mixed emotions about Skubal’s return, a couple young fans had fitting outfits sporting white Tigers jerseys with 29 and Skubal on the back — and a blue Dodgers hat.",
-          "by": "LARRY LAGE",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-throws-6-solid-013149269.html",
-          "fetchedAt": 1788080827087
-        },
-        {
-          "t": "Skubal shines in emotional return to Detroit as Dodgers edge Tigers",
-          "s": "For Tarik Skubal, the return to Comerica Park was always going to be about more than baseball but once the first pitch was thrown Skubal looked like himself.",
-          "by": "Fredo Cervantes",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/skubal-shines-emotional-return-detroit-022435045.html",
-          "fetchedAt": 1788080827087
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -551,7 +593,16 @@
       "name": "Travis Bazzana",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Guardians rookie Travis Bazzana meets Team Australia after LLWS run",
+          "s": "Travis Bazzana grew up playing for the Ryde Hawks in Australia. That same program represented Australia in the LLWS. Then they got to meet Bazzana.",
+          "by": "Ryan Lewis, Akron Beacon Journal",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/guardians-rookie-travis-bazzana-meets-101616467.html",
+          "fetchedAt": 1788210275229
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -655,16 +706,7 @@
       "name": "Jackson Merrill",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
-      "yahooNews": [
-        {
-          "t": "Merrill's 'Two-Face'",
-          "s": "The San Diego Padres have been one of the best teams in baseball since the All-Star break. It's not that hard to make the argument that they've been the best team, as a matter of fact. San Diego has won 22 of their last 30 on the backs of a red-hot offense and a dominant …",
-          "by": "Lincoln Zdunich",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/jackson-merrill-two-faced-second-144126966.html",
-          "fetchedAt": 1788080801539
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -672,7 +714,32 @@
       "name": "Cody Bellinger",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "What we learned from Red Sox's series loss to Yankees",
+          "s": "Boston lost three of four to New York over the weekend.",
+          "by": "Justin Leger",
+          "when": "7h ago",
+          "href": "https://sports.yahoo.com/articles/learned-red-soxs-series-loss-131840808.html",
+          "fetchedAt": 1788210281015
+        },
+        {
+          "t": "“1000% A Catch”; “Absolutely Ridiculous” – Red Sox Fans Furious After Ceddanne Rafaela’s No-Catch Call in 16-1 Loss Vs Yankees",
+          "s": "Red Sox CF Ceddanne Rafaela was left perplexed after a no-catch call in the outfield during Sunday’s series finale against the Yankees. In the fifth inning, with a runner on base, Jazz Chisholm Jr.",
+          "by": "Karan Tyagi",
+          "when": "11h ago",
+          "href": "https://sports.yahoo.com/articles/1000-catch-absolutely-ridiculous-red-093247276.html",
+          "fetchedAt": 1788210281015
+        },
+        {
+          "t": "Red Sox news: Ceddanne Rafaela grabs attention with post after controversial no-catch",
+          "s": "Boston Red Sox outfielder Ceddanne Rafaela made his frustration clear after a disputed defensive play became a major turning point in a 16-1 loss to the New York Yankees on Sunday . Boston and New York was tied 0-0 in the fifth inning when Jazz Chisholm Jr. sent a 299-foot fly ball toward right-center field. Rafaela adjusted his route, charged […] The post Red Sox news: Ceddanne Rafaela grabs attention with post after controversial no-catch appeared first on ClutchPoints.",
+          "by": "Abdullah Imran, ClutchPoints",
+          "when": "15h ago",
+          "href": "https://sports.yahoo.com/articles/red-sox-news-ceddanne-rafaela-060419357.html",
+          "fetchedAt": 1788210281015
+        }
+      ],
       "nbcNews": [
         {
           "t": "Cody Bellinger sits for nightcap against Red Sox",
@@ -687,24 +754,7 @@
       "name": "Riley Greene",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
-      "yahooNews": [
-        {
-          "t": "Greene's Return Nears",
-          "s": "The Detroit Tigers have mapped out Riley Greene's final steps toward a return as the All-Star outfielder works his way back from injury.",
-          "by": "Miracle Dimwesh",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/riley-greene-begins-minor-league-174450086.html",
-          "fetchedAt": 1788037471420
-        },
-        {
-          "t": "Tigers news: Riley Greene set for big step forward amid injury recovery",
-          "s": "The Detroit Tigers placed Riley Greene on the 10-day IL with a right hamstring strain in early-mid August. With the club set to take on the Los Angeles Dodgers on Saturday, the organization received an inspiring injury update regarding Greene’s recovery. Reports indicate that the 25-year-old left fielder will begin his rehab assignment at Triple-A […] The post Tigers news: Riley Greene set for big step forward amid injury recovery appeared first on ClutchPoints.",
-          "by": "Benedetto Vitale, ClutchPoints",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/tigers-news-riley-greene-set-162200470.html",
-          "fetchedAt": 1788037471420
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Riley Greene (hamstring) starts rehab assignment",
@@ -817,16 +867,7 @@
       "name": "Matt Shaw",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
-      "yahooNews": [
-        {
-          "t": "Shaw's Comeback Start",
-          "s": "The Chicago Cubs will give Matt Shaw a go for the first time in two months.",
-          "by": "Elias Schuster",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-vs-reds-lineup-matt-162335099.html",
-          "fetchedAt": 1788037464380
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -842,32 +883,7 @@
       "name": "Eduardo Quintero",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Tarik Skubal’s Former Tigers Teammates Send Shots Ahead of Detroit Return With Dodgers",
-          "s": "Dodgers superstar Tarik Skubal is only a few weeks into his time with LA, but he is headed back to Detriot to face his old teammates.",
-          "by": "Nelson Espinal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-former-tigers-teammates-214347250.html",
-          "fetchedAt": 1788080793068
-        },
-        {
-          "t": "Dodgers' Tarik Skubal Gets Message From Tigers Players Ahead of Detroit Return",
-          "s": "Members of the Detroit Tigers spoke on the upcoming return of Tarik Skubal as he gets set to pitch for the Los Angeles Dodgers.",
-          "by": "Ricardo Sandoval",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-gets-message-203001645.html",
-          "fetchedAt": 1788080793068
-        },
-        {
-          "t": "Tarik Skubal Reveals Key to His Success in Return to Detroit",
-          "s": "New Los Angeles Dodgers pitcher Tarik Skubal hasn't hidden that leaving his only team, the Detroit Tigers, is difficult.",
-          "by": "Nelson Espinal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-reveals-key-success-222921783.html",
-          "fetchedAt": 1788080793068
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -875,32 +891,7 @@
       "name": "Walker Jenkins",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
-      "yahooNews": [
-        {
-          "t": "Jenkins' Chills Debut",
-          "s": "Walker Jenkins was lying in bed, beside his wife, wide awake staring at the ceiling at 1:30 a.m., his mind racing with anticipation as he tried to go to sleep the night before his major league debut. When he walked into the Twins’ clubhouse on Saturday before the game, he was entering a room filled with players he knew, from Ryan Jeffers — whom he has trained with for years in the winter in ...",
-          "by": "Betsy Helfand, Pioneer Press",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/straight-chills-walker-jenkins-reflects-194000909.html",
-          "fetchedAt": 1788037465951
-        },
-        {
-          "t": "Minnesota Twins' Rookie Impresses During Loss to White Sox",
-          "s": "Walker Jenkins went 1-for-3 at the plate during his major-league debut on Friday night against the Chicago White Sox.",
-          "by": "Charlie Rondeau",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/minnesota-twins-rookie-impresses-during-174333735.html",
-          "fetchedAt": 1788037465951
-        },
-        {
-          "t": "Walker Jenkins Debut",
-          "s": "First Pitch: 1:10 pm CDTTV: Twins.TVRadio: TIBN / WCCO 830 / The Wolf 102.9 FM / Audacy In the hugely anticipated sequel to last night’s game, the Twins will be facing the Chicago White Sox again this afternoon. That’s right — the Minnesota faithful were left begging for more, and you know what? The squeaky […]",
-          "by": "Brandon Brooks",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/game-136-white-sox-twins-171000116.html",
-          "fetchedAt": 1788037465951
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Walker Jenkins doubles, steals base in loss",
@@ -927,16 +918,7 @@
       "name": "Jacob deGrom",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
-      "yahooNews": [
-        {
-          "t": "MLB Reacts Results: deGrom and the Hall of Fame",
-          "s": "What do folks think of Jacob deGrom’s Hall of Fame case right now?",
-          "by": "Adam J. Morris",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mlb-reacts-results-degrom-hall-172003671.html",
-          "fetchedAt": 1788080776241
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -960,14 +942,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/blue-jays-dylan-cease-one-214732240.html",
           "fetchedAt": 1788080859438
-        },
-        {
-          "t": "Cease, Soriano to Start",
-          "s": "The Toronto Blue Jays are making a change to their rotation ahead of their series against the Cleveland Guardians.Toronto is set to go on the road for a pivotal three-game series against the Cleveland Guardians, who are currently holding onto the third Wild Card spot.With the series kicking off on Tuesday, the Blue Jays are […] The post Blue Jays Announce Starting Pitchers for Pivotal Guardians Series appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-announce-starting-pitchers-200547083.html",
-          "fetchedAt": 1788080859438
         }
       ],
       "nbcNews": []
@@ -977,7 +951,16 @@
       "name": "Ryan Helsley",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Helsley's $14M Decision",
+          "s": "This struggling and injured Orioles reliever is likely to make a big decision for 2027.",
+          "by": "Matt Sullivan",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/orioles-4-11-era-reliever-145102457.html",
+          "fetchedAt": 1788210295442
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1041,24 +1024,7 @@
       "name": "Freddy Peralta",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
-      "yahooNews": [
-        {
-          "t": "Yankees Rivalry Roundup: Rays pounce on Padres errors, Blue Jays stomp Mariners",
-          "s": "The Rays scored five unearned runs in the fourth to maintain their four-game lead in the division.",
-          "by": "Peter Brody",
-          "when": "20h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-rivalry-roundup-rays-pounce-123000090.html",
-          "fetchedAt": 1788080795259
-        },
-        {
-          "t": "Yankees Await Judge",
-          "s": "The calendar is just days away from turning to September and these three storylines will be ones to watch.",
-          "by": "Ray Kuhn",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/3-mlb-storylines-watch-entering-131300906.html",
-          "fetchedAt": 1788080795259
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1147,24 +1113,7 @@
       "name": "Joey Cantillo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11823.2.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Guardians News: We’re Rolling Nowww-ah",
-          "s": "News and Notes for Friday, August 28th, 2026",
-          "by": "Quincy Wheeler",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-news-rolling-nowww-ah-132057447.html",
-          "fetchedAt": 1788080847350
-        },
-        {
-          "t": "Guardians series preview: The two hottest teams in baseball",
-          "s": "Something’s gotta give.",
-          "by": "Max Rieper",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-series-preview-two-hottest-180000960.html",
-          "fetchedAt": 1788080847350
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1188,32 +1137,7 @@
       "name": "Christian Scott",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60292.1.png",
       "nbcUrl": null,
-      "yahooNews": [
-        {
-          "t": "Astros Beat the Mets 3-1 Behind Hunter Brown's 10-Strikeout Night",
-          "s": "The Houston Astros made their way to Queens to take on the Mets as they continue their time in the Big Apple.",
-          "by": "Sydney Cruse",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/astros-beat-mets-3-1-173025740.html",
-          "fetchedAt": 1788080796845
-        },
-        {
-          "t": "Scott's Sixth Inning",
-          "s": "Andy Green and Christian Scott reflect on the New York Mets pitcher unraveling in the sixth inning against the Houston Astros in the team's 3-1 loss on Friday, Aug. 28.",
-          "by": "Ben Pawlak",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/andy-green-christian-scott-talk-024506322.html",
-          "fetchedAt": 1788080796845
-        },
-        {
-          "t": "Mets revert to old ways in lackluster loss to Astros for third straight defeat",
-          "s": "Just a week ago the Mets were playing reasonably well and could at least dream about a Red Sox-like surge to vault them into postseason contention.",
-          "by": "Mike Puma",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/mets-revert-old-ways-lackluster-023901148.html",
-          "fetchedAt": 1788080796845
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
