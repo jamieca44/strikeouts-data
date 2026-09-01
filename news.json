@@ -1,30 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-01T09:20:31.877Z",
+  "lastUpdatedNews": "2026-09-01T21:05:18.946Z",
   "players": [
     {
       "id": 11928,
       "name": "Dillon Dingler",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
-      "yahooNews": [
-        {
-          "t": "Dingler's Record Pursuit",
-          "s": "Dillon Dingler has put together a breakout season for the Detroit Tigers, but a recent slump might put a damper on record breaking.",
-          "by": "Laura Lambert",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dillon-dingler-running-time-tigers-120006339.html",
-          "fetchedAt": 1788210249299
-        },
-        {
-          "t": "Dodgers' Tarik Skubal Surprised By One Thing in Return to Detroit",
-          "s": "Los Angeles Dodgers ace Tarik Skubal was surprised by something specific in his return to Detroit.",
-          "by": "Matt Levine",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-tarik-skubal-surprised-one-153001480.html",
-          "fetchedAt": 1788210249299
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -32,32 +15,7 @@
       "name": "Vladimir Guerrero Jr.",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
-      "yahooNews": [
-        {
-          "t": "Guerrero Jr.'s Home Blast",
-          "s": "Vladimir Guerrero Jr. will finally end his home run drought at home.",
-          "by": "Adam Steinmetz",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/why-blue-jays-vladimir-guerrero-170002896.html",
-          "fetchedAt": 1788210251045
-        },
-        {
-          "t": "Guerrero Moves to 2nd",
-          "s": "The Toronto Blue Jays play the final game of the their three-game series against the Seattle Mariners on Sunday. Toronto is entering this game looking to stay hot and officially complete the sweep.The Blue Jays are making some interesting changes to their lineup against the Mariners for their series finale. This includes with star Vladimir […] The post Blue Jays Announce Vladimir Guerrero Jr. News During Mariners Series appeared first on HEAVY.",
-          "by": "Michael DeRosa",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-announce-vladimir-guerrero-175807965.html",
-          "fetchedAt": 1788210251045
-        },
-        {
-          "t": "Blue Jays' Offense Woes",
-          "s": "The Blue Jays rank last in MLB with only 51 first-inning runs. A closer look at Toronto's lineup could explain why the offense starts games so slowly.",
-          "by": "Wesley Dixon",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/why-cant-toronto-blue-jays-120005983.html",
-          "fetchedAt": 1788210251045
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -213,16 +171,7 @@
       "name": "Brendan Donovan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
-      "yahooNews": [
-        {
-          "t": "Donovan Trade Success",
-          "s": "The St. Louis Cardinals made a tough decision to trade Brendan Donovan. But it was the right call.",
-          "by": "Patrick McAvoy",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/cardinals-brendan-donovan-trade-keeps-132421747.html",
-          "fetchedAt": 1788167095382
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -301,16 +250,7 @@
       "name": "José Ramírez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
-      "yahooNews": [
-        {
-          "t": "Ramírez's Milestone Duo",
-          "s": "José Ramírez homered, hit his 1,000th career single and drove in four while Parker Messick struck out five and gave up one run in six innings to lead the Cleveland Guardians past the Kansas City Royals 11-1 on Sunday. Cleveland (69-68) holds the third American League wild card. Ramírez's RBI single in the sixth inning plated Jac Caglianone, helping him become the 11th player in Cleveland history to achieve the feat.",
-          "by": "",
-          "when": "10m ago",
-          "href": "https://sports.yahoo.com/articles/jos-ram-rez-hits-home-205316750.html",
-          "fetchedAt": 1788123837749
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "José Ramírez hits first homer since June 6",
@@ -325,16 +265,7 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [
-        {
-          "t": "Top HR Bets: Sunday Picks",
-          "s": "Willson Contreras, George Springer and Bryan Reynolds headline Sunday’s MLB home run predictions with favorable matchups and long-ball potential.",
-          "by": "Andrew Phelps",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/top-3-mlb-home-run-113000424.html",
-          "fetchedAt": 1788123885914
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -342,7 +273,16 @@
       "name": "Brandon Nimmo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "67-70 – Rangers prevent Brewer brooms with 7-4 finale win",
+          "s": "Ezequiel Duran carries Texas to victory",
+          "by": "ghostofErikThompson",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/67-70-rangers-prevent-brewer-214231916.html",
+          "fetchedAt": 1788296661032
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -373,22 +313,6 @@
           "when": "11h ago",
           "href": "https://sports.yahoo.com/articles/max-clark-did-something-almost-214935603.html",
           "fetchedAt": 1788167141452
-        },
-        {
-          "t": "Skubal Takes Espresso",
-          "s": "An espresso machine that was beloved in Detroit's clubhouse made the trek with Skubal to Los Angeles.",
-          "by": "Jason Owens",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/mlb/article/tarik-skubal-says-his-wife-made-him-take-his-espresso-machine-from-tigers-clubhouse-to-los-angeles-184711340.html",
-          "fetchedAt": 1788167141452
-        },
-        {
-          "t": "Tarik Skubal explained why he took the espresso machine he had gifted for Tigers clubhouse",
-          "s": "Spencer Torkelson was understandably devastated.",
-          "by": "Andrew Joseph, For The Win",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/tarik-skubal-explained-why-took-184551156.html",
-          "fetchedAt": 1788167141452
         }
       ],
       "nbcNews": []
@@ -398,7 +322,24 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Joe Ryan Returns Soon",
+          "s": "Minnesota Twins right-hander Joe Ryan is looking to make his return to the team.",
+          "by": "Jesus Jimenez",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/joe-ryan-takes-first-step-153110685.html",
+          "fetchedAt": 1788296665194
+        },
+        {
+          "t": "Twins get positive injury update on Joe Ryan, but it might be too late",
+          "s": "The Minnesota Twins received a positive injury update on Joe Ryan, but it might be too late to save the season.",
+          "by": "Jackson Kruse",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/twins-positive-injury-joe-ryan-150003436.html",
+          "fetchedAt": 1788296665194
+        }
+      ],
       "nbcNews": [
         {
           "t": "Joe Ryan (glute) to make rehab start on Tuesday",
@@ -413,7 +354,24 @@
       "name": "MacKenzie Gore",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Texas Rangers lineup for August 31, 2026",
+          "s": "The Rangers take on the Athletics at the Shed",
+          "by": "Adam J. Morris",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-31-203432099.html",
+          "fetchedAt": 1788296667583
+        },
+        {
+          "t": "Rangers Set Probable Pitchers for Critical Homestand Series with Athletics",
+          "s": "The Texas Rangers return home to where they play their best baseball, and they've set their probable pitchers for the Athletics.",
+          "by": "Matt Postins",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/rangers-set-probable-pitchers-critical-000002245.html",
+          "fetchedAt": 1788296667583
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -421,7 +379,32 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Reds Limit Burns' Innings",
+          "s": "Cincinnati Reds starting pitcher Chase Burns will be seeing a change over the final month of the regular season.",
+          "by": "Jesus Jimenez",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/cincinnati-reds-chase-burns-decision-160053999.html",
+          "fetchedAt": 1788296669685
+        },
+        {
+          "t": "Reds set to limit innings on Chase Burns as Brandon Williamson returns",
+          "s": "Cincinnati’s rotation is set to get more depth down the stretch.",
+          "by": "Wick Terrell",
+          "when": "23h ago",
+          "href": "https://sports.yahoo.com/articles/reds-set-limit-innings-chase-213904792.html",
+          "fetchedAt": 1788296669685
+        },
+        {
+          "t": "Reds will limit Chase Burns' innings as Brandon Williamson returns",
+          "s": "The Reds will limit Chase Burns' innings over the final month of the 2026 season.",
+          "by": "Shelby Dermer, Cincinnati Enquirer",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/reds-limit-chase-burns-innings-202620761.html",
+          "fetchedAt": 1788296669685
+        }
+      ],
       "nbcNews": [
         {
           "t": "Chase Burns strikes out seven Cubs, gets 15th win",
@@ -452,22 +435,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/pirates-hold-series-rubber-match-232302591.html",
           "fetchedAt": 1788167143188
-        },
-        {
-          "t": "Ashcraft's Time",
-          "s": "The Pirates are on the road looking to grab a win today.",
-          "by": "Jeremy Brener",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-st-louis-171500043.html",
-          "fetchedAt": 1788167143188
-        },
-        {
-          "t": "St. Louis Cardinals vs Pittsburgh Pirates Game Discussion Sunday",
-          "s": "The St. Louis Cardinals wrap up their homestand before a long west coast swing as they’ll host the Pirates again on Sunday. Matthew Liberatore will give it a go for the Cardinals while the Pirates will start Braxton Ashcraft. First pitch is set for 1:15pm at Busch Stadium and the game broadcast will be available […]",
-          "by": "Doc Holliday",
-          "when": "15h ago",
-          "href": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-pittsburgh-180000217.html",
-          "fetchedAt": 1788167143188
         }
       ],
       "nbcNews": [
@@ -484,16 +451,7 @@
       "name": "Emmet Sheehan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
-      "yahooNews": [
-        {
-          "t": "Sheehan's AAA Streak",
-          "s": "Plus, Oklahoma City faced old friend Brent Honeywell in his first game in 669 days, since 2024 World Series Game 4",
-          "by": "Eric Stephen",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/emmet-sheehan-roll-triple-smith-140200655.html",
-          "fetchedAt": 1788210265556
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -517,32 +475,7 @@
       "name": "Edwin Díaz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
-      "yahooNews": [
-        {
-          "t": "Dodgers Title Worries",
-          "s": "The Los Angeles Dodgers are a couple of months away from going after their third consecutive World Series.",
-          "by": "Cameron Belcher",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/why-dodgers-worry-hopes-third-120040372.html",
-          "fetchedAt": 1788210271592
-        },
-        {
-          "t": "Dodgers news: Analyst teases Shohei Ohtani bullpen role, message on knee injury",
-          "s": "With the Los Angeles Dodgers postponing Shohei Ohtani’s pitching return , originally believed to happen Sunday against the Detroit Tigers, the plan now shifts to when his next opportunity is and what his role would look like. As the Dodgers remain undecided about Ohtani’s pitching role, this MLB insider potentially teases that a change of role […] The post Dodgers news: Analyst teases Shohei Ohtani bullpen role, message on knee injury appeared first on ClutchPoints.",
-          "by": "Zachary Weinberger, ClutchPoints",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/dodgers-news-analyst-teases-shohei-183553895.html",
-          "fetchedAt": 1788210271592
-        },
-        {
-          "t": "Plaschke: No two ways about it — Shohei Ohtani should not pitch again this season",
-          "s": "The Dodgers proved last season they need their two-way star to be an offensive catalyst and not a pitching sensation. They have the arms without him to win it all again.",
-          "by": "Bill Plaschke",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/plaschke-no-two-ways-shohei-103000803.html",
-          "fetchedAt": 1788210271592
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -550,16 +483,7 @@
       "name": "Jack Flaherty",
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
-      "yahooNews": [
-        {
-          "t": "Riley Greene injury update: Tigers hoping to get OF back Tuesday",
-          "s": "Detroit Tigers outfielder Riley Greene will play another minor league rehab game as he aims to return by next week.",
-          "by": "Christian Romo, Detroit Free Press",
-          "when": "16h ago",
-          "href": "https://sports.yahoo.com/articles/riley-greene-injury-tigers-hoping-163106875.html",
-          "fetchedAt": 1788167108613
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -624,16 +548,7 @@
       "name": "Travis Bazzana",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
-      "yahooNews": [
-        {
-          "t": "Guardians rookie Travis Bazzana meets Team Australia after LLWS run",
-          "s": "Travis Bazzana grew up playing for the Ryde Hawks in Australia. That same program represented Australia in the LLWS. Then they got to meet Bazzana.",
-          "by": "Ryan Lewis, Akron Beacon Journal",
-          "when": "1d ago",
-          "href": "https://sports.yahoo.com/articles/guardians-rookie-travis-bazzana-meets-101616467.html",
-          "fetchedAt": 1788210275229
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -649,32 +564,7 @@
       "name": "Otto Lopez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
-      "yahooNews": [
-        {
-          "t": "Marlins' 6-Run Blitz",
-          "s": "Marlins score six runs in the 9th to complete 6-2 comeback win over the Nationals",
-          "by": "",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/videos/marlins-six-run-innings-leads-200402294.html",
-          "fetchedAt": 1788123852405
-        },
-        {
-          "t": "Nats continue to 'shoot themselves in the foot'",
-          "s": "The Sunday Leadoff crew discusses the 'dread' that surrounds the Nationals heading into 9th innings with a lead after Washington blew its 35th save of the season. The Marlins scored 6 unanswered runs after trailing 2-0.",
-          "by": "",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/videos/nats-continue-shoot-themselves-foot-192954183.html",
-          "fetchedAt": 1788123852405
-        },
-        {
-          "t": "Lopez Sparks Rally",
-          "s": "Otto Lopez speaks to Jordan Cornette following the Miami Marlins' 6-2, comeback win over the Washington Nationals to detail the confidence it instills in Miami as they got back to .500 with the victory.",
-          "by": "",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/videos/lopez-marlins-comeback-win-means-192543404.html",
-          "fetchedAt": 1788123852405
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Otto Lopez smacks two-run homer in comeback win",
@@ -697,7 +587,32 @@
       "name": "Pete Crow-Armstrong",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Chicago Cubs make home run history with barrage vs. Brewers",
+          "s": "Cubs set franchise record with nine home runs against Brewers.",
+          "by": "Gabe Lacques, USA TODAY",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-home-run-history-182740684.html",
+          "fetchedAt": 1788296681293
+        },
+        {
+          "t": "PCA's MVP Surge",
+          "s": "The NL MVP conversation is back, with Shohei Ohtani and Pete Crow-Armstrong at the center of it. The Chicago Cubs center fielder has hit 14 home runs in August, including a three-homer, six-RBI performance against the Reds on Saturday and another two-homer game on Sunday, pushing his season total to 38 homers.",
+          "by": "Krutik Jain",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/articles/world-doesn-t-want-shohei-183400537.html",
+          "fetchedAt": 1788296681293
+        },
+        {
+          "t": "Bregman, PCA's Historic Feat",
+          "s": "Alex Bregman and Pete Crow-Armstrong joined Roger Maris and Mickey Mantle in MLB history after a remarkable August.",
+          "by": "Miracle Dimwesh",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/cubs-bregman-crow-armstrong-join-140528967.html",
+          "fetchedAt": 1788296681293
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -780,7 +695,24 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Guardians news: Analyst says what Cleveland fans already know about Jo Adell trade",
+          "s": "The Cleveland Guardians traded for outfielder Jo Adell before the Major League Baseball trade deadline in early August. Adell had some great success over the years playing for the Los Angeles Angels. That trade is now being applauded by a MLB insider. “Jo Adell [was] one of the best acquisitions at the Trade Deadline…” Xavier Scruggs said, per MLB […] The post Guardians news: Analyst says what Cleveland fans already know about Jo Adell trade appeared first on ClutchPoints.",
+          "by": "Benjamin Adducchio, ClutchPoints",
+          "when": "1h ago",
+          "href": "https://sports.yahoo.com/articles/guardians-news-analyst-says-cleveland-192741622.html",
+          "fetchedAt": 1788296683094
+        },
+        {
+          "t": "Montes Called Up",
+          "s": "We knew that the M's were bringing up slugger Lazaro Montes, but the other roster moves came as a surprise.",
+          "by": "",
+          "when": "2h ago",
+          "href": "https://sports.yahoo.com/videos/seattle-mariners-multiple-roster-moves-181621740.html",
+          "fetchedAt": 1788296683094
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -836,16 +768,7 @@
       "name": "Jose Altuve",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
-      "yahooNews": [
-        {
-          "t": "Astros Fire GM Dana Brown: What’s Next for Houston's Future?",
-          "s": "",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/astros-fire-gm-dana-brown-110945470.html",
-          "fetchedAt": 1788123857746
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1055,7 +978,32 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Blue Jays vs. Guardians prediction: Odds, recent stats, trends, and best bets for September 1",
+          "s": "Toronto Blue Jays vs. Cleveland Guardians Betting Preview for September 1",
+          "by": "Rotoworld Bet Staff",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-vs-guardians-prediction-174907401.html",
+          "fetchedAt": 1788296695088
+        },
+        {
+          "t": "Miles vs Williams Duel",
+          "s": "The Toronto Blue Jays begin a big nine-game road trip against the Cleveland Guardians on Tuesday night.",
+          "by": "Scott Roche",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-release-probable-pitchers-170004312.html",
+          "fetchedAt": 1788296695088
+        },
+        {
+          "t": "Blue Jays Announce Pitching Change Ahead of Pivotal Guardians Series",
+          "s": "The Toronto Blue Jays have made a major change to their pitching plans for their series against the Cleveland Guardians. The post Blue Jays Announce Pitching Change Ahead of Pivotal Guardians Series appeared first on HEAVY.",
+          "by": "Cole Shelton",
+          "when": "4h ago",
+          "href": "https://sports.yahoo.com/articles/blue-jays-announce-pitching-change-170303080.html",
+          "fetchedAt": 1788296695088
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1080,7 +1028,32 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Phillies' Magic Number to Clinch Playoff Berth Gets Major Jolt Following Win",
+          "s": "What is the new magic number for the Philadelphia Phillies following a win against the Arizona Diamondbacks.",
+          "by": "Nick Ziegler",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-magic-number-clinch-playoff-160005423.html",
+          "fetchedAt": 1788296696851
+        },
+        {
+          "t": "Phillies' 200K Duo",
+          "s": "The Philadelphia Phillies' left-handed pitching duo of Cristopher Snchez and Jesus Luzardo, made some impressive history.",
+          "by": "Julia Ruocchio",
+          "when": "8h ago",
+          "href": "https://sports.yahoo.com/articles/phillies-duo-cristopher-sanchez-jesus-130006149.html",
+          "fetchedAt": 1788296696851
+        },
+        {
+          "t": "Cristopher Sanchez Has Earned Elite Ranking Leading Phillies",
+          "s": "Philadelphia Phillies starting pitcher Cristopher Sanchez is certainly deserving of his top-10 player ranking.",
+          "by": "Julia Ruocchio",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/cristopher-sanchez-earned-elite-ranking-100006256.html",
+          "fetchedAt": 1788296696851
+        }
+      ],
       "nbcNews": [
         {
           "t": "Cristopher Sánchez strikes out eight in no-decision",
@@ -1110,7 +1083,32 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "TST Best Bets: September 1, 2026",
+          "s": "The Los Angeles Angels took game one of a three game series against the New York Yankees tonight at Angels Stadium last night.",
+          "by": "Nick Wire",
+          "when": "3h ago",
+          "href": "https://sports.yahoo.com/articles/tst-best-bets-september-1-180000350.html",
+          "fetchedAt": 1788296701117
+        },
+        {
+          "t": "Yankees vs. Angels prediction: Odds, recent stats, trends, and best bets for September 1",
+          "s": "New York Yankees vs. Los Angeles Angels of Anaheim Betting Preview for September 1",
+          "by": "Rotoworld Bet Staff",
+          "when": "5h ago",
+          "href": "https://sports.yahoo.com/articles/yankees-vs-angels-prediction-odds-151033646.html",
+          "fetchedAt": 1788296701117
+        },
+        {
+          "t": "Cole's Record Near",
+          "s": "Gerrit Cole can make history on Tuesday night. Pretty obscure history, but history nonetheless. If the New York Yankees ace gets the win when he faces the host",
+          "by": "John Perrotto",
+          "when": "6h ago",
+          "href": "https://sports.yahoo.com/articles/gerrit-cole-win-away-history-143745729.html",
+          "fetchedAt": 1788296701117
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1151,32 +1149,7 @@
       "name": "Jesús Luzardo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
-      "yahooNews": [
-        {
-          "t": "Cristopher Sanchez and Jesus Luzardo join Phillies legends in 200-strikeout MLB history",
-          "s": "This is some impressive history for Sanchez and Luzardo to join this season.",
-          "by": "Matt Sullivan",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/cristopher-sanchez-jesus-luzardo-join-155612312.html",
-          "fetchedAt": 1788123866488
-        },
-        {
-          "t": "Corbin's Return?",
-          "s": "",
-          "by": "",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/videos/mlb-playoff-preview-phillies-vs-112119924.html",
-          "fetchedAt": 1788123866488
-        },
-        {
-          "t": "Diamondbacks' week sees Phillies and maybe Ketel Marte's return",
-          "s": "After a rare Sunday off for the Diamondbacks, the focus shifts to the National League wild-card race when Arizona hosts the Phillies on Aug. 31, 2026.",
-          "by": "José M. Romero, Arizona Republic",
-          "when": "9h ago",
-          "href": "https://sports.yahoo.com/articles/diamondbacks-week-sees-phillies-maybe-120150415.html",
-          "fetchedAt": 1788123866488
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -1184,32 +1157,7 @@
       "name": "Robbie Ray",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
-      "yahooNews": [
-        {
-          "t": "Pittsburgh Pirates vs. St. Louis Cardinals: Braxton Ashcraft vs. Matthew Liberatore",
-          "s": "The Pirates are on the road looking to grab a win today.",
-          "by": "Jeremy Brener",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-st-louis-171500043.html",
-          "fetchedAt": 1788123882504
-        },
-        {
-          "t": "Robbie Ray's Big Task",
-          "s": "The San Diego Padres have lost back-to-back games to Tampa Bay, and their status as playoff contenders is shaky.",
-          "by": "Bob McCullough",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/padres-try-to-stave-off-a-sweep-in-tampa-behind-robbie-ray-163416648.html",
-          "fetchedAt": 1788123882504
-        },
-        {
-          "t": "Padres scramble as ‘pen falls flat in surprise loss",
-          "s": "FriarWatch: August 30 Edition",
-          "by": "Lincoln Zdunich",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/padres-scramble-pen-falls-flat-154000526.html",
-          "fetchedAt": 1788123882504
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Robbie Ray throws a quality start in Tampa",
@@ -1232,7 +1180,16 @@
       "name": "Joey Cantillo",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11823.2.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Colorado Rockies vs. Baltimore Orioles game discussion: Cade Povich vs. Tanner Gordon",
+          "s": "Rockies need a win to snap their 9-game losing streak at Coors Field",
+          "by": "Joelle Milholm",
+          "when": "21h ago",
+          "href": "https://sports.yahoo.com/articles/colorado-rockies-vs-baltimore-orioles-234000375.html",
+          "fetchedAt": 1788296705546
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1240,7 +1197,16 @@
       "name": "Ryan Zeferjahn",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/61375.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Zeferjahn's Cubs Impact?",
+          "s": "Life as a big-league reliever means dealing with tough stretches. The ups and downs can test any pitcher, and as right-hander Ryan Zeferjahn has experienced lately, those challenges can be amplified as he continues to get acclimated to his new organization. Since the Cubs acquired the 28-year-old from the Los Angeles Angels at the trade deadline, Zeferjahn has surrendered seven runs (six ...",
+          "by": "Meghan Montemurro, Chicago Tribune",
+          "when": "20h ago",
+          "href": "https://sports.yahoo.com/articles/chicago-cubs-reliever-ryan-zeferjahn-004500693.html",
+          "fetchedAt": 1788296707840
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1256,7 +1222,24 @@
       "name": "Christian Scott",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60292.1.png",
       "nbcUrl": null,
-      "yahooNews": [],
+      "yahooNews": [
+        {
+          "t": "Scott's Road Rebound?",
+          "s": "Here's the projected pitching matchups for the New York Mets, who will start a three-game set against the Tampa Bay Rays on Monday night.",
+          "by": "Andrew Steele-Davis",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mets-announce-starting-pitchers-rays-163704265.html",
+          "fetchedAt": 1788296711551
+        },
+        {
+          "t": "Mets travel to Florida for matchup with first-place Rays",
+          "s": "The Mets’ string of facing first place clubs continues.",
+          "by": "Vasilis Drimalitis",
+          "when": "1d ago",
+          "href": "https://sports.yahoo.com/articles/mets-travel-florida-matchup-first-140000809.html",
+          "fetchedAt": 1788296711551
+        }
+      ],
       "nbcNews": []
     },
     {
@@ -1279,6 +1262,30 @@
       "id": 60570,
       "name": "Steven Cruz",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60570.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 60776,
+      "name": "José Caballero",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/60776.1.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 10763,
+      "name": "Andrew Kittredge",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10763.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 63640,
+      "name": "Shota Imanaga",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/63640.3.png",
       "nbcUrl": null,
       "yahooNews": [],
       "nbcNews": []
