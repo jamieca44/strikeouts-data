@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-01T09:05:47.764Z",
+  "lastUpdatedNews": "2026-09-01T09:20:31.877Z",
   "players": [
     {
       "id": 11928,
@@ -25,14 +25,7 @@
           "fetchedAt": 1788210249299
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Eduardo Valencia hitting fifth against Dodgers",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/eduardo-valencia-hitting-fifth-against-dodgers",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -98,20 +91,7 @@
           "fetchedAt": 1788210252985
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Luis García has three hits in win over Red Sox",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/luis-garcia-has-three-hits-in-win-over-red-sox",
-          "fetchedAt": 1788124870630
-        },
-        {
-          "t": "Jazz Chisholm Jr. takes a seat against lefty",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/jazz-chisholm-jr-takes-a-seat-against-lefty",
-          "fetchedAt": 1788124870630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -363,14 +343,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo hits home run, steals base in loss",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/brandon-nimmo-hits-home-run-steals-base-in-loss",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -426,7 +399,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan (glute) to make rehab start on Tuesday",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/joe-ryan-glute-to-make-rehab-start-on-tuesday",
+          "fetchedAt": 1788254431877
+        }
+      ]
     },
     {
       "id": 10940,
@@ -530,14 +510,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker converts 39th save against Padres",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/bryan-baker-converts-39th-save-against-padres",
-          "fetchedAt": 1788124870630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -725,14 +698,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong has three-homer game in rout",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/pete-crow-armstrong-has-three-homer-game-in-rout",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -782,14 +748,7 @@
           "fetchedAt": 1788210281015
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger sits for nightcap against Red Sox",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/cody-bellinger-sits-for-nightcap-against-red-sox",
-          "fetchedAt": 1788124870630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -814,14 +773,7 @@
           "fetchedAt": 1788253520478
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Riley Greene (hamstring) starts rehab assignment",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/riley-greene-hamstring-starts-rehab-assignment",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -975,7 +927,14 @@
           "fetchedAt": 1788253533595
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pedro Ramírez out Monday with back spasms",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/pedro-ramirez-out-monday-with-back-spasms",
+          "fetchedAt": 1788254431877
+        }
+      ]
     },
     {
       "id": 63537,
@@ -1049,26 +1008,7 @@
           "fetchedAt": 1788253538623
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins doubles, steals base in loss",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/walker-jenkins-doubles-steals-base-in-loss",
-          "fetchedAt": 1788124870630
-        },
-        {
-          "t": "Byron Buxton (hip) out again, Walker Jenkins in CF",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/byron-buxton-hip-out-again-walker-jenkins-in-cf",
-          "fetchedAt": 1788124870630
-        },
-        {
-          "t": "Walker Jenkins goes 1-for-3, singles in MLB debut",
-          "date": "2026-08-29",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-29/walker-jenkins-goes-1-for-3-singles-in-mlb-debut",
-          "fetchedAt": 1788124870630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -1101,7 +1041,14 @@
           "fetchedAt": 1788253540336
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom strikes out eight in dominant outing",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/jacob-degrom-strikes-out-eight-in-dominant-outing",
+          "fetchedAt": 1788254431877
+        }
+      ]
     },
     {
       "id": 10438,
