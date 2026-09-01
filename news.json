@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-01T21:05:18.946Z",
+  "lastUpdatedNews": "2026-09-01T21:21:12.607Z",
   "players": [
     {
       "id": 11928,
@@ -613,7 +613,14 @@
           "fetchedAt": 1788296681293
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong clubs 37th, 38th home runs",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/pete-crow-armstrong-clubs-37th-38th-home-runs",
+          "fetchedAt": 1788297672607
+        }
+      ]
     },
     {
       "id": 12522,
@@ -688,7 +695,26 @@
           "fetchedAt": 1788253520478
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tigers activate Riley Greene from injured list",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/tigers-activate-riley-greene-from-injured-list",
+          "fetchedAt": 1788297672607
+        },
+        {
+          "t": "Riley Greene (hamstring) to return on Tuesday",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/riley-greene-hamstring-to-return-on-tuesday",
+          "fetchedAt": 1788297672607
+        },
+        {
+          "t": "Riley Greene (hamstring) nears return to Tigers",
+          "date": "2026-08-30",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/riley-greene-hamstring-nears-return-to-tigers",
+          "fetchedAt": 1788297672607
+        }
+      ]
     },
     {
       "id": 10496,
@@ -713,7 +739,14 @@
           "fetchedAt": 1788296683094
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mariners officially add slugger Lazaro Montes",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/mariners-officially-add-slugger-lazaro-montes",
+          "fetchedAt": 1788297672607
+        }
+      ]
     },
     {
       "id": 64330,
@@ -931,7 +964,14 @@
           "fetchedAt": 1788253538623
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins continues hitting ninth for Twins",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/walker-jenkins-continues-hitting-ninth-for-twins",
+          "fetchedAt": 1788297672607
+        }
+      ]
     },
     {
       "id": 9701,
