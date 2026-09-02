@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-02T21:05:14.719Z",
+  "lastUpdatedNews": "2026-09-02T21:21:20.880Z",
   "players": [
     {
       "id": 11928,
@@ -177,7 +177,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz (quad) in Monday’s lineup at DH",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/elly-de-la-cruz-quad-in-mondays-lineup-at-dh",
+          "fetchedAt": 1788384080880
+        }
+      ]
     },
     {
       "id": 9507,
@@ -258,7 +265,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz gets two-out save versus A’s",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/jacob-latz-gets-two-out-save-versus-as",
+          "fetchedAt": 1788384080880
+        }
+      ]
     },
     {
       "id": 11763,
@@ -338,7 +352,20 @@
           "fetchedAt": 1788296669685
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Williamson (shoulder) back to piggyback with Burns",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/williamson-shoulder-back-to-piggyback-with-burns",
+          "fetchedAt": 1788384080880
+        },
+        {
+          "t": "Chase Burns to have innings limit rest of season",
+          "date": "2026-08-31",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/chase-burns-to-have-innings-limit-rest-of-season",
+          "fetchedAt": 1788384080880
+        }
+      ]
     },
     {
       "id": 11203,
