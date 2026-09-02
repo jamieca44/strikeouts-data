@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-02T09:03:57.481Z",
+  "lastUpdatedNews": "2026-09-02T09:22:55.876Z",
   "players": [
     {
       "id": 11928,
@@ -124,14 +124,7 @@
           "fetchedAt": 1788339784464
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis goes hitless, sees OPS drop below .700",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/royce-lewis-goes-hitless-sees-ops-drop-below-700",
-          "fetchedAt": 1788124870630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -214,7 +207,14 @@
           "fetchedAt": 1788253492676
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. clubs two homers against Reds",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/fernando-tatis-jr-clubs-two-homers-against-reds",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 64897,
@@ -264,7 +264,14 @@
           "fetchedAt": 1788253495851
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts drives in four in loss to Cardinals",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/mookie-betts-drives-in-four-in-loss-to-cardinals",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 12393,
@@ -272,20 +279,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz departs with quad tightness",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/elly-de-la-cruz-departs-with-quad-tightness",
-          "fetchedAt": 1788168070475
-        },
-        {
-          "t": "Elly De La Cruz comes out of game in seventh",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/elly-de-la-cruz-comes-out-of-game-in-seventh",
-          "fetchedAt": 1788168070475
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -318,14 +312,7 @@
           "fetchedAt": 1788339787894
         }
       ],
-      "nbcNews": [
-        {
-          "t": "José Ramírez hits first homer since June 6",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jose-ramirez-hits-first-homer-since-june-6",
-          "fetchedAt": 1788168070475
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -367,7 +354,14 @@
           "fetchedAt": 1788296661032
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo knocks in five to lead Rangers",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/brandon-nimmo-knocks-in-five-to-lead-rangers",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 12086,
@@ -375,14 +369,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz has easy nine against Brewers",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jacob-latz-has-easy-nine-against-brewers",
-          "fetchedAt": 1788168070475
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -447,7 +434,14 @@
           "fetchedAt": 1788296667583
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore beats A’s for eighth victory",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/mackenzie-gore-beats-as-for-eighth-victory",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 64316,
@@ -480,14 +474,7 @@
           "fetchedAt": 1788296669685
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Chase Burns strikes out seven Cubs, gets 15th win",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/chase-burns-strikes-out-seven-cubs-gets-15th-win",
-          "fetchedAt": 1788168070475
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -503,14 +490,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft downs Cardinals for 14th win",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/braxton-ashcraft-downs-cardinals-for-14th-win",
-          "fetchedAt": 1788168070475
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -675,14 +655,7 @@
           "fetchedAt": 1788253512036
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman reaches four times versus Tigers",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/freddie-freeman-reaches-four-times-versus-tigers",
-          "fetchedAt": 1788211257296
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -715,14 +688,7 @@
           "fetchedAt": 1788339808694
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Otto Lopez smacks two-run homer in comeback win",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/otto-lopez-smacks-two-run-homer-in-comeback-win",
-          "fetchedAt": 1788124870630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -763,14 +729,7 @@
           "fetchedAt": 1788296681293
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong clubs 37th, 38th home runs",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/pete-crow-armstrong-clubs-37th-38th-home-runs",
-          "fetchedAt": 1788297672607
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -848,12 +807,6 @@
           "t": "Riley Greene (hamstring) to return on Tuesday",
           "date": "2026-08-31",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/riley-greene-hamstring-to-return-on-tuesday",
-          "fetchedAt": 1788297672607
-        },
-        {
-          "t": "Riley Greene (hamstring) nears return to Tigers",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/riley-greene-hamstring-nears-return-to-tigers",
           "fetchedAt": 1788297672607
         }
       ]
@@ -993,14 +946,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña’s homer helps Astros defeat Mets",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/jeremy-penas-homer-helps-astros-defeat-mets",
-          "fetchedAt": 1788211257296
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -1236,14 +1182,7 @@
           "fetchedAt": 1788296696851
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez strikes out eight in no-decision",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/cristopher-sanchez-strikes-out-eight-in-no-decision",
-          "fetchedAt": 1788081684894
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
@@ -1316,7 +1255,14 @@
           "fetchedAt": 1788296701117
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole strikes out five in win against Angels",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/gerrit-cole-strikes-out-five-in-win-against-angels",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 11014,
@@ -1349,7 +1295,14 @@
           "fetchedAt": 1788253546206
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta strikes out seven in win Tuesday",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/freddy-peralta-strikes-out-seven-in-win-tuesday",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 10627,
@@ -1382,7 +1335,14 @@
           "fetchedAt": 1788339825679
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo holds D-backs to one run in victory",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/jesus-luzardo-holds-d-backs-to-one-run-in-victory",
+          "fetchedAt": 1788340975876
+        }
+      ]
     },
     {
       "id": 9691,
@@ -1407,14 +1367,7 @@
           "fetchedAt": 1788339827715
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray throws a quality start in Tampa",
-          "date": "2026-08-30",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-30/robbie-ray-throws-a-quality-start-in-tampa",
-          "fetchedAt": 1788168070475
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
