@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-03T21:04:10.106Z",
+  "lastUpdatedNews": "2026-09-03T21:20:45.890Z",
   "players": [
     {
       "id": 11928,
@@ -255,7 +255,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan strikes out four in Triple-A rehab start",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/joe-ryan-strikes-out-four-in-triple-a-rehab-start",
+          "fetchedAt": 1788470445890
+        }
+      ]
     },
     {
       "id": 10940,
@@ -540,7 +547,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smith sitting amidst another slump",
+          "date": "2026-09-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/cam-smith-sitting-amidst-another-slump",
+          "fetchedAt": 1788470445890
+        }
+      ]
     },
     {
       "id": 62954,
@@ -613,7 +627,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pedro Ramírez (back) out third straight game",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/pedro-ramirez-back-out-third-straight-game",
+          "fetchedAt": 1788470445890
+        },
+        {
+          "t": "Pedro Ramírez (back) remains out against Brewers",
+          "date": "2026-09-01",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/pedro-ramirez-back-remains-out-against-brewers",
+          "fetchedAt": 1788470445890
+        }
+      ]
     },
     {
       "id": 63537,
@@ -637,7 +664,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins continues batting ninth for Twins",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/walker-jenkins-continues-batting-ninth-for-twins",
+          "fetchedAt": 1788470445890
+        }
+      ]
     },
     {
       "id": 9701,
