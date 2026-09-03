@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-03T09:05:25.672Z",
+  "lastUpdatedNews": "2026-09-03T09:22:10.299Z",
   "players": [
     {
       "id": 11928,
@@ -58,7 +58,14 @@
           "fetchedAt": 1788339782789
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. hits rare homer",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/vladimir-guerrero-jr-hits-rare-homer",
+          "fetchedAt": 1788427330299
+        }
+      ]
     },
     {
       "id": 10964,
@@ -169,14 +176,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz (quad) in Monday’s lineup at DH",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/elly-de-la-cruz-quad-in-mondays-lineup-at-dh",
-          "fetchedAt": 1788384080880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -289,14 +289,7 @@
           "fetchedAt": 1788296665194
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan (glute) to make rehab start on Tuesday",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/joe-ryan-glute-to-make-rehab-start-on-tuesday",
-          "fetchedAt": 1788254431877
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -333,12 +326,6 @@
           "t": "Williamson (shoulder) back to piggyback with Burns",
           "date": "2026-09-01",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/williamson-shoulder-back-to-piggyback-with-burns",
-          "fetchedAt": 1788384080880
-        },
-        {
-          "t": "Chase Burns to have innings limit rest of season",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/chase-burns-to-have-innings-limit-rest-of-season",
           "fetchedAt": 1788384080880
         }
       ]
@@ -390,7 +377,14 @@
           "fetchedAt": 1788339796267
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Eric Lauer hits IL with elbow inflammation",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/eric-lauer-hits-il-with-elbow-inflammation",
+          "fetchedAt": 1788427330299
+        }
+      ]
     },
     {
       "id": 12387,
@@ -488,7 +482,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman homers, reaches base five times",
+          "date": "2026-09-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/freddie-freeman-homers-reaches-base-five-times",
+          "fetchedAt": 1788427330299
+        }
+      ]
     },
     {
       "id": 64311,
@@ -583,12 +584,6 @@
           "date": "2026-09-01",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/tigers-activate-riley-greene-from-injured-list",
           "fetchedAt": 1788297672607
-        },
-        {
-          "t": "Riley Greene (hamstring) to return on Tuesday",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/riley-greene-hamstring-to-return-on-tuesday",
-          "fetchedAt": 1788297672607
         }
       ]
     },
@@ -638,14 +633,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62954.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/colt-emerson/242796",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "M’s transfer Colt Emerson (wrist) to 60-day IL",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/ms-transfer-colt-emerson-wrist-to-60-day-il",
-          "fetchedAt": 1788211257296
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8996,
@@ -710,14 +698,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pedro Ramírez out Monday with back spasms",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/pedro-ramirez-out-monday-with-back-spasms",
-          "fetchedAt": 1788254431877
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -741,14 +722,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins continues hitting ninth for Twins",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/walker-jenkins-continues-hitting-ninth-for-twins",
-          "fetchedAt": 1788297672607
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -756,14 +730,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom strikes out eight in dominant outing",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/jacob-degrom-strikes-out-eight-in-dominant-outing",
-          "fetchedAt": 1788254431877
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -796,7 +763,14 @@
           "fetchedAt": 1788296695088
         }
       ],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease shuts out Guardians over six in win",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/dylan-cease-shuts-out-guardians-over-six-in-win",
+          "fetchedAt": 1788427330299
+        }
+      ]
     },
     {
       "id": 10946,
@@ -862,14 +836,7 @@
           "fetchedAt": 1788339823691
         }
       ],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish has start pushed back to Tuesday",
-          "date": "2026-08-31",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-31/kyle-bradish-has-start-pushed-back-to-tuesday",
-          "fetchedAt": 1788211257296
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
