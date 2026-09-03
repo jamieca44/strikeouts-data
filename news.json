@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-03T09:22:10.299Z",
+  "lastUpdatedNews": "2026-09-03T21:04:10.106Z",
   "players": [
     {
       "id": 11928,
@@ -199,14 +199,6 @@
           "when": "7h ago",
           "href": "https://sports.yahoo.com/articles/gavin-williams-thirteen-strikeout-game-014452684.html",
           "fetchedAt": 1788339787894
-        },
-        {
-          "t": "Guardians news: Steven Kwan drops 'delusional' NSFW admission on getting back on track",
-          "s": "The Cleveland Guardians are hot recently , with eight wins in their last 10 games. One reason for that resurgence is because of outfielder Steven Kwan. Kwan has his bat going again, and he is speaking out about what is going on. “I tried to get myself to that delusion of, ‘I need to remember who the f— I am, all these things I do well,’ and just […] The post Guardians news: Steven Kwan drops 'delusional' NSFW admission on getting back on track appeared first on ClutchPoints.",
-          "by": "Benjamin Adducchio, ClutchPoints",
-          "when": "13h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-news-steven-kwan-drops-195215628.html",
-          "fetchedAt": 1788339787894
         }
       ],
       "nbcNews": []
@@ -216,16 +208,7 @@
       "name": "Bryan Reynolds",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
-      "yahooNews": [
-        {
-          "t": "Pirates Trio Needs Rebound",
-          "s": "This Pittsburgh Pirates trio needs to finish the season off strong.",
-          "by": "Dominic Campbell",
-          "when": "19h ago",
-          "href": "https://sports.yahoo.com/articles/three-pirates-must-bounce-back-140004452.html",
-          "fetchedAt": 1788339790681
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -271,24 +254,7 @@
       "name": "Joe Ryan",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
-      "yahooNews": [
-        {
-          "t": "Joe Ryan Returns Soon",
-          "s": "Minnesota Twins right-hander Joe Ryan is looking to make his return to the team.",
-          "by": "Jesus Jimenez",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/joe-ryan-takes-first-step-153110685.html",
-          "fetchedAt": 1788296665194
-        },
-        {
-          "t": "Twins get positive injury update on Joe Ryan, but it might be too late",
-          "s": "The Minnesota Twins received a positive injury update on Joe Ryan, but it might be too late to save the season.",
-          "by": "Jackson Kruse",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/twins-positive-injury-joe-ryan-150003436.html",
-          "fetchedAt": 1788296665194
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -311,16 +277,7 @@
       "name": "Chase Burns",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
-      "yahooNews": [
-        {
-          "t": "Reds Limit Burns' Innings",
-          "s": "Cincinnati Reds starting pitcher Chase Burns will be seeing a change over the final month of the regular season.",
-          "by": "Jesus Jimenez",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/cincinnati-reds-chase-burns-decision-160053999.html",
-          "fetchedAt": 1788296669685
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Williamson (shoulder) back to piggyback with Burns",
@@ -528,32 +485,7 @@
       "name": "Pete Crow-Armstrong",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
-      "yahooNews": [
-        {
-          "t": "Chicago Cubs make home run history with barrage vs. Brewers",
-          "s": "Cubs set franchise record with nine home runs against Brewers.",
-          "by": "Gabe Lacques, USA TODAY",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/chicago-cubs-home-run-history-182740684.html",
-          "fetchedAt": 1788296681293
-        },
-        {
-          "t": "PCA's MVP Surge",
-          "s": "The NL MVP conversation is back, with Shohei Ohtani and Pete Crow-Armstrong at the center of it. The Chicago Cubs center fielder has hit 14 home runs in August, including a three-homer, six-RBI performance against the Reds on Saturday and another two-homer game on Sunday, pushing his season total to 38 homers.",
-          "by": "Krutik Jain",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/articles/world-doesn-t-want-shohei-183400537.html",
-          "fetchedAt": 1788296681293
-        },
-        {
-          "t": "Bregman, PCA's Historic Feat",
-          "s": "Alex Bregman and Pete Crow-Armstrong joined Roger Maris and Mickey Mantle in MLB history after a remarkable August.",
-          "by": "Miracle Dimwesh",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/cubs-bregman-crow-armstrong-join-140528967.html",
-          "fetchedAt": 1788296681293
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -592,24 +524,7 @@
       "name": "Taylor Ward",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
-      "yahooNews": [
-        {
-          "t": "Guardians news: Analyst says what Cleveland fans already know about Jo Adell trade",
-          "s": "The Cleveland Guardians traded for outfielder Jo Adell before the Major League Baseball trade deadline in early August. Adell had some great success over the years playing for the Los Angeles Angels. That trade is now being applauded by a MLB insider. “Jo Adell [was] one of the best acquisitions at the Trade Deadline…” Xavier Scruggs said, per MLB […] The post Guardians news: Analyst says what Cleveland fans already know about Jo Adell trade appeared first on ClutchPoints.",
-          "by": "Benjamin Adducchio, ClutchPoints",
-          "when": "1h ago",
-          "href": "https://sports.yahoo.com/articles/guardians-news-analyst-says-cleveland-192741622.html",
-          "fetchedAt": 1788296683094
-        },
-        {
-          "t": "Montes Called Up",
-          "s": "We knew that the M's were bringing up slugger Lazaro Montes, but the other roster moves came as a surprise.",
-          "by": "",
-          "when": "2h ago",
-          "href": "https://sports.yahoo.com/videos/seattle-mariners-multiple-roster-moves-181621740.html",
-          "fetchedAt": 1788296683094
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Mariners officially add slugger Lazaro Montes",
@@ -737,32 +652,7 @@
       "name": "Dylan Cease",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
-      "yahooNews": [
-        {
-          "t": "Blue Jays vs. Guardians prediction: Odds, recent stats, trends, and best bets for September 1",
-          "s": "Toronto Blue Jays vs. Cleveland Guardians Betting Preview for September 1",
-          "by": "Rotoworld Bet Staff",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-vs-guardians-prediction-174907401.html",
-          "fetchedAt": 1788296695088
-        },
-        {
-          "t": "Miles vs Williams Duel",
-          "s": "The Toronto Blue Jays begin a big nine-game road trip against the Cleveland Guardians on Tuesday night.",
-          "by": "Scott Roche",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-release-probable-pitchers-170004312.html",
-          "fetchedAt": 1788296695088
-        },
-        {
-          "t": "Blue Jays Announce Pitching Change Ahead of Pivotal Guardians Series",
-          "s": "The Toronto Blue Jays have made a major change to their pitching plans for their series against the Cleveland Guardians. The post Blue Jays Announce Pitching Change Ahead of Pivotal Guardians Series appeared first on HEAVY.",
-          "by": "Cole Shelton",
-          "when": "4h ago",
-          "href": "https://sports.yahoo.com/articles/blue-jays-announce-pitching-change-170303080.html",
-          "fetchedAt": 1788296695088
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Dylan Cease shuts out Guardians over six in win",
@@ -785,24 +675,7 @@
       "name": "Cristopher Sánchez",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
-      "yahooNews": [
-        {
-          "t": "Phillies' Magic Number to Clinch Playoff Berth Gets Major Jolt Following Win",
-          "s": "What is the new magic number for the Philadelphia Phillies following a win against the Arizona Diamondbacks.",
-          "by": "Nick Ziegler",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-magic-number-clinch-playoff-160005423.html",
-          "fetchedAt": 1788296696851
-        },
-        {
-          "t": "Phillies' 200K Duo",
-          "s": "The Philadelphia Phillies' left-handed pitching duo of Cristopher Snchez and Jesus Luzardo, made some impressive history.",
-          "by": "Julia Ruocchio",
-          "when": "8h ago",
-          "href": "https://sports.yahoo.com/articles/phillies-duo-cristopher-sanchez-jesus-130006149.html",
-          "fetchedAt": 1788296696851
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": []
     },
     {
@@ -826,14 +699,6 @@
           "when": "9h ago",
           "href": "https://sports.yahoo.com/articles/baltimore-orioles-colorado-rockies-game-234000863.html",
           "fetchedAt": 1788339823691
-        },
-        {
-          "t": "Braddish vs. Hughes",
-          "s": "Josh Inglis' favorite MLB strikeout and pitcher props for Tuesday, Sept. 1, include Jesus Luzardo, Eduardo Rodriguez, and Eric Lauer.",
-          "by": "Josh Inglis",
-          "when": "14h ago",
-          "href": "https://sports.yahoo.com/articles/mlb-strikeout-props-pitcher-best-182500184.html",
-          "fetchedAt": 1788339823691
         }
       ],
       "nbcNews": []
@@ -843,32 +708,7 @@
       "name": "Gerrit Cole",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
-      "yahooNews": [
-        {
-          "t": "TST Best Bets: September 1, 2026",
-          "s": "The Los Angeles Angels took game one of a three game series against the New York Yankees tonight at Angels Stadium last night.",
-          "by": "Nick Wire",
-          "when": "3h ago",
-          "href": "https://sports.yahoo.com/articles/tst-best-bets-september-1-180000350.html",
-          "fetchedAt": 1788296701117
-        },
-        {
-          "t": "Yankees vs. Angels prediction: Odds, recent stats, trends, and best bets for September 1",
-          "s": "New York Yankees vs. Los Angeles Angels of Anaheim Betting Preview for September 1",
-          "by": "Rotoworld Bet Staff",
-          "when": "5h ago",
-          "href": "https://sports.yahoo.com/articles/yankees-vs-angels-prediction-odds-151033646.html",
-          "fetchedAt": 1788296701117
-        },
-        {
-          "t": "Cole's Record Near",
-          "s": "Gerrit Cole can make history on Tuesday night. Pretty obscure history, but history nonetheless. If the New York Yankees ace gets the win when he faces the host",
-          "by": "John Perrotto",
-          "when": "6h ago",
-          "href": "https://sports.yahoo.com/articles/gerrit-cole-win-away-history-143745729.html",
-          "fetchedAt": 1788296701117
-        }
-      ],
+      "yahooNews": [],
       "nbcNews": [
         {
           "t": "Gerrit Cole strikes out five in win against Angels",
