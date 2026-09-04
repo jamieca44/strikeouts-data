@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-04T09:21:59.115Z",
+  "lastUpdatedNews": "2026-09-04T21:20:33.271Z",
   "players": [
     {
       "id": 11928,
@@ -109,7 +109,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz (quad) returns to shortstop",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/elly-de-la-cruz-quad-returns-to-shortstop",
+          "fetchedAt": 1788556833271
+        }
+      ]
     },
     {
       "id": 9507,
@@ -366,7 +373,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Lazaro Montes out of lineup against a lefty",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/lazaro-montes-out-of-lineup-against-a-lefty",
+          "fetchedAt": 1788556833271
+        }
+      ]
     },
     {
       "id": 64330,
@@ -513,7 +527,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Helsley (elbow) set to face hitters",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/ryan-helsley-elbow-set-to-face-hitters",
+          "fetchedAt": 1788556833271
+        }
+      ]
     },
     {
       "id": 11706,
