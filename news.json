@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-04T09:04:04.340Z",
+  "lastUpdatedNews": "2026-09-04T09:21:59.115Z",
   "players": [
     {
       "id": 11928,
@@ -47,7 +47,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson getting a breather on Thursday night",
+          "date": "2026-09-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/alec-burleson-getting-a-breather-on-thursday-night",
+          "fetchedAt": 1788513719115
+        }
+      ]
     },
     {
       "id": 64313,
@@ -63,14 +70,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. clubs two homers against Reds",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/fernando-tatis-jr-clubs-two-homers-against-reds",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -163,7 +163,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal surrenders 10 hits in no-decision",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/tarik-skubal-surrenders-10-hits-in-no-decision",
+          "fetchedAt": 1788513719115
+        }
+      ]
     },
     {
       "id": 11847,
@@ -171,14 +178,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan strikes out four in Triple-A rehab start",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/joe-ryan-strikes-out-four-in-triple-a-rehab-start",
-          "fetchedAt": 1788470445890
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -201,14 +201,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Williamson (shoulder) back to piggyback with Burns",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/williamson-shoulder-back-to-piggyback-with-burns",
-          "fetchedAt": 1788384080880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -334,7 +327,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong powers Cubs past Brewers",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/pete-crow-armstrong-powers-cubs-past-brewers",
+          "fetchedAt": 1788513719115
+        }
+      ]
     },
     {
       "id": 12522,
@@ -358,14 +358,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Tigers activate Riley Greene from injured list",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/tigers-activate-riley-greene-from-injured-list",
-          "fetchedAt": 1788297672607
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -373,14 +366,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mariners officially add slugger Lazaro Montes",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/mariners-officially-add-slugger-lazaro-montes",
-          "fetchedAt": 1788297672607
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -411,7 +397,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve goes deep as Astros beat White Sox",
+          "date": "2026-09-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/jose-altuve-goes-deep-as-astros-beat-white-sox",
+          "fetchedAt": 1788513719115
+        }
+      ]
     },
     {
       "id": 11529,
@@ -456,12 +449,6 @@
           "t": "Pedro Ramírez (back) out third straight game",
           "date": "2026-09-02",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/pedro-ramirez-back-out-third-straight-game",
-          "fetchedAt": 1788470445890
-        },
-        {
-          "t": "Pedro Ramírez (back) remains out against Brewers",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/pedro-ramirez-back-remains-out-against-brewers",
           "fetchedAt": 1788470445890
         }
       ]
@@ -542,7 +529,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish holds Rockies to two runs in no-decision",
+          "date": "2026-09-02",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/kyle-bradish-holds-rockies-to-two-runs-in-no-decision",
+          "fetchedAt": 1788513719115
+        }
+      ]
     },
     {
       "id": 9121,
@@ -565,14 +559,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta strikes out seven in win Tuesday",
-          "date": "2026-09-01",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-01/freddy-peralta-strikes-out-seven-in-win-tuesday",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
@@ -603,7 +590,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Yates goes on IL with shoulder impingement",
+          "date": "2026-09-03",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/yates-goes-on-il-with-shoulder-impingement",
+          "fetchedAt": 1788513719115
+        }
+      ]
     },
     {
       "id": 11823,
