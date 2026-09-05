@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-04T21:20:33.271Z",
+  "lastUpdatedNews": "2026-09-05T09:21:12.465Z",
   "players": [
     {
       "id": 11928,
@@ -8,7 +8,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tigers sit Riley Greene, Dillon Dingler in nightcap",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/tigers-sit-riley-greene-dillon-dingler-in-nightcap",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 10621,
@@ -16,14 +23,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. hits rare homer",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/vladimir-guerrero-jr-hits-rare-homer",
-          "fetchedAt": 1788427330299
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -94,14 +94,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts drives in four in loss to Cardinals",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/mookie-betts-drives-in-four-in-loss-to-cardinals",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -140,14 +133,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo knocks in five to lead Rangers",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/brandon-nimmo-knocks-in-five-to-lead-rangers",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -155,14 +141,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz gets two-out save versus A’s",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/jacob-latz-gets-two-out-save-versus-as",
-          "fetchedAt": 1788384080880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -193,14 +172,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore beats A’s for eighth victory",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/mackenzie-gore-beats-as-for-eighth-victory",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -232,14 +204,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Eric Lauer hits IL with elbow inflammation",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/eric-lauer-hits-il-with-elbow-inflammation",
-          "fetchedAt": 1788427330299
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -255,7 +220,26 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker exits Friday due to illness",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/bryan-baker-exits-friday-due-to-illness",
+          "fetchedAt": 1788600072465
+        },
+        {
+          "t": "Tyler Wells grabs save after Bryan Baker injury",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/tyler-wells-grabs-save-after-bryan-baker-injury",
+          "fetchedAt": 1788600072465
+        },
+        {
+          "t": "Bryan Baker exits with trainer against Rangers",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/bryan-baker-exits-with-trainer-against-rangers",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 10214,
@@ -263,7 +247,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) set to begin rehab assignment",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/edwin-diaz-neck-set-to-begin-rehab-assignment",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 10592,
@@ -279,7 +270,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers (forearm) set to resume throwing",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/ryan-weathers-forearm-set-to-resume-throwing",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 8658,
@@ -302,7 +300,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana hits huge homer, walk-off single",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/travis-bazzana-hits-huge-homer-walk-off-single",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 61788,
@@ -365,7 +370,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tigers sit Riley Greene, Dillon Dingler in nightcap",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/tigers-sit-riley-greene-dillon-dingler-in-nightcap",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 10496,
@@ -373,14 +385,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Lazaro Montes out of lineup against a lefty",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/lazaro-montes-out-of-lineup-against-a-lefty",
-          "fetchedAt": 1788556833271
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64330,
@@ -458,14 +463,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pedro Ramírez (back) out third straight game",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/pedro-ramirez-back-out-third-straight-game",
-          "fetchedAt": 1788470445890
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -489,14 +487,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins continues batting ninth for Twins",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/walker-jenkins-continues-batting-ninth-for-twins",
-          "fetchedAt": 1788470445890
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -512,14 +503,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease shuts out Guardians over six in win",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/dylan-cease-shuts-out-guardians-over-six-in-win",
-          "fetchedAt": 1788427330299
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -542,7 +526,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez goes six in loss to braves",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/cristopher-sanchez-goes-six-in-loss-to-braves",
+          "fetchedAt": 1788600072465
+        }
+      ]
     },
     {
       "id": 12345,
@@ -550,14 +541,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish holds Rockies to two runs in no-decision",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/kyle-bradish-holds-rockies-to-two-runs-in-no-decision",
-          "fetchedAt": 1788513719115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -565,14 +549,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole strikes out five in win against Angels",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/gerrit-cole-strikes-out-five-in-win-against-angels",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -588,14 +565,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo holds D-backs to one run in victory",
-          "date": "2026-09-02",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-02/jesus-luzardo-holds-d-backs-to-one-run-in-victory",
-          "fetchedAt": 1788340975876
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
