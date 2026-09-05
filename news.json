@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-05T09:21:12.465Z",
+  "lastUpdatedNews": "2026-09-05T21:21:04.311Z",
   "players": [
     {
       "id": 11928,
@@ -164,7 +164,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan (glute) could return Monday vs. Tigers",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/joe-ryan-glute-could-return-monday-vs-tigers",
+          "fetchedAt": 1788643264311
+        }
+      ]
     },
     {
       "id": 10940,
@@ -315,7 +322,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin on the bench amid cold stretch",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/caleb-durbin-on-the-bench-amid-cold-stretch",
+          "fetchedAt": 1788643264311
+        }
+      ]
     },
     {
       "id": 12100,
@@ -487,7 +501,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins sits against left-hander Saturday",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/walker-jenkins-sits-against-left-hander-saturday",
+          "fetchedAt": 1788643264311
+        }
+      ]
     },
     {
       "id": 9701,
