@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-05T21:21:04.311Z",
+  "lastUpdatedNews": "2026-09-06T09:21:20.065Z",
   "players": [
     {
       "id": 11928,
@@ -47,14 +47,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson getting a breather on Thursday night",
-          "date": "2026-09-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/alec-burleson-getting-a-breather-on-thursday-night",
-          "fetchedAt": 1788513719115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -125,7 +118,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Reynolds homers in loss against Angels",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/bryan-reynolds-homers-in-loss-against-angels",
+          "fetchedAt": 1788686480065
+        }
+      ]
     },
     {
       "id": 9876,
@@ -203,7 +203,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft strikes out nine in loss to Angels",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/braxton-ashcraft-strikes-out-nine-in-loss-to-angels",
+          "fetchedAt": 1788686480065
+        }
+      ]
     },
     {
       "id": 60238,
@@ -292,14 +299,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman homers, reaches base five times",
-          "date": "2026-09-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/freddie-freeman-homers-reaches-base-five-times",
-          "fetchedAt": 1788427330299
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -407,14 +407,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cam Smith sitting amidst another slump",
-          "date": "2026-09-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/cam-smith-sitting-amidst-another-slump",
-          "fetchedAt": 1788470445890
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -430,14 +423,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jose Altuve goes deep as Astros beat White Sox",
-          "date": "2026-09-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/jose-altuve-goes-deep-as-astros-beat-white-sox",
-          "fetchedAt": 1788513719115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -516,7 +502,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom holds Rays to two runs in no-decision",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/jacob-degrom-holds-rays-to-two-runs-in-no-decision",
+          "fetchedAt": 1788686480065
+        }
+      ]
     },
     {
       "id": 10438,
@@ -594,7 +587,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray allows five runs in loss to Yankees",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/robbie-ray-allows-five-runs-in-loss-to-yankees",
+          "fetchedAt": 1788686480065
+        }
+      ]
     },
     {
       "id": 9727,
@@ -602,14 +602,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Yates goes on IL with shoulder impingement",
-          "date": "2026-09-03",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/yates-goes-on-il-with-shoulder-impingement",
-          "fetchedAt": 1788513719115
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11823,
