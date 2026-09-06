@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-06T09:21:20.065Z",
+  "lastUpdatedNews": "2026-09-06T21:22:03.528Z",
   "players": [
     {
       "id": 11928,
@@ -110,7 +110,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez getting a day off on Sunday afternoon",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/jose-ramirez-getting-a-day-off-on-sunday-afternoon",
+          "fetchedAt": 1788729723528
+        }
+      ]
     },
     {
       "id": 10577,
@@ -407,7 +414,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smith on bench for second straight game",
+          "date": "2026-09-04",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-04/cam-smith-on-bench-for-second-straight-game",
+          "fetchedAt": 1788729723528
+        }
+      ]
     },
     {
       "id": 62954,
@@ -555,7 +569,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish lasts just four innings versus Boston",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/kyle-bradish-lasts-just-four-innings-versus-boston",
+          "fetchedAt": 1788729723528
+        }
+      ]
     },
     {
       "id": 9121,
