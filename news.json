@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-07T09:20:56.706Z",
+  "lastUpdatedNews": "2026-09-07T21:21:05.787Z",
   "players": [
     {
       "id": 11928,
@@ -79,7 +79,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Donovan struggling to recover from concussion",
+          "date": "2026-09-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/donovan-struggling-to-recover-from-concussion",
+          "fetchedAt": 1788816065787
+        }
+      ]
     },
     {
       "id": 9552,
@@ -102,7 +109,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz powers Reds past Brewers on Sunday",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/elly-de-la-cruz-powers-reds-past-brewers-on-sunday",
+          "fetchedAt": 1788816065787
+        },
+        {
+          "t": "Elly De La Cruz swats 22nd homer in victory",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/elly-de-la-cruz-swats-22nd-homer-in-victory",
+          "fetchedAt": 1788816065787
+        }
+      ]
     },
     {
       "id": 9507,
@@ -263,7 +283,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) begins rehab assignment",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/edwin-diaz-neck-begins-rehab-assignment",
+          "fetchedAt": 1788816065787
+        }
+      ]
     },
     {
       "id": 10592,
@@ -334,7 +361,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong swats 40th home run in loss",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/pete-crow-armstrong-swats-40th-home-run-in-loss",
+          "fetchedAt": 1788816065787
+        }
+      ]
     },
     {
       "id": 12522,
@@ -358,7 +392,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene stays hot with two doubles, two RBI",
+          "date": "2026-09-06",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/riley-greene-stays-hot-with-two-doubles-two-rbi",
+          "fetchedAt": 1788816065787
+        },
+        {
+          "t": "Riley Greene homers twice as Tigers top Guardians",
+          "date": "2026-09-05",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/riley-greene-homers-twice-as-tigers-top-guardians",
+          "fetchedAt": 1788816065787
+        }
+      ]
     },
     {
       "id": 10496,
