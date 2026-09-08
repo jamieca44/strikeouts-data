@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-07T21:21:05.787Z",
+  "lastUpdatedNews": "2026-09-08T09:20:48.713Z",
   "players": [
     {
       "id": 11928,
@@ -63,7 +63,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. picks up 32nd steal in win",
+          "date": "2026-09-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/fernando-tatis-jr-picks-up-32nd-steal-in-win",
+          "fetchedAt": 1788859248713
+        }
+      ]
     },
     {
       "id": 64897,
@@ -115,12 +122,6 @@
           "date": "2026-09-06",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/elly-de-la-cruz-powers-reds-past-brewers-on-sunday",
           "fetchedAt": 1788816065787
-        },
-        {
-          "t": "Elly De La Cruz swats 22nd homer in victory",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/elly-de-la-cruz-swats-22nd-homer-in-victory",
-          "fetchedAt": 1788816065787
         }
       ]
     },
@@ -145,14 +146,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Reynolds homers in loss against Angels",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/bryan-reynolds-homers-in-loss-against-angels",
-          "fetchedAt": 1788686480065
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9876,
@@ -191,14 +185,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan (glute) could return Monday vs. Tigers",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/joe-ryan-glute-could-return-monday-vs-tigers",
-          "fetchedAt": 1788643264311
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -221,7 +208,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns pulled after three stellar frames",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/chase-burns-pulled-after-three-stellar-frames",
+          "fetchedAt": 1788859248713
+        }
+      ]
     },
     {
       "id": 11203,
@@ -237,14 +231,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft strikes out nine in loss to Angels",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/braxton-ashcraft-strikes-out-nine-in-loss-to-angels",
-          "fetchedAt": 1788686480065
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -330,14 +317,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin on the bench amid cold stretch",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/caleb-durbin-on-the-bench-amid-cold-stretch",
-          "fetchedAt": 1788643264311
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -376,7 +356,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill drives in two runs against Nats",
+          "date": "2026-09-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/jackson-merrill-drives-in-two-runs-against-nats",
+          "fetchedAt": 1788859248713
+        }
+      ]
     },
     {
       "id": 10504,
@@ -397,12 +384,6 @@
           "t": "Riley Greene stays hot with two doubles, two RBI",
           "date": "2026-09-06",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/riley-greene-stays-hot-with-two-doubles-two-rbi",
-          "fetchedAt": 1788816065787
-        },
-        {
-          "t": "Riley Greene homers twice as Tigers top Guardians",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/riley-greene-homers-twice-as-tigers-top-guardians",
           "fetchedAt": 1788816065787
         }
       ]
@@ -501,14 +482,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins sits against left-hander Saturday",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/walker-jenkins-sits-against-left-hander-saturday",
-          "fetchedAt": 1788643264311
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -516,14 +490,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob deGrom holds Rays to two runs in no-decision",
-          "date": "2026-09-05",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-05/jacob-degrom-holds-rays-to-two-runs-in-no-decision",
-          "fetchedAt": 1788686480065
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10438,
@@ -531,7 +498,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cease deals with diminished velocity versus A’s",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/cease-deals-with-diminished-velocity-versus-as",
+          "fetchedAt": 1788859248713
+        }
+      ]
     },
     {
       "id": 10946,
@@ -593,7 +567,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo blanks Braves for first ever shutout",
+          "date": "2026-09-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/jesus-luzardo-blanks-braves-for-first-ever-shutout",
+          "fetchedAt": 1788859248713
+        }
+      ]
     },
     {
       "id": 9691,
