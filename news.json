@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-08T09:20:48.713Z",
+  "lastUpdatedNews": "2026-09-08T21:20:31.431Z",
   "players": [
     {
       "id": 11928,
@@ -185,7 +185,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan strikes out seven in return from IL",
+          "date": "2026-09-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/joe-ryan-strikes-out-seven-in-return-from-il",
+          "fetchedAt": 1788902431431
+        },
+        {
+          "t": "Joe Ryan (glute) off the IL and will start on Monday",
+          "date": "2026-09-07",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/joe-ryan-glute-off-the-il-and-will-start-on-monday",
+          "fetchedAt": 1788902431431
+        }
+      ]
     },
     {
       "id": 10940,
@@ -513,7 +526,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Helsley (elbow) will live BP session Tuesday",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/ryan-helsley-elbow-will-live-bp-session-tuesday",
+          "fetchedAt": 1788902431431
+        }
+      ]
     },
     {
       "id": 11706,
