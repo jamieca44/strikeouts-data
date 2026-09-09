@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-09T09:05:10.549Z",
+  "lastUpdatedNews": "2026-09-09T09:20:24.722Z",
   "players": [
     {
       "id": 11928,
@@ -16,14 +16,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. goes 0-for-4 in loss to K.C.",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/vladimir-guerrero-jr-goes-0-for-4-in-loss-to-k-c",
-          "fetchedAt": 1788772856706
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -116,14 +109,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz powers Reds past Brewers on Sunday",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/elly-de-la-cruz-powers-reds-past-brewers-on-sunday",
-          "fetchedAt": 1788816065787
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -131,14 +117,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "José Ramírez getting a day off on Sunday afternoon",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/jose-ramirez-getting-a-day-off-on-sunday-afternoon",
-          "fetchedAt": 1788729723528
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -162,14 +141,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jakob Junis records first save since June",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/jakob-junis-records-first-save-since-june",
-          "fetchedAt": 1788772856706
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -177,7 +149,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal holds Reds to two runs in victory",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/tarik-skubal-holds-reds-to-two-runs-in-victory",
+          "fetchedAt": 1788945624722
+        }
+      ]
     },
     {
       "id": 11847,
@@ -206,14 +185,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore struggles through three versus Rays",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/mackenzie-gore-struggles-through-three-versus-rays",
-          "fetchedAt": 1788772856706
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -252,14 +224,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan to be recalled to face Reds",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/emmet-sheehan-to-be-recalled-to-face-reds",
-          "fetchedAt": 1788772856706
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -283,14 +248,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (neck) begins rehab assignment",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/edwin-diaz-neck-begins-rehab-assignment",
-          "fetchedAt": 1788816065787
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -314,7 +272,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Shohei Ohtani not in Tuesday’s lineup vs. Reds",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/shohei-ohtani-not-in-tuesdays-lineup-vs-reds",
+          "fetchedAt": 1788945624722
+        }
+      ]
     },
     {
       "id": 64311,
@@ -322,7 +287,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana hits three-run homer versus Orioles",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/travis-bazzana-hits-three-run-homer-versus-orioles",
+          "fetchedAt": 1788945624722
+        }
+      ]
     },
     {
       "id": 61788,
@@ -346,7 +318,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson (oblique) nearing rehab assignment",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/dansby-swanson-oblique-nearing-rehab-assignment",
+          "fetchedAt": 1788945624722
+        }
+      ]
     },
     {
       "id": 12157,
@@ -354,14 +333,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong swats 40th home run in loss",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/pete-crow-armstrong-swats-40th-home-run-in-loss",
-          "fetchedAt": 1788816065787
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -392,14 +364,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Riley Greene stays hot with two doubles, two RBI",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/riley-greene-stays-hot-with-two-doubles-two-rbi",
-          "fetchedAt": 1788816065787
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -415,7 +380,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smith hits 18th home run against Phillies",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/cam-smith-hits-18th-home-run-against-phillies",
+          "fetchedAt": 1788945624722
+        }
+      ]
     },
     {
       "id": 62954,
@@ -549,14 +521,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish lasts just four innings versus Boston",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/kyle-bradish-lasts-just-four-innings-versus-boston",
-          "fetchedAt": 1788729723528
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -564,14 +529,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole gives up four homers in loss to Padres",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/gerrit-cole-gives-up-four-homers-in-loss-to-padres",
-          "fetchedAt": 1788772856706
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -579,7 +537,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta allows one run in win over Braves",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/freddy-peralta-allows-one-run-in-win-over-braves",
+          "fetchedAt": 1788945624722
+        }
+      ]
     },
     {
       "id": 10627,
@@ -602,14 +567,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray allows five runs in loss to Yankees",
-          "date": "2026-09-06",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-06/robbie-ray-allows-five-runs-in-loss-to-yankees",
-          "fetchedAt": 1788686480065
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
