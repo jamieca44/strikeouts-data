@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-08T21:20:31.431Z",
+  "lastUpdatedNews": "2026-09-09T09:05:10.549Z",
   "players": [
     {
       "id": 11928,
@@ -703,6 +703,22 @@
       "id": 12203,
       "name": "Griffin Jax",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12203.1.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 65734,
+      "name": "JoJo Parker",
+      "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 12776,
+      "name": "Kodai Senga",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/12776.1.png",
       "nbcUrl": null,
       "yahooNews": [],
       "nbcNews": []
