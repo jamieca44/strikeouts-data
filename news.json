@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-09T09:20:24.722Z",
+  "lastUpdatedNews": "2026-09-10T21:21:17.766Z",
   "players": [
     {
       "id": 11928,
@@ -32,7 +32,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis goes hitless in series versus Tigers",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/royce-lewis-goes-hitless-in-series-versus-tigers",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 12550,
@@ -56,14 +63,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. picks up 32nd steal in win",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/fernando-tatis-jr-picks-up-32nd-steal-in-win",
-          "fetchedAt": 1788859248713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -79,14 +79,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12351.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brendan-donovan/49161",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Donovan struggling to recover from concussion",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/donovan-struggling-to-recover-from-concussion",
-          "fetchedAt": 1788816065787
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9552,
@@ -94,14 +87,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts homers, knocks in four versus Nats",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/mookie-betts-homers-knocks-in-four-versus-nats",
-          "fetchedAt": 1788772856706
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -109,7 +95,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz homers in fourth straight game",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/elly-de-la-cruz-homers-in-fourth-straight-game",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 9507,
@@ -117,7 +110,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez goes 0-for-4, makes big error in loss",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/jose-ramirez-goes-0-for-4-makes-big-error-in-loss",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 10577,
@@ -164,20 +164,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan strikes out seven in return from IL",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/joe-ryan-strikes-out-seven-in-return-from-il",
-          "fetchedAt": 1788902431431
-        },
-        {
-          "t": "Joe Ryan (glute) off the IL and will start on Monday",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/joe-ryan-glute-off-the-il-and-will-start-on-monday",
-          "fetchedAt": 1788902431431
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -224,7 +211,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan fans 10 in return to majors",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/emmet-sheehan-fans-10-in-return-to-majors",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 12387,
@@ -248,7 +242,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) could return this weekend",
+          "date": "2026-09-08",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/edwin-diaz-neck-could-return-this-weekend",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 10592,
@@ -341,14 +342,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill drives in two runs against Nats",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/jackson-merrill-drives-in-two-runs-against-nats",
-          "fetchedAt": 1788859248713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -419,7 +413,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Michael Arroyo out of Mariners lineup versus lefty",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/michael-arroyo-out-of-mariners-lineup-versus-lefty",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 11768,
@@ -513,7 +514,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez hit hard by Astros in win",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/cristopher-sanchez-hit-hard-by-astros-in-win",
+          "fetchedAt": 1789075277766
+        }
+      ]
     },
     {
       "id": 12345,
@@ -552,14 +560,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo blanks Braves for first ever shutout",
-          "date": "2026-09-07",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-07/jesus-luzardo-blanks-braves-for-first-ever-shutout",
-          "fetchedAt": 1788859248713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
