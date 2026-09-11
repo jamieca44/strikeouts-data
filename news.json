@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-10T21:21:17.766Z",
+  "lastUpdatedNews": "2026-09-11T09:21:13.892Z",
   "players": [
     {
       "id": 11928,
@@ -24,7 +24,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Luis García Jr. launches 30th home run in victory",
+          "date": "2026-09-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/luis-garcia-jr-launches-30th-home-run-in-victory",
+          "fetchedAt": 1789118473892
+        }
+      ]
     },
     {
       "id": 10916,
@@ -63,7 +70,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. collects three hits in win",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/fernando-tatis-jr-collects-three-hits-in-win",
+          "fetchedAt": 1789118473892
+        }
+      ]
     },
     {
       "id": 64897,
@@ -87,7 +101,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts hits 19th homer as Dodgers crush Reds",
+          "date": "2026-09-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/mookie-betts-hits-19th-homer-as-dodgers-crush-reds",
+          "fetchedAt": 1789118473892
+        }
+      ]
     },
     {
       "id": 12393,
@@ -180,14 +201,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Chase Burns pulled after three stellar frames",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/chase-burns-pulled-after-three-stellar-frames",
-          "fetchedAt": 1788859248713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -203,7 +217,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pirates place Braxton Ashcraft (arm) on 15-day IL",
+          "date": "2026-09-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/pirates-place-braxton-ashcraft-arm-on-15-day-il",
+          "fetchedAt": 1789118473892
+        }
+      ]
     },
     {
       "id": 60238,
@@ -211,14 +232,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan fans 10 in return to majors",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/emmet-sheehan-fans-10-in-return-to-majors",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -242,14 +256,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (neck) could return this weekend",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/edwin-diaz-neck-could-return-this-weekend",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -273,14 +280,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Shohei Ohtani not in Tuesday’s lineup vs. Reds",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/shohei-ohtani-not-in-tuesdays-lineup-vs-reds",
-          "fetchedAt": 1788945624722
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -288,14 +288,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana hits three-run homer versus Orioles",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/travis-bazzana-hits-three-run-homer-versus-orioles",
-          "fetchedAt": 1788945624722
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -319,14 +312,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson (oblique) nearing rehab assignment",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/dansby-swanson-oblique-nearing-rehab-assignment",
-          "fetchedAt": 1788945624722
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -342,7 +328,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jackson Merrill totals four hits, drives in six",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/jackson-merrill-totals-four-hits-drives-in-six",
+          "fetchedAt": 1789118473892
+        }
+      ]
     },
     {
       "id": 10504,
@@ -374,14 +367,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cam Smith hits 18th home run against Phillies",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/cam-smith-hits-18th-home-run-against-phillies",
-          "fetchedAt": 1788945624722
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62954,
@@ -476,7 +462,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom fans 12 in tough-luck no-decision",
+          "date": "2026-09-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/jacob-degrom-fans-12-in-tough-luck-no-decision",
+          "fetchedAt": 1789118473892
+        }
+      ]
     },
     {
       "id": 10438,
@@ -484,14 +477,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cease deals with diminished velocity versus A’s",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/cease-deals-with-diminished-velocity-versus-as",
-          "fetchedAt": 1788859248713
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -499,14 +485,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Helsley (elbow) will live BP session Tuesday",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/ryan-helsley-elbow-will-live-bp-session-tuesday",
-          "fetchedAt": 1788902431431
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -545,14 +524,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta allows one run in win over Braves",
-          "date": "2026-09-08",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-08/freddy-peralta-allows-one-run-in-win-over-braves",
-          "fetchedAt": 1788945624722
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
