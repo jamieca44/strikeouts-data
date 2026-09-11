@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-11T09:21:13.892Z",
+  "lastUpdatedNews": "2026-09-11T21:20:48.749Z",
   "players": [
     {
       "id": 11928,
@@ -280,7 +280,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Roberts: Freeman ‘absolutely not’ going to IL",
+          "date": "2026-09-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/roberts-freeman-absolutely-not-going-to-il",
+          "fetchedAt": 1789161648749
+        },
+        {
+          "t": "Freddie Freeman (knee) out Wednesday vs. Reds",
+          "date": "2026-09-09",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/freddie-freeman-takes-a-seat-wednesday-vs-reds",
+          "fetchedAt": 1789161648749
+        }
+      ]
     },
     {
       "id": 64311,
@@ -312,7 +325,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Counsell: Swanson (oblique) to return next weekend",
+          "date": "2026-09-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/counsell-swanson-oblique-to-return-next-weekend",
+          "fetchedAt": 1789161648749
+        }
+      ]
     },
     {
       "id": 12157,
@@ -367,7 +387,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/64330.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cam-smith/271722",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Smith homers for third day in a row",
+          "date": "2026-09-10",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/cam-smith-homers-for-third-day-in-a-row",
+          "fetchedAt": 1789161648749
+        }
+      ]
     },
     {
       "id": 62954,
