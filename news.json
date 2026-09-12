@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-11T21:20:48.749Z",
+  "lastUpdatedNews": "2026-09-12T09:21:36.398Z",
   "players": [
     {
       "id": 11928,
@@ -8,7 +8,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler blasts 27th homer in win on Friday",
+          "date": "2026-09-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/dillon-dingler-blasts-27th-homer-in-win-on-friday",
+          "fetchedAt": 1789204896398
+        }
+      ]
     },
     {
       "id": 10621,
@@ -39,14 +46,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis goes hitless in series versus Tigers",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/royce-lewis-goes-hitless-in-series-versus-tigers",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -70,14 +70,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. collects three hits in win",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/fernando-tatis-jr-collects-three-hits-in-win",
-          "fetchedAt": 1789118473892
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -116,14 +109,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz homers in fourth straight game",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/elly-de-la-cruz-homers-in-fourth-straight-game",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -131,14 +117,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "José Ramírez goes 0-for-4, makes big error in loss",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/jose-ramirez-goes-0-for-4-makes-big-error-in-loss",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -170,14 +149,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal holds Reds to two runs in victory",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/tarik-skubal-holds-reds-to-two-runs-in-victory",
-          "fetchedAt": 1788945624722
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -193,7 +165,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore gets lit up in fifth by D-backs",
+          "date": "2026-09-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/mackenzie-gore-gets-lit-up-in-fifth-by-d-backs",
+          "fetchedAt": 1789204896398
+        }
+      ]
     },
     {
       "id": 64316,
@@ -256,7 +235,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) to make another rehab appearance",
+          "date": "2026-09-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/edwin-diaz-neck-to-make-another-rehab-appearance",
+          "fetchedAt": 1789204896398
+        }
+      ]
     },
     {
       "id": 10592,
@@ -285,12 +271,6 @@
           "t": "Roberts: Freeman ‘absolutely not’ going to IL",
           "date": "2026-09-10",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-10/roberts-freeman-absolutely-not-going-to-il",
-          "fetchedAt": 1789161648749
-        },
-        {
-          "t": "Freddie Freeman (knee) out Wednesday vs. Reds",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/freddie-freeman-takes-a-seat-wednesday-vs-reds",
           "fetchedAt": 1789161648749
         }
       ]
@@ -348,14 +328,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill totals four hits, drives in six",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/jackson-merrill-totals-four-hits-drives-in-six",
-          "fetchedAt": 1789118473892
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -371,7 +344,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene smacks RBI triple in win over Rockies",
+          "date": "2026-09-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/riley-greene-smacks-rbi-triple-in-win-over-rockies",
+          "fetchedAt": 1789204896398
+        }
+      ]
     },
     {
       "id": 10496,
@@ -426,14 +406,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Michael Arroyo out of Mariners lineup versus lefty",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/michael-arroyo-out-of-mariners-lineup-versus-lefty",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -520,14 +493,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez hit hard by Astros in win",
-          "date": "2026-09-09",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-09/cristopher-sanchez-hit-hard-by-astros-in-win",
-          "fetchedAt": 1789075277766
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
