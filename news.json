@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-13T09:21:03.880Z",
+  "lastUpdatedNews": "2026-09-13T21:21:01.771Z",
   "players": [
     {
       "id": 11928,
@@ -23,7 +23,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Finally: Vlad Jr. hits first HR at home this season",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/finally-vlad-jr-hits-first-hr-at-home-this-season",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 10964,
@@ -39,7 +46,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis leaves game with sore left shoulder",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/royce-lewis-leaves-game-with-sore-left-shoulder",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 12550,
@@ -94,7 +108,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts slugs 20th homer in loss to Marlins",
+          "date": "2026-09-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/mookie-betts-slugs-20th-homer-in-loss-to-marlins",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 12393,
@@ -110,7 +131,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez sits again amidst major slump",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/jose-ramirez-sits-again-amidst-major-slump",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 10577,
@@ -173,7 +201,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Chase Burns gives up two runs in three innings",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/chase-burns-gives-up-two-runs-in-three-innings",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 11203,
@@ -197,7 +232,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan delivers another strong start Sunday",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/emmet-sheehan-delivers-another-strong-start-sunday",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 12387,
@@ -273,7 +315,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman (knee) in Saturday’s lineup",
+          "date": "2026-09-12",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/freddie-freeman-knee-in-saturdays-lineup",
+          "fetchedAt": 1789334461771
+        },
+        {
+          "t": "Freddie Freeman (knee) not in Dodgers’ lineup",
+          "date": "2026-09-11",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/freddie-freeman-knee-not-in-dodgers-lineup",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 64311,
@@ -297,7 +352,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Otto Lopez drives in two runs Sunday vs. LAD",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/otto-lopez-drives-in-two-runs-sunday-vs-lad",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 10234,
@@ -498,7 +560,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease strikes out nine in win over Orioles",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/dylan-cease-strikes-out-nine-in-win-over-orioles",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 10946,
@@ -559,7 +628,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta goes five shutout in win vs. Astros",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/freddy-peralta-goes-five-shutout-in-win-vs-astros",
+          "fetchedAt": 1789334461771
+        }
+      ]
     },
     {
       "id": 10627,
