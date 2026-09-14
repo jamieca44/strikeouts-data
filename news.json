@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-14T09:20:59.789Z",
+  "lastUpdatedNews": "2026-09-14T21:21:12.058Z",
   "players": [
     {
       "id": 11928,
@@ -284,7 +284,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz (neck) needs another rehab appearance",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/edwin-diaz-neck-needs-another-rehab-appearance",
+          "fetchedAt": 1789420872058
+        },
+        {
+          "t": "Tanner Scott takes blown save, loss on Sunday",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/tanner-scott-takes-blown-save-loss-on-sunday",
+          "fetchedAt": 1789420872058
+        }
+      ]
     },
     {
       "id": 10592,
@@ -382,7 +395,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson (oblique) starts rehab assignment",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/dansby-swanson-oblique-starts-rehab-assignment",
+          "fetchedAt": 1789420872058
+        }
+      ]
     },
     {
       "id": 12157,
@@ -428,7 +448,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene continues hot hitting in win Sunday",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/riley-greene-continues-hot-hitting-in-win-sunday",
+          "fetchedAt": 1789420872058
+        }
+      ]
     },
     {
       "id": 10496,
@@ -522,7 +549,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Franklin Arias homers again at Triple-A",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/franklin-arias-homers-again-at-triple-a",
+          "fetchedAt": 1789420872058
+        }
+      ]
     },
     {
       "id": 64967,
