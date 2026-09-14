@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-13T21:21:01.771Z",
+  "lastUpdatedNews": "2026-09-14T09:20:59.789Z",
   "players": [
     {
       "id": 11928,
@@ -8,14 +8,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dillon Dingler blasts 27th homer in win on Friday",
-          "date": "2026-09-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/dillon-dingler-blasts-27th-homer-in-win-on-friday",
-          "fetchedAt": 1789204896398
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10621,
@@ -61,7 +54,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson knocks in three, takes over RBI lead",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/alec-burleson-knocks-in-three-takes-over-rbi-lead",
+          "fetchedAt": 1789377659789
+        }
+      ]
     },
     {
       "id": 64313,
@@ -162,7 +162,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz gives up two runs before notching save",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/jacob-latz-gives-up-two-runs-before-notching-save",
+          "fetchedAt": 1789377659789
+        }
+      ]
     },
     {
       "id": 11763,
@@ -178,7 +185,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan gives up two homers in loss to Guardians",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/joe-ryan-gives-up-two-homers-in-loss-to-guardians",
+          "fetchedAt": 1789377659789
+        }
+      ]
     },
     {
       "id": 10940,
@@ -270,14 +284,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (neck) to make another rehab appearance",
-          "date": "2026-09-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/edwin-diaz-neck-to-make-another-rehab-appearance",
-          "fetchedAt": 1789204896398
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -321,12 +328,6 @@
           "date": "2026-09-12",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/freddie-freeman-knee-in-saturdays-lineup",
           "fetchedAt": 1789334461771
-        },
-        {
-          "t": "Freddie Freeman (knee) not in Dodgers’ lineup",
-          "date": "2026-09-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/freddie-freeman-knee-not-in-dodgers-lineup",
-          "fetchedAt": 1789334461771
         }
       ]
     },
@@ -336,7 +337,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana homers, knocks in three runs",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/travis-bazzana-homers-knocks-in-three-runs",
+          "fetchedAt": 1789377659789
+        }
+      ]
     },
     {
       "id": 61788,
@@ -344,7 +352,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Caleb Durbin homers, steals base in victory",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/caleb-durbin-homers-steals-base-in-victory",
+          "fetchedAt": 1789377659789
+        }
+      ]
     },
     {
       "id": 12100,
@@ -367,14 +382,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Counsell: Swanson (oblique) to return next weekend",
-          "date": "2026-09-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/counsell-swanson-oblique-to-return-next-weekend",
-          "fetchedAt": 1789161648749
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -420,14 +428,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Riley Greene smacks RBI triple in win over Rockies",
-          "date": "2026-09-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/riley-greene-smacks-rbi-triple-in-win-over-rockies",
-          "fetchedAt": 1789204896398
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -648,12 +649,6 @@
           "t": "MRI negative on Jesús Luzardo’s shoulder",
           "date": "2026-09-12",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/mri-negative-on-jesus-luzardos-shoulder",
-          "fetchedAt": 1789291263880
-        },
-        {
-          "t": "Jesús Luzardo scratched with shoulder stiffness",
-          "date": "2026-09-11",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/luzardo-shoulder-scratched-from-start-on-saturday",
           "fetchedAt": 1789291263880
         }
       ]
