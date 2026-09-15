@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-14T21:21:12.058Z",
+  "lastUpdatedNews": "2026-09-15T09:21:20.222Z",
   "players": [
     {
       "id": 11928,
@@ -77,14 +77,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. homers, reaches five times in win",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/fernando-tatis-jr-homers-reaches-five-times-in-win",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -108,14 +101,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts slugs 20th homer in loss to Marlins",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/mookie-betts-slugs-20th-homer-in-loss-to-marlins",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -123,7 +109,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz homers for Reds’ lone run",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/elly-de-la-cruz-homers-for-reds-lone-run",
+          "fetchedAt": 1789464080222
+        }
+      ]
     },
     {
       "id": 9507,
@@ -177,7 +170,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal goes seven scoreless to defeat Reds",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/tarik-skubal-goes-seven-scoreless-to-defeat-reds",
+          "fetchedAt": 1789464080222
+        }
+      ]
     },
     {
       "id": 11847,
@@ -200,14 +200,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore gets lit up in fifth by D-backs",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/mackenzie-gore-gets-lit-up-in-fifth-by-d-backs",
-          "fetchedAt": 1789204896398
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -269,14 +262,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker first to 40 saves in 2026",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/bryan-baker-first-to-40-saves-in-2026",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -307,10 +293,10 @@
       "yahooNews": [],
       "nbcNews": [
         {
-          "t": "Jack Flaherty (elbow) set to throw simulated game",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/jack-flaherty-elbow-set-to-throw-simulated-game",
-          "fetchedAt": 1789248041630
+          "t": "Jack Flaherty (elbow) to make another rehab start",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/jack-flaherty-elbow-to-make-another-rehab-start",
+          "fetchedAt": 1789464080222
         }
       ]
     },
@@ -322,10 +308,10 @@
       "yahooNews": [],
       "nbcNews": [
         {
-          "t": "Ryan Weathers (forearm) nearing bullpen session",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/ryan-weathers-forearm-nearing-bullpen-session",
-          "fetchedAt": 1789248041630
+          "t": "Ryan Weathers (forearm) throwing bullpen session",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/ryan-weathers-forearm-throwing-bullpen-session",
+          "fetchedAt": 1789464080222
         }
       ]
     },
@@ -335,14 +321,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddie Freeman (knee) in Saturday’s lineup",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/freddie-freeman-knee-in-saturdays-lineup",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64311,
@@ -410,7 +389,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong a one-man wrecking crew in win",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/pete-crow-armstrong-a-one-man-wrecking-crew-in-win",
+          "fetchedAt": 1789464080222
+        }
+      ]
     },
     {
       "id": 12522,
@@ -418,14 +404,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jackson Merrill swats 25th homer in win over Giants",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/jackson-merrill-swats-25th-homer-in-win-over-giants",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10504,
@@ -433,14 +412,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger hits third home run in four games",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/cody-bellinger-hits-third-home-run-in-four-games",
-          "fetchedAt": 1789248041630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -487,14 +459,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Rosenthal: Astros considering Carlos Correa at 2B",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/rosenthal-astros-considering-carlos-correa-at-2b",
-          "fetchedAt": 1789248041630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11529,
@@ -572,14 +537,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins absent from Saturday’s lineup",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/walker-jenkins-absent-from-saturdays-lineup",
-          "fetchedAt": 1789248041630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -610,14 +568,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Helsley (elbow) starts rehab assignment",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/ryan-helsley-elbow-starts-rehab-assignment",
-          "fetchedAt": 1789248041630
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -633,14 +584,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Kyle Bradish pulled after three, takes 14th loss",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/kyle-bradish-pulled-after-three-takes-14th-loss",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -648,14 +592,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole surrenders three more homers in loss",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/gerrit-cole-surrenders-three-more-homers-in-loss",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -678,14 +615,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MRI negative on Jesús Luzardo’s shoulder",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/mri-negative-on-jesus-luzardos-shoulder",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
@@ -693,14 +623,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray wins despite allowing grand slam",
-          "date": "2026-09-12",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-12/robbie-ray-wins-despite-allowing-grand-slam",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
