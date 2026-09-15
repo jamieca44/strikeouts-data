@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-15T09:21:20.222Z",
+  "lastUpdatedNews": "2026-09-15T21:20:38.136Z",
   "players": [
     {
       "id": 11928,
@@ -77,7 +77,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. goes 3-for-4 in Padres’ victory",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/fernando-tatis-jr-goes-3-for-4-in-padres-victory",
+          "fetchedAt": 1789507238136
+        }
+      ]
     },
     {
       "id": 64897,
@@ -321,7 +328,26 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman returns to first base against Reds",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/freddie-freeman-returns-to-first-base-against-reds",
+          "fetchedAt": 1789507238136
+        },
+        {
+          "t": "Freddie Freeman not in Monday’s lineup vs. Reds",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/freddie-freeman-takes-a-seat-on-monday-vs-reds",
+          "fetchedAt": 1789507238136
+        },
+        {
+          "t": "Freddie Freeman to get day off against Reds",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/freddie-freeman-to-get-day-off-against-reds",
+          "fetchedAt": 1789507238136
+        }
+      ]
     },
     {
       "id": 64311,
@@ -537,7 +563,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins goes 0-for-4, fans three times",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/walker-jenkins-goes-0-for-4-fans-three-times",
+          "fetchedAt": 1789507238136
+        }
+      ]
     },
     {
       "id": 9701,
@@ -584,7 +617,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Orioles place Kyle Bradish (abdomen) on 15-day IL",
+          "date": "2026-09-13",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/orioles-place-kyle-bradish-abdomen-on-15-day-il",
+          "fetchedAt": 1789507238136
+        }
+      ]
     },
     {
       "id": 9121,
@@ -615,7 +655,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Phillies placing Jesús Luzardo (shoulder) on IL",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/phillies-placing-jesus-luzardo-shoulder-on-il",
+          "fetchedAt": 1789507238136
+        }
+      ]
     },
     {
       "id": 9691,
