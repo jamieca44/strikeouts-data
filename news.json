@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-15T21:20:38.136Z",
+  "lastUpdatedNews": "2026-09-16T09:20:55.662Z",
   "players": [
     {
       "id": 11928,
@@ -16,14 +16,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Finally: Vlad Jr. hits first HR at home this season",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/finally-vlad-jr-hits-first-hr-at-home-this-season",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -39,14 +32,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Royce Lewis leaves game with sore left shoulder",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/royce-lewis-leaves-game-with-sore-left-shoulder",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12550,
@@ -54,14 +40,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Alec Burleson knocks in three, takes over RBI lead",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/alec-burleson-knocks-in-three-takes-over-rbi-lead",
-          "fetchedAt": 1789377659789
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -77,14 +56,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Fernando Tatis Jr. goes 3-for-4 in Padres’ victory",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/fernando-tatis-jr-goes-3-for-4-in-padres-victory",
-          "fetchedAt": 1789507238136
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -131,14 +103,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "José Ramírez sits again amidst major slump",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/jose-ramirez-sits-again-amidst-major-slump",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -162,14 +127,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz gives up two runs before notching save",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/jacob-latz-gives-up-two-runs-before-notching-save",
-          "fetchedAt": 1789377659789
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -192,14 +150,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Joe Ryan gives up two homers in loss to Guardians",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/joe-ryan-gives-up-two-homers-in-loss-to-guardians",
-          "fetchedAt": 1789377659789
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10940,
@@ -215,14 +166,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Chase Burns gives up two runs in three innings",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/chase-burns-gives-up-two-runs-in-three-innings",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11203,
@@ -246,14 +190,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Emmet Sheehan delivers another strong start Sunday",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/emmet-sheehan-delivers-another-strong-start-sunday",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -283,12 +220,6 @@
           "date": "2026-09-14",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/edwin-diaz-neck-needs-another-rehab-appearance",
           "fetchedAt": 1789420872058
-        },
-        {
-          "t": "Tanner Scott takes blown save, loss on Sunday",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/tanner-scott-takes-blown-save-loss-on-sunday",
-          "fetchedAt": 1789420872058
         }
       ]
     },
@@ -298,14 +229,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jack Flaherty (elbow) to make another rehab start",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/jack-flaherty-elbow-to-make-another-rehab-start",
-          "fetchedAt": 1789464080222
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11379,
@@ -340,12 +264,6 @@
           "date": "2026-09-14",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/freddie-freeman-takes-a-seat-on-monday-vs-reds",
           "fetchedAt": 1789507238136
-        },
-        {
-          "t": "Freddie Freeman to get day off against Reds",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/freddie-freeman-to-get-day-off-against-reds",
-          "fetchedAt": 1789507238136
         }
       ]
     },
@@ -355,14 +273,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Travis Bazzana homers, knocks in three runs",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/travis-bazzana-homers-knocks-in-three-runs",
-          "fetchedAt": 1789377659789
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 61788,
@@ -370,14 +281,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Caleb Durbin homers, steals base in victory",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/caleb-durbin-homers-steals-base-in-victory",
-          "fetchedAt": 1789377659789
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12100,
@@ -385,14 +289,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/12100.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/otto-lopez/48808",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Otto Lopez drives in two runs Sunday vs. LAD",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/otto-lopez-drives-in-two-runs-sunday-vs-lad",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10234,
@@ -438,7 +335,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger belts 16th home run in win Tuesday",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/cody-bellinger-belts-16th-home-run-in-win-tuesday",
+          "fetchedAt": 1789550455662
+        }
+      ]
     },
     {
       "id": 11760,
@@ -446,14 +350,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Riley Greene continues hot hitting in win Sunday",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/riley-greene-continues-hot-hitting-in-win-sunday",
-          "fetchedAt": 1789420872058
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -501,14 +398,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cole Young knocks in five as Mariners decimate A’s",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/cole-young-knocks-in-five-as-mariners-decimate-as",
-          "fetchedAt": 1789291263880
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -516,7 +406,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña goes yard twice in win on Tuesday",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/jeremy-pena-goes-yard-twice-in-win-on-tuesday",
+          "fetchedAt": 1789550455662
+        }
+      ]
     },
     {
       "id": 12375,
@@ -563,14 +460,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins goes 0-for-4, fans three times",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/walker-jenkins-goes-0-for-4-fans-three-times",
-          "fetchedAt": 1789507238136
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -578,7 +468,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom strikes out eight in win vs. Red Sox",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/jacob-degrom-strikes-out-eight-in-win-vs-red-sox",
+          "fetchedAt": 1789550455662
+        }
+      ]
     },
     {
       "id": 10438,
@@ -586,14 +483,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease strikes out nine in win over Orioles",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/dylan-cease-strikes-out-nine-in-win-over-orioles",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -609,7 +499,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez gives up five in loss to Nats",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/cristopher-sanchez-gives-up-five-in-loss-to-nats",
+          "fetchedAt": 1789550455662
+        }
+      ]
     },
     {
       "id": 12345,
@@ -617,14 +514,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Orioles place Kyle Bradish (abdomen) on 15-day IL",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/orioles-place-kyle-bradish-abdomen-on-15-day-il",
-          "fetchedAt": 1789507238136
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -640,14 +530,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta goes five shutout in win vs. Astros",
-          "date": "2026-09-13",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/freddy-peralta-goes-five-shutout-in-win-vs-astros",
-          "fetchedAt": 1789334461771
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
