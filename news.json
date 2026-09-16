@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-16T09:20:55.662Z",
+  "lastUpdatedNews": "2026-09-16T21:20:43.557Z",
   "players": [
     {
       "id": 11928,
@@ -32,7 +32,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis (shoulder) in Tuesday’s lineup",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/royce-lewis-shoulder-in-tuesdays-lineup",
+          "fetchedAt": 1789593643557
+        },
+        {
+          "t": "Royce Lewis (shoulder) not in Monday’s lineup",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/royce-lewis-shoulder-not-in-mondays-lineup",
+          "fetchedAt": 1789593643557
+        }
+      ]
     },
     {
       "id": 12550,
@@ -56,7 +69,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. goes yard in loss to Rockies",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/fernando-tatis-jr-goes-yard-in-loss-to-rockies",
+          "fetchedAt": 1789593643557
+        }
+      ]
     },
     {
       "id": 64897,
@@ -103,7 +123,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez steals two bases in loss to White Sox",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/jose-ramirez-steals-two-bases-in-loss-to-white-sox",
+          "fetchedAt": 1789593643557
+        }
+      ]
     },
     {
       "id": 10577,
@@ -127,7 +154,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz strikes out three for five-out save",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/jacob-latz-strikes-out-three-for-five-out-save",
+          "fetchedAt": 1789593643557
+        }
+      ]
     },
     {
       "id": 11763,
@@ -190,7 +224,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers option Emmet Sheehan back to Triple-A",
+          "date": "2026-09-14",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/dodgers-option-emmet-sheehan-back-to-triple-a",
+          "fetchedAt": 1789593643557
+        }
+      ]
     },
     {
       "id": 12387,
@@ -273,7 +314,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05012026/64311.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/travis-bazzana/271791",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Travis Bazzana has two home runs in win Tuesday",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/travis-bazzana-has-two-home-runs-in-win-tuesday",
+          "fetchedAt": 1789593643557
+        },
+        {
+          "t": "Royce Lewis (shoulder) in Tuesday’s lineup",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/royce-lewis-shoulder-in-tuesdays-lineup",
+          "fetchedAt": 1789593643557
+        }
+      ]
     },
     {
       "id": 61788,
