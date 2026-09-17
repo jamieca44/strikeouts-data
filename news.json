@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-17T09:21:03.561Z",
+  "lastUpdatedNews": "2026-09-17T21:20:31.042Z",
   "players": [
     {
       "id": 11928,
@@ -109,7 +109,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz stays hot with another home run",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/elly-de-la-cruz-stays-hot-with-another-home-run",
+          "fetchedAt": 1789680031042
+        }
+      ]
     },
     {
       "id": 9507,
@@ -117,7 +124,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez doubles twice in victory",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/jose-ramirez-doubles-twice-in-victory",
+          "fetchedAt": 1789680031042
+        }
+      ]
     },
     {
       "id": 10577,
@@ -219,7 +233,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Phillies move Caleb Kilian (oblique) to 60-day IL",
+          "date": "2026-09-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/phillies-move-caleb-kilian-oblique-to-60-day-il",
+          "fetchedAt": 1789680031042
+        }
+      ]
     },
     {
       "id": 11998,
@@ -242,7 +263,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Díaz (neck) will return in a low-leverage role",
+          "date": "2026-09-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/diaz-neck-will-return-in-a-low-leverage-role",
+          "fetchedAt": 1789680031042
+        },
+        {
+          "t": "Edwin Díaz (neck) completes rehab appearance",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/edwin-diaz-neck-completes-rehab-appearance",
+          "fetchedAt": 1789680031042
+        }
+      ]
     },
     {
       "id": 10592,
@@ -258,7 +292,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers (forearm) throws bullpen session",
+          "date": "2026-09-15",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/ryan-weathers-forearm-throws-bullpen-session",
+          "fetchedAt": 1789680031042
+        }
+      ]
     },
     {
       "id": 8658,
@@ -326,7 +367,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristian Javier ineffective in loss to Royals",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/cristian-javier-ineffective-in-loss-to-royals",
+          "fetchedAt": 1789680031042
+        },
+        {
+          "t": "Pete Crow-Armstrong slugs 43rd and 44th homers",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/pete-crow-armstrong-slugs-homers-43-44",
+          "fetchedAt": 1789680031042
+        }
+      ]
     },
     {
       "id": 12522,
