@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-16T21:20:43.557Z",
+  "lastUpdatedNews": "2026-09-17T09:21:03.561Z",
   "players": [
     {
       "id": 11928,
@@ -37,12 +37,6 @@
           "t": "Royce Lewis (shoulder) in Tuesday’s lineup",
           "date": "2026-09-15",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/royce-lewis-shoulder-in-tuesdays-lineup",
-          "fetchedAt": 1789593643557
-        },
-        {
-          "t": "Royce Lewis (shoulder) not in Monday’s lineup",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/royce-lewis-shoulder-not-in-mondays-lineup",
           "fetchedAt": 1789593643557
         }
       ]
@@ -100,7 +94,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts tallies three singles in loss",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/mookie-betts-tallies-three-singles-in-loss",
+          "fetchedAt": 1789636863561
+        }
+      ]
     },
     {
       "id": 12393,
@@ -108,14 +109,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz homers for Reds’ lone run",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/elly-de-la-cruz-homers-for-reds-lone-run",
-          "fetchedAt": 1789464080222
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -123,14 +117,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "José Ramírez steals two bases in loss to White Sox",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/jose-ramirez-steals-two-bases-in-loss-to-white-sox",
-          "fetchedAt": 1789593643557
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10577,
@@ -169,14 +156,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Tarik Skubal goes seven scoreless to defeat Reds",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/tarik-skubal-goes-seven-scoreless-to-defeat-reds",
-          "fetchedAt": 1789464080222
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -192,7 +172,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore deals with muscle spasms vs. Boston",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/mackenzie-gore-deals-with-muscle-spasms-vs-boston",
+          "fetchedAt": 1789636863561
+        }
+      ]
     },
     {
       "id": 64316,
@@ -224,14 +211,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dodgers option Emmet Sheehan back to Triple-A",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/dodgers-option-emmet-sheehan-back-to-triple-a",
-          "fetchedAt": 1789593643557
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -247,7 +227,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Sulser closes out Athletics for third save",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/cole-sulser-closes-out-athletics-for-third-save",
+          "fetchedAt": 1789636863561
+        }
+      ]
     },
     {
       "id": 10214,
@@ -255,14 +242,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz (neck) needs another rehab appearance",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/edwin-diaz-neck-needs-another-rehab-appearance",
-          "fetchedAt": 1789420872058
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -278,14 +258,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers (forearm) throwing bullpen session",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/ryan-weathers-forearm-throwing-bullpen-session",
-          "fetchedAt": 1789464080222
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -298,12 +271,6 @@
           "t": "Freddie Freeman returns to first base against Reds",
           "date": "2026-09-15",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-15/freddie-freeman-returns-to-first-base-against-reds",
-          "fetchedAt": 1789507238136
-        },
-        {
-          "t": "Freddie Freeman not in Monday’s lineup vs. Reds",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/freddie-freeman-takes-a-seat-on-monday-vs-reds",
           "fetchedAt": 1789507238136
         }
       ]
@@ -351,14 +318,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson (oblique) starts rehab assignment",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/dansby-swanson-oblique-starts-rehab-assignment",
-          "fetchedAt": 1789420872058
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -366,14 +326,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong a one-man wrecking crew in win",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/pete-crow-armstrong-a-one-man-wrecking-crew-in-win",
-          "fetchedAt": 1789464080222
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -491,14 +444,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/franklin-arias/272123",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Franklin Arias homers again at Triple-A",
-          "date": "2026-09-14",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-14/franklin-arias-homers-again-at-triple-a",
-          "fetchedAt": 1789420872058
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64967,
@@ -568,7 +514,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish dealing with sports hernia injury",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/kyle-bradish-dealing-with-sports-hernia-injury",
+          "fetchedAt": 1789636863561
+        }
+      ]
     },
     {
       "id": 9121,
@@ -607,7 +560,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray goes six in defeating Rockies",
+          "date": "2026-09-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/robbie-ray-goes-six-in-defeating-rockies",
+          "fetchedAt": 1789636863561
+        }
+      ]
     },
     {
       "id": 9727,
