@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-18T09:20:55.821Z",
+  "lastUpdatedNews": "2026-09-18T21:21:12.465Z",
   "players": [
     {
       "id": 11928,
@@ -8,7 +8,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler not in Tigers’ lineup on Friday",
+          "date": "2026-09-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-18/dillon-dingler-not-in-tigers-lineup-on-friday",
+          "fetchedAt": 1789766472465
+        }
+      ]
     },
     {
       "id": 10621,
@@ -32,7 +39,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis goes 0-for-5, fans four times",
+          "date": "2026-09-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-18/royce-lewis-goes-0-for-5-fans-four-times",
+          "fetchedAt": 1789766472465
+        }
+      ]
     },
     {
       "id": 12550,
@@ -311,7 +325,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cubs activate Dansby Swanson off injured list",
+          "date": "2026-09-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-18/cubs-activate-dansby-swanson-off-injured-list",
+          "fetchedAt": 1789766472465
+        }
+      ]
     },
     {
       "id": 12157,
@@ -412,7 +433,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña swats leadoff homer as Astros roll",
+          "date": "2026-09-17",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/jeremy-pena-swats-leadoff-homer-as-astros-roll",
+          "fetchedAt": 1789766472465
+        },
+        {
+          "t": "Jeremy Peña notches three hits in loss to Royals",
+          "date": "2026-09-16",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/jeremy-pena-notches-three-hits-in-loss-to-royals",
+          "fetchedAt": 1789766472465
+        }
+      ]
     },
     {
       "id": 12375,
