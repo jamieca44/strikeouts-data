@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-17T21:20:31.042Z",
+  "lastUpdatedNews": "2026-09-18T09:04:12.186Z",
   "players": [
     {
       "id": 11928,
@@ -731,6 +731,14 @@
       "id": 12776,
       "name": "Kodai Senga",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/12776.1.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 9883,
+      "name": "Josh Bell",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9883.png",
       "nbcUrl": null,
       "yahooNews": [],
       "nbcNews": []
