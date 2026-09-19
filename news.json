@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-19T09:21:29.541Z",
+  "lastUpdatedNews": "2026-09-19T21:19:45.395Z",
   "players": [
     {
       "id": 11928,
@@ -658,6 +658,22 @@
       "id": 9883,
       "name": "Josh Bell",
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9883.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 9007,
+      "name": "Nathan Eovaldi",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9007.1.png",
+      "nbcUrl": null,
+      "yahooNews": [],
+      "nbcNews": []
+    },
+    {
+      "id": 11826,
+      "name": "George Kirby",
+      "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/11826.png",
       "nbcUrl": null,
       "yahooNews": [],
       "nbcNews": []
