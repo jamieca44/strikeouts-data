@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-19T21:19:45.395Z",
+  "lastUpdatedNews": "2026-09-19T21:20:33.757Z",
   "players": [
     {
       "id": 11928,
@@ -94,7 +94,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts homers twice as Dodgers down Giants",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/mookie-betts-homers-twice-as-dodgers-down-giants",
+          "fetchedAt": 1789852833757
+        }
+      ]
     },
     {
       "id": 12393,
@@ -102,7 +109,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz notches 27th steal in win over Cubs",
+          "date": "2026-09-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-18/elly-de-la-cruz-notches-27th-steal-in-win-over-cubs",
+          "fetchedAt": 1789852833757
+        }
+      ]
     },
     {
       "id": 9507,
@@ -110,7 +124,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez homers, steals base in win over A’s",
+          "date": "2026-09-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-18/jose-ramirez-homers-steals-base-in-win-over-as",
+          "fetchedAt": 1789852833757
+        }
+      ]
     },
     {
       "id": 10577,
@@ -158,7 +179,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore planning to start against Mets",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/mackenzie-gore-planning-to-start-against-mets",
+          "fetchedAt": 1789852833757
+        }
+      ]
     },
     {
       "id": 64316,
@@ -189,7 +217,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Braxton Ashcraft dealing with arm fatigue",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/braxton-ashcraft-dealing-with-arm-fatigue",
+          "fetchedAt": 1789852833757
+        }
+      ]
     },
     {
       "id": 60238,
@@ -385,7 +420,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cole Young takes seat against Rockies",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/cole-young-takes-seat-against-rockies",
+          "fetchedAt": 1789852833757
+        }
+      ]
     },
     {
       "id": 11768,
