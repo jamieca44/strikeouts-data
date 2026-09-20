@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-20T09:20:40.855Z",
+  "lastUpdatedNews": "2026-09-20T21:21:18.690Z",
   "players": [
     {
       "id": 11928,
@@ -23,7 +23,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. removed with back tightness",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/vladimir-guerrero-jr-removed-with-back-tightness",
+          "fetchedAt": 1789939278690
+        },
+        {
+          "t": "Vladimir Guerrero Jr. exits with possible injury",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/vladimir-guerrero-jr-exits-with-possible-injury",
+          "fetchedAt": 1789939278690
+        }
+      ]
     },
     {
       "id": 10964,
@@ -147,7 +160,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo (illness) scratched on Sunday",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/brandon-nimmo-illness-scratched-on-sunday",
+          "fetchedAt": 1789939278690
+        }
+      ]
     },
     {
       "id": 12086,
@@ -246,7 +266,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Emmet Sheehan rejoins Dodgers on Sunday",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/emmet-sheehan-rejoins-dodgers-on-sunday",
+          "fetchedAt": 1789939278690
+        }
+      ]
     },
     {
       "id": 12387,
@@ -277,7 +304,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz impresses in return from IL",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/edwin-diaz-impresses-in-return-from-il",
+          "fetchedAt": 1789939278690
+        },
+        {
+          "t": "Dodgers activate Edwin Díaz from 15-day IL",
+          "date": "2026-09-18",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-18/dodgers-activate-edwin-diaz-from-15-day-il",
+          "fetchedAt": 1789939278690
+        }
+      ]
     },
     {
       "id": 10592,
@@ -348,7 +388,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong records 45th homer, 38th steal",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/pete-crow-armstrong-records-45th-homer-38th-steal",
+          "fetchedAt": 1789939278690
+        }
+      ]
     },
     {
       "id": 12522,
@@ -535,7 +582,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Sánchez strikes out six in win over Mets",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/sanchez-strikes-out-six-in-win-over-mets",
+          "fetchedAt": 1789939278690
+        }
+      ]
     },
     {
       "id": 12345,
