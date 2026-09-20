@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-19T21:20:33.757Z",
+  "lastUpdatedNews": "2026-09-20T09:20:40.855Z",
   "players": [
     {
       "id": 11928,
@@ -163,7 +163,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal picks up win after sloppy outing",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/tarik-skubal-picks-up-win-after-sloppy-outing",
+          "fetchedAt": 1789896040855
+        }
+      ]
     },
     {
       "id": 11847,
@@ -171,7 +178,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan surrenders two runs in no-decision",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/joe-ryan-surrenders-two-runs-in-no-decision",
+          "fetchedAt": 1789896040855
+        }
+      ]
     },
     {
       "id": 10940,
@@ -240,14 +254,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05272026/12387.4.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-kilian/48869",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Phillies move Caleb Kilian (oblique) to 60-day IL",
-          "date": "2026-09-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/phillies-move-caleb-kilian-oblique-to-60-day-il",
-          "fetchedAt": 1789680031042
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11998,
@@ -255,7 +262,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker falls in line for win against Red Sox",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/bryan-baker-falls-in-line-for-win-against-red-sox",
+          "fetchedAt": 1789896040855
+        }
+      ]
     },
     {
       "id": 10214,
@@ -263,14 +277,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Díaz (neck) will return in a low-leverage role",
-          "date": "2026-09-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/diaz-neck-will-return-in-a-low-leverage-role",
-          "fetchedAt": 1789680031042
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -435,14 +442,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña swats leadoff homer as Astros roll",
-          "date": "2026-09-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/jeremy-pena-swats-leadoff-homer-as-astros-roll",
-          "fetchedAt": 1789766472465
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -520,7 +520,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Helsley (elbow) will not return this season",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/ryan-helsley-elbow-will-not-return-this-season",
+          "fetchedAt": 1789896040855
+        }
+      ]
     },
     {
       "id": 11706,
@@ -559,7 +566,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta strikes out six in no-decision",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/freddy-peralta-strikes-out-six-in-no-decision",
+          "fetchedAt": 1789896040855
+        }
+      ]
     },
     {
       "id": 10627,
@@ -575,14 +589,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray goes six in defeating Rockies",
-          "date": "2026-09-17",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-17/robbie-ray-goes-six-in-defeating-rockies",
-          "fetchedAt": 1789636863561
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
