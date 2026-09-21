@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-21T09:21:10.678Z",
+  "lastUpdatedNews": "2026-09-21T21:20:45.968Z",
   "players": [
     {
       "id": 11928,
@@ -8,7 +8,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11928.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dillon-dingler/50010",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dillon Dingler gets another day off on Sunday",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/dillon-dingler-gets-another-day-off-on-sunday",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 10621,
@@ -116,7 +123,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez goes 2-for-4, collects 35th steal",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/jose-ramirez-goes-2-for-4-collects-35th-steal",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 10577,
@@ -200,7 +214,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/64316.3.png",
       "nbcUrl": "https://www.nbcsports.com/chase-burns/00000188-9cf1-da6b-abd8-fcfdeb4f0306",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Reds place Chase Burns (groin) on 15-day IL",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/reds-place-chase-burns-groin-on-15-day-il",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 11203,
@@ -332,7 +353,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson gets a breather on Sunday afternoon",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/dansby-swanson-gets-a-breather-on-sunday-afternoon",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 12157,
@@ -457,7 +485,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Passan: Alex Bregman has multiple facial fractures",
+          "date": "2026-09-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/passan-alex-bregman-has-multiple-facial-fractures",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 63537,
@@ -481,7 +516,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkiins goes 3-for-4, homers versus Twins",
+          "date": "2026-09-19",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/walker-jenkiins-goes-3-for-4-homers-versus-twins",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 9701,
@@ -504,7 +546,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dylan Cease (shoulder) will not require surgery",
+          "date": "2026-09-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/dylan-cease-shoulder-will-not-require-surgery",
+          "fetchedAt": 1790025645968
+        },
+        {
+          "t": "Dylan Cease undergoes MRI exam on shoulder",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/dylan-cease-undergoes-mri-exam-on-shoulder",
+          "fetchedAt": 1790025645968
+        }
+      ]
     },
     {
       "id": 10946,
