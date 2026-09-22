@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-21T21:20:45.968Z",
+  "lastUpdatedNews": "2026-09-22T09:20:30.417Z",
   "players": [
     {
       "id": 11928,
@@ -100,14 +100,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Mookie Betts homers twice as Dodgers down Giants",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/mookie-betts-homers-twice-as-dodgers-down-giants",
-          "fetchedAt": 1789852833757
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -199,14 +192,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore planning to start against Mets",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/mackenzie-gore-planning-to-start-against-mets",
-          "fetchedAt": 1789852833757
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -237,14 +223,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11372.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/braxton-ashcraft/00000188-9cf0-da6b-abd8-fcfd65c20170",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Braxton Ashcraft dealing with arm fatigue",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/braxton-ashcraft-dealing-with-arm-fatigue",
-          "fetchedAt": 1789852833757
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 60238,
@@ -275,14 +254,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker falls in line for win against Red Sox",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/bryan-baker-falls-in-line-for-win-against-red-sox",
-          "fetchedAt": 1789896040855
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -290,14 +262,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz impresses in return from IL",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/edwin-diaz-impresses-in-return-from-il",
-          "fetchedAt": 1789939278690
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -454,14 +419,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/60580.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cole-young/69546",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cole Young takes seat against Rockies",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/cole-young-takes-seat-against-rockies",
-          "fetchedAt": 1789852833757
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11768,
@@ -477,7 +435,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Marcelo Mayer to make Giants debut on Monday",
+          "date": "2026-09-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/marcelo-mayer-to-make-giants-debut-on-monday",
+          "fetchedAt": 1790068830417
+        }
+      ]
     },
     {
       "id": 62984,
@@ -516,14 +481,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkiins goes 3-for-4, homers versus Twins",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/walker-jenkiins-goes-3-for-4-homers-versus-twins",
-          "fetchedAt": 1790025645968
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -567,14 +525,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10946.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-helsley/48978",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Helsley (elbow) will not return this season",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/ryan-helsley-elbow-will-not-return-this-season",
-          "fetchedAt": 1789896040855
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11706,
@@ -605,14 +556,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole beats D-backs for ninth victory",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/gerrit-cole-beats-d-backs-for-ninth-victory",
-          "fetchedAt": 1789809689541
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -620,14 +564,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta strikes out six in no-decision",
-          "date": "2026-09-19",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-19/freddy-peralta-strikes-out-six-in-no-decision",
-          "fetchedAt": 1789896040855
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
