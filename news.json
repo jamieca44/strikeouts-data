@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-22T09:20:30.417Z",
+  "lastUpdatedNews": "2026-09-22T21:20:39.983Z",
   "players": [
     {
       "id": 11928,
@@ -100,7 +100,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts goes 4-for-4, doubles three times",
+          "date": "2026-09-20",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-20/mookie-betts-goes-4-for-4-doubles-three-times",
+          "fetchedAt": 1790112039983
+        }
+      ]
     },
     {
       "id": 12393,
@@ -356,7 +363,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger homers in Yankees’ 2-0 win",
+          "date": "2026-09-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/cody-bellinger-homers-in-yankees-2-0-win",
+          "fetchedAt": 1790112039983
+        }
+      ]
     },
     {
       "id": 11760,
@@ -364,7 +378,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Riley Greene absent from Tuesday’s lineup",
+          "date": "2026-09-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/riley-greene-absent-from-tuesdays-lineup",
+          "fetchedAt": 1790112039983
+        }
+      ]
     },
     {
       "id": 10496,
@@ -481,7 +502,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Walker Jenkins hitting leadoff again on Monday",
+          "date": "2026-09-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/walker-jenkins-leading-off-again-on-monday",
+          "fetchedAt": 1790112039983
+        }
+      ]
     },
     {
       "id": 9701,
