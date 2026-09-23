@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-23T09:20:59.658Z",
+  "lastUpdatedNews": "2026-09-23T21:21:04.261Z",
   "players": [
     {
       "id": 11928,
@@ -16,7 +16,26 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. doubles versus Orioles",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/vladimir-guerrero-jr-doubles-versus-orioles",
+          "fetchedAt": 1790198464261
+        },
+        {
+          "t": "Vlad Jr. (back) late addition to the Game 1 lineup",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/vlad-jr-back-late-addition-to-the-game-1-lineup",
+          "fetchedAt": 1790198464261
+        },
+        {
+          "t": "Vladimir Guerrero Jr. (back) out Monday vs. O’s",
+          "date": "2026-09-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/vladimir-guerrero-jr-back-out-monday-vs-os",
+          "fetchedAt": 1790198464261
+        }
+      ]
     },
     {
       "id": 10964,
@@ -87,7 +106,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Roberts: Shohei Ohtani likely to return Wednesday",
+          "date": "2026-09-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/roberts-shohei-ohtani-likely-to-return-wednesday",
+          "fetchedAt": 1790198464261
+        }
+      ]
     },
     {
       "id": 12393,
@@ -126,7 +152,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Brandon Nimmo (illness) back in Tuesday’s lineup",
+          "date": "2026-09-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/brandon-nimmo-illness-back-in-tuesdays-lineup",
+          "fetchedAt": 1790198464261
+        }
+      ]
     },
     {
       "id": 12086,
@@ -142,7 +175,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Roberts: Tarik Skubal to start Friday vs. Giants",
+          "date": "2026-09-22",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/roberts-tarik-skubal-to-start-friday-vs-giants",
+          "fetchedAt": 1790198464261
+        }
+      ]
     },
     {
       "id": 11847,
@@ -197,7 +237,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers option Emmet Sheehan to Triple-A",
+          "date": "2026-09-21",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/dodgers-option-emmet-sheehan-to-triple-a",
+          "fetchedAt": 1790198464261
+        }
+      ]
     },
     {
       "id": 12387,
