@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-23T21:21:04.261Z",
+  "lastUpdatedNews": "2026-09-24T09:21:28.536Z",
   "players": [
     {
       "id": 11928,
@@ -27,12 +27,6 @@
           "t": "Vlad Jr. (back) late addition to the Game 1 lineup",
           "date": "2026-09-23",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/vlad-jr-back-late-addition-to-the-game-1-lineup",
-          "fetchedAt": 1790198464261
-        },
-        {
-          "t": "Vladimir Guerrero Jr. (back) out Monday vs. O’s",
-          "date": "2026-09-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/vladimir-guerrero-jr-back-out-monday-vs-os",
           "fetchedAt": 1790198464261
         }
       ]
@@ -167,7 +161,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob Latz lets up game-winning homer vs. Mets",
+          "date": "2026-09-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/jacob-latz-lets-up-game-winning-homer-vs-mets",
+          "fetchedAt": 1790241688536
+        }
+      ]
     },
     {
       "id": 11763,
@@ -237,14 +238,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/60238.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/emmet-sheehan/168368",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dodgers option Emmet Sheehan to Triple-A",
-          "date": "2026-09-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/dodgers-option-emmet-sheehan-to-triple-a",
-          "fetchedAt": 1790198464261
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12387,
@@ -331,7 +325,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dansby Swanson plates two in loss vs. Marlins",
+          "date": "2026-09-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/dansby-swanson-plates-two-in-loss-vs-marlins",
+          "fetchedAt": 1790241688536
+        }
+      ]
     },
     {
       "id": 12157,
@@ -448,14 +449,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Marcelo Mayer to make Giants debut on Monday",
-          "date": "2026-09-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/marcelo-mayer-to-make-giants-debut-on-monday",
-          "fetchedAt": 1790068830417
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 62984,
@@ -463,14 +457,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/62984.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/matt-shaw/242370",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Passan: Alex Bregman has multiple facial fractures",
-          "date": "2026-09-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/passan-alex-bregman-has-multiple-facial-fractures",
-          "fetchedAt": 1790025645968
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 63537,
@@ -494,14 +481,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins hitting leadoff again on Monday",
-          "date": "2026-09-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/walker-jenkins-leading-off-again-on-monday",
-          "fetchedAt": 1790112039983
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -517,14 +497,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease (shoulder) will not require surgery",
-          "date": "2026-09-21",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-21/dylan-cease-shoulder-will-not-require-surgery",
-          "fetchedAt": 1790025645968
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -556,7 +529,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Gerrit Cole fans eight Rays, gets 10th win",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/gerrit-cole-fans-eight-rays-gets-10th-win",
+          "fetchedAt": 1790241688536
+        }
+      ]
     },
     {
       "id": 11014,
@@ -572,7 +552,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo (shoulder) nearing bullpen session",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/jesus-luzardo-shoulder-nearing-bullpen-session",
+          "fetchedAt": 1790241688536
+        }
+      ]
     },
     {
       "id": 9691,
