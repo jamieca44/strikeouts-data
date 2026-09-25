@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-24T21:21:01.691Z",
+  "lastUpdatedNews": "2026-09-25T09:21:16.012Z",
   "players": [
     {
       "id": 11928,
@@ -37,14 +37,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10964.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/luis-garcia/49072",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Luis García Jr. goes 0-for-7 in doubleheader",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/luis-garcia-jr-goes-0-for-7-in-doubleheader",
-          "fetchedAt": 1790155259658
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10916,
@@ -76,7 +69,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Padres clinch Wild Card spot by beating Dodgers",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/padres-clinch-wild-card-spot-by-beating-dodgers",
+          "fetchedAt": 1790328076012
+        }
+      ]
     },
     {
       "id": 64897,
@@ -100,14 +100,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Roberts: Shohei Ohtani likely to return Wednesday",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/roberts-shohei-ohtani-likely-to-return-wednesday",
-          "fetchedAt": 1790198464261
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -115,14 +108,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz collects 29th homer, 29th steal",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/elly-de-la-cruz-collects-29th-homer-29th-steal",
-          "fetchedAt": 1790155259658
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -153,14 +139,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9876.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/brandon-nimmo/48630",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Brandon Nimmo (illness) back in Tuesday’s lineup",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/brandon-nimmo-illness-back-in-tuesdays-lineup",
-          "fetchedAt": 1790198464261
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12086,
@@ -183,14 +162,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Roberts: Tarik Skubal to start Friday vs. Giants",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/roberts-tarik-skubal-to-start-friday-vs-giants",
-          "fetchedAt": 1790198464261
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -261,14 +233,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker throws scoreless ninth versus Yankees",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/bryan-baker-throws-scoreless-ninth-versus-yankees",
-          "fetchedAt": 1790155259658
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -276,7 +241,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Edwin Díaz perfect in ninth against Padres",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/edwin-diaz-perfect-in-ninth-against-padres",
+          "fetchedAt": 1790328076012
+        }
+      ]
     },
     {
       "id": 10592,
@@ -347,7 +319,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong swipes base to join 40/40 club",
+          "date": "2026-09-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/pete-crow-armstrong-swipes-base-to-join-40-40-club",
+          "fetchedAt": 1790328076012
+        }
+      ]
     },
     {
       "id": 12522,
@@ -363,14 +342,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger homers in Yankees’ 2-0 win",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/cody-bellinger-homers-in-yankees-2-0-win",
-          "fetchedAt": 1790112039983
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -378,14 +350,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11760.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/riley-greene/49025",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Riley Greene absent from Tuesday’s lineup",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/riley-greene-absent-from-tuesdays-lineup",
-          "fetchedAt": 1790112039983
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10496,
@@ -494,12 +459,6 @@
           "date": "2026-09-23",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/walker-jenkins-swats-fourth-homer-in-win-on-tuesday",
           "fetchedAt": 1790284861691
-        },
-        {
-          "t": "Emmanuel Rodriguez hitting sixth on Tuesday",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/emmanuel-rodriguez-hitting-sixth-on-tuesday",
-          "fetchedAt": 1790284861691
         }
       ]
     },
@@ -548,7 +507,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Orioles move Kyle Bradish to 60-day injured list",
+          "date": "2026-09-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/orioles-move-kyle-bradish-to-60-day-injured-list",
+          "fetchedAt": 1790328076012
+        }
+      ]
     },
     {
       "id": 9121,
@@ -594,7 +560,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Robbie Ray lifted in fourth against Dodgers",
+          "date": "2026-09-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/robbie-ray-lifted-in-fourth-against-dodgers",
+          "fetchedAt": 1790328076012
+        }
+      ]
     },
     {
       "id": 9727,
@@ -602,14 +575,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pirates activate Kirby Yates (shoulder) from IL",
-          "date": "2026-09-22",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/pirates-activate-kirby-yates-shoulder-from-il",
-          "fetchedAt": 1790155259658
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11823,
