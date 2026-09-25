@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-25T09:21:16.012Z",
+  "lastUpdatedNews": "2026-09-25T21:21:26.688Z",
   "players": [
     {
       "id": 11928,
@@ -100,7 +100,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Sizzling-hot Mookie Betts continues leading off",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/sizzling-hot-mookie-betts-continues-leading-off",
+          "fetchedAt": 1790371286688
+        }
+      ]
     },
     {
       "id": 12393,
@@ -108,7 +115,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Elly De La Cruz crushes 30th homer in win vs. ATL",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/elly-de-la-cruz-crushes-30th-homer-in-win-vs-atl",
+          "fetchedAt": 1790371286688
+        }
+      ]
     },
     {
       "id": 9507,
@@ -162,7 +176,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Dodgers activate Tarik Skubal for Friday start",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/dodgers-activate-tarik-skubal-for-friday-start",
+          "fetchedAt": 1790371286688
+        }
+      ]
     },
     {
       "id": 11847,
@@ -264,7 +285,20 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Ryan Weathers ‘looks healthy’ in live BP session",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/ryan-weathers-looks-healthy-in-live-bp-session",
+          "fetchedAt": 1790371286688
+        },
+        {
+          "t": "Ryan Weathers (forearm) throwing live session",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/ryan-weathers-forearm-throwing-live-session",
+          "fetchedAt": 1790371286688
+        }
+      ]
     },
     {
       "id": 8658,
@@ -342,7 +376,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cody Bellinger gets first game of doubleheader off",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/cody-bellinger-gets-first-game-of-doubleheader-off",
+          "fetchedAt": 1790371286688
+        },
+        {
+          "t": "Cody Bellinger takes a seat Wednesday vs. Rays",
+          "date": "2026-09-23",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/cody-bellinger-takes-a-seat-wednesday-vs-rays",
+          "fetchedAt": 1790371286688
+        }
+      ]
     },
     {
       "id": 11760,
