@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-26T09:21:18.263Z",
+  "lastUpdatedNews": "2026-09-26T21:20:43.962Z",
   "players": [
     {
       "id": 11928,
@@ -163,7 +163,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tarik Skubal whiffs 10 over seven scoreless in win",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/tarik-skubal-whiffs-10-over-seven-scoreless-in-win",
+          "fetchedAt": 1790457643962
+        }
+      ]
     },
     {
       "id": 11847,
@@ -293,7 +300,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/8658.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddie-freeman/49092",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddie Freeman absent from Saturday’s lineup",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/freddie-freeman-absent-from-saturdays-lineup",
+          "fetchedAt": 1790457643962
+        }
+      ]
     },
     {
       "id": 64311,
@@ -434,7 +448,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña goes 0-for-5 in loss to Athletics",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/jeremy-pena-goes-0-for-5-in-loss-to-athletics",
+          "fetchedAt": 1790457643962
+        }
+      ]
     },
     {
       "id": 12375,
@@ -566,7 +587,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jesús Luzardo (shoulder) throws bullpen session",
+          "date": "2026-09-24",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/jesus-luzardo-shoulder-throws-bullpen-session",
+          "fetchedAt": 1790457643962
+        }
+      ]
     },
     {
       "id": 9691,
