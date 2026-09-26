@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-25T21:21:26.688Z",
+  "lastUpdatedNews": "2026-09-26T09:21:18.263Z",
   "players": [
     {
       "id": 11928,
@@ -16,20 +16,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Vladimir Guerrero Jr. doubles versus Orioles",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/vladimir-guerrero-jr-doubles-versus-orioles",
-          "fetchedAt": 1790198464261
-        },
-        {
-          "t": "Vlad Jr. (back) late addition to the Game 1 lineup",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/vlad-jr-back-late-addition-to-the-game-1-lineup",
-          "fetchedAt": 1790198464261
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10964,
@@ -53,7 +40,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Burleson hits 25th homer in loss to Brewers",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/burleson-hits-25th-homer-in-loss-to-brewers",
+          "fetchedAt": 1790414478263
+        }
+      ]
     },
     {
       "id": 64313,
@@ -100,14 +94,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Sizzling-hot Mookie Betts continues leading off",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/sizzling-hot-mookie-betts-continues-leading-off",
-          "fetchedAt": 1790371286688
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12393,
@@ -176,14 +163,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/11763.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/tarik-skubal/48397",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dodgers activate Tarik Skubal for Friday start",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/dodgers-activate-tarik-skubal-for-friday-start",
-          "fetchedAt": 1790371286688
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11847,
@@ -191,7 +171,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/11847.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/joe-ryan/48453",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Joe Ryan cruises over six in win vs. Rangers",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/joe-ryan-cruises-over-six-in-win-vs-rangers",
+          "fetchedAt": 1790414478263
+        }
+      ]
     },
     {
       "id": 10940,
@@ -199,14 +186,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "MacKenzie Gore strikes out two in no-decision",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/mackenzie-gore-strikes-out-two-in-no-decision",
-          "fetchedAt": 1790155259658
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64316,
@@ -254,7 +234,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Bryan Baker ties league-lead with 41st save",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/bryan-baker-ties-league-lead-with-41st-save",
+          "fetchedAt": 1790414478263
+        }
+      ]
     },
     {
       "id": 10214,
@@ -382,12 +369,6 @@
           "date": "2026-09-25",
           "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/cody-bellinger-gets-first-game-of-doubleheader-off",
           "fetchedAt": 1790371286688
-        },
-        {
-          "t": "Cody Bellinger takes a seat Wednesday vs. Rays",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/cody-bellinger-takes-a-seat-wednesday-vs-rays",
-          "fetchedAt": 1790371286688
         }
       ]
     },
@@ -453,14 +434,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jeremy Peña leaves game after HBP on wrist",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/jeremy-pena-leaves-game-after-hbp-on-wrist",
-          "fetchedAt": 1790155259658
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12375,
@@ -500,14 +474,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05142026/62962.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/walker-jenkins/00000189-30fd-df10-afd9-f8fdc4550000",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Walker Jenkins swats fourth homer in win on Tuesday",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/walker-jenkins-swats-fourth-homer-in-win-on-tuesday",
-          "fetchedAt": 1790284861691
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9701,
@@ -515,7 +482,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9701.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jacob-degrom/48147",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jacob deGrom rocked by Twins for eight runs in loss",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/jacob-degrom-rocked-by-twins-for-eight-runs-in-loss",
+          "fetchedAt": 1790414478263
+        }
+      ]
     },
     {
       "id": 10438,
@@ -523,14 +497,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10438.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dylan-cease/49259",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dylan Cease hits IL with shoulder inflammation",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/dylan-cease-hits-il-with-shoulder-inflammation",
-          "fetchedAt": 1790284861691
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10946,
@@ -546,7 +513,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cristopher Sánchez battles past early struggles",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/cristopher-sanchez-battles-past-early-struggles",
+          "fetchedAt": 1790414478263
+        }
+      ]
     },
     {
       "id": 12345,
@@ -569,14 +543,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Gerrit Cole fans eight Rays, gets 10th win",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/gerrit-cole-fans-eight-rays-gets-10th-win",
-          "fetchedAt": 1790241688536
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11014,
@@ -584,7 +551,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Freddy Peralta wins fourth straight decision",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/freddy-peralta-wins-fourth-straight-decision",
+          "fetchedAt": 1790414478263
+        }
+      ]
     },
     {
       "id": 10627,
@@ -592,14 +566,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo (shoulder) nearing bullpen session",
-          "date": "2026-09-23",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/jesus-luzardo-shoulder-nearing-bullpen-session",
-          "fetchedAt": 1790241688536
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
