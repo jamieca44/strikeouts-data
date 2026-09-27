@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-26T21:20:43.962Z",
+  "lastUpdatedNews": "2026-09-27T09:20:46.344Z",
   "players": [
     {
       "id": 11928,
@@ -94,7 +94,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9552.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mookie-betts/49367",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Mookie Betts swats 23rd home run in win Saturday",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/mookie-betts-swats-23rd-home-run-in-win-saturday",
+          "fetchedAt": 1790500846344
+        }
+      ]
     },
     {
       "id": 12393,
@@ -125,14 +132,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10577.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-reynolds/48507",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Reynolds sits for the first time this season",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/bryan-reynolds-sits-for-the-first-time-this-season",
-          "fetchedAt": 1790284861691
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9876,
@@ -148,14 +148,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/12086.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jake-latz/50318",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jacob Latz lets up game-winning homer vs. Mets",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/jacob-latz-lets-up-game-winning-homer-vs-mets",
-          "fetchedAt": 1790241688536
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11763,
@@ -339,14 +332,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/10234.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/dansby-swanson/48327",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Dansby Swanson plates two in loss vs. Marlins",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/dansby-swanson-plates-two-in-loss-vs-marlins",
-          "fetchedAt": 1790241688536
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12157,
@@ -354,14 +340,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong swipes base to join 40/40 club",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/pete-crow-armstrong-swipes-base-to-join-40-40-club",
-          "fetchedAt": 1790328076012
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -400,7 +379,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/10496.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/taylor-ward/48213",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Taylor Ward knocks in two off bench for Mariners",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/taylor-ward-knocks-in-two-off-bench-for-mariners",
+          "fetchedAt": 1790500846344
+        }
+      ]
     },
     {
       "id": 64330,
@@ -549,14 +535,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Orioles move Kyle Bradish to 60-day injured list",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/orioles-move-kyle-bradish-to-60-day-injured-list",
-          "fetchedAt": 1790328076012
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9121,
@@ -587,14 +566,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Jesús Luzardo (shoulder) throws bullpen session",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/jesus-luzardo-shoulder-throws-bullpen-session",
-          "fetchedAt": 1790457643962
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9691,
@@ -602,14 +574,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9691.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/robbie-ray/48516",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Robbie Ray lifted in fourth against Dodgers",
-          "date": "2026-09-24",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-24/robbie-ray-lifted-in-fourth-against-dodgers",
-          "fetchedAt": 1790328076012
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9727,
@@ -617,7 +582,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/9727.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kirby-yates/48158",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kirby Yates confirms he’ll retire at end of year",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/kirby-yates-confirms-hell-retire-at-end-of-year",
+          "fetchedAt": 1790500846344
+        },
+        {
+          "t": "Kirby Yates goes 1 2/3 scoreless in first start",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/kirby-yates-goes-1-2-3-scoreless-in-possible-send-off",
+          "fetchedAt": 1790500846344
+        }
+      ]
     },
     {
       "id": 11823,
