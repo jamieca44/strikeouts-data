@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-27T09:20:46.344Z",
+  "lastUpdatedNews": "2026-09-27T21:20:38.550Z",
   "players": [
     {
       "id": 11928,
@@ -16,7 +16,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10621.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/vladimir-guerrero-jr/49017",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Vladimir Guerrero Jr. sitting for season finale",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/vladimir-guerrero-jr-sitting-for-season-finale",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 10964,
@@ -124,7 +131,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/9507.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-ramirez/48521",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "José Ramírez sits against Royals on Sunday",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/jose-ramirez-sits-against-royals-on-sunday",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 10577,
@@ -264,7 +278,14 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jack-flaherty/49108",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Tigers activate Jack Flaherty for season finale",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/tigers-activate-jack-flaherty-for-season-finale",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 11379,
@@ -340,7 +361,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Pete Crow-Armstrong goes 1-for-8 in doubleheader",
+          "date": "2026-09-25",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/pete-crow-armstrong-goes-1-for-8-in-doubleheader",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 12522,
@@ -348,7 +376,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12522.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jackson-merrill/50370",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. not in Padres’ lineup on Sunday",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/fernando-tatis-jr-not-in-padres-lineup-on-sunday",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 10504,
@@ -449,7 +484,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12375.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/marcelo-mayer/50047",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Osleivis Basabe (hamstring) remains out of action",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/osleivis-basabe-hamstring-remains-out-of-action",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 62984,
@@ -543,7 +585,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/9121.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/gerrit-cole/49237",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Cam Schlittler to start Game 1 of Wild Card Series",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/cam-schlittler-to-start-game-1-of-wild-card-series",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 11014,
@@ -566,7 +615,20 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10627.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jesus-luzardo/48794",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Phillies activate Jesús Luzardo from 15-day IL",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/phillies-activate-jesus-luzardo-from-15-day-il",
+          "fetchedAt": 1790544038550
+        },
+        {
+          "t": "Jesús Luzardo to be activated, work in relief",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/jesus-luzardo-to-be-activated-work-in-relief",
+          "fetchedAt": 1790544038550
+        }
+      ]
     },
     {
       "id": 9691,
