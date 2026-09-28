@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-28T09:20:49.637Z",
+  "lastUpdatedNews": "2026-09-28T21:20:24.491Z",
   "players": [
     {
       "id": 11928,
@@ -54,7 +54,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Alec Burleson hits 26th homer, but Cardinals fall",
+          "date": "2026-09-26",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-26/alec-burleson-hits-26th-homer-but-cardinals-fall",
+          "fetchedAt": 1790630424491
+        }
+      ]
     },
     {
       "id": 64313,
@@ -70,7 +77,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Fernando Tatis Jr. not in Padres’ lineup on Sunday",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/fernando-tatis-jr-not-in-padres-lineup-on-sunday",
+          "fetchedAt": 1790630424491
+        }
+      ]
     },
     {
       "id": 64897,
@@ -327,7 +341,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "PCA finishes 40-40 season, NL MVP Award to follow",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/pca-finishes-40-40-season-nl-mvp-award-to-follow",
+          "fetchedAt": 1790630424491
+        }
+      ]
     },
     {
       "id": 12522,
@@ -522,7 +543,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/12345.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/kyle-bradish/49349",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Kyle Bradish will have sports hernia surgery",
+          "date": "2026-09-28",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-28/kyle-bradish-will-have-sports-hernia-surgery",
+          "fetchedAt": 1790630424491
+        }
+      ]
     },
     {
       "id": 9121,
