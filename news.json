@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-27T21:20:38.550Z",
+  "lastUpdatedNews": "2026-09-28T09:20:49.637Z",
   "players": [
     {
       "id": 11928,
@@ -39,7 +39,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192026/10916.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/royce-lewis/48821",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Royce Lewis homers, steals base in season finale",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/royce-lewis-homers-steals-base-in-season-finale",
+          "fetchedAt": 1790587249637
+        }
+      ]
     },
     {
       "id": 12550,
@@ -47,14 +54,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03212026/12550.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/alec-burleson/49312",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Burleson hits 25th homer in loss to Brewers",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/burleson-hits-25th-homer-in-loss-to-brewers",
-          "fetchedAt": 1790414478263
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64313,
@@ -70,14 +70,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10639.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/fernando-tatis-jr/48316",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Padres clinch Wild Card spot by beating Dodgers",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/padres-clinch-wild-card-spot-by-beating-dodgers",
-          "fetchedAt": 1790328076012
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 64897,
@@ -116,14 +109,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04012026/12393.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/elly-de-la-cruz/49185",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Elly De La Cruz crushes 30th homer in win vs. ATL",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/elly-de-la-cruz-crushes-30th-homer-in-win-vs-atl",
-          "fetchedAt": 1790371286688
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 9507,
@@ -200,7 +186,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10940.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/mackenzie-gore/49036",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "MacKenzie Gore goes 2 1/3 in abbreviated start",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/mackenzie-gore-goes-2-1-3-in-abbreviated-start",
+          "fetchedAt": 1790587249637
+        }
+      ]
     },
     {
       "id": 64316,
@@ -248,14 +241,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11998.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/bryan-baker/49412",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Bryan Baker ties league-lead with 41st save",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/bryan-baker-ties-league-lead-with-41st-save",
-          "fetchedAt": 1790414478263
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10214,
@@ -263,14 +249,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/10214.2.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/edwin-diaz/49172",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Edwin Díaz perfect in ninth against Padres",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/edwin-diaz-perfect-in-ninth-against-padres",
-          "fetchedAt": 1790328076012
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10592,
@@ -293,20 +272,7 @@
       "img": "https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/ryan-weathers/48207",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Ryan Weathers ‘looks healthy’ in live BP session",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/ryan-weathers-looks-healthy-in-live-bp-session",
-          "fetchedAt": 1790371286688
-        },
-        {
-          "t": "Ryan Weathers (forearm) throwing live session",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/ryan-weathers-forearm-throwing-live-session",
-          "fetchedAt": 1790371286688
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 8658,
@@ -361,14 +327,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/12157.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/pete-crow-armstrong/49835",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Pete Crow-Armstrong goes 1-for-8 in doubleheader",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/pete-crow-armstrong-goes-1-for-8-in-doubleheader",
-          "fetchedAt": 1790544038550
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12522,
@@ -391,14 +350,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/10504.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cody-bellinger/49381",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cody Bellinger gets first game of doubleheader off",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/cody-bellinger-gets-first-game-of-doubleheader-off",
-          "fetchedAt": 1790371286688
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 11760,
@@ -562,14 +514,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272026/11706.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/cristopher-sanchez/48445",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Cristopher Sánchez battles past early struggles",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/cristopher-sanchez-battles-past-early-struggles",
-          "fetchedAt": 1790414478263
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 12345,
@@ -600,14 +545,7 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202026/11014.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/freddy-peralta/48577",
       "yahooNews": [],
-      "nbcNews": [
-        {
-          "t": "Freddy Peralta wins fourth straight decision",
-          "date": "2026-09-25",
-          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/freddy-peralta-wins-fourth-straight-decision",
-          "fetchedAt": 1790414478263
-        }
-      ]
+      "nbcNews": []
     },
     {
       "id": 10627,
