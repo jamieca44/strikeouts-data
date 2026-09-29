@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdatedNews": "2026-09-29T09:21:10.959Z",
+  "lastUpdatedNews": "2026-09-29T21:20:41.425Z",
   "players": [
     {
       "id": 11928,
@@ -282,7 +282,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142026/61788.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/caleb-durbin/68931",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Willson Contreras in Game 1 lineup vs. Yankees",
+          "date": "2026-09-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-29/willson-contreras-in-game-1-lineup-vs-yankees",
+          "fetchedAt": 1790716841425
+        }
+      ]
     },
     {
       "id": 12100,
@@ -383,7 +390,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03162026/8996.1.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jose-altuve/49451",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jose Altuve playing second base versus White Sox",
+          "date": "2026-09-29",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-29/jose-altuve-playing-second-base-versus-white-sox",
+          "fetchedAt": 1790716841425
+        }
+      ]
     },
     {
       "id": 11529,
@@ -407,7 +421,14 @@
       "img": "https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242026/11768.3.png",
       "nbcUrl": "https://www.nbcsports.com/mlb/jeremy-pena/48580",
       "yahooNews": [],
-      "nbcNews": []
+      "nbcNews": [
+        {
+          "t": "Jeremy Peña homers twice as Astros top A’s",
+          "date": "2026-09-27",
+          "href": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/jeremy-pena-homers-twice-as-astros-top-as",
+          "fetchedAt": 1790716841425
+        }
+      ]
     },
     {
       "id": 12375,
